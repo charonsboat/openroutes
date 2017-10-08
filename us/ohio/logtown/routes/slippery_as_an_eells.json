@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "slippery_as_an_eells",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Slippery as an Eells",
+        "types": [
+            "unknown"
+        ]
+    }
+}

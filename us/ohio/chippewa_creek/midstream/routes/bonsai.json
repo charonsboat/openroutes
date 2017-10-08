@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "midstream",
+        "stub": "bonsai",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Bonsai",
+        "types": [
+            "boulder"
+        ]
+    }
+}

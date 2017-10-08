@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hocking_state_forest",
+        "stub": "baby_face",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "baby face",
+        "types": [
+            "unknown"
+        ]
+    }
+}

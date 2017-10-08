@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "ohio",
+        "stub": "john_bryan_state_park",
+        "type": "region"
+    },
+    "info": {
+        "name": "John Bryan State Park"
+    }
+}

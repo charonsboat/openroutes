@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "yellow",
+        "stub": "climb_b_stem",
+        "type": "region"
+    },
+    "info": {
+        "grade": "{au} yds:5.8",
+        "name": "Climb B - Stem",
+        "types": [
+            "unknown"
+        ]
+    }
+}

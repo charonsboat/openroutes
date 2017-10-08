@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "us",
+        "stub": "ohio",
+        "type": "region"
+    },
+    "info": {
+        "name": "Ohio"
+    }
+}

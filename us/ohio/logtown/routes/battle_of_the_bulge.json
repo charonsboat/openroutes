@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "battle_of_the_bulge",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Battle of the Bulge",
+        "types": [
+            "unknown"
+        ]
+    }
+}

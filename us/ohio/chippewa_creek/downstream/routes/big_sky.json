@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "big_sky",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Big Sky",
+        "types": [
+            "boulder"
+        ]
+    }
+}

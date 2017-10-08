@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "ohio",
+        "stub": "blackhandrock_with_owner_permission",
+        "type": "region"
+    },
+    "info": {
+        "name": "blackhandrock (with owner permission)"
+    }
+}

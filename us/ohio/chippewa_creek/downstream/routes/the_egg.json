@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "the_egg",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v9",
+        "name": "The Egg",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "john_bryan_state_park",
+        "stub": "yellow",
+        "type": "region"
+    },
+    "info": {
+        "name": "Yellow"
+    }
+}

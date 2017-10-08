@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "boo_ya_arete",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Boo Ya Arete",
+        "types": [
+            "boulder"
+        ]
+    }
+}

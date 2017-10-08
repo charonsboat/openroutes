@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hocking_state_forest",
+        "stub": "wet_willy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Wet Willy",
+        "types": [
+            "boulder"
+        ]
+    }
+}

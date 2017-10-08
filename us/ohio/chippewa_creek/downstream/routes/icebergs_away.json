@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "icebergs_away",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Icebergs Away",
+        "types": [
+            "boulder"
+        ]
+    }
+}

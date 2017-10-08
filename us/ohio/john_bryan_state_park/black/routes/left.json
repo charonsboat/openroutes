@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "black",
+        "stub": "left",
+        "type": "region"
+    },
+    "info": {
+        "grade": "{au} yds:5.2",
+        "name": "Left",
+        "types": [
+            "unknown"
+        ]
+    }
+}

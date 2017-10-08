@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "nightmares_right_side",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Nightmare's Right Side",
+        "types": [
+            "unknown"
+        ]
+    }
+}

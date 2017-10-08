@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_island",
+        "stub": "scarpa",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "Scarpa",
+        "types": [
+            "unknown"
+        ]
+    }
+}

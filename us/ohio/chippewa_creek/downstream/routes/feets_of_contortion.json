@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "feets_of_contortion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Feets of Contortion",
+        "types": [
+            "boulder"
+        ]
+    }
+}

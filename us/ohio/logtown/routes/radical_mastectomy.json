@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "radical_mastectomy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Radical Mastectomy",
+        "types": [
+            "unknown"
+        ]
+    }
+}

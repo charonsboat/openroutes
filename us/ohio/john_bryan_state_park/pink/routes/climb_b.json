@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pink",
+        "stub": "climb_b",
+        "type": "region"
+    },
+    "info": {
+        "grade": "{au} yds:5.5 to 5.6",
+        "name": "Climb B",
+        "types": [
+            "unknown"
+        ]
+    }
+}

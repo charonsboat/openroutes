@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "green",
+        "stub": "climb_a_variation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "{au} yds_alt:5.10",
+        "name": "Climb A Variation",
+        "types": [
+            "unknown"
+        ]
+    }
+}

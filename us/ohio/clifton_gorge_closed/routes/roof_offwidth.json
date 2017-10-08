@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "clifton_gorge_closed",
+        "stub": "roof_offwidth",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10 to 5.11",
+        "name": "Roof OffWidth",
+        "types": [
+            "unknown"
+        ]
+    }
+}

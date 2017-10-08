@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "obsessed",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Obsessed",
+        "types": [
+            "unknown"
+        ]
+    }
+}

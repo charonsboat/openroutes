@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "green",
+        "stub": "climb_b_left_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "{au} yds:5.8",
+        "name": "Climb B Left Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

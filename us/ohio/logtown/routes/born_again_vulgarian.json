@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "born_again_vulgarian",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4 a1",
+        "name": "Born Again Vulgarian",
+        "types": [
+            "aid"
+        ]
+    }
+}

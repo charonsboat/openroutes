@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "shelving_unit",
+        "type": "region"
+    },
+    "info": {
+        "grade": "vb",
+        "name": "Shelving Unit",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "dean_was_here",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Dean Was Here",
+        "types": [
+            "unknown"
+        ]
+    }
+}

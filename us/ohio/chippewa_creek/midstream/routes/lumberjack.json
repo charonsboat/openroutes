@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "midstream",
+        "stub": "lumberjack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Lumberjack",
+        "types": [
+            "boulder"
+        ]
+    }
+}

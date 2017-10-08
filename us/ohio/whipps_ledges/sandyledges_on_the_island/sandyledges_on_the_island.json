@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "whipps_ledges",
+        "stub": "sandyledges_on_the_island",
+        "type": "region"
+    },
+    "info": {
+        "name": "Sandyledges (on the Island)"
+    }
+}

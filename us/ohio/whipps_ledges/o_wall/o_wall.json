@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "whipps_ledges",
+        "stub": "o_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "O-wall"
+    }
+}

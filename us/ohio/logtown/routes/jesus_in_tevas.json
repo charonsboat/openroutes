@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "jesus_in_tevas",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Jesus in Tevas",
+        "types": [
+            "unknown"
+        ]
+    }
+}

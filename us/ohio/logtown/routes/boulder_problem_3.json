@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "boulder_problem_3",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Boulder Problem 3",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "boulder_traverse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Boulder Traverse",
+        "types": [
+            "unknown"
+        ]
+    }
+}

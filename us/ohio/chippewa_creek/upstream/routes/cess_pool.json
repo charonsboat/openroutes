@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "cess_pool",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Cess Pool",
+        "types": [
+            "boulder"
+        ]
+    }
+}

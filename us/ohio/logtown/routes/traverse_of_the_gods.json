@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "traverse_of_the_gods",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Traverse of the Gods'",
+        "types": [
+            "boulder"
+        ]
+    }
+}

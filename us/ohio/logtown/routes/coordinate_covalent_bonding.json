@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "coordinate_covalent_bonding",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Coordinate Covalent Bonding",
+        "types": [
+            "unknown"
+        ]
+    }
+}

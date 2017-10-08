@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "jbn",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "JBN",
+        "types": [
+            "unknown"
+        ]
+    }
+}

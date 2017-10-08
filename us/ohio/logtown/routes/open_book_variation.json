@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "open_book_variation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Open Book variation",
+        "types": [
+            "unknown"
+        ]
+    }
+}

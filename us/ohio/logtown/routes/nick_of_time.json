@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "nick_of_time",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d r",
+        "name": "Nick of Time",
+        "types": [
+            "unknown"
+        ]
+    }
+}

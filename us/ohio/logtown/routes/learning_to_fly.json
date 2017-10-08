@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "learning_to_fly",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Learning To Fly",
+        "types": [
+            "unknown"
+        ]
+    }
+}

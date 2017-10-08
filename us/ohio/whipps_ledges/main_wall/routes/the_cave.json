@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "the_cave",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "The Cave",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "clifton_gorge_closed",
+        "stub": "unnamed",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Unnamed",
+        "types": [
+            "unknown"
+        ]
+    }
+}

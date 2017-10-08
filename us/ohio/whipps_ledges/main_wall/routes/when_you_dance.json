@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "when_you_dance",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "When You Dance",
+        "types": [
+            "unknown"
+        ]
+    }
+}

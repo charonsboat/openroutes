@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "eco_terrorist",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v10",
+        "name": "Eco Terrorist",
+        "types": [
+            "boulder"
+        ]
+    }
+}

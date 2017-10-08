@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "classic_corner_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "CLASSIC CORNER CRACK",
+        "types": [
+            "unknown"
+        ]
+    }
+}

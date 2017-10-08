@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "monkey_swing",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "Monkey Swing",
+        "types": [
+            "boulder"
+        ]
+    }
+}

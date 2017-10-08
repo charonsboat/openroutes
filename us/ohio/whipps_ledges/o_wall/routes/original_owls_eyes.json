@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "o_wall",
+        "stub": "original_owls_eyes",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "Original Owl's Eyes",
+        "types": [
+            "unknown"
+        ]
+    }
+}

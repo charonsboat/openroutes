@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "midstream",
+        "stub": "the_gem",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v7",
+        "name": "The Gem",
+        "types": [
+            "boulder"
+        ]
+    }
+}

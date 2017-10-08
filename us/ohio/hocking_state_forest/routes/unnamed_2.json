@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hocking_state_forest",
+        "stub": "unnamed_2",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11",
+        "name": "Unnamed #2",
+        "types": [
+            "unknown"
+        ]
+    }
+}

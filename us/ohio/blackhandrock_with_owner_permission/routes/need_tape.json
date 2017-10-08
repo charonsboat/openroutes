@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "blackhandrock_with_owner_permission",
+        "stub": "need_tape",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "need tape",
+        "types": [
+            "unknown"
+        ]
+    }
+}

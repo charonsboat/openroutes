@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "ohio",
+        "stub": "weasel_crag",
+        "type": "region"
+    },
+    "info": {
+        "name": "weasel crag"
+    }
+}

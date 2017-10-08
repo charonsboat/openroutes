@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "fractures",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4 r",
+        "name": "Fractures",
+        "types": [
+            "unknown"
+        ]
+    }
+}

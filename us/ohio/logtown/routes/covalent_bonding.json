@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "covalent_bonding",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Covalent Bonding",
+        "types": [
+            "unknown"
+        ]
+    }
+}

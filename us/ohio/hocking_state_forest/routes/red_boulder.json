@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hocking_state_forest",
+        "stub": "red_boulder",
+        "type": "region"
+    },
+    "info": {
+        "grade": "b2",
+        "name": "red boulder",
+        "types": [
+            "boulder"
+        ]
+    }
+}

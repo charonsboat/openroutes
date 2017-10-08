@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "the_arrowhead",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "The Arrowhead",
+        "types": [
+            "boulder"
+        ]
+    }
+}

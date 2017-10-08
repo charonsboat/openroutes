@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "overhangs",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "Overhangs",
+        "types": [
+            "unknown"
+        ]
+    }
+}

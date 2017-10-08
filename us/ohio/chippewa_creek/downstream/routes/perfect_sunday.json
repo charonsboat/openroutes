@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "perfect_sunday",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v6",
+        "name": "Perfect Sunday",
+        "types": [
+            "boulder"
+        ]
+    }
+}

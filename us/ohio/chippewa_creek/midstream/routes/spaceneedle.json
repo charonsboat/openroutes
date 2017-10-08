@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "midstream",
+        "stub": "spaceneedle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Spaceneedle",
+        "types": [
+            "boulder"
+        ]
+    }
+}

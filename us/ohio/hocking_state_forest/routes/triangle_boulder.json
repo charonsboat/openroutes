@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hocking_state_forest",
+        "stub": "triangle_boulder",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Triangle Boulder",
+        "types": [
+            "boulder"
+        ]
+    }
+}

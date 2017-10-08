@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "nightmare",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Nightmare",
+        "types": [
+            "unknown"
+        ]
+    }
+}

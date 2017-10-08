@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "blood_gnome_sit_start",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v7",
+        "name": "Blood Gnome (sit start)",
+        "types": [
+            "boulder"
+        ]
+    }
+}

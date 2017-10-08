@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "beam_me_up_scotty",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Beam Me Up Scotty",
+        "types": [
+            "unknown"
+        ]
+    }
+}

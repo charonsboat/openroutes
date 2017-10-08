@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "footloose_and_finger_free",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Footloose and Finger Free",
+        "types": [
+            "unknown"
+        ]
+    }
+}

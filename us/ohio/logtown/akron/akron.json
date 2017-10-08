@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "logtown",
+        "stub": "akron",
+        "type": "region"
+    },
+    "info": {
+        "name": "Akron"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "midstream",
+        "stub": "pinch_arete",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Pinch Arete",
+        "types": [
+            "boulder"
+        ]
+    }
+}

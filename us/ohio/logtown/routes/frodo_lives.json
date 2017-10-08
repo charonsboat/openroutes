@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "frodo_lives",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Frodo Lives",
+        "types": [
+            "unknown"
+        ]
+    }
+}

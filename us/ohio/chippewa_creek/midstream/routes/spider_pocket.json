@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "midstream",
+        "stub": "spider_pocket",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Spider Pocket",
+        "types": [
+            "boulder"
+        ]
+    }
+}

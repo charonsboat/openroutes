@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "blackhandrock_with_owner_permission",
+        "stub": "tunnel_route_good_freesolo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "tunnel route (good freesolo)",
+        "types": [
+            "unknown"
+        ]
+    }
+}

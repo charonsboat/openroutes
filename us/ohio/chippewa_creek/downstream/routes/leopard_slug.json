@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "leopard_slug",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Leopard Slug",
+        "types": [
+            "boulder"
+        ]
+    }
+}

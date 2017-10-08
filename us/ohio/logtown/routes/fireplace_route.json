@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "fireplace_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Fireplace Route",
+        "types": [
+            "unknown"
+        ]
+    }
+}

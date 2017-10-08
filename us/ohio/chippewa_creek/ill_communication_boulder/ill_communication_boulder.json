@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "chippewa_creek",
+        "stub": "ill_communication_boulder",
+        "type": "region"
+    },
+    "info": {
+        "name": "Ill Communication Boulder"
+    }
+}

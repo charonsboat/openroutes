@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "gun_control",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "GUN CONTROL",
+        "types": [
+            "unknown"
+        ]
+    }
+}

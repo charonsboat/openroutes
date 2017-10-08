@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "traverse_in_the_sky",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Traverse in the Sky",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_island",
+        "stub": "dunes",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "Dunes",
+        "types": [
+            "unknown"
+        ]
+    }
+}

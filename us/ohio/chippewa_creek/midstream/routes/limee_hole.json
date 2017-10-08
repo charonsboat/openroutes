@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "midstream",
+        "stub": "limee_hole",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "LIMee Hole",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "ohio",
+        "stub": "south_chagrin_metroparks",
+        "type": "region"
+    },
+    "info": {
+        "name": "South Chagrin Metroparks"
+    }
+}

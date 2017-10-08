@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "bursitis_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "BURSITIS DIRECT",
+        "types": [
+            "unknown"
+        ]
+    }
+}

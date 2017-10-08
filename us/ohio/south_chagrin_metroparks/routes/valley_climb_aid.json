@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "south_chagrin_metroparks",
+        "stub": "valley_climb_aid",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "Valley climb/Aid",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "clifton_gorge_closed",
+        "stub": "dihedral",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11",
+        "name": "Dihedral",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cripple_creek",
+        "stub": "cocaine_paradise",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Cocaine Paradise",
+        "types": [
+            "boulder"
+        ]
+    }
+}

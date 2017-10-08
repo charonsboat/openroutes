@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "no_compassion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "NO COMPASSION",
+        "types": [
+            "unknown"
+        ]
+    }
+}

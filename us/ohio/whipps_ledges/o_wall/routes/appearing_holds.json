@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "o_wall",
+        "stub": "appearing_holds",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "Appearing Holds",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "the_rollout",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "The Rollout",
+        "types": [
+            "boulder"
+        ]
+    }
+}

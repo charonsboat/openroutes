@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "dreadlock_holiday",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "DREADLOCK HOLIDAY",
+        "types": [
+            "unknown"
+        ]
+    }
+}

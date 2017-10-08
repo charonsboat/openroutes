@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "blackhandrock_with_owner_permission",
+        "stub": "nose_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "nose route",
+        "types": [
+            "unknown"
+        ]
+    }
+}

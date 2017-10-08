@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "ohio",
+        "stub": "eden_park",
+        "type": "region"
+    },
+    "info": {
+        "name": "Eden Park"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "locker_room",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Locker Room",
+        "types": [
+            "boulder"
+        ]
+    }
+}

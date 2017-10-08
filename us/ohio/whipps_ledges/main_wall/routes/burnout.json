@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "burnout",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "Burnout",
+        "types": [
+            "unknown"
+        ]
+    }
+}

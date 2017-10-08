@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "the_quest",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "The Quest",
+        "types": [
+            "unknown"
+        ]
+    }
+}

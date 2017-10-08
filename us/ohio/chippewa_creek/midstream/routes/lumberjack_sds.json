@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "midstream",
+        "stub": "lumberjack_sds",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v7",
+        "name": "Lumberjack SDS",
+        "types": [
+            "boulder"
+        ]
+    }
+}

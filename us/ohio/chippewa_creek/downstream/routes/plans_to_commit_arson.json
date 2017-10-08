@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "plans_to_commit_arson",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v9",
+        "name": "Plans to Commit Arson",
+        "types": [
+            "boulder"
+        ]
+    }
+}

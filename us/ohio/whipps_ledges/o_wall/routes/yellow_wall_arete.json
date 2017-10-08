@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "o_wall",
+        "stub": "yellow_wall_arete",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "Yellow Wall Arete",
+        "types": [
+            "unknown"
+        ]
+    }
+}

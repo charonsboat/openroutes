@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "an_8th_of_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v8",
+        "name": "An 8th of Crack",
+        "types": [
+            "boulder"
+        ]
+    }
+}

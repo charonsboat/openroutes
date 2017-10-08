@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "the_rib",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "The Rib",
+        "types": [
+            "boulder"
+        ]
+    }
+}

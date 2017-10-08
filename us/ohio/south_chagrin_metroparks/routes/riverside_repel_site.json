@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "south_chagrin_metroparks",
+        "stub": "riverside_repel_site",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "Riverside repel site",
+        "types": [
+            "unknown"
+        ]
+    }
+}

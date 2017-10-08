@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "rastafaria",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "RASTAFARIA",
+        "types": [
+            "unknown"
+        ]
+    }
+}

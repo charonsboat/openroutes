@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "the_poo_arete_left",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "The Poo Arete Left",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "bugs_bunny",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Bugs Bunny",
+        "types": [
+            "unknown"
+        ]
+    }
+}

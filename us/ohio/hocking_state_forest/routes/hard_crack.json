@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hocking_state_forest",
+        "stub": "hard_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "hard crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

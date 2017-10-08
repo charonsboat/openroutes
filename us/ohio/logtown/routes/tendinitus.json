@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "tendinitus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Tendinitus",
+        "types": [
+            "unknown"
+        ]
+    }
+}

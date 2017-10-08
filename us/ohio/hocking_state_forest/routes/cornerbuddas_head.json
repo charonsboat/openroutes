@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hocking_state_forest",
+        "stub": "cornerbuddas_head",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "corner(buddas head)",
+        "types": [
+            "unknown"
+        ]
+    }
+}

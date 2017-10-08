@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "a_ryser_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "A Ryser Route",
+        "types": [
+            "unknown"
+        ]
+    }
+}

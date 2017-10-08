@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "chippewa_creek",
+        "stub": "the_hanger",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Hanger"
+    }
+}

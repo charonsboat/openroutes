@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "anxiety",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Anxiety",
+        "types": [
+            "unknown"
+        ]
+    }
+}

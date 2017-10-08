@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "logtown",
+        "stub": "beach_party",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Beach Party",
+        "types": [
+            "unknown"
+        ]
+    }
+}

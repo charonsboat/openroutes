@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "chippewa_creek",
+        "stub": "downstream",
+        "type": "region"
+    },
+    "info": {
+        "name": "Downstream"
+    }
+}

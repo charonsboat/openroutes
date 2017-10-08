@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "midstream",
+        "stub": "fight_or_flight",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v7",
+        "name": "Fight or Flight",
+        "types": [
+            "boulder"
+        ]
+    }
+}

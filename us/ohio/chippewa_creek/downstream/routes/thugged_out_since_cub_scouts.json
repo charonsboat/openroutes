@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "thugged_out_since_cub_scouts",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Thugged Out Since Cub Scouts",
+        "types": [
+            "boulder"
+        ]
+    }
+}

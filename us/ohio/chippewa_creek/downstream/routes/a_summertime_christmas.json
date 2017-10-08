@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "a_summertime_christmas",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "A Summertime Christmas",
+        "types": [
+            "boulder"
+        ]
+    }
+}

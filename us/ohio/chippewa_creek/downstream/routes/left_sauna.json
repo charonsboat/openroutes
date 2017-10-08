@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "left_sauna",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Left Sauna",
+        "types": [
+            "boulder"
+        ]
+    }
+}

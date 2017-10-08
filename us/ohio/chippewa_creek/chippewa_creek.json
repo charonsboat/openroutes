@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "ohio",
+        "stub": "chippewa_creek",
+        "type": "region"
+    },
+    "info": {
+        "name": "Chippewa Creek"
+    }
+}

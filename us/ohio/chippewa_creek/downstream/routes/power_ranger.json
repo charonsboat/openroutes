@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "power_ranger",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Power Ranger",
+        "types": [
+            "boulder"
+        ]
+    }
+}

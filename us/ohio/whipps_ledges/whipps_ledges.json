@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "ohio",
+        "stub": "whipps_ledges",
+        "type": "region"
+    },
+    "info": {
+        "name": "Whipp's Ledges"
+    }
+}

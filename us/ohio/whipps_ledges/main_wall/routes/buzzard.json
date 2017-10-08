@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "buzzard",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Buzzard",
+        "types": [
+            "unknown"
+        ]
+    }
+}

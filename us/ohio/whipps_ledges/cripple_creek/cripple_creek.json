@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "whipps_ledges",
+        "stub": "cripple_creek",
+        "type": "region"
+    },
+    "info": {
+        "name": "Cripple Creek"
+    }
+}

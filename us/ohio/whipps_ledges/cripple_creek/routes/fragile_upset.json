@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cripple_creek",
+        "stub": "fragile_upset",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Fragile Upset",
+        "types": [
+            "boulder"
+        ]
+    }
+}

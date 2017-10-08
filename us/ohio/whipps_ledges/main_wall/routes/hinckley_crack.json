@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "hinckley_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "Hinckley crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}
