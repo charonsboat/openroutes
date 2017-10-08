@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_mushroom_wall",
+        "stub": "seize_the_day",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": " Seize the Day",
+        "types": [
+            "boulder"
+        ]
+    }
+}

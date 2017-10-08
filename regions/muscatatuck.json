@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "indiana",
+        "stub": "muscatatuck",
+        "type": "region"
+    },
+    "info": {
+        "name": "Muscatatuck"
+    }
+}

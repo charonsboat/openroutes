@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cult_boulder",
+        "stub": "revolution",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": " Revolution",
+        "types": [
+            "boulder"
+        ]
+    }
+}

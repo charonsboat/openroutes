@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "tangerine_wall",
+        "stub": "tangerine_sector",
+        "type": "region"
+    },
+    "info": {
+        "name": "tangerine sector"
+    }
+}

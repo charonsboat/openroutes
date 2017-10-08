@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cedar_bluff",
+        "stub": "bistromathic_drive",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": " Bistromathic Drive",
+        "types": [
+            "unknown"
+        ]
+    }
+}

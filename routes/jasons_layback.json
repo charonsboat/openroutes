@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_heinousness_wall",
+        "stub": "jasons_layback",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": " Jason's Layback",
+        "types": [
+            "boulder"
+        ]
+    }
+}

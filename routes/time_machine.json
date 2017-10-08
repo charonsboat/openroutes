@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_heinousness_wall",
+        "stub": "time_machine",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v5",
+        "name": " Time Machine",
+        "types": [
+            "boulder"
+        ]
+    }
+}

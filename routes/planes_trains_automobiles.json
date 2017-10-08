@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "unlikely_wall",
+        "stub": "planes_trains_automobiles",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": " Planes, Trains, Automobiles",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "unlikely_wall",
+        "stub": "bombs_away",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": " Bombs Away",
+        "types": [
+            "unknown"
+        ]
+    }
+}

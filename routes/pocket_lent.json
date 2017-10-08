@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "peach_wall",
+        "stub": "pocket_lent",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": " Pocket Lent",
+        "types": [
+            "boulder"
+        ]
+    }
+}

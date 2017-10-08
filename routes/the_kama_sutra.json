@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tangerine_sector",
+        "stub": "the_kama_sutra",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v6",
+        "name": " The Kama Sutra",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "unlikely_wall",
+        "stub": "thinking_is_the_best_way_to_travel",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": " Thinking is the Best Way to Travel",
+        "types": [
+            "unknown"
+        ]
+    }
+}

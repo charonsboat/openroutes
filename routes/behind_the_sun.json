@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_octopuss_garden",
+        "stub": "behind_the_sun",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v6",
+        "name": " Behind the Sun",
+        "types": [
+            "boulder"
+        ]
+    }
+}

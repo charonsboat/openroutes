@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "unlikely_wall",
+        "stub": "mr_green_jeans",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": " Mr. Green Jeans",
+        "types": [
+            "unknown"
+        ]
+    }
+}

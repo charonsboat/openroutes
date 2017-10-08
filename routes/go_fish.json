@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_h_boulders",
+        "stub": "go_fish",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": " Go Fish",
+        "types": [
+            "boulder"
+        ]
+    }
+}

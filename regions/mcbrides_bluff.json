@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "indiana",
+        "stub": "mcbrides_bluff",
+        "type": "region"
+    },
+    "info": {
+        "name": "McBride's Bluff"
+    }
+}

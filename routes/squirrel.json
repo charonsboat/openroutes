@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_heinousness_wall",
+        "stub": "squirrel",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0",
+        "name": " Squirrel",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "keg_stand_wall",
+        "stub": "main_street_exit",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": " Main Street Exit",
+        "types": [
+            "boulder"
+        ]
+    }
+}

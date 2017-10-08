@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_heinousness_wall",
+        "stub": "the_racist",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": " The Racist",
+        "types": [
+            "boulder"
+        ]
+    }
+}

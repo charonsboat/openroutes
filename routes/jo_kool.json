@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_heinousness_wall",
+        "stub": "jo_kool",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": " Jo Kool",
+        "types": [
+            "boulder"
+        ]
+    }
+}

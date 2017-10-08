@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "strawberry_fields",
+        "stub": "the_friendly_boulders",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Friendly Boulders"
+    }
+}

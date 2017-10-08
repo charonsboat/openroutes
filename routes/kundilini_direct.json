@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_heinousness_wall",
+        "stub": "kundilini_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": " Kundilini Direct",
+        "types": [
+            "boulder"
+        ]
+    }
+}

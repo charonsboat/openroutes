@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_heinousness_wall",
+        "stub": "marks_lunge",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": " Mark's Lunge",
+        "types": [
+            "boulder"
+        ]
+    }
+}

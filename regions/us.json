@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": null,
+        "stub": "us",
+        "type": "region"
+    },
+    "info": {
+        "name": "US"
+    }
+}

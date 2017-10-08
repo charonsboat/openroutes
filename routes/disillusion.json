@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "peach_wall",
+        "stub": "disillusion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0-",
+        "name": " Disillusion",
+        "types": [
+            "boulder"
+        ]
+    }
+}

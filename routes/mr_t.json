@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "unlikely_wall",
+        "stub": "mr_t",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": " Mr. T",
+        "types": [
+            "unknown"
+        ]
+    }
+}

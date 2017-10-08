@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "tangerine_wall",
+        "stub": "pink_boulder",
+        "type": "region"
+    },
+    "info": {
+        "name": "pink boulder"
+    }
+}

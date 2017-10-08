@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_glass_onion",
+        "stub": "conspiracy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": " Conspiracy",
+        "types": [
+            "boulder"
+        ]
+    }
+}

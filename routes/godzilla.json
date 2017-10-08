@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cedar_bluff",
+        "stub": "godzilla",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": " Godzilla",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "muscatatuck",
+        "stub": "strawberry_fields",
+        "type": "region"
+    },
+    "info": {
+        "name": "Strawberry Fields"
+    }
+}

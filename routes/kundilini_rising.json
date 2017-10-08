@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_heinousness_wall",
+        "stub": "kundilini_rising",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": " Kundilini Rising",
+        "types": [
+            "boulder"
+        ]
+    }
+}

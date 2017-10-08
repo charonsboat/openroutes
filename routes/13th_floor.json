@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "peach_wall",
+        "stub": "13th_floor",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": " 13th Floor",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tangerine_sector",
+        "stub": "the_grench",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": " The Grench",
+        "types": [
+            "boulder"
+        ]
+    }
+}

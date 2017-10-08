@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "heinousness_wall",
+        "stub": "the_heinousness_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Heinousness Wall"
+    }
+}

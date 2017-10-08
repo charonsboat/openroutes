@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cedar_bluff",
+        "stub": "chia_pet",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": " Chia Pet",
+        "types": [
+            "unknown"
+        ]
+    }
+}

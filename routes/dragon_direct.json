@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tangerine_sector",
+        "stub": "dragon_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v5",
+        "name": " Dragon Direct",
+        "types": [
+            "boulder"
+        ]
+    }
+}

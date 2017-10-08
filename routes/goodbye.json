@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "peach_wall",
+        "stub": "goodbye",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0-",
+        "name": " Goodbye",
+        "types": [
+            "boulder"
+        ]
+    }
+}

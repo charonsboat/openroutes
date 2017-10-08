@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tangerine_sector",
+        "stub": "philosophy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": " Philosophy",
+        "types": [
+            "boulder"
+        ]
+    }
+}

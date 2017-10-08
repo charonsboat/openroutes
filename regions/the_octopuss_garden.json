@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "strawberry_fields",
+        "stub": "the_octopuss_garden",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Octopus's Garden"
+    }
+}

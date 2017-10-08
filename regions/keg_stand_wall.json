@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "posey_crag",
+        "stub": "keg_stand_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Keg Stand Wall"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_glass_onion",
+        "stub": "shock_treatment",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": " Shock treatment",
+        "types": [
+            "boulder"
+        ]
+    }
+}

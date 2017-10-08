@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_octopuss_garden",
+        "stub": "space_migration",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": " Space Migration",
+        "types": [
+            "boulder"
+        ]
+    }
+}

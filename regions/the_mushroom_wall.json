@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "strawberry_fields",
+        "stub": "the_mushroom_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Mushroom Wall"
+    }
+}

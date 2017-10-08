@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "indiana",
+        "stub": "cedar_bluff",
+        "type": "region"
+    },
+    "info": {
+        "name": "Cedar Bluff"
+    }
+}

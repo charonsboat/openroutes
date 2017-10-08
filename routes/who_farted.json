@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cedar_bluff",
+        "stub": "who_farted",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": " Who Farted",
+        "types": [
+            "unknown"
+        ]
+    }
+}

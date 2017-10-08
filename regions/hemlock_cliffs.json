@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "indiana",
+        "stub": "hemlock_cliffs",
+        "type": "region"
+    },
+    "info": {
+        "name": "Hemlock Cliffs"
+    }
+}

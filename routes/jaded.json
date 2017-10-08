@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "peach_wall",
+        "stub": "jaded",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0-",
+        "name": " Jaded",
+        "types": [
+            "boulder"
+        ]
+    }
+}

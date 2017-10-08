@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tangerine_sector",
+        "stub": "paisley_dragon",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": " Paisley Dragon",
+        "types": [
+            "boulder"
+        ]
+    }
+}

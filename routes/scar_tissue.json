@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_octopuss_garden",
+        "stub": "scar_tissue",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": " Scar Tissue",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "muscatatuck",
+        "stub": "tangerine_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Tangerine Wall"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "strawberry_fields",
+        "stub": "the_hoosier_mama_sector",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Hoosier Mama Sector"
+    }
+}

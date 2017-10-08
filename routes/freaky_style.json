@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "peach_wall",
+        "stub": "freaky_style",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": " Freaky Style",
+        "types": [
+            "boulder"
+        ]
+    }
+}

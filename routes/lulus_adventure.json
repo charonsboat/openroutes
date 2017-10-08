@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cedar_bluff",
+        "stub": "lulus_adventure",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": " Lulu's Adventure",
+        "types": [
+            "unknown"
+        ]
+    }
+}

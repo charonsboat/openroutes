@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "tangerine_wall",
+        "stub": "prometheus_sector",
+        "type": "region"
+    },
+    "info": {
+        "name": "prometheus sector"
+    }
+}

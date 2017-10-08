@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "unlikely_wall",
+        "stub": "muddy_water_blues",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": " Muddy Water Blues",
+        "types": [
+            "unknown"
+        ]
+    }
+}

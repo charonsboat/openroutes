@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_heinousness_wall",
+        "stub": "high_ball_traverse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": " High Ball Traverse",
+        "types": [
+            "boulder"
+        ]
+    }
+}

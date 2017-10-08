@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pink_boulder",
+        "stub": "thigh_master",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v5",
+        "name": " thigh master",
+        "types": [
+            "boulder"
+        ]
+    }
+}

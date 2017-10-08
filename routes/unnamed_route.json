@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "unlikely_wall",
+        "stub": "unnamed_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": " UnNamed Route",
+        "types": [
+            "unknown"
+        ]
+    }
+}

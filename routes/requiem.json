@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_roof_sector",
+        "stub": "requiem",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v8",
+        "name": " Requiem",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_octopuss_garden",
+        "stub": "isis",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v6",
+        "name": " Isis",
+        "types": [
+            "boulder"
+        ]
+    }
+}

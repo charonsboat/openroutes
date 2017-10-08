@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_heinousness_wall",
+        "stub": "sirius_rising",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": " Sirius Rising",
+        "types": [
+            "boulder"
+        ]
+    }
+}

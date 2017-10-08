@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "unlikely_wall",
+        "stub": "rock_sale",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": " Rock Sale",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "peach_wall",
+        "stub": "summer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": " Summer",
+        "types": [
+            "boulder"
+        ]
+    }
+}

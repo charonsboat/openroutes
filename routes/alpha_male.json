@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_mushroom_wall",
+        "stub": "alpha_male",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": " Alpha Male",
+        "types": [
+            "boulder"
+        ]
+    }
+}

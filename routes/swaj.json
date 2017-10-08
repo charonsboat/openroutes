@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "peach_wall",
+        "stub": "swaj",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0-",
+        "name": " Swaj",
+        "types": [
+            "boulder"
+        ]
+    }
+}

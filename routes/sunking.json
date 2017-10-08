@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cult_boulder",
+        "stub": "sunking",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0",
+        "name": " Sunking",
+        "types": [
+            "boulder"
+        ]
+    }
+}

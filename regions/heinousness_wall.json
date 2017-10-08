@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "muscatatuck",
+        "stub": "heinousness_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Heinousness Wall"
+    }
+}

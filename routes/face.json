@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_roof_sector",
+        "stub": "face",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0",
+        "name": " Face",
+        "types": [
+            "boulder"
+        ]
+    }
+}

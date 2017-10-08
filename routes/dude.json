@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "peach_wall",
+        "stub": "dude",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0-",
+        "name": " Dude",
+        "types": [
+            "boulder"
+        ]
+    }
+}

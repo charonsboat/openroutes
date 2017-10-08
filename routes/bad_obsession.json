@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "peach_wall",
+        "stub": "bad_obsession",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": " Bad Obsession",
+        "types": [
+            "boulder"
+        ]
+    }
+}

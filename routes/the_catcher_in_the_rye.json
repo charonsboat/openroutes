@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_heinousness_wall",
+        "stub": "the_catcher_in_the_rye",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": " The Catcher In The Rye",
+        "types": [
+            "boulder"
+        ]
+    }
+}

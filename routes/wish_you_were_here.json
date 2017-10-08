@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pink_boulder",
+        "stub": "wish_you_were_here",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": " wish you were here",
+        "types": [
+            "boulder"
+        ]
+    }
+}

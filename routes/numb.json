@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tangerine_sector",
+        "stub": "numb",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": " numb",
+        "types": [
+            "boulder"
+        ]
+    }
+}

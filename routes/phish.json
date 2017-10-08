@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_h_boulders",
+        "stub": "phish",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": " Phish",
+        "types": [
+            "boulder"
+        ]
+    }
+}

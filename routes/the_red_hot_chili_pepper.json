@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tangerine_sector",
+        "stub": "the_red_hot_chili_pepper",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v7",
+        "name": " The Red Hot Chili Pepper",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_hoosier_mama_sector",
+        "stub": "yertle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": " Yertle",
+        "types": [
+            "boulder"
+        ]
+    }
+}

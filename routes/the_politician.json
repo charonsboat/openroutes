@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_heinousness_wall",
+        "stub": "the_politician",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": " The Politician",
+        "types": [
+            "boulder"
+        ]
+    }
+}

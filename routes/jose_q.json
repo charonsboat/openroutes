@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_heinousness_wall",
+        "stub": "jose_q",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": " Jose Q",
+        "types": [
+            "boulder"
+        ]
+    }
+}

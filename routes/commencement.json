@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_roof_sector",
+        "stub": "commencement",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v8",
+        "name": " Commencement",
+        "types": [
+            "boulder"
+        ]
+    }
+}

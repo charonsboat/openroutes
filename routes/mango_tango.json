@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "peach_wall",
+        "stub": "mango_tango",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v8",
+        "name": " Mango Tango",
+        "types": [
+            "boulder"
+        ]
+    }
+}

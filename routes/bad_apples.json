@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_roof_sector",
+        "stub": "bad_apples",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0",
+        "name": " Bad Apples",
+        "types": [
+            "boulder"
+        ]
+    }
+}

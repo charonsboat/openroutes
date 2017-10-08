@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_octopuss_garden",
+        "stub": "the_steel_breeze",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v6",
+        "name": " The Steel Breeze",
+        "types": [
+            "boulder"
+        ]
+    }
+}

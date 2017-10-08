@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cult_boulder",
+        "stub": "cult_of_one",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": " Cult of One",
+        "types": [
+            "boulder"
+        ]
+    }
+}

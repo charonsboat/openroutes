@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_heinousness_wall",
+        "stub": "low_ball_traverse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0",
+        "name": " Low Ball Traverse",
+        "types": [
+            "boulder"
+        ]
+    }
+}

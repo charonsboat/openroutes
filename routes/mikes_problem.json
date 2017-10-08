@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "peach_wall",
+        "stub": "mikes_problem",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": " Mike's Problem",
+        "types": [
+            "boulder"
+        ]
+    }
+}

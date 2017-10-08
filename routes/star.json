@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_tarot_sector",
+        "stub": "star",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": " Star",
+        "types": [
+            "boulder"
+        ]
+    }
+}

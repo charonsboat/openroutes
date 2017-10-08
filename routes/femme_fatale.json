@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "unlikely_wall",
+        "stub": "femme_fatale",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": " Femme Fatale",
+        "types": [
+            "unknown"
+        ]
+    }
+}

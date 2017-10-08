@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "strawberry_fields",
+        "stub": "somewhere_over_the_rainbow",
+        "type": "region"
+    },
+    "info": {
+        "name": "Somewhere Over The Rainbow"
+    }
+}

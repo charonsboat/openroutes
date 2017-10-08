@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_octopuss_garden",
+        "stub": "dark_companion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v7",
+        "name": " Dark Companion",
+        "types": [
+            "boulder"
+        ]
+    }
+}

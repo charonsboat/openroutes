@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "unlikely_wall",
+        "stub": "lost_cause",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": " Lost Cause",
+        "types": [
+            "unknown"
+        ]
+    }
+}

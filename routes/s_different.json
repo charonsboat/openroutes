@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_heinousness_wall",
+        "stub": "s_different",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": " S.  Different",
+        "types": [
+            "boulder"
+        ]
+    }
+}

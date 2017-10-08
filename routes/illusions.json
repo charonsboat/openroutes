@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "peach_wall",
+        "stub": "illusions",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": " Illusions",
+        "types": [
+            "boulder"
+        ]
+    }
+}

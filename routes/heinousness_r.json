@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_heinousness_wall",
+        "stub": "heinousness_r",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0",
+        "name": " Heinousness R",
+        "types": [
+            "boulder"
+        ]
+    }
+}

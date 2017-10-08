@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tangerine_sector",
+        "stub": "halloween",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v8",
+        "name": " Halloween",
+        "types": [
+            "boulder"
+        ]
+    }
+}

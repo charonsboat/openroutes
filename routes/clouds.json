@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_roof_sector",
+        "stub": "clouds",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": " Clouds",
+        "types": [
+            "boulder"
+        ]
+    }
+}

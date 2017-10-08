@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_heinousness_wall",
+        "stub": "static_cling",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": " Static cling",
+        "types": [
+            "boulder"
+        ]
+    }
+}

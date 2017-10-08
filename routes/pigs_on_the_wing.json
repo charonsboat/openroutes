@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pink_boulder",
+        "stub": "pigs_on_the_wing",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": " pigs on the wing",
+        "types": [
+            "boulder"
+        ]
+    }
+}

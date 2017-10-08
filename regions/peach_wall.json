@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "muscatatuck",
+        "stub": "peach_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Peach Wall"
+    }
+}

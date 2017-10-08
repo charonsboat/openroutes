@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_heinousness_wall",
+        "stub": "religion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v5",
+        "name": " Religion",
+        "types": [
+            "boulder"
+        ]
+    }
+}

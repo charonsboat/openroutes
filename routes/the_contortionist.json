@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_octopuss_garden",
+        "stub": "the_contortionist",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v9",
+        "name": " The Contortionist",
+        "types": [
+            "boulder"
+        ]
+    }
+}

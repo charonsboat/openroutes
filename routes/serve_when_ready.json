@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "unlikely_wall",
+        "stub": "serve_when_ready",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": " Serve When Ready",
+        "types": [
+            "unknown"
+        ]
+    }
+}

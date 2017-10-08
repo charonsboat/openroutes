@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_heinousness_wall",
+        "stub": "equinox",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v6",
+        "name": " Equinox",
+        "types": [
+            "boulder"
+        ]
+    }
+}

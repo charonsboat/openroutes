@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "hemlock_cliffs",
+        "stub": "falls_west_side_illegal",
+        "type": "region"
+    },
+    "info": {
+        "name": "Falls, West Side (illegal)"
+    }
+}

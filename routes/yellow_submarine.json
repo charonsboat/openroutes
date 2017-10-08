@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_octopuss_garden",
+        "stub": "yellow_submarine",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v5",
+        "name": " Yellow Submarine",
+        "types": [
+            "boulder"
+        ]
+    }
+}

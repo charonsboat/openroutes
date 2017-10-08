@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_octopuss_garden",
+        "stub": "icarus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": " Icarus",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_heinousness_wall",
+        "stub": "war",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": " War",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_octopuss_garden",
+        "stub": "black_bird",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": " Black Bird",
+        "types": [
+            "boulder"
+        ]
+    }
+}

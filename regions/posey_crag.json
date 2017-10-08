@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "indiana",
+        "stub": "posey_crag",
+        "type": "region"
+    },
+    "info": {
+        "name": "Posey Crag"
+    }
+}

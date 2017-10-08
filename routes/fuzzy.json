@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "peach_wall",
+        "stub": "fuzzy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": " Fuzzy",
+        "types": [
+            "boulder"
+        ]
+    }
+}

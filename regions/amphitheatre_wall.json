@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "posey_crag",
+        "stub": "amphitheatre_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Amphitheatre Wall"
+    }
+}

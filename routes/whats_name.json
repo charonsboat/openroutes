@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "unlikely_wall",
+        "stub": "whats_name",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": " What's Name",
+        "types": [
+            "unknown"
+        ]
+    }
+}

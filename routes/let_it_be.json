@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_heinousness_wall",
+        "stub": "let_it_be",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": " Let it be",
+        "types": [
+            "boulder"
+        ]
+    }
+}

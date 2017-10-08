@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_roof_sector",
+        "stub": "kashmir",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": " Kashmir",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cedar_bluff",
+        "stub": "velmas_diner",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": " Velma's Diner",
+        "types": [
+            "unknown"
+        ]
+    }
+}

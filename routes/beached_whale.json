@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "unlikely_wall",
+        "stub": "beached_whale",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": " Beached Whale",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "unlikely_wall",
+        "stub": "wheezers",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": " Wheezers",
+        "types": [
+            "unknown"
+        ]
+    }
+}

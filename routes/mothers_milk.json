@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tangerine_sector",
+        "stub": "mothers_milk",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v6",
+        "name": " Mothers Milk",
+        "types": [
+            "boulder"
+        ]
+    }
+}

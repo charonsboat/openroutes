@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "posey_crag",
+        "stub": "left_flank",
+        "type": "region"
+    },
+    "info": {
+        "name": "Left Flank"
+    }
+}

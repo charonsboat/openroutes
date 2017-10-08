@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cedar_bluff",
+        "stub": "spinnaker",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": " Spinnaker",
+        "types": [
+            "unknown"
+        ]
+    }
+}

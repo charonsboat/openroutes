@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "peach_wall",
+        "stub": "wthia_hoosier",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": " WTHIA Hoosier?",
+        "types": [
+            "boulder"
+        ]
+    }
+}

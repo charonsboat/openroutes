@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "peach_wall",
+        "stub": "dirt",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": " Dirt",
+        "types": [
+            "boulder"
+        ]
+    }
+}

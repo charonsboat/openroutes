@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "somewhere_over_the_rainbow",
+        "stub": "black_blue",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": " Black & Blue",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_octopuss_garden",
+        "stub": "thoth",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v7",
+        "name": " Thoth",
+        "types": [
+            "boulder"
+        ]
+    }
+}

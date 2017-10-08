@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "canyon_creek_shelf",
+        "stub": "ajna",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": " Ajna",
+        "types": [
+            "boulder"
+        ]
+    }
+}

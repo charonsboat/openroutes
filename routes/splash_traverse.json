@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_h_boulders",
+        "stub": "splash_traverse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": " Splash Traverse",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cedar_bluff",
+        "stub": "wench",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": " Wench",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "unlikely_wall",
+        "stub": "mr_floppy_feet",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": " Mr. Floppy Feet",
+        "types": [
+            "unknown"
+        ]
+    }
+}

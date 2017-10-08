@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_roof_sector",
+        "stub": "game_of_life",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": " Game of Life",
+        "types": [
+            "boulder"
+        ]
+    }
+}

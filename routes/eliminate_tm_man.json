@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_heinousness_wall",
+        "stub": "eliminate_tm_man",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": " Eliminate TM Man",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "us",
+        "stub": "indiana",
+        "type": "region"
+    },
+    "info": {
+        "name": "Indiana"
+    }
+}

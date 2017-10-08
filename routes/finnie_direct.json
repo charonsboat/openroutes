@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_octopuss_garden",
+        "stub": "finnie_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": " Finnie Direct",
+        "types": [
+            "boulder"
+        ]
+    }
+}

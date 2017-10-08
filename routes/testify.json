@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_roof_sector",
+        "stub": "testify",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v10",
+        "name": " Testify",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tangerine_sector",
+        "stub": "hicks_on_skoal",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": " Hicks on Skoal",
+        "types": [
+            "boulder"
+        ]
+    }
+}

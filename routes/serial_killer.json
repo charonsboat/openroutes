@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cedar_bluff",
+        "stub": "serial_killer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": " Serial Killer",
+        "types": [
+            "unknown"
+        ]
+    }
+}

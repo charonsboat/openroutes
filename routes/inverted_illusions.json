@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "peach_wall",
+        "stub": "inverted_illusions",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": " Inverted Illusions",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "posey_crag",
+        "stub": "the_berlin_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Berlin Wall"
+    }
+}

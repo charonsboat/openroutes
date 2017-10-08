@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cedar_bluff",
+        "stub": "petra_dune",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": " Petra Dune",
+        "types": [
+            "unknown"
+        ]
+    }
+}

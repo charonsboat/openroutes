@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_octopuss_garden",
+        "stub": "illumanatus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": " Illumanatus",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "strawberry_fields",
+        "stub": "the_roof_sector",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Roof Sector"
+    }
+}

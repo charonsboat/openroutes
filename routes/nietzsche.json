@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tangerine_sector",
+        "stub": "nietzsche",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v5",
+        "name": " Nietzsche",
+        "types": [
+            "boulder"
+        ]
+    }
+}

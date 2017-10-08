@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cedar_bluff",
+        "stub": "poop_deck",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": " Poop Deck",
+        "types": [
+            "unknown"
+        ]
+    }
+}

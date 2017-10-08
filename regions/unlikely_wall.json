@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "indiana",
+        "stub": "unlikely_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Unlikely Wall"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cedar_bluff",
+        "stub": "surfin_the_curl",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": " Surfin The Curl",
+        "types": [
+            "unknown"
+        ]
+    }
+}

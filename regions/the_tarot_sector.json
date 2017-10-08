@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "strawberry_fields",
+        "stub": "the_tarot_sector",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Tarot Sector"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "heinousness_wall",
+        "stub": "the_glass_onion",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Glass Onion"
+    }
+}
