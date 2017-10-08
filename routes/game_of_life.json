@@ -6,7 +6,7 @@
     },
     "info": {
         "grade": "v1",
-        "name": " Game of Life",
+        "name": "Game of Life",
         "types": [
             "boulder"
         ]
