@@ -2,7 +2,7 @@
     "meta": {
         "region": "solarium",
         "stub": "manifest_destiny",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

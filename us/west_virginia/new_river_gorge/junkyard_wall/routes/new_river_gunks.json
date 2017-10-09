@@ -2,7 +2,7 @@
     "meta": {
         "region": "junkyard_wall",
         "stub": "new_river_gunks",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

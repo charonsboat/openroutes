@@ -2,7 +2,7 @@
     "meta": {
         "region": "sunnyside",
         "stub": "velveteen",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.4",

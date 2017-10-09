@@ -2,7 +2,7 @@
     "meta": {
         "region": "kingfish",
         "stub": "solitude_standing",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10b",

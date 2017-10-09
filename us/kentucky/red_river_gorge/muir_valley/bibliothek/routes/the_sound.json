@@ -2,7 +2,7 @@
     "meta": {
         "region": "bibliothek",
         "stub": "the_sound",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

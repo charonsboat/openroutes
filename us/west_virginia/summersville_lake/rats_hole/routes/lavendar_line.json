@@ -2,7 +2,7 @@
     "meta": {
         "region": "rats_hole",
         "stub": "lavendar_line",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10c",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "monkey_swing",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v5",

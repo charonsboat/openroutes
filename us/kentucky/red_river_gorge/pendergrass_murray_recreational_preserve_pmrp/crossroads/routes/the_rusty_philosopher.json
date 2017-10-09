@@ -2,7 +2,7 @@
     "meta": {
         "region": "crossroads",
         "stub": "the_rusty_philosopher",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10a",

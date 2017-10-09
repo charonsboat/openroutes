@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "two_step_arete",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

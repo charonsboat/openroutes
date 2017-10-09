@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "do_the_funky_evan",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10 r",

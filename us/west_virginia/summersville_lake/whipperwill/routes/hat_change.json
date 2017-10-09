@@ -2,7 +2,7 @@
     "meta": {
         "region": "whipperwill",
         "stub": "hat_change",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

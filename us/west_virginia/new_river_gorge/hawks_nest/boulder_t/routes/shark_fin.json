@@ -2,7 +2,7 @@
     "meta": {
         "region": "boulder_t",
         "stub": "shark_fin",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v4",

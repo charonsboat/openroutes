@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_gallery",
         "stub": "davincis_left_ear",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10b",

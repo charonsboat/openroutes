@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_chocolate_factory",
         "stub": "grandpa_joe",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

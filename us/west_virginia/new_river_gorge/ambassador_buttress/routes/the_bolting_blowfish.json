@@ -2,7 +2,7 @@
     "meta": {
         "region": "ambassador_buttress",
         "stub": "the_bolting_blowfish",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

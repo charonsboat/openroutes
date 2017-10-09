@@ -2,7 +2,7 @@
     "meta": {
         "region": "fruit_wall",
         "stub": "banana_hammock",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

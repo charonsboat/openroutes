@@ -2,7 +2,7 @@
     "meta": {
         "region": "lower_meadow",
         "stub": "go_cat_co",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

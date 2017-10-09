@@ -2,7 +2,7 @@
     "meta": {
         "region": "head_wall",
         "stub": "feng_shui",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

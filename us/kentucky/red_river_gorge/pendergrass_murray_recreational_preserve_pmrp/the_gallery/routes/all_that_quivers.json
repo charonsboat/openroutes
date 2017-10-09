@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_gallery",
         "stub": "all_that_quivers",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10b",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_arena",
         "stub": "exacta",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

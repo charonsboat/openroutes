@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "flirting_withvmc",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

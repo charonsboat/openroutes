@@ -2,7 +2,7 @@
     "meta": {
         "region": "north_bridge_wall",
         "stub": "share_the_faith",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

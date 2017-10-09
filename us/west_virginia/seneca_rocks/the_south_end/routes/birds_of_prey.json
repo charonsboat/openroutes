@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_south_end",
         "stub": "birds_of_prey",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10b r",

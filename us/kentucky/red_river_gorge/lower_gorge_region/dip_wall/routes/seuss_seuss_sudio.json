@@ -2,7 +2,7 @@
     "meta": {
         "region": "dip_wall",
         "stub": "seuss_seuss_sudio",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.3",

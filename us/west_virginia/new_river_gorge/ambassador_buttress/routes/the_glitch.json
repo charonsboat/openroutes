@@ -2,7 +2,7 @@
     "meta": {
         "region": "ambassador_buttress",
         "stub": "the_glitch",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.4",

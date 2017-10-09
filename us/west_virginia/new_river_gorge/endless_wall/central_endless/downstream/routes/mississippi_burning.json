@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "mississippi_burning",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

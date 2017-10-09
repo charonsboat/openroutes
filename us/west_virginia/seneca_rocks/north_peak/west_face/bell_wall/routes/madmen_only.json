@@ -2,7 +2,7 @@
     "meta": {
         "region": "bell_wall",
         "stub": "madmen_only",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10a",

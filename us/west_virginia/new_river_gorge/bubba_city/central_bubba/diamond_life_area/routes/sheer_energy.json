@@ -2,7 +2,7 @@
     "meta": {
         "region": "diamond_life_area",
         "stub": "sheer_energy",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

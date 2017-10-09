@@ -2,7 +2,7 @@
     "meta": {
         "region": "diamond_point",
         "stub": "fine_motor_control",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "dog_wall",
         "stub": "nasty_poodle_chew",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.6",

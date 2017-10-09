@@ -2,7 +2,7 @@
     "meta": {
         "region": "indy_wall",
         "stub": "face_up_to_that_arete",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

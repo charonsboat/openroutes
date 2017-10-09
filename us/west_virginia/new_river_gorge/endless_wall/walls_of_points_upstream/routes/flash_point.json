@@ -2,7 +2,7 @@
     "meta": {
         "region": "walls_of_points_upstream",
         "stub": "flash_point",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

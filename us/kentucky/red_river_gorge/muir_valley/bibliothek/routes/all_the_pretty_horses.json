@@ -2,7 +2,7 @@
     "meta": {
         "region": "bibliothek",
         "stub": "all_the_pretty_horses",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

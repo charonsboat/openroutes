@@ -2,7 +2,7 @@
     "meta": {
         "region": "long_wall",
         "stub": "texas_tea",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

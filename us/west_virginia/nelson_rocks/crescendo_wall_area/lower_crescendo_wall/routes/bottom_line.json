@@ -2,7 +2,7 @@
     "meta": {
         "region": "lower_crescendo_wall",
         "stub": "bottom_line",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.5",

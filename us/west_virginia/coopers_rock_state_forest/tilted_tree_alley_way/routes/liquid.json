@@ -2,7 +2,7 @@
     "meta": {
         "region": "tilted_tree_alley_way",
         "stub": "liquid",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v3",

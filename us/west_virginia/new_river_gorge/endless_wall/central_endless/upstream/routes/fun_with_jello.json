@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "fun_with_jello",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

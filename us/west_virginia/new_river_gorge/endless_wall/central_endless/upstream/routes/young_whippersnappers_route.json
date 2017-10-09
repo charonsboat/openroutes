@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "young_whippersnappers_route",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b x",

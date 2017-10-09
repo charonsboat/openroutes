@@ -2,7 +2,7 @@
     "meta": {
         "region": "coffee_shop",
         "stub": "the_watch_tower",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v6",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "roadside_crag",
         "stub": "roadside_roof_problem",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v? (project)",

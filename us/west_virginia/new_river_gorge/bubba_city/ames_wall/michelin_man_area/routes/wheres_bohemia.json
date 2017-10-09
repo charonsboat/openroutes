@@ -2,7 +2,7 @@
     "meta": {
         "region": "michelin_man_area",
         "stub": "wheres_bohemia",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12c",

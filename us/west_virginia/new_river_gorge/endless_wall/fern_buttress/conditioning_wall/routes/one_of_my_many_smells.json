@@ -2,7 +2,7 @@
     "meta": {
         "region": "conditioning_wall",
         "stub": "one_of_my_many_smells",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

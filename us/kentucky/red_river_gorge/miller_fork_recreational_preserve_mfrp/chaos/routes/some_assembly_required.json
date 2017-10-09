@@ -2,7 +2,7 @@
     "meta": {
         "region": "chaos",
         "stub": "some_assembly_required",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.6",

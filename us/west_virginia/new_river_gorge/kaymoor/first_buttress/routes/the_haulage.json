@@ -2,7 +2,7 @@
     "meta": {
         "region": "first_buttress",
         "stub": "the_haulage",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12d",

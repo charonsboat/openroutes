@@ -2,7 +2,7 @@
     "meta": {
         "region": "unlikely_wall",
         "stub": "rock_sale",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

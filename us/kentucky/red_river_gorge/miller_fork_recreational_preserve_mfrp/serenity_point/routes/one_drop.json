@@ -2,7 +2,7 @@
     "meta": {
         "region": "serenity_point",
         "stub": "one_drop",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

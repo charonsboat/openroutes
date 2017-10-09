@@ -2,7 +2,7 @@
     "meta": {
         "region": "pillar_notch_area",
         "stub": "pillar_summit_route",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.4",

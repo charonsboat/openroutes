@@ -2,7 +2,7 @@
     "meta": {
         "region": "yellow",
         "stub": "climb_c",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10c",

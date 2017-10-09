@@ -2,7 +2,7 @@
     "meta": {
         "region": "bell_wall",
         "stub": "northway",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.0",

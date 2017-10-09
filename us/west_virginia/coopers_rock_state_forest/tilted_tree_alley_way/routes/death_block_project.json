@@ -2,7 +2,7 @@
     "meta": {
         "region": "tilted_tree_alley_way",
         "stub": "death_block_project",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v11",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "sanstonia",
         "stub": "pay_it_forward",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

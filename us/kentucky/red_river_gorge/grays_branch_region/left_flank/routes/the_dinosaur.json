@@ -2,7 +2,7 @@
     "meta": {
         "region": "left_flank",
         "stub": "the_dinosaur",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12d",

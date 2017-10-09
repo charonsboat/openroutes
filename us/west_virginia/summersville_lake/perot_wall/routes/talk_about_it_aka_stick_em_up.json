@@ -2,7 +2,7 @@
     "meta": {
         "region": "perot_wall",
         "stub": "talk_about_it_aka_stick_em_up",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10b",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "face_it_bubba_area",
         "stub": "exhaust_pipe",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8 r",

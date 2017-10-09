@@ -2,7 +2,7 @@
     "meta": {
         "region": "central",
         "stub": "cold_turkey",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

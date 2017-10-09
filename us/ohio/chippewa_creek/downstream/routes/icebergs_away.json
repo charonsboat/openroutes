@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "icebergs_away",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v3",

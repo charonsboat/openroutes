@@ -2,7 +2,7 @@
     "meta": {
         "region": "iceberg_area",
         "stub": "tip_of_the_iceberg",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10c",

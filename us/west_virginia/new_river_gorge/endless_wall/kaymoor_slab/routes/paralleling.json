@@ -2,7 +2,7 @@
     "meta": {
         "region": "kaymoor_slab",
         "stub": "paralleling",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d r",

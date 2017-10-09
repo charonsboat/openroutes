@@ -2,7 +2,7 @@
     "meta": {
         "region": "whipperwill",
         "stub": "java",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

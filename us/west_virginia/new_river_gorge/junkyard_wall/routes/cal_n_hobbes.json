@@ -2,7 +2,7 @@
     "meta": {
         "region": "junkyard_wall",
         "stub": "cal_n_hobbes",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

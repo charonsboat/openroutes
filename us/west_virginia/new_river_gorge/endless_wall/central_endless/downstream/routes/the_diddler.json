@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "the_diddler",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10a",

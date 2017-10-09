@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_fortress",
         "stub": "jacobs_ladder",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

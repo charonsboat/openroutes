@@ -2,7 +2,7 @@
     "meta": {
         "region": "kingfish",
         "stub": "ratz_holm",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "bell_wall",
         "stub": "mistaken_identity",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.4",

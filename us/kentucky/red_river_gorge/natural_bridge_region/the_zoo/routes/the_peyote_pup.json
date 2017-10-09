@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_zoo",
         "stub": "the_peyote_pup",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

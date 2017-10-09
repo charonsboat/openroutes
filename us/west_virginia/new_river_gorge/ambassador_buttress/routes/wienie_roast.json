@@ -2,7 +2,7 @@
     "meta": {
         "region": "ambassador_buttress",
         "stub": "wienie_roast",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

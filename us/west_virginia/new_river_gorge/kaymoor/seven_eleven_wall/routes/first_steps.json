@@ -2,7 +2,7 @@
     "meta": {
         "region": "seven_eleven_wall",
         "stub": "first_steps",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10c",

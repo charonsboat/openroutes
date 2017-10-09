@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "sugar_bubbas",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

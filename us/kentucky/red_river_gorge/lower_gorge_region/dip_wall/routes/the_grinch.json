@@ -2,7 +2,7 @@
     "meta": {
         "region": "dip_wall",
         "stub": "the_grinch",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.4",

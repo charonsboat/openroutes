@@ -2,7 +2,7 @@
     "meta": {
         "region": "military_wall",
         "stub": "left_turret",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

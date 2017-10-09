@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_big_blocks",
         "stub": "affinity_triangle",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "impact_zone",
         "stub": "bird_of_prey",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "bell_wall",
         "stub": "the_ma_bell_connection",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

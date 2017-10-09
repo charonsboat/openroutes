@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "the_star_arete",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v5",

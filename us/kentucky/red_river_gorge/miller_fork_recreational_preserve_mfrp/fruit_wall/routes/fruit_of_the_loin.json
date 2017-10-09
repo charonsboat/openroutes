@@ -2,7 +2,7 @@
     "meta": {
         "region": "fruit_wall",
         "stub": "fruit_of_the_loin",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10a",

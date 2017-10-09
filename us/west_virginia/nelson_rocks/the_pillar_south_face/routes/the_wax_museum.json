@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_pillar_south_face",
         "stub": "the_wax_museum",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

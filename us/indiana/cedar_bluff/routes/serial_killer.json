@@ -2,7 +2,7 @@
     "meta": {
         "region": "cedar_bluff",
         "stub": "serial_killer",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

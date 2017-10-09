@@ -2,7 +2,7 @@
     "meta": {
         "region": "seven_eleven_wall",
         "stub": "buzz_kill",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12c",

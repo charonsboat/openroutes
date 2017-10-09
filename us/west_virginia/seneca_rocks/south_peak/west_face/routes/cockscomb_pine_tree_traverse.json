@@ -2,7 +2,7 @@
     "meta": {
         "region": "west_face",
         "stub": "cockscomb_pine_tree_traverse",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.3",

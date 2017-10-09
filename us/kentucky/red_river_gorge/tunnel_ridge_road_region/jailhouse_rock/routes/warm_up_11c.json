@@ -2,7 +2,7 @@
     "meta": {
         "region": "jailhouse_rock",
         "stub": "warm_up_11c",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

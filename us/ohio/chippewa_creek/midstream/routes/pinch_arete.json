@@ -2,7 +2,7 @@
     "meta": {
         "region": "midstream",
         "stub": "pinch_arete",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v1",

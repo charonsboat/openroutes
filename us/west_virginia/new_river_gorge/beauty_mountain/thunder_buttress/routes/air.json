@@ -2,7 +2,7 @@
     "meta": {
         "region": "thunder_buttress",
         "stub": "air",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "left_flank",
         "stub": "trad_boy_go",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

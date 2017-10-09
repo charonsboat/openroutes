@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "project_2_in_progress",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "project",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "butcher_branch",
         "stub": "all_the_right_moves",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

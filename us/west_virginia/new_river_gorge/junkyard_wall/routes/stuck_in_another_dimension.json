@@ -2,7 +2,7 @@
     "meta": {
         "region": "junkyard_wall",
         "stub": "stuck_in_another_dimension",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

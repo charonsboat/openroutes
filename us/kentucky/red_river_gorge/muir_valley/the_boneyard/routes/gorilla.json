@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_boneyard",
         "stub": "gorilla",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12c",

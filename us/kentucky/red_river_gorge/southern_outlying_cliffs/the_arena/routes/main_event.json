@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_arena",
         "stub": "main_event",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

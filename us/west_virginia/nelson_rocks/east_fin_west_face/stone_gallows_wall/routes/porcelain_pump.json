@@ -2,7 +2,7 @@
     "meta": {
         "region": "stone_gallows_wall",
         "stub": "porcelain_pump",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11",

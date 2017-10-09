@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_motherlode",
         "stub": "heart_shaped_box",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12c",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "nestle_krunch_roof",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10c",

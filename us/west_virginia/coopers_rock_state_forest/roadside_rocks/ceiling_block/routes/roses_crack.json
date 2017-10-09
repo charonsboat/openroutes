@@ -2,7 +2,7 @@
     "meta": {
         "region": "ceiling_block",
         "stub": "roses_crack",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.6",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "walls_of_points_upstream",
         "stub": "euro_nation",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

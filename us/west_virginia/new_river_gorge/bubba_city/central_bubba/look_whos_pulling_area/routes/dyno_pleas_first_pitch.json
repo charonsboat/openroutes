@@ -2,7 +2,7 @@
     "meta": {
         "region": "look_whos_pulling_area",
         "stub": "dyno_pleas_first_pitch",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c r",

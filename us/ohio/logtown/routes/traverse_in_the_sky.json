@@ -2,7 +2,7 @@
     "meta": {
         "region": "logtown",
         "stub": "traverse_in_the_sky",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

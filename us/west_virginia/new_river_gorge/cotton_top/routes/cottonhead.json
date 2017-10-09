@@ -2,7 +2,7 @@
     "meta": {
         "region": "cotton_top",
         "stub": "cottonhead",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

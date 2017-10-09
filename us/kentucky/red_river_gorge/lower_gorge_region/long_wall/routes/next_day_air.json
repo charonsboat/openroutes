@@ -2,7 +2,7 @@
     "meta": {
         "region": "long_wall",
         "stub": "next_day_air",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

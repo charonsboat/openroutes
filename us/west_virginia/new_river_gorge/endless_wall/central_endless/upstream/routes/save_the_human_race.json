@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "save_the_human_race",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.5",

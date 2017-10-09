@@ -2,7 +2,7 @@
     "meta": {
         "region": "head_wall",
         "stub": "put_up_or_shut_up",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "tatoo",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "attack_of_eddie_muenster",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

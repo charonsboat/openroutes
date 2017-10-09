@@ -2,7 +2,7 @@
     "meta": {
         "region": "butcher_branch",
         "stub": "play_it_by_ear",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10a",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "logtown",
         "stub": "dean_was_here",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

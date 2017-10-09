@@ -2,7 +2,7 @@
     "meta": {
         "region": "greenblock",
         "stub": "green_block_testpiece",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v4",

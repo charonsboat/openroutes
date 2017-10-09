@@ -2,7 +2,7 @@
     "meta": {
         "region": "long_wall",
         "stub": "slip_it_in",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

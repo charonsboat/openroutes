@@ -2,7 +2,7 @@
     "meta": {
         "region": "seven_eleven_wall",
         "stub": "tit_speed",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

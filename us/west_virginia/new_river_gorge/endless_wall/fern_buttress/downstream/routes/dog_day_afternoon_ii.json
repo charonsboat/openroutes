@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "dog_day_afternoon_ii",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

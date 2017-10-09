@@ -2,7 +2,7 @@
     "meta": {
         "region": "conditioning_wall",
         "stub": "the_udderling",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

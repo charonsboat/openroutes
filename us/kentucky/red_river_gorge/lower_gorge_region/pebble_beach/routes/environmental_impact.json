@@ -2,7 +2,7 @@
     "meta": {
         "region": "pebble_beach",
         "stub": "environmental_impact",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

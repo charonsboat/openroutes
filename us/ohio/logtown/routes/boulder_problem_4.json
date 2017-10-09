@@ -2,7 +2,7 @@
     "meta": {
         "region": "logtown",
         "stub": "boulder_problem_4",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v1",

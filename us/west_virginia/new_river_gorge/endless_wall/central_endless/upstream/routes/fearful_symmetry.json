@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "fearful_symmetry",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

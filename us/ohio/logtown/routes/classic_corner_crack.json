@@ -2,7 +2,7 @@
     "meta": {
         "region": "logtown",
         "stub": "classic_corner_crack",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.4",

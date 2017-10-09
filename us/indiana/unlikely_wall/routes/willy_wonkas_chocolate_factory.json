@@ -2,7 +2,7 @@
     "meta": {
         "region": "unlikely_wall",
         "stub": "willy_wonkas_chocolate_factory",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10a",

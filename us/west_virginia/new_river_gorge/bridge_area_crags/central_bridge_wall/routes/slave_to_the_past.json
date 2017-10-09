@@ -2,7 +2,7 @@
     "meta": {
         "region": "central_bridge_wall",
         "stub": "slave_to_the_past",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

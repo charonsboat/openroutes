@@ -2,7 +2,7 @@
     "meta": {
         "region": "tattoo_wall",
         "stub": "butterfly_flake",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

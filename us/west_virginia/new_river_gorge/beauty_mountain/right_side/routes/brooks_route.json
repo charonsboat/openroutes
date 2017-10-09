@@ -2,7 +2,7 @@
     "meta": {
         "region": "right_side",
         "stub": "brooks_route",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

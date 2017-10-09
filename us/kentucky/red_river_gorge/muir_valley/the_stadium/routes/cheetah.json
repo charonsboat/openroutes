@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_stadium",
         "stub": "cheetah",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

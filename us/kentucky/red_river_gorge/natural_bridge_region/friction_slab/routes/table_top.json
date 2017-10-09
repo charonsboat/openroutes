@@ -2,7 +2,7 @@
     "meta": {
         "region": "friction_slab",
         "stub": "table_top",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v3",

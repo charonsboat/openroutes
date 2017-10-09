@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_record_shop",
         "stub": "fresh_fruit_for_rotting_vegetables",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

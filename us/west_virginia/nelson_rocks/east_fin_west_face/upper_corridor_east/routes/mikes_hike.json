@@ -2,7 +2,7 @@
     "meta": {
         "region": "upper_corridor_east",
         "stub": "mikes_hike",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.6",

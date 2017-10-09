@@ -2,7 +2,7 @@
     "meta": {
         "region": "south_bridge_wall",
         "stub": "unnamed_1",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "s",

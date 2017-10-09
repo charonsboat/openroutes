@@ -2,7 +2,7 @@
     "meta": {
         "region": "bell_wall",
         "stub": "no_dally_alley",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "?",

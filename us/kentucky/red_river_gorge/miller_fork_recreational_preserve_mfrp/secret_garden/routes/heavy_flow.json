@@ -2,7 +2,7 @@
     "meta": {
         "region": "secret_garden",
         "stub": "heavy_flow",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10c",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "long_wall",
         "stub": "block_and_tackle",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

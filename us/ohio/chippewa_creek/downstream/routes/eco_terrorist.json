@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "eco_terrorist",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v10",

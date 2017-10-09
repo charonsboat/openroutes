@@ -2,7 +2,7 @@
     "meta": {
         "region": "chaos",
         "stub": "mike_mulligan",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

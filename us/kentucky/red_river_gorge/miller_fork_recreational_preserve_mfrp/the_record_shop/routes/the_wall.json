@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_record_shop",
         "stub": "the_wall",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "orchard_wall",
         "stub": "white_out",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

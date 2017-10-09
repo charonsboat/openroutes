@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_coliseum",
         "stub": "project_1",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "project",

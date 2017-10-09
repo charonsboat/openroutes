@@ -2,7 +2,7 @@
     "meta": {
         "region": "contact_zone",
         "stub": "unknown_1",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9 r",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "cess_pool",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v3",

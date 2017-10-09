@@ -2,7 +2,7 @@
     "meta": {
         "region": "dip_wall",
         "stub": "green_eggs",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "junkyard_wall",
         "stub": "scavenger",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.13c",

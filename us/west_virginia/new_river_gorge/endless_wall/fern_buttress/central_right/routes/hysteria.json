@@ -2,7 +2,7 @@
     "meta": {
         "region": "central_right",
         "stub": "hysteria",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

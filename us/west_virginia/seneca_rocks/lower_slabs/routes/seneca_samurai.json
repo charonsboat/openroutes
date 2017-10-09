@@ -2,7 +2,7 @@
     "meta": {
         "region": "lower_slabs",
         "stub": "seneca_samurai",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

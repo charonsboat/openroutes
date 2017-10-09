@@ -2,7 +2,7 @@
     "meta": {
         "region": "main_wall",
         "stub": "when_you_dance",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

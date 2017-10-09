@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "roys_lament_direct_start",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

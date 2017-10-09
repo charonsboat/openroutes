@@ -2,7 +2,7 @@
     "meta": {
         "region": "stone_gallows_wall",
         "stub": "monkey_head",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

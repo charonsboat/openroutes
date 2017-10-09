@@ -2,7 +2,7 @@
     "meta": {
         "region": "velo_crag",
         "stub": "lightning_rod_arete",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10c",

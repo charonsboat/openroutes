@@ -2,7 +2,7 @@
     "meta": {
         "region": "east_face",
         "stub": "a_touch_too_much",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10c",

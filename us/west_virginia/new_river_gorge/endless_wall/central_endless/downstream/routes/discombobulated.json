@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "discombobulated",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

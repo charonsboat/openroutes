@@ -2,7 +2,7 @@
     "meta": {
         "region": "bronaugh_wall",
         "stub": "muffin_top",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

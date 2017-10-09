@@ -2,7 +2,7 @@
     "meta": {
         "region": "chaos",
         "stub": "die_with_a_blessing",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

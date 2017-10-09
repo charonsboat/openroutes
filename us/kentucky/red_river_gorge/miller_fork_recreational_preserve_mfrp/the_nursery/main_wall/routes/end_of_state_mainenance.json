@@ -2,7 +2,7 @@
     "meta": {
         "region": "main_wall",
         "stub": "end_of_state_mainenance",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10a",

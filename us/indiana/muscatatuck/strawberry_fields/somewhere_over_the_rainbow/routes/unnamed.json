@@ -2,7 +2,7 @@
     "meta": {
         "region": "somewhere_over_the_rainbow",
         "stub": "unnamed",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v0",

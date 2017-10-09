@@ -2,7 +2,7 @@
     "meta": {
         "region": "north_40",
         "stub": "pistol_gripped",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

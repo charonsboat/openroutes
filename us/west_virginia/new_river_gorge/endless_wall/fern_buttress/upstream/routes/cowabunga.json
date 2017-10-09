@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "cowabunga",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.6",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "new_fangled_dangle",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

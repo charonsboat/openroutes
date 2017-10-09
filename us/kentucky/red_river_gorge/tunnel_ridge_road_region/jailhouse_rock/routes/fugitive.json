@@ -2,7 +2,7 @@
     "meta": {
         "region": "jailhouse_rock",
         "stub": "fugitive",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.13a",

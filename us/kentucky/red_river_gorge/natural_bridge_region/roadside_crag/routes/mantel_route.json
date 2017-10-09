@@ -2,7 +2,7 @@
     "meta": {
         "region": "roadside_crag",
         "stub": "mantel_route",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10c",

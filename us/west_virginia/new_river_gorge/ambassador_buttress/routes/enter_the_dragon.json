@@ -2,7 +2,7 @@
     "meta": {
         "region": "ambassador_buttress",
         "stub": "enter_the_dragon",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

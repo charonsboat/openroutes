@@ -2,7 +2,7 @@
     "meta": {
         "region": "overlook_buttress",
         "stub": "the_overlooked",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12",

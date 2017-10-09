@@ -2,7 +2,7 @@
     "meta": {
         "region": "beer_wall_to_be_merged",
         "stub": "near_beer",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.6",

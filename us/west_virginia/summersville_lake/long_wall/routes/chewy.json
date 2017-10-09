@@ -2,7 +2,7 @@
     "meta": {
         "region": "long_wall",
         "stub": "chewy",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10b",

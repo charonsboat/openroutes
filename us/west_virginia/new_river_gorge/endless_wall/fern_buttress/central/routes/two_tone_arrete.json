@@ -2,7 +2,7 @@
     "meta": {
         "region": "central",
         "stub": "two_tone_arrete",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10b",

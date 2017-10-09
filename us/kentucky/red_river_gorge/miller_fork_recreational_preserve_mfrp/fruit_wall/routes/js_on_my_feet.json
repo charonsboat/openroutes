@@ -2,7 +2,7 @@
     "meta": {
         "region": "fruit_wall",
         "stub": "js_on_my_feet",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12c",

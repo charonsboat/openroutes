@@ -2,7 +2,7 @@
     "meta": {
         "region": "bond_wall",
         "stub": "dr_no",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "project",

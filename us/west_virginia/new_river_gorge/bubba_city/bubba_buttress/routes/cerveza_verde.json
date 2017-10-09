@@ -2,7 +2,7 @@
     "meta": {
         "region": "bubba_buttress",
         "stub": "cerveza_verde",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "main_wall",
         "stub": "fuzzy_muffin",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

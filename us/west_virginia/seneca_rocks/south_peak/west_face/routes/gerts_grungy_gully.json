@@ -2,7 +2,7 @@
     "meta": {
         "region": "west_face",
         "stub": "gerts_grungy_gully",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.0",

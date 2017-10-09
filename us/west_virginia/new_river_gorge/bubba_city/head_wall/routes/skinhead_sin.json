@@ -2,7 +2,7 @@
     "meta": {
         "region": "head_wall",
         "stub": "skinhead_sin",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

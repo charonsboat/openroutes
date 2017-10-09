@@ -2,7 +2,7 @@
     "meta": {
         "region": "dip_wall",
         "stub": "sam_i_am",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

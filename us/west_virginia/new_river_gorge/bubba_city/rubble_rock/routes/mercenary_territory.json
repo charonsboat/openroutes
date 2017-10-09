@@ -2,7 +2,7 @@
     "meta": {
         "region": "rubble_rock",
         "stub": "mercenary_territory",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

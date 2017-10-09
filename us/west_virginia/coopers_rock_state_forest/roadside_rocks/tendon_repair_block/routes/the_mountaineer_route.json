@@ -2,7 +2,7 @@
     "meta": {
         "region": "tendon_repair_block",
         "stub": "the_mountaineer_route",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v5",

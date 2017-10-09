@@ -2,7 +2,7 @@
     "meta": {
         "region": "left_flank",
         "stub": "sex_farm",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "curbside",
         "stub": "ghost_in_the_machine",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

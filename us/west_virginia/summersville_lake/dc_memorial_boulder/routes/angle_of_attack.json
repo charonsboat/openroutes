@@ -2,7 +2,7 @@
     "meta": {
         "region": "dc_memorial_boulder",
         "stub": "angle_of_attack",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12c",

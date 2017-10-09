@@ -2,7 +2,7 @@
     "meta": {
         "region": "bridge_buttress",
         "stub": "west_virginia_highway_coal_miners_daughter",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

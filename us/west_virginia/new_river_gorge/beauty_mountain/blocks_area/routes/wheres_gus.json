@@ -2,7 +2,7 @@
     "meta": {
         "region": "blocks_area",
         "stub": "wheres_gus",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

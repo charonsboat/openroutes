@@ -2,7 +2,7 @@
     "meta": {
         "region": "tattoo_wall",
         "stub": "g_string",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

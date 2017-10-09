@@ -2,7 +2,7 @@
     "meta": {
         "region": "butcher_branch",
         "stub": "kaos",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12c",

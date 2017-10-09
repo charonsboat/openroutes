@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "hot_tuna",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

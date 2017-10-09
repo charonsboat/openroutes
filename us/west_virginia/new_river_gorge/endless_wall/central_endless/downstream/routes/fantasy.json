@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "fantasy",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

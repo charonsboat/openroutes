@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "statisical_reminder",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9 r",

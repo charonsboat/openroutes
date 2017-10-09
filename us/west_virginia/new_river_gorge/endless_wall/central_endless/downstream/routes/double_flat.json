@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "double_flat",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

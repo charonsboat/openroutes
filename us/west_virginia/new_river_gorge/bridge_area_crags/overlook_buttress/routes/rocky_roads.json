@@ -2,7 +2,7 @@
     "meta": {
         "region": "overlook_buttress",
         "stub": "rocky_roads",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

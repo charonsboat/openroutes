@@ -2,7 +2,7 @@
     "meta": {
         "region": "bridge_buttress",
         "stub": "gag_reflex",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12d",

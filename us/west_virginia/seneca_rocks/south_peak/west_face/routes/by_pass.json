@@ -2,7 +2,7 @@
     "meta": {
         "region": "west_face",
         "stub": "by_pass",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

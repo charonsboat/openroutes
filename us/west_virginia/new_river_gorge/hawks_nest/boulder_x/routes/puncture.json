@@ -2,7 +2,7 @@
     "meta": {
         "region": "boulder_x",
         "stub": "puncture",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v3",

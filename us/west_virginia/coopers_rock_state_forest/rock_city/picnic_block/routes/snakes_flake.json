@@ -2,7 +2,7 @@
     "meta": {
         "region": "picnic_block",
         "stub": "snakes_flake",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

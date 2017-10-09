@@ -2,7 +2,7 @@
     "meta": {
         "region": "deep_end",
         "stub": "peeping_tom",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

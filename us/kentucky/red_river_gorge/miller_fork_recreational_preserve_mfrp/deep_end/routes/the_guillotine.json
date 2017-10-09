@@ -2,7 +2,7 @@
     "meta": {
         "region": "deep_end",
         "stub": "the_guillotine",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12",

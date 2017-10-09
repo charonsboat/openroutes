@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "channel_zero",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

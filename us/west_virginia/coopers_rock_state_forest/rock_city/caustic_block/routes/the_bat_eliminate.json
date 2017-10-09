@@ -2,7 +2,7 @@
     "meta": {
         "region": "caustic_block",
         "stub": "the_bat_eliminate",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11",

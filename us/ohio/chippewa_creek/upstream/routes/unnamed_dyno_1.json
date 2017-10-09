@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "unnamed_dyno_1",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v5",

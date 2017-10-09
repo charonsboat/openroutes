@@ -2,7 +2,7 @@
     "meta": {
         "region": "east_face",
         "stub": "oh_pooh",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.1",

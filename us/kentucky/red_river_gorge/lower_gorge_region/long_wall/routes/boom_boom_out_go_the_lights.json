@@ -2,7 +2,7 @@
     "meta": {
         "region": "long_wall",
         "stub": "boom_boom_out_go_the_lights",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10b",

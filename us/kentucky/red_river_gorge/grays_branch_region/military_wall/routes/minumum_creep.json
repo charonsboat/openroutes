@@ -2,7 +2,7 @@
     "meta": {
         "region": "military_wall",
         "stub": "minumum_creep",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "the_gymnasium",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v3",

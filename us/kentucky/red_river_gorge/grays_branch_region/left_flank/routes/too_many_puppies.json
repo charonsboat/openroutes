@@ -2,7 +2,7 @@
     "meta": {
         "region": "left_flank",
         "stub": "too_many_puppies",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "west_face",
         "stub": "the_burn",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

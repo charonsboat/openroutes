@@ -2,7 +2,7 @@
     "meta": {
         "region": "mr_clean_face_corridor",
         "stub": "dinkus_brain",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10+",

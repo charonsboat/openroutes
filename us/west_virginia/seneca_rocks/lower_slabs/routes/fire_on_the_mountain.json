@@ -2,7 +2,7 @@
     "meta": {
         "region": "lower_slabs",
         "stub": "fire_on_the_mountain",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

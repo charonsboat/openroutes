@@ -2,7 +2,7 @@
     "meta": {
         "region": "boulder_q",
         "stub": "66",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v3",

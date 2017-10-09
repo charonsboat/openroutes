@@ -2,7 +2,7 @@
     "meta": {
         "region": "entrance_exit_boulders",
         "stub": "warm_up_problems",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v0",

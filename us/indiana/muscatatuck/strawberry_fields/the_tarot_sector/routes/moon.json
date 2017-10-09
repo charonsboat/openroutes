@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_tarot_sector",
         "stub": "moon",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v4",

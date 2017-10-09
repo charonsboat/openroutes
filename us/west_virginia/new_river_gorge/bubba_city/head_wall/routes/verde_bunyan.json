@@ -2,7 +2,7 @@
     "meta": {
         "region": "head_wall",
         "stub": "verde_bunyan",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

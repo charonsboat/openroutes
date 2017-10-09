@@ -2,7 +2,7 @@
     "meta": {
         "region": "fern_point",
         "stub": "stim_ostam",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

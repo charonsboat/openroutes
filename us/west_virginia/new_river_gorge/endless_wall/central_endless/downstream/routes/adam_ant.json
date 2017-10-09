@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "adam_ant",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

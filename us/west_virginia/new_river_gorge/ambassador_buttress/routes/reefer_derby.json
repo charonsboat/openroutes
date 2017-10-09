@@ -2,7 +2,7 @@
     "meta": {
         "region": "ambassador_buttress",
         "stub": "reefer_derby",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12c",

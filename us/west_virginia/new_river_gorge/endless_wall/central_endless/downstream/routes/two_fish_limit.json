@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "two_fish_limit",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

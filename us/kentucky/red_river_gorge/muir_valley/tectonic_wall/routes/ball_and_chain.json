@@ -2,7 +2,7 @@
     "meta": {
         "region": "tectonic_wall",
         "stub": "ball_and_chain",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

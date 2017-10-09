@@ -2,7 +2,7 @@
     "meta": {
         "region": "east_fin_routes_to_be_merged_into_the_areas_above",
         "stub": "rampage",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d s",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "fern_point",
         "stub": "party_all_the_time_party_all_the_time",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10b",

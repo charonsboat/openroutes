@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "cow_in_a_china_shop",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

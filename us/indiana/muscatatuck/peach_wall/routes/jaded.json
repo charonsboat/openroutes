@@ -2,7 +2,7 @@
     "meta": {
         "region": "peach_wall",
         "stub": "jaded",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v0-",

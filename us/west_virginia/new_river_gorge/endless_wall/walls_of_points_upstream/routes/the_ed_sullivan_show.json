@@ -2,7 +2,7 @@
     "meta": {
         "region": "walls_of_points_upstream",
         "stub": "the_ed_sullivan_show",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

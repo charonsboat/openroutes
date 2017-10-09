@@ -2,7 +2,7 @@
     "meta": {
         "region": "johnnys_wall",
         "stub": "brain_stem",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

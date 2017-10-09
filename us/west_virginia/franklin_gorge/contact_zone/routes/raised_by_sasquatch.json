@@ -2,7 +2,7 @@
     "meta": {
         "region": "contact_zone",
         "stub": "raised_by_sasquatch",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

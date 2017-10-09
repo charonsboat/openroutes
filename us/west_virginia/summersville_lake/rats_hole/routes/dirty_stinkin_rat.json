@@ -2,7 +2,7 @@
     "meta": {
         "region": "rats_hole",
         "stub": "dirty_stinkin_rat",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

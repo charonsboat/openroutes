@@ -2,7 +2,7 @@
     "meta": {
         "region": "entrance_boulders",
         "stub": "font_tastic",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v4",

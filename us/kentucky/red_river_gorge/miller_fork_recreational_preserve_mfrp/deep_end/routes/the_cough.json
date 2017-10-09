@@ -2,7 +2,7 @@
     "meta": {
         "region": "deep_end",
         "stub": "the_cough",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10c",

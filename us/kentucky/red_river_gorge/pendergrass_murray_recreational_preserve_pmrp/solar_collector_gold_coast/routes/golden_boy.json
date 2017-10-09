@@ -2,7 +2,7 @@
     "meta": {
         "region": "solar_collector_gold_coast",
         "stub": "golden_boy",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.13b",

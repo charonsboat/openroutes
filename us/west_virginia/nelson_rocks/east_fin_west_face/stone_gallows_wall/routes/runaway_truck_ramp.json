@@ -2,7 +2,7 @@
     "meta": {
         "region": "stone_gallows_wall",
         "stub": "runaway_truck_ramp",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

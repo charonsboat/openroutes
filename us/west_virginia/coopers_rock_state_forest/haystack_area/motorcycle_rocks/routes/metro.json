@@ -2,7 +2,7 @@
     "meta": {
         "region": "motorcycle_rocks",
         "stub": "metro",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v0",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "tangerine_sector",
         "stub": "the_grench",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v3",

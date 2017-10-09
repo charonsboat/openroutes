@@ -2,7 +2,7 @@
     "meta": {
         "region": "eastern_skybridge_ridge",
         "stub": "ex_post_facto",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10b",

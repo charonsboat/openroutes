@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_good_block",
         "stub": "blockage",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.13+",

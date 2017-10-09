@@ -2,7 +2,7 @@
     "meta": {
         "region": "north_bridge_wall",
         "stub": "hey_woody_hinckleys_not_the_center_of_the_universe_any_more",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

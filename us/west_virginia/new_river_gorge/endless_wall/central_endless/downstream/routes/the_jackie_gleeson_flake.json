@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "the_jackie_gleeson_flake",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

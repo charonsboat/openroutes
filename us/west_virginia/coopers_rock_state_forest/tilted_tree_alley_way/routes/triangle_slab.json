@@ -2,7 +2,7 @@
     "meta": {
         "region": "tilted_tree_alley_way",
         "stub": "triangle_slab",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v1",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "chica_bonita_wall",
         "stub": "laying_the_pipe_under_the_bridge",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

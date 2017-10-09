@@ -2,7 +2,7 @@
     "meta": {
         "region": "o_wall",
         "stub": "appearing_holds",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "monolith_wall",
         "stub": "close_to_the_edge",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

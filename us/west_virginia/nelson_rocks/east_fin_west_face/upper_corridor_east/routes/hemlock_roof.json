@@ -2,7 +2,7 @@
     "meta": {
         "region": "upper_corridor_east",
         "stub": "hemlock_roof",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

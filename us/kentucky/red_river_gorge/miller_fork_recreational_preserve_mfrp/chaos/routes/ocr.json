@@ -2,7 +2,7 @@
     "meta": {
         "region": "chaos",
         "stub": "ocr",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "",

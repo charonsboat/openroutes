@@ -2,7 +2,7 @@
     "meta": {
         "region": "head_wall",
         "stub": "grimper_de_pouvoir",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

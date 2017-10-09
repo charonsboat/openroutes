@@ -2,7 +2,7 @@
     "meta": {
         "region": "central_bubba",
         "stub": "casper_says_boo",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

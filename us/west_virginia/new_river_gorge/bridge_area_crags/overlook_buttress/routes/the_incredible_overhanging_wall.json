@@ -2,7 +2,7 @@
     "meta": {
         "region": "overlook_buttress",
         "stub": "the_incredible_overhanging_wall",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

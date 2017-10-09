@@ -2,7 +2,7 @@
     "meta": {
         "region": "dog_wall",
         "stub": "one_eyed_viper",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10b",

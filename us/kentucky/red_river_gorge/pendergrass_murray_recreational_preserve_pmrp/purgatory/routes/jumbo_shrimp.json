@@ -2,7 +2,7 @@
     "meta": {
         "region": "purgatory",
         "stub": "jumbo_shrimp",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10a",

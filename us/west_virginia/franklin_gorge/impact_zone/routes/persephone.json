@@ -2,7 +2,7 @@
     "meta": {
         "region": "impact_zone",
         "stub": "persephone",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

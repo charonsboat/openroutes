@@ -2,7 +2,7 @@
     "meta": {
         "region": "west_face",
         "stub": "hit_the_silk",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a x",

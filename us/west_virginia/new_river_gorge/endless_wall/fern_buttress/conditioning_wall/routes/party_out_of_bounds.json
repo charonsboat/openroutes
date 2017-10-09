@@ -2,7 +2,7 @@
     "meta": {
         "region": "conditioning_wall",
         "stub": "party_out_of_bounds",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

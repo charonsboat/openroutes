@@ -2,7 +2,7 @@
     "meta": {
         "region": "greenback_wall",
         "stub": "greenback",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.6",

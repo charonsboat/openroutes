@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_bowling_alley",
         "stub": "expresso",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

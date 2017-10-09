@@ -2,7 +2,7 @@
     "meta": {
         "region": "right_side",
         "stub": "pulp",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

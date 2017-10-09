@@ -2,7 +2,7 @@
     "meta": {
         "region": "junkyard_wall",
         "stub": "v_slot_ride_a_rock_horse",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

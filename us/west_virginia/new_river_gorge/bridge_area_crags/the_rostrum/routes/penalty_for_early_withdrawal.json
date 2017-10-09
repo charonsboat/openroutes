@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_rostrum",
         "stub": "penalty_for_early_withdrawal",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

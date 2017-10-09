@@ -2,7 +2,7 @@
     "meta": {
         "region": "34d_wall",
         "stub": "missing_ramsey",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

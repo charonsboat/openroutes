@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_mushroom_wall",
         "stub": "drops_of_jupiter",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v2",

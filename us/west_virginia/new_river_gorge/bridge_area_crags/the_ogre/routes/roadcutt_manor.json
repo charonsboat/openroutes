@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_ogre",
         "stub": "roadcutt_manor",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

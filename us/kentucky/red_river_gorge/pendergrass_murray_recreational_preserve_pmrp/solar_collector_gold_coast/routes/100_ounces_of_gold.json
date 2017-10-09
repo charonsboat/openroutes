@@ -2,7 +2,7 @@
     "meta": {
         "region": "solar_collector_gold_coast",
         "stub": "100_ounces_of_gold",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.14a",

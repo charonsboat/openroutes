@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_shire",
         "stub": "my_name_is_earl",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

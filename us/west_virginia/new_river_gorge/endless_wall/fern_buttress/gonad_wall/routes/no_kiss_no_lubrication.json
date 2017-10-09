@@ -2,7 +2,7 @@
     "meta": {
         "region": "gonad_wall",
         "stub": "no_kiss_no_lubrication",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

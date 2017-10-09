@@ -2,7 +2,7 @@
     "meta": {
         "region": "orchard_wall",
         "stub": "loki",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

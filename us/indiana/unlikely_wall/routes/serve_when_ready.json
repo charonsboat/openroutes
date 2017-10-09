@@ -2,7 +2,7 @@
     "meta": {
         "region": "unlikely_wall",
         "stub": "serve_when_ready",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.6",

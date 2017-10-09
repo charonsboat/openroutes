@@ -2,7 +2,7 @@
     "meta": {
         "region": "blackhandrock_with_owner_permission",
         "stub": "need_tape",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "plans_to_commit_arson",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v9",

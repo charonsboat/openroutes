@@ -2,7 +2,7 @@
     "meta": {
         "region": "impact_zone",
         "stub": "edge_ucate",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10b",

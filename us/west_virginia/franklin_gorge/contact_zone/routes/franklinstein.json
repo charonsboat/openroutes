@@ -2,7 +2,7 @@
     "meta": {
         "region": "contact_zone",
         "stub": "franklinstein",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10a",

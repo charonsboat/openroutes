@@ -2,7 +2,7 @@
     "meta": {
         "region": "west_face",
         "stub": "le_gourmet",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.4",

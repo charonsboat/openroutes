@@ -2,7 +2,7 @@
     "meta": {
         "region": "fruit_wall",
         "stub": "witness_the_citrus",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

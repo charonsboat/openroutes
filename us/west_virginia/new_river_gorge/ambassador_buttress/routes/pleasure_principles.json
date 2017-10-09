@@ -2,7 +2,7 @@
     "meta": {
         "region": "ambassador_buttress",
         "stub": "pleasure_principles",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

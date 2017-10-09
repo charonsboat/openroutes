@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_sport_wall",
         "stub": "child_of_stone",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10c",

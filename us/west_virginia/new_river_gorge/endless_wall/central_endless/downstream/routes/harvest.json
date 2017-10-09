@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "harvest",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

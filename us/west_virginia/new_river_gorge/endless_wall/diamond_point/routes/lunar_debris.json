@@ -2,7 +2,7 @@
     "meta": {
         "region": "diamond_point",
         "stub": "lunar_debris",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

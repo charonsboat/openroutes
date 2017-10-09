@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "beech_beeech_beeeech",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.6",

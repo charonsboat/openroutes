@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_cirque",
         "stub": "xanth",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.13b",

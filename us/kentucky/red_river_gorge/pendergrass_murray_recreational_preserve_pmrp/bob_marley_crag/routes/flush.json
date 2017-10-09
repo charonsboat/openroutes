@@ -2,7 +2,7 @@
     "meta": {
         "region": "bob_marley_crag",
         "stub": "flush",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

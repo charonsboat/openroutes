@@ -2,7 +2,7 @@
     "meta": {
         "region": "central",
         "stub": "grand_larceny",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

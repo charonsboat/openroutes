@@ -2,7 +2,7 @@
     "meta": {
         "region": "crossroads",
         "stub": "hood_luck",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

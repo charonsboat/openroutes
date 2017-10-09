@@ -2,7 +2,7 @@
     "meta": {
         "region": "bridge_buttress",
         "stub": "mean_old_mr_gravity",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

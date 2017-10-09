@@ -2,7 +2,7 @@
     "meta": {
         "region": "34d_wall",
         "stub": "lyons_share",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

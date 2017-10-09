@@ -2,7 +2,7 @@
     "meta": {
         "region": "dog_wall",
         "stub": "hangdog",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

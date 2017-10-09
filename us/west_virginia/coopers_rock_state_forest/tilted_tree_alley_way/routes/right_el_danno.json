@@ -2,7 +2,7 @@
     "meta": {
         "region": "tilted_tree_alley_way",
         "stub": "right_el_danno",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v6",

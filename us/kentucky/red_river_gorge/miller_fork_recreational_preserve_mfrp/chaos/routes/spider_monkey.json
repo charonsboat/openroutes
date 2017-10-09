@@ -2,7 +2,7 @@
     "meta": {
         "region": "chaos",
         "stub": "spider_monkey",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

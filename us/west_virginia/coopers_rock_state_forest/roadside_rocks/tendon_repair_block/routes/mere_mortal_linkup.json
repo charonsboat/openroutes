@@ -2,7 +2,7 @@
     "meta": {
         "region": "tendon_repair_block",
         "stub": "mere_mortal_linkup",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "",

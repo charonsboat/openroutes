@@ -2,7 +2,7 @@
     "meta": {
         "region": "diamond_point",
         "stub": "durometer_64",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10b",

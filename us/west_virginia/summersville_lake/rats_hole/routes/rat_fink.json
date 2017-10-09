@@ -2,7 +2,7 @@
     "meta": {
         "region": "rats_hole",
         "stub": "rat_fink",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

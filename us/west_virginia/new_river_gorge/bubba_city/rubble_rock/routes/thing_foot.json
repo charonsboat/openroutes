@@ -2,7 +2,7 @@
     "meta": {
         "region": "rubble_rock",
         "stub": "thing_foot",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10b",

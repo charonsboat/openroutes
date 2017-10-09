@@ -2,7 +2,7 @@
     "meta": {
         "region": "west_face",
         "stub": "conns_west_direct_finish",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.4",

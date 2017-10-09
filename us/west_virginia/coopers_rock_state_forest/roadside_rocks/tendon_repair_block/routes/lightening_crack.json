@@ -2,7 +2,7 @@
     "meta": {
         "region": "tendon_repair_block",
         "stub": "lightening_crack",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v0",

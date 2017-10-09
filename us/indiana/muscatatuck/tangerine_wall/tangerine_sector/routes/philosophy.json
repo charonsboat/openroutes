@@ -2,7 +2,7 @@
     "meta": {
         "region": "tangerine_sector",
         "stub": "philosophy",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v4",

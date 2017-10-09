@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_hoosier_mama_sector",
         "stub": "hoosier_mama",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v5",

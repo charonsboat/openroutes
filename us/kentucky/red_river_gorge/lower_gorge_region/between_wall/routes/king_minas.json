@@ -2,7 +2,7 @@
     "meta": {
         "region": "between_wall",
         "stub": "king_minas",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "a1",

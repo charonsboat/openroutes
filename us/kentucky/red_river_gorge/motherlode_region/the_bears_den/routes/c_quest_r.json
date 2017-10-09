@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_bears_den",
         "stub": "c_quest_r",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10b",

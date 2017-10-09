@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "breach_birth",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10c",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "butcher_branch",
         "stub": "sancho_belige",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

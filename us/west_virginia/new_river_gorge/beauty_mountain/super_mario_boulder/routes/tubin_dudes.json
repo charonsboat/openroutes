@@ -2,7 +2,7 @@
     "meta": {
         "region": "super_mario_boulder",
         "stub": "tubin_dudes",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.13b",

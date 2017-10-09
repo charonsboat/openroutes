@@ -2,7 +2,7 @@
     "meta": {
         "region": "boulder_aa",
         "stub": "breech_birth",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v3",

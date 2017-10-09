@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "sooner_or_ladder",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

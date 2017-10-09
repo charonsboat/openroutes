@@ -2,7 +2,7 @@
     "meta": {
         "region": "necro_wall",
         "stub": "kp_corner",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10b",

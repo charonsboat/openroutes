@@ -2,7 +2,7 @@
     "meta": {
         "region": "white_wall",
         "stub": "waynes_route",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

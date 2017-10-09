@@ -2,7 +2,7 @@
     "meta": {
         "region": "super_mario_boulder",
         "stub": "pinckney_route",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

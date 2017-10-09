@@ -2,7 +2,7 @@
     "meta": {
         "region": "dip_wall",
         "stub": "seuss_is_dead",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

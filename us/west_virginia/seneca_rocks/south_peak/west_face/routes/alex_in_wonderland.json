@@ -2,7 +2,7 @@
     "meta": {
         "region": "west_face",
         "stub": "alex_in_wonderland",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

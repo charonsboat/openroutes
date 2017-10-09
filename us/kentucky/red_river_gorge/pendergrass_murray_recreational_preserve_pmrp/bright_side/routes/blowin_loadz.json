@@ -2,7 +2,7 @@
     "meta": {
         "region": "bright_side",
         "stub": "blowin_loadz",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12c",

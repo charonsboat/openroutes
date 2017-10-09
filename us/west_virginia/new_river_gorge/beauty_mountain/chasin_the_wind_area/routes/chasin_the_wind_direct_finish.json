@@ -2,7 +2,7 @@
     "meta": {
         "region": "chasin_the_wind_area",
         "stub": "chasin_the_wind_direct_finish",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

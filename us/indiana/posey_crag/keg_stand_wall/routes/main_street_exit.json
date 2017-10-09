@@ -2,7 +2,7 @@
     "meta": {
         "region": "keg_stand_wall",
         "stub": "main_street_exit",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v1",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "indy_wall",
         "stub": "posse_whipped",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "flying_teapot_area",
         "stub": "talk_dirty_to_me",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

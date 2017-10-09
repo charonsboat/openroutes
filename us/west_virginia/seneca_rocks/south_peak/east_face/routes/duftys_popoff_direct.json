@@ -2,7 +2,7 @@
     "meta": {
         "region": "east_face",
         "stub": "duftys_popoff_direct",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9 r",

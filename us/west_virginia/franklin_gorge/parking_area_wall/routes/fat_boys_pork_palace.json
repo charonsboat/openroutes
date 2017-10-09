@@ -2,7 +2,7 @@
     "meta": {
         "region": "parking_area_wall",
         "stub": "fat_boys_pork_palace",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

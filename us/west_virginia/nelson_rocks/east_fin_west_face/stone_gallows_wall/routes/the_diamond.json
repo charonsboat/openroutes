@@ -2,7 +2,7 @@
     "meta": {
         "region": "stone_gallows_wall",
         "stub": "the_diamond",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

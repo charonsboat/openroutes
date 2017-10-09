@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "berserker",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

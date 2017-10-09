@@ -2,7 +2,7 @@
     "meta": {
         "region": "long_wall",
         "stub": "go_ballistic",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10c",

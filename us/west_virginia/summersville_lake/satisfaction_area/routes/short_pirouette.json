@@ -2,7 +2,7 @@
     "meta": {
         "region": "satisfaction_area",
         "stub": "short_pirouette",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

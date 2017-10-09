@@ -2,7 +2,7 @@
     "meta": {
         "region": "west_face",
         "stub": "mr_no_wrench",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "drug_virgin",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

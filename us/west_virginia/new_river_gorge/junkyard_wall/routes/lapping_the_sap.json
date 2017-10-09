@@ -2,7 +2,7 @@
     "meta": {
         "region": "junkyard_wall",
         "stub": "lapping_the_sap",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10a",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "gin_and_bulls",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12d",

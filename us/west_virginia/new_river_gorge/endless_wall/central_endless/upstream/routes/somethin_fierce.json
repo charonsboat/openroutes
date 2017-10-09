@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "somethin_fierce",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

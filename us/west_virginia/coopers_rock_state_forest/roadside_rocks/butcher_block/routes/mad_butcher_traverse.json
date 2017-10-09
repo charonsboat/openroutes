@@ -2,7 +2,7 @@
     "meta": {
         "region": "butcher_block",
         "stub": "mad_butcher_traverse",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v3",

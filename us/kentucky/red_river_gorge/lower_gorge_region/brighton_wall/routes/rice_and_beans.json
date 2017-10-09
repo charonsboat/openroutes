@@ -2,7 +2,7 @@
     "meta": {
         "region": "brighton_wall",
         "stub": "rice_and_beans",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.4",

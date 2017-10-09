@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_gallery",
         "stub": "the_tribute",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.13a",

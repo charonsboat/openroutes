@@ -2,7 +2,7 @@
     "meta": {
         "region": "bovine_wall",
         "stub": "bovine_crack",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10b",

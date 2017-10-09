@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "october_surprise",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

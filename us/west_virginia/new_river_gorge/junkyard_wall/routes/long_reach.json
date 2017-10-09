@@ -2,7 +2,7 @@
     "meta": {
         "region": "junkyard_wall",
         "stub": "long_reach",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

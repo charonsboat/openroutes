@@ -2,7 +2,7 @@
     "meta": {
         "region": "perot_wall",
         "stub": "armed_and_dangerous",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10c",

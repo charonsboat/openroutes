@@ -2,7 +2,7 @@
     "meta": {
         "region": "central",
         "stub": "sun_viking",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d r",

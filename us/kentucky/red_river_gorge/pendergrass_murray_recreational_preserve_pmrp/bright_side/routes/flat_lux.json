@@ -2,7 +2,7 @@
     "meta": {
         "region": "bright_side",
         "stub": "flat_lux",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12d",

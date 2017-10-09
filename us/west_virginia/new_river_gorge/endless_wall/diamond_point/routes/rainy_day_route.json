@@ -2,7 +2,7 @@
     "meta": {
         "region": "diamond_point",
         "stub": "rainy_day_route",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

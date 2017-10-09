@@ -2,7 +2,7 @@
     "meta": {
         "region": "upper_endless",
         "stub": "garden_weasel",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

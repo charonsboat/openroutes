@@ -2,7 +2,7 @@
     "meta": {
         "region": "greenblock",
         "stub": "evergreen",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v1",

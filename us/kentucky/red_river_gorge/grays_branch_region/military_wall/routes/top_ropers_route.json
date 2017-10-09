@@ -2,7 +2,7 @@
     "meta": {
         "region": "military_wall",
         "stub": "top_ropers_route",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.2",

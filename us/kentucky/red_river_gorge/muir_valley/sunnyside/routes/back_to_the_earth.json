@@ -2,7 +2,7 @@
     "meta": {
         "region": "sunnyside",
         "stub": "back_to_the_earth",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v1",

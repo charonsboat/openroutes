@@ -2,7 +2,7 @@
     "meta": {
         "region": "head_wall",
         "stub": "lamour_des_toits",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

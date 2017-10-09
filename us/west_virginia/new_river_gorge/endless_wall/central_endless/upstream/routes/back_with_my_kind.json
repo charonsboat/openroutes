@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "back_with_my_kind",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

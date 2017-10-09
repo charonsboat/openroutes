@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "bloodshot",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.13a",

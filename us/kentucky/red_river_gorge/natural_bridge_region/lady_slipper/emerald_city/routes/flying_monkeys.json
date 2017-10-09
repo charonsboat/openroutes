@@ -2,7 +2,7 @@
     "meta": {
         "region": "emerald_city",
         "stub": "flying_monkeys",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "garbage_wall_intestinal_wall",
         "stub": "pop_top_heaven",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "project",

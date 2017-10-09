@@ -2,7 +2,7 @@
     "meta": {
         "region": "sunset_wall_jimi_cliff",
         "stub": "roof_flake",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

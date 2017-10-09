@@ -2,7 +2,7 @@
     "meta": {
         "region": "ambassador_buttress",
         "stub": "auld_lang_syne",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b r",

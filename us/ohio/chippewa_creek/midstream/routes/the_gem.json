@@ -2,7 +2,7 @@
     "meta": {
         "region": "midstream",
         "stub": "the_gem",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v7",

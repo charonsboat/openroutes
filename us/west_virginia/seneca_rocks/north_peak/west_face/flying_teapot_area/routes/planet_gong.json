@@ -2,7 +2,7 @@
     "meta": {
         "region": "flying_teapot_area",
         "stub": "planet_gong",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.6",

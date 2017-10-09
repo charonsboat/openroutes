@@ -2,7 +2,7 @@
     "meta": {
         "region": "junkyard_wall",
         "stub": "new_yosemite_climbing_under_the_influence",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "fruit_wall",
         "stub": "conkle_donkle",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12c",

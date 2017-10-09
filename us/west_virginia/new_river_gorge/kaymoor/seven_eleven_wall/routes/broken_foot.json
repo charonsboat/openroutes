@@ -2,7 +2,7 @@
     "meta": {
         "region": "seven_eleven_wall",
         "stub": "broken_foot",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

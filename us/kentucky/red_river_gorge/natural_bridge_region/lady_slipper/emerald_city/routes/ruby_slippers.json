@@ -2,7 +2,7 @@
     "meta": {
         "region": "emerald_city",
         "stub": "ruby_slippers",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

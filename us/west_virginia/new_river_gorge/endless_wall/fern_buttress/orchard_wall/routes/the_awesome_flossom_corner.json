@@ -2,7 +2,7 @@
     "meta": {
         "region": "orchard_wall",
         "stub": "the_awesome_flossom_corner",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

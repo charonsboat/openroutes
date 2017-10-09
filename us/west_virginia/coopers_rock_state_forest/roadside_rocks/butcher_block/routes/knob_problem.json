@@ -2,7 +2,7 @@
     "meta": {
         "region": "butcher_block",
         "stub": "knob_problem",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v3",

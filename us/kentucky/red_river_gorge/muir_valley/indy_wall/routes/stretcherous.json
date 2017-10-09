@@ -2,7 +2,7 @@
     "meta": {
         "region": "indy_wall",
         "stub": "stretcherous",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

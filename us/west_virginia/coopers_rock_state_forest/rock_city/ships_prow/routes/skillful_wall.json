@@ -2,7 +2,7 @@
     "meta": {
         "region": "ships_prow",
         "stub": "skillful_wall",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.4",

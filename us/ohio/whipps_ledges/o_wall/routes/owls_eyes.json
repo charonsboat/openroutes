@@ -2,7 +2,7 @@
     "meta": {
         "region": "o_wall",
         "stub": "owls_eyes",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "",

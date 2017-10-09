@@ -2,7 +2,7 @@
     "meta": {
         "region": "logtown",
         "stub": "open_book_variation",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

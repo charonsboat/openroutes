@@ -2,7 +2,7 @@
     "meta": {
         "region": "west_face",
         "stub": "roof_traverse",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

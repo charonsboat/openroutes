@@ -2,7 +2,7 @@
     "meta": {
         "region": "left_flank",
         "stub": "mr_bungle",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

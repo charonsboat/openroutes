@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_south_end",
         "stub": "dracula_beach",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

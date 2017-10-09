@@ -2,7 +2,7 @@
     "meta": {
         "region": "tendon_repair_block",
         "stub": "tendon_repair_kit",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v2",

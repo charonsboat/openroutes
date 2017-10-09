@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_rostrum",
         "stub": "rapid_view",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.6 r",

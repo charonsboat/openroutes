@@ -2,7 +2,7 @@
     "meta": {
         "region": "symphony_wall",
         "stub": "boogered",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11+",

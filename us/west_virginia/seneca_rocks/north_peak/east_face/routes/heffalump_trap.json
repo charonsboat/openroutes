@@ -2,7 +2,7 @@
     "meta": {
         "region": "east_face",
         "stub": "heffalump_trap",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.3",

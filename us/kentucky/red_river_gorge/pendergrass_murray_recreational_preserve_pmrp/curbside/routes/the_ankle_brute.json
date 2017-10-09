@@ -2,7 +2,7 @@
     "meta": {
         "region": "curbside",
         "stub": "the_ankle_brute",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

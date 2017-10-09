@@ -2,7 +2,7 @@
     "meta": {
         "region": "fruit_wall",
         "stub": "breakfast_at_koops",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

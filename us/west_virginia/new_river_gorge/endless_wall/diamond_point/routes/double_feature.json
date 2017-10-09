@@ -2,7 +2,7 @@
     "meta": {
         "region": "diamond_point",
         "stub": "double_feature",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

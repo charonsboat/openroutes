@@ -2,7 +2,7 @@
     "meta": {
         "region": "little_head_wall",
         "stub": "crazy_ambulance_driver",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10b r",

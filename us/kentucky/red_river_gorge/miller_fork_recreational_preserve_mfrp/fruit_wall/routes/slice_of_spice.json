@@ -2,7 +2,7 @@
     "meta": {
         "region": "fruit_wall",
         "stub": "slice_of_spice",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10a",

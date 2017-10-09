@@ -2,7 +2,7 @@
     "meta": {
         "region": "left_field",
         "stub": "jet_lag",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

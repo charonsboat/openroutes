@@ -2,7 +2,7 @@
     "meta": {
         "region": "west_face",
         "stub": "black_mamba",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12c",

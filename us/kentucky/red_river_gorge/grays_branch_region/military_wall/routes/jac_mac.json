@@ -2,7 +2,7 @@
     "meta": {
         "region": "military_wall",
         "stub": "jac_mac",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

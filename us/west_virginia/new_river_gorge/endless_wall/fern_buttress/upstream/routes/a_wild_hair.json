@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "a_wild_hair",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.6",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "indy_wall",
         "stub": "makin_bacon",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

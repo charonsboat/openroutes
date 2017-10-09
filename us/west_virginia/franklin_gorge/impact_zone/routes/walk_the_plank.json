@@ -2,7 +2,7 @@
     "meta": {
         "region": "impact_zone",
         "stub": "walk_the_plank",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

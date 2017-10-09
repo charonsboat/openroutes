@@ -2,7 +2,7 @@
     "meta": {
         "region": "whipperwill_left",
         "stub": "doing_time",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

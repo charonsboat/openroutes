@@ -2,7 +2,7 @@
     "meta": {
         "region": "left_flank",
         "stub": "aquaduck_pocket",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

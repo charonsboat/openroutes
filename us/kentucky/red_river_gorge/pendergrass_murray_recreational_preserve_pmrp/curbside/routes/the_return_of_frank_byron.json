@@ -2,7 +2,7 @@
     "meta": {
         "region": "curbside",
         "stub": "the_return_of_frank_byron",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12c",

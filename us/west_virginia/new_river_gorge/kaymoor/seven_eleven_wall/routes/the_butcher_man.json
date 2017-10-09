@@ -2,7 +2,7 @@
     "meta": {
         "region": "seven_eleven_wall",
         "stub": "the_butcher_man",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

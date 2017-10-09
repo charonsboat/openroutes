@@ -2,7 +2,7 @@
     "meta": {
         "region": "conditioning_wall",
         "stub": "stab_me_i_dont_matter",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.13b",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "roof_rocks",
         "stub": "pokey_goes_grit_climbing",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "overlook_buttress",
         "stub": "up_to_disneyland",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

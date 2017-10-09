@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "new_world_order_masoko_tango",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

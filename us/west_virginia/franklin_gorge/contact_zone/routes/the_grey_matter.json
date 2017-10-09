@@ -2,7 +2,7 @@
     "meta": {
         "region": "contact_zone",
         "stub": "the_grey_matter",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

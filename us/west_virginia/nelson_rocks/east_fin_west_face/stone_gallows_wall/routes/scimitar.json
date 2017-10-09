@@ -2,7 +2,7 @@
     "meta": {
         "region": "stone_gallows_wall",
         "stub": "scimitar",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10c",

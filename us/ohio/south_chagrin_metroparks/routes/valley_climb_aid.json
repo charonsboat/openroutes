@@ -2,7 +2,7 @@
     "meta": {
         "region": "south_chagrin_metroparks",
         "stub": "valley_climb_aid",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "",

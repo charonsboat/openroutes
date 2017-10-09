@@ -2,7 +2,7 @@
     "meta": {
         "region": "orange_oswald_wall",
         "stub": "orange_oswald",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10a",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "west_face",
         "stub": "cockfight",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

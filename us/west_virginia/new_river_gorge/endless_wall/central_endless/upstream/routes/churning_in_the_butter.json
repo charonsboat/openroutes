@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "churning_in_the_butter",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

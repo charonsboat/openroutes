@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "dead_beat_club",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

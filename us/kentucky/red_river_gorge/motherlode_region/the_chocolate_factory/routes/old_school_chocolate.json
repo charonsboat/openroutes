@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_chocolate_factory",
         "stub": "old_school_chocolate",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

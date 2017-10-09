@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_brain",
         "stub": "hot_flash",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

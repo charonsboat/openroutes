@@ -2,7 +2,7 @@
     "meta": {
         "region": "bosnian_buttress",
         "stub": "wall_drug",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12c",

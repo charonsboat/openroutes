@@ -2,7 +2,7 @@
     "meta": {
         "region": "purgatory",
         "stub": "the_castle_has_fallen",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.13b",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "crossroads",
         "stub": "happy_feet",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

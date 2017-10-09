@@ -2,7 +2,7 @@
     "meta": {
         "region": "crossroads",
         "stub": "stomp_u_out",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12c",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "right_side",
         "stub": "right_hand_variation",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

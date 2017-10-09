@@ -2,7 +2,7 @@
     "meta": {
         "region": "fern_point",
         "stub": "be_attitudes",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12c",

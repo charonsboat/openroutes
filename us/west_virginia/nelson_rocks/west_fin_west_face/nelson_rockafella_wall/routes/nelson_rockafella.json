@@ -2,7 +2,7 @@
     "meta": {
         "region": "nelson_rockafella_wall",
         "stub": "nelson_rockafella",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

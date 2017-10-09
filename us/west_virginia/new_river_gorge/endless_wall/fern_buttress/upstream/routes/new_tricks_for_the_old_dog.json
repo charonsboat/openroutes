@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "new_tricks_for_the_old_dog",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10",

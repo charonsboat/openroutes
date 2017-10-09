@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "give_a_boy_a_gun",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

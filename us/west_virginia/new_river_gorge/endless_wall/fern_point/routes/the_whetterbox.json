@@ -2,7 +2,7 @@
     "meta": {
         "region": "fern_point",
         "stub": "the_whetterbox",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

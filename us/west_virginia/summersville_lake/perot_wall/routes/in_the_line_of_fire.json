@@ -2,7 +2,7 @@
     "meta": {
         "region": "perot_wall",
         "stub": "in_the_line_of_fire",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

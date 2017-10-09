@@ -2,7 +2,7 @@
     "meta": {
         "region": "rotten_log_corridor",
         "stub": "rlc_unknown_g",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11",

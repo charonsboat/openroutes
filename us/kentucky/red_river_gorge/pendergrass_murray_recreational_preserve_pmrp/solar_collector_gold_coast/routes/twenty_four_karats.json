@@ -2,7 +2,7 @@
     "meta": {
         "region": "solar_collector_gold_coast",
         "stub": "twenty_four_karats",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.14c",

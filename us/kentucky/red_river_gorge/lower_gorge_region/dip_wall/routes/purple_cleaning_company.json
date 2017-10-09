@@ -2,7 +2,7 @@
     "meta": {
         "region": "dip_wall",
         "stub": "purple_cleaning_company",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

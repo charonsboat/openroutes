@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "arm_forces",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "middle_small_wall",
         "stub": "spiderweb_tearoom",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

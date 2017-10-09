@@ -2,7 +2,7 @@
     "meta": {
         "region": "north_40",
         "stub": "barbed_wire",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

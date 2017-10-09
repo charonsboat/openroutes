@@ -2,7 +2,7 @@
     "meta": {
         "region": "butcher_block",
         "stub": "local_color",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v1",

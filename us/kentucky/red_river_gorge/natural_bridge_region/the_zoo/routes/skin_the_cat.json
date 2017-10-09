@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_zoo",
         "stub": "skin_the_cat",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

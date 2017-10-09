@@ -2,7 +2,7 @@
     "meta": {
         "region": "tilted_tree_alley_way",
         "stub": "roof_of_death",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v3",

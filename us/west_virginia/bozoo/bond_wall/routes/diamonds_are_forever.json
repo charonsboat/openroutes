@@ -2,7 +2,7 @@
     "meta": {
         "region": "bond_wall",
         "stub": "diamonds_are_forever",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10 r",

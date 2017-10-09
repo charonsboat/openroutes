@@ -2,7 +2,7 @@
     "meta": {
         "region": "junkyard_wall",
         "stub": "just_say_no",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a r",

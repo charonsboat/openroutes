@@ -2,7 +2,7 @@
     "meta": {
         "region": "boulder_aa",
         "stub": "c_section",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v3",

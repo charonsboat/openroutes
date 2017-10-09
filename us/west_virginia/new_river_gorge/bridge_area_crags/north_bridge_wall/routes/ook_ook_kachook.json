@@ -2,7 +2,7 @@
     "meta": {
         "region": "north_bridge_wall",
         "stub": "ook_ook_kachook",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "tunnel_wall",
         "stub": "exhibition",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "black",
         "stub": "right",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.4",

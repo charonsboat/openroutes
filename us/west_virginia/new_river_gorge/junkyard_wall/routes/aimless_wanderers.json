@@ -2,7 +2,7 @@
     "meta": {
         "region": "junkyard_wall",
         "stub": "aimless_wanderers",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "west_face",
         "stub": "the_viper",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

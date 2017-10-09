@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_shire",
         "stub": "iron_mike_project",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.13+",

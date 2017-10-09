@@ -2,7 +2,7 @@
     "meta": {
         "region": "roadside_crag",
         "stub": "roadside_attraction",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

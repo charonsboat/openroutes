@@ -2,7 +2,7 @@
     "meta": {
         "region": "ames_wall",
         "stub": "chuckles_direct",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

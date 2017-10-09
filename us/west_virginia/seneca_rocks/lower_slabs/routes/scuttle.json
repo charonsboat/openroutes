@@ -2,7 +2,7 @@
     "meta": {
         "region": "lower_slabs",
         "stub": "scuttle",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.5",

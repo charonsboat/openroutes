@@ -2,7 +2,7 @@
     "meta": {
         "region": "necro_wall",
         "stub": "inject_the_venom",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

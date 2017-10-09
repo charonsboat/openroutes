@@ -2,7 +2,7 @@
     "meta": {
         "region": "crossroads",
         "stub": "turkey_crossing",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.4",

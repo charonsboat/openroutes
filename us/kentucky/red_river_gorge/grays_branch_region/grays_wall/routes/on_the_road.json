@@ -2,7 +2,7 @@
     "meta": {
         "region": "grays_wall",
         "stub": "on_the_road",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

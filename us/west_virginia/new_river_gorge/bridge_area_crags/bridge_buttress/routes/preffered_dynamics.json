@@ -2,7 +2,7 @@
     "meta": {
         "region": "bridge_buttress",
         "stub": "preffered_dynamics",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

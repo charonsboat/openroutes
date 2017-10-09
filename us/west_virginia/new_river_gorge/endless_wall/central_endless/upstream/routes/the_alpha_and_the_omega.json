@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "the_alpha_and_the_omega",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

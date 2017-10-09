@@ -2,7 +2,7 @@
     "meta": {
         "region": "gypsies_wall",
         "stub": "horse_with_no_name",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

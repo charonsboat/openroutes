@@ -2,7 +2,7 @@
     "meta": {
         "region": "junkyard_wall",
         "stub": "andropovs_cold",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "roof_rocks",
         "stub": "levitation_lame",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

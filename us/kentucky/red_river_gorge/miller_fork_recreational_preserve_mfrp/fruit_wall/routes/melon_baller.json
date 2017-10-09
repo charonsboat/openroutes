@@ -2,7 +2,7 @@
     "meta": {
         "region": "fruit_wall",
         "stub": "melon_baller",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

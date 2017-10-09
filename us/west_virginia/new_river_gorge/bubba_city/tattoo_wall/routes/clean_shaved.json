@@ -2,7 +2,7 @@
     "meta": {
         "region": "tattoo_wall",
         "stub": "clean_shaved",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

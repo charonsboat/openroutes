@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "flirting_with_apollo_reed",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "haystack_block",
         "stub": "rebolting_development",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

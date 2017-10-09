@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_record_shop",
         "stub": "born_in_the_usa",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

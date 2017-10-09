@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "teleconnections",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

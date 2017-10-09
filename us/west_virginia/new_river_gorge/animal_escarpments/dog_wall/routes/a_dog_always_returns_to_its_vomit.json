@@ -2,7 +2,7 @@
     "meta": {
         "region": "dog_wall",
         "stub": "a_dog_always_returns_to_its_vomit",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10c r",

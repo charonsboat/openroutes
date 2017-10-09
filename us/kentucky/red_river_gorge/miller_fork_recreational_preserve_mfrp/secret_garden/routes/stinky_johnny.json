@@ -2,7 +2,7 @@
     "meta": {
         "region": "secret_garden",
         "stub": "stinky_johnny",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

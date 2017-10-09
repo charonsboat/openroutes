@@ -2,7 +2,7 @@
     "meta": {
         "region": "tunnel_wall",
         "stub": "black_death",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b r",

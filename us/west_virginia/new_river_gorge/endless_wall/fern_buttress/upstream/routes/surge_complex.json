@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "surge_complex",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

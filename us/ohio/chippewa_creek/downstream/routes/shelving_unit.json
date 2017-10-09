@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "shelving_unit",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "vb",

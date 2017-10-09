@@ -2,7 +2,7 @@
     "meta": {
         "region": "dip_wall",
         "stub": "fox_in_locks",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9 r",

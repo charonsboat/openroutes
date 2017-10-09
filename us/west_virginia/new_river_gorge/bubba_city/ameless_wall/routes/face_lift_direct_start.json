@@ -2,7 +2,7 @@
     "meta": {
         "region": "ameless_wall",
         "stub": "face_lift_direct_start",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8 vs",

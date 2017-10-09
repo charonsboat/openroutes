@@ -2,7 +2,7 @@
     "meta": {
         "region": "east_face",
         "stub": "gunsight_notch_east",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.5",

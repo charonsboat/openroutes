@@ -2,7 +2,7 @@
     "meta": {
         "region": "chaos",
         "stub": "ride_the_pony",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

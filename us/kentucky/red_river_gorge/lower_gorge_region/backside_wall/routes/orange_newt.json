@@ -2,7 +2,7 @@
     "meta": {
         "region": "backside_wall",
         "stub": "orange_newt",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

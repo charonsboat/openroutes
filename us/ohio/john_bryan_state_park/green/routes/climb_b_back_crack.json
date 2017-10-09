@@ -2,7 +2,7 @@
     "meta": {
         "region": "green",
         "stub": "climb_b_back_crack",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

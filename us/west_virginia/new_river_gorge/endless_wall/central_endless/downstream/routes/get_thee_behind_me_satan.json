@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "get_thee_behind_me_satan",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.13b",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "sanstonia",
         "stub": "climb_free_or_die",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

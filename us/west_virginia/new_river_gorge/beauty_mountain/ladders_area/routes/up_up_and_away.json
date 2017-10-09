@@ -2,7 +2,7 @@
     "meta": {
         "region": "ladders_area",
         "stub": "up_up_and_away",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12d",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "perot_wall",
         "stub": "gunned_but_not_forgotten",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10b",

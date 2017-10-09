@@ -2,7 +2,7 @@
     "meta": {
         "region": "graveyard",
         "stub": "grim_reaper",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

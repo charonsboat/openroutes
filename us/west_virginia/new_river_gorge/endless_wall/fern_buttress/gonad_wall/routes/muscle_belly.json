@@ -2,7 +2,7 @@
     "meta": {
         "region": "gonad_wall",
         "stub": "muscle_belly",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

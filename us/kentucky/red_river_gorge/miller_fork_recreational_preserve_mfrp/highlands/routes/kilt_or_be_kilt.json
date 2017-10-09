@@ -2,7 +2,7 @@
     "meta": {
         "region": "highlands",
         "stub": "kilt_or_be_kilt",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

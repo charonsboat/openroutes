@@ -2,7 +2,7 @@
     "meta": {
         "region": "east_face",
         "stub": "touch_and_go",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10c",

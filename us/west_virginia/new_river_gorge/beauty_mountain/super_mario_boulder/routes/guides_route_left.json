@@ -2,7 +2,7 @@
     "meta": {
         "region": "super_mario_boulder",
         "stub": "guides_route_left",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.5",

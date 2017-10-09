@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "feets_of_contortion",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v2",

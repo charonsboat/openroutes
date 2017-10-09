@@ -2,7 +2,7 @@
     "meta": {
         "region": "central",
         "stub": "prepare_to_succeed",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

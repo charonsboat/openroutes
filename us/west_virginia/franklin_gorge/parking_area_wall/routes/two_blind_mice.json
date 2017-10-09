@@ -2,7 +2,7 @@
     "meta": {
         "region": "parking_area_wall",
         "stub": "two_blind_mice",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10c",

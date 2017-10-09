@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_fortress",
         "stub": "get_right_or_get_left",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

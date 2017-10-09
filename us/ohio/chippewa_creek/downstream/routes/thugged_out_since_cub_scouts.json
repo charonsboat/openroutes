@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "thugged_out_since_cub_scouts",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v4",

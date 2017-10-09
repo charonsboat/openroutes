@@ -2,7 +2,7 @@
     "meta": {
         "region": "overlook_buttress",
         "stub": "the_hall_effect",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

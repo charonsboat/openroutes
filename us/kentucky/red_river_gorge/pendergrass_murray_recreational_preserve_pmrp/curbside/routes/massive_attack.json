@@ -2,7 +2,7 @@
     "meta": {
         "region": "curbside",
         "stub": "massive_attack",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "ambassador_buttress",
         "stub": "nookie_monster",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

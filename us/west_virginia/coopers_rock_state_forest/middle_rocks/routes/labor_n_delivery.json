@@ -2,7 +2,7 @@
     "meta": {
         "region": "middle_rocks",
         "stub": "labor_n_delivery",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v2",

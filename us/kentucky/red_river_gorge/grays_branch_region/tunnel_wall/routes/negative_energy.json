@@ -2,7 +2,7 @@
     "meta": {
         "region": "tunnel_wall",
         "stub": "negative_energy",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

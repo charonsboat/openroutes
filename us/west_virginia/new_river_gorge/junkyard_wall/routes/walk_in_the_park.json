@@ -2,7 +2,7 @@
     "meta": {
         "region": "junkyard_wall",
         "stub": "walk_in_the_park",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

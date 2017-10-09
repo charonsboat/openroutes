@@ -2,7 +2,7 @@
     "meta": {
         "region": "ambassador_buttress",
         "stub": "unnamed_4",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

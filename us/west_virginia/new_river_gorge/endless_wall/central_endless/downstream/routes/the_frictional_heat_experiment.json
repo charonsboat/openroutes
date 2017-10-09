@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "the_frictional_heat_experiment",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10a",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "gut_feeling",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

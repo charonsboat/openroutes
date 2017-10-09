@@ -2,7 +2,7 @@
     "meta": {
         "region": "crossroads",
         "stub": "wrong_turn",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "velo_crag",
         "stub": "lanterne_rouge",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

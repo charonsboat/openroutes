@@ -2,7 +2,7 @@
     "meta": {
         "region": "stone_gallows_wall",
         "stub": "tentacle",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12d",

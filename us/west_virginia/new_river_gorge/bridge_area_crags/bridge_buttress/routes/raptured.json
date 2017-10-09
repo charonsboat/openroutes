@@ -2,7 +2,7 @@
     "meta": {
         "region": "bridge_buttress",
         "stub": "raptured",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

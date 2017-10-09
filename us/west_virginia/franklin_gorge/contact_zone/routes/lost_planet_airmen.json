@@ -2,7 +2,7 @@
     "meta": {
         "region": "contact_zone",
         "stub": "lost_planet_airmen",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

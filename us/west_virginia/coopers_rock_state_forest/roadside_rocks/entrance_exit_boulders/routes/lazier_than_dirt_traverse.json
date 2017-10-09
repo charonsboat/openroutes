@@ -2,7 +2,7 @@
     "meta": {
         "region": "entrance_exit_boulders",
         "stub": "lazier_than_dirt_traverse",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v0-",

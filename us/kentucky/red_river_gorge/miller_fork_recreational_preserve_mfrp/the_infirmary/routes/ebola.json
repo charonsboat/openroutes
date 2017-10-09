@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_infirmary",
         "stub": "ebola",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

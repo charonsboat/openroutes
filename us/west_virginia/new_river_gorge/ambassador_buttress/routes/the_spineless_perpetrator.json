@@ -2,7 +2,7 @@
     "meta": {
         "region": "ambassador_buttress",
         "stub": "the_spineless_perpetrator",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10a",

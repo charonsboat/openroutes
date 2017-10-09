@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "wire_train",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10c",

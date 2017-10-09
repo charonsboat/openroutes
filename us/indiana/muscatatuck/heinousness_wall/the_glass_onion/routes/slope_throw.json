@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_glass_onion",
         "stub": "slope_throw",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v0",

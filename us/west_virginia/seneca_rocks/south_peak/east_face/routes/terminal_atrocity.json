@@ -2,7 +2,7 @@
     "meta": {
         "region": "east_face",
         "stub": "terminal_atrocity",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10c x",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "blocks_area",
         "stub": "warp_factor_iii",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

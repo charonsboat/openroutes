@@ -2,7 +2,7 @@
     "meta": {
         "region": "dip_wall",
         "stub": "griptospuridiam",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

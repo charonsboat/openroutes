@@ -2,7 +2,7 @@
     "meta": {
         "region": "junkyard_wall",
         "stub": "whales_in_drag",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10a",

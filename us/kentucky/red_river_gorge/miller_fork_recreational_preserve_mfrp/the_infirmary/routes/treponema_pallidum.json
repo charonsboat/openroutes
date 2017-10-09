@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_infirmary",
         "stub": "treponema_pallidum",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "logtown",
         "stub": "spock_lives",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.6",

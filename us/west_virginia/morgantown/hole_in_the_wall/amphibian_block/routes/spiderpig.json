@@ -2,7 +2,7 @@
     "meta": {
         "region": "amphibian_block",
         "stub": "spiderpig",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

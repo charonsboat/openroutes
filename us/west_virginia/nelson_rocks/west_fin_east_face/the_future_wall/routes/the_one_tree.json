@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_future_wall",
         "stub": "the_one_tree",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

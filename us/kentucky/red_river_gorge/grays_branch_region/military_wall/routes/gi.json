@@ -2,7 +2,7 @@
     "meta": {
         "region": "military_wall",
         "stub": "gi",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

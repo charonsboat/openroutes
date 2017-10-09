@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "the_arrow_of_light",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v4",

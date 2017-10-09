@@ -2,7 +2,7 @@
     "meta": {
         "region": "roadside_crag",
         "stub": "c_sharp_bflat",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "tall_wall",
         "stub": "by_injection_only",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_zoo",
         "stub": "put_me_in_the_zoo",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

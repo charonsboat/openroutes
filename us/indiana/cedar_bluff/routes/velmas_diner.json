@@ -2,7 +2,7 @@
     "meta": {
         "region": "cedar_bluff",
         "stub": "velmas_diner",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

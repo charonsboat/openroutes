@@ -2,7 +2,7 @@
     "meta": {
         "region": "fairly_tall_wall",
         "stub": "tower_of_babble",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.13b",

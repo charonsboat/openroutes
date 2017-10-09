@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_chocolate_factory",
         "stub": "the_golden_ticket",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.14d",

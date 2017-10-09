@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "monster_in_my_pants",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10a",

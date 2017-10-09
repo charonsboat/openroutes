@@ -2,7 +2,7 @@
     "meta": {
         "region": "o_wall",
         "stub": "yellow_wall_arete",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "",

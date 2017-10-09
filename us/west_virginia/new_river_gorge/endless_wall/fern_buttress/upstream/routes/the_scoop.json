@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "the_scoop",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

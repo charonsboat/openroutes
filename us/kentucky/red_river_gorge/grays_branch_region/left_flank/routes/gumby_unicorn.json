@@ -2,7 +2,7 @@
     "meta": {
         "region": "left_flank",
         "stub": "gumby_unicorn",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.1",

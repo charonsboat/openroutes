@@ -2,7 +2,7 @@
     "meta": {
         "region": "left_field",
         "stub": "flee_from_fixer",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.5",

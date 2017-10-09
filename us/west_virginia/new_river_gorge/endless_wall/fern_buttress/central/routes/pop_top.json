@@ -2,7 +2,7 @@
     "meta": {
         "region": "central",
         "stub": "pop_top",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

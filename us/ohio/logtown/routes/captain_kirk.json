@@ -2,7 +2,7 @@
     "meta": {
         "region": "logtown",
         "stub": "captain_kirk",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

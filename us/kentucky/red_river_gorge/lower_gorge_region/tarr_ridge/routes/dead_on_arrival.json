@@ -2,7 +2,7 @@
     "meta": {
         "region": "tarr_ridge",
         "stub": "dead_on_arrival",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

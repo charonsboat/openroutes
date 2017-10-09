@@ -2,7 +2,7 @@
     "meta": {
         "region": "area_51_wall",
         "stub": "alien_autopsy",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

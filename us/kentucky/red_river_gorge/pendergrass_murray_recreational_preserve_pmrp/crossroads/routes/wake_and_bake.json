@@ -2,7 +2,7 @@
     "meta": {
         "region": "crossroads",
         "stub": "wake_and_bake",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

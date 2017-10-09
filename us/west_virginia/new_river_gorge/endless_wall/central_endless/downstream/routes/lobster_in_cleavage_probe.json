@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "lobster_in_cleavage_probe",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10a",

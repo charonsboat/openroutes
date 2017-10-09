@@ -2,7 +2,7 @@
     "meta": {
         "region": "deep_end",
         "stub": "half_mast",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

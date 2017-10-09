@@ -2,7 +2,7 @@
     "meta": {
         "region": "diamond_life_area",
         "stub": "diamond_life",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.13a",

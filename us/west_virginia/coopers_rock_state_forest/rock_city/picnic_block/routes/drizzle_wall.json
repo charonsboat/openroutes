@@ -2,7 +2,7 @@
     "meta": {
         "region": "picnic_block",
         "stub": "drizzle_wall",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.4",

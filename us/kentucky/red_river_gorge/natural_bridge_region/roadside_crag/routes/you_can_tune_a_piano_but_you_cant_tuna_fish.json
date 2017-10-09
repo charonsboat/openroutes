@@ -2,7 +2,7 @@
     "meta": {
         "region": "roadside_crag",
         "stub": "you_can_tune_a_piano_but_you_cant_tuna_fish",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10b",

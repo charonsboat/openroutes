@@ -2,7 +2,7 @@
     "meta": {
         "region": "logtown",
         "stub": "beam_me_up_scotty",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

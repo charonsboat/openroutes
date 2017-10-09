@@ -2,7 +2,7 @@
     "meta": {
         "region": "west_face",
         "stub": "light_green_wall",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.5",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "corner_pocket",
         "stub": "elevator_pitch",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10a",

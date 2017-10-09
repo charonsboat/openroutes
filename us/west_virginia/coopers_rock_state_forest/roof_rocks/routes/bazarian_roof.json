@@ -2,7 +2,7 @@
     "meta": {
         "region": "roof_rocks",
         "stub": "bazarian_roof",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11",

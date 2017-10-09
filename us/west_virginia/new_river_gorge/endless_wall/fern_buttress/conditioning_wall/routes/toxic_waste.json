@@ -2,7 +2,7 @@
     "meta": {
         "region": "conditioning_wall",
         "stub": "toxic_waste",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

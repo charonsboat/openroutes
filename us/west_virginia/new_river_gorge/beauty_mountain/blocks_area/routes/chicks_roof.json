@@ -2,7 +2,7 @@
     "meta": {
         "region": "blocks_area",
         "stub": "chicks_roof",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "impact_zone",
         "stub": "barnacle_bill",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

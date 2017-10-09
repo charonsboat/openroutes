@@ -2,7 +2,7 @@
     "meta": {
         "region": "tangerine_sector",
         "stub": "hicks_on_skoal",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v3",

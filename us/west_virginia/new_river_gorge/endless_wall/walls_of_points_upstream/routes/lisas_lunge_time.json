@@ -2,7 +2,7 @@
     "meta": {
         "region": "walls_of_points_upstream",
         "stub": "lisas_lunge_time",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12c",

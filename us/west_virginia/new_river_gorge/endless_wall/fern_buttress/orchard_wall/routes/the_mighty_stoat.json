@@ -2,7 +2,7 @@
     "meta": {
         "region": "orchard_wall",
         "stub": "the_mighty_stoat",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

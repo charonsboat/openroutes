@@ -2,7 +2,7 @@
     "meta": {
         "region": "head_wall",
         "stub": "stellar_idea",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

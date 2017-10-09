@@ -2,7 +2,7 @@
     "meta": {
         "region": "butcher_branch",
         "stub": "mo_betta_holds",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

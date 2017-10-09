@@ -2,7 +2,7 @@
     "meta": {
         "region": "satisfaction_area",
         "stub": "two_finger_limit",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

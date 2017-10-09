@@ -2,7 +2,7 @@
     "meta": {
         "region": "emerald_city",
         "stub": "oz",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

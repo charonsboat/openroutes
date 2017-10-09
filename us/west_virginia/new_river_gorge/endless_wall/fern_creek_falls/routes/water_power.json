@@ -2,7 +2,7 @@
     "meta": {
         "region": "fern_creek_falls",
         "stub": "water_power",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

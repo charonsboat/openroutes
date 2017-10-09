@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "hell_bound_for_glory",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

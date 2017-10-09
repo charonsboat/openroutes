@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "endangered_species",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "pleasure_and_pain",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

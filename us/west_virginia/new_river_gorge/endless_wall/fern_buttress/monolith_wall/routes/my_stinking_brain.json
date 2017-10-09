@@ -2,7 +2,7 @@
     "meta": {
         "region": "monolith_wall",
         "stub": "my_stinking_brain",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.13a",

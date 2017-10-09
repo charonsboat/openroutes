@@ -2,7 +2,7 @@
     "meta": {
         "region": "headless_wall",
         "stub": "gimp_verde",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

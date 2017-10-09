@@ -2,7 +2,7 @@
     "meta": {
         "region": "long_wall",
         "stub": "game_boy",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

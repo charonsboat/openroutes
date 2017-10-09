@@ -2,7 +2,7 @@
     "meta": {
         "region": "fern_creek_falls",
         "stub": "fern_creek_direct",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

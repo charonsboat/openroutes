@@ -2,7 +2,7 @@
     "meta": {
         "region": "global_village",
         "stub": "loosen_up",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10b",

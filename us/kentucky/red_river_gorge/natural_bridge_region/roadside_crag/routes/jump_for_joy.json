@@ -2,7 +2,7 @@
     "meta": {
         "region": "roadside_crag",
         "stub": "jump_for_joy",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

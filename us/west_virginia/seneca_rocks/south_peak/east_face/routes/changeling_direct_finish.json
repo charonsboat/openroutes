@@ -2,7 +2,7 @@
     "meta": {
         "region": "east_face",
         "stub": "changeling_direct_finish",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b r",

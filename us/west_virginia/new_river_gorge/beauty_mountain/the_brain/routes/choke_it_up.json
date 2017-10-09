@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_brain",
         "stub": "choke_it_up",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12d",

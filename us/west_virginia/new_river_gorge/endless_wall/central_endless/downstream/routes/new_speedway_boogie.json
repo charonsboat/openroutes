@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "new_speedway_boogie",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "chica_bonita_wall",
         "stub": "you_take_sally",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

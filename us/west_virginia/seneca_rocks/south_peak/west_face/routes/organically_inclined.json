@@ -2,7 +2,7 @@
     "meta": {
         "region": "west_face",
         "stub": "organically_inclined",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

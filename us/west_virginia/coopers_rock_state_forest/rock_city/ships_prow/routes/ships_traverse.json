@@ -2,7 +2,7 @@
     "meta": {
         "region": "ships_prow",
         "stub": "ships_traverse",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v5",

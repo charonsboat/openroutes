@@ -2,7 +2,7 @@
     "meta": {
         "region": "satisfaction_area",
         "stub": "make_way_for_dyklings",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10a",

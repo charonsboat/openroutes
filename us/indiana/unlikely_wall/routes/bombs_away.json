@@ -2,7 +2,7 @@
     "meta": {
         "region": "unlikely_wall",
         "stub": "bombs_away",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

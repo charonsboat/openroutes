@@ -2,7 +2,7 @@
     "meta": {
         "region": "reeds_creek",
         "stub": "welcome_to_reeds_creek",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

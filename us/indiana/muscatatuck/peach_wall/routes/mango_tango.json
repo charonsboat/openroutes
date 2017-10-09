@@ -2,7 +2,7 @@
     "meta": {
         "region": "peach_wall",
         "stub": "mango_tango",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v8",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "impact_zone",
         "stub": "hidden_treasure",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

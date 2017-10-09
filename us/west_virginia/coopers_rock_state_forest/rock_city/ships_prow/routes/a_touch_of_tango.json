@@ -2,7 +2,7 @@
     "meta": {
         "region": "ships_prow",
         "stub": "a_touch_of_tango",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v2",

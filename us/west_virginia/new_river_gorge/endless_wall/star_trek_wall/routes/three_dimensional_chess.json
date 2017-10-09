@@ -2,7 +2,7 @@
     "meta": {
         "region": "star_trek_wall",
         "stub": "three_dimensional_chess",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

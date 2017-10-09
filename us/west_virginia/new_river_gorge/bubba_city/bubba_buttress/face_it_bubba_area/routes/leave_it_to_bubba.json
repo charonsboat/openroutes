@@ -2,7 +2,7 @@
     "meta": {
         "region": "face_it_bubba_area",
         "stub": "leave_it_to_bubba",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

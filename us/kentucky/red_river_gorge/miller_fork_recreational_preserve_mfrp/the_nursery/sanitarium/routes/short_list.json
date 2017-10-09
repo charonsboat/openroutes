@@ -2,7 +2,7 @@
     "meta": {
         "region": "sanitarium",
         "stub": "short_list",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10b",

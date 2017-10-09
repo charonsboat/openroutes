@@ -2,7 +2,7 @@
     "meta": {
         "region": "spring_wall",
         "stub": "when_push_comes_to_shove",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

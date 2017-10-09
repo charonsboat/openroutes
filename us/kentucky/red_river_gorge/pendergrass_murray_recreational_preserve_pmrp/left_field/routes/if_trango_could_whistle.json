@@ -2,7 +2,7 @@
     "meta": {
         "region": "left_field",
         "stub": "if_trango_could_whistle",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

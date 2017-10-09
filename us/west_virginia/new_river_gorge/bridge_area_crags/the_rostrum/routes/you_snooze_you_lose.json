@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_rostrum",
         "stub": "you_snooze_you_lose",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d x",

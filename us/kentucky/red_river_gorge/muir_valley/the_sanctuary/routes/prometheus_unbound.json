@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_sanctuary",
         "stub": "prometheus_unbound",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.13a",

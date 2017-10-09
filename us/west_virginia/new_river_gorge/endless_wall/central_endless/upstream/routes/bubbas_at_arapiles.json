@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "bubbas_at_arapiles",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

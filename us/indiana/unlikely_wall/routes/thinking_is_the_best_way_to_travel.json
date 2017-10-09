@@ -2,7 +2,7 @@
     "meta": {
         "region": "unlikely_wall",
         "stub": "thinking_is_the_best_way_to_travel",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10a",

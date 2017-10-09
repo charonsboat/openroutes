@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "alcan_highway",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.6 r",

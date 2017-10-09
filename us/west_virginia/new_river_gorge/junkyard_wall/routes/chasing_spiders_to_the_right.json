@@ -2,7 +2,7 @@
     "meta": {
         "region": "junkyard_wall",
         "stub": "chasing_spiders_to_the_right",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7 r",

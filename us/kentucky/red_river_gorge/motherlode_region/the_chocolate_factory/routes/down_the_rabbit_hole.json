@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_chocolate_factory",
         "stub": "down_the_rabbit_hole",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

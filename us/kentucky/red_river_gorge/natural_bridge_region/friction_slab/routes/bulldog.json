@@ -2,7 +2,7 @@
     "meta": {
         "region": "friction_slab",
         "stub": "bulldog",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v8",

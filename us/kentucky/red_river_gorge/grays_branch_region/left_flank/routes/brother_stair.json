@@ -2,7 +2,7 @@
     "meta": {
         "region": "left_flank",
         "stub": "brother_stair",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "long_wall",
         "stub": "suction_lipectomy",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

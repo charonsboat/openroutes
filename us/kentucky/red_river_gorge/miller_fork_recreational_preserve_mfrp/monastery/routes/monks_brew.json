@@ -2,7 +2,7 @@
     "meta": {
         "region": "monastery",
         "stub": "monks_brew",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

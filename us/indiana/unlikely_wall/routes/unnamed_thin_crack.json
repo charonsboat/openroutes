@@ -2,7 +2,7 @@
     "meta": {
         "region": "unlikely_wall",
         "stub": "unnamed_thin_crack",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.13a",

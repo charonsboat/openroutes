@@ -2,7 +2,7 @@
     "meta": {
         "region": "parking_area_wall",
         "stub": "wild_wild_west",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10b",

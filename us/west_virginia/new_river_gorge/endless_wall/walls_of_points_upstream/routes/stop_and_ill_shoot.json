@@ -2,7 +2,7 @@
     "meta": {
         "region": "walls_of_points_upstream",
         "stub": "stop_and_ill_shoot",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_roc",
         "stub": "welcome_to_huecool",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d r",

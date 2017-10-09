@@ -2,7 +2,7 @@
     "meta": {
         "region": "solarium",
         "stub": "so_long_mr_petey",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12c",

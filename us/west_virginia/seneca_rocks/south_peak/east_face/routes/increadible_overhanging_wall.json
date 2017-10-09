@@ -2,7 +2,7 @@
     "meta": {
         "region": "east_face",
         "stub": "increadible_overhanging_wall",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a r",

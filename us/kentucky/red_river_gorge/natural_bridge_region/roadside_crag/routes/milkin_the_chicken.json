@@ -2,7 +2,7 @@
     "meta": {
         "region": "roadside_crag",
         "stub": "milkin_the_chicken",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

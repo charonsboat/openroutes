@@ -2,7 +2,7 @@
     "meta": {
         "region": "between_wall",
         "stub": "hemlock_rap",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

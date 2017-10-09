@@ -2,7 +2,7 @@
     "meta": {
         "region": "shady_grove",
         "stub": "shaved_squirrel",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

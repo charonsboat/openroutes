@@ -2,7 +2,7 @@
     "meta": {
         "region": "stellar_idea_area",
         "stub": "take_me_to_the_river",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10a",

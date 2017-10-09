@@ -2,7 +2,7 @@
     "meta": {
         "region": "crossroads",
         "stub": "yell_fire",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

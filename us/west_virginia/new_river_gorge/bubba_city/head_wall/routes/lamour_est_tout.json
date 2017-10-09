@@ -2,7 +2,7 @@
     "meta": {
         "region": "head_wall",
         "stub": "lamour_est_tout",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

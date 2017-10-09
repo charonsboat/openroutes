@@ -2,7 +2,7 @@
     "meta": {
         "region": "long_wall",
         "stub": "long_wall_chimney",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

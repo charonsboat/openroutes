@@ -2,7 +2,7 @@
     "meta": {
         "region": "chaos",
         "stub": "slabalicious",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10c",

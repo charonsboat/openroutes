@@ -2,7 +2,7 @@
     "meta": {
         "region": "bridge_buttress",
         "stub": "dresden_corner",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d r",

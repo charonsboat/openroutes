@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "blood_gnome_sit_start",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v7",

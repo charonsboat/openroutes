@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_shipyard",
         "stub": "kiss_the_manta_ray",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

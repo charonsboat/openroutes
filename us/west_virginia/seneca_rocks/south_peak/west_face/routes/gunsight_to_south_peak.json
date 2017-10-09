@@ -2,7 +2,7 @@
     "meta": {
         "region": "west_face",
         "stub": "gunsight_to_south_peak",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.3",

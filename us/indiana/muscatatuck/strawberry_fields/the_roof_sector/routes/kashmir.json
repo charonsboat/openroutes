@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_roof_sector",
         "stub": "kashmir",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v2",

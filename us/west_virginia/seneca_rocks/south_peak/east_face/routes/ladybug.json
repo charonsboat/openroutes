@@ -2,7 +2,7 @@
     "meta": {
         "region": "east_face",
         "stub": "ladybug",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

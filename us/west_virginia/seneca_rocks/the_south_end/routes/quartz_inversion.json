@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_south_end",
         "stub": "quartz_inversion",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

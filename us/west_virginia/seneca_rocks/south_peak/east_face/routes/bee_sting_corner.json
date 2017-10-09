@@ -2,7 +2,7 @@
     "meta": {
         "region": "east_face",
         "stub": "bee_sting_corner",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.7",

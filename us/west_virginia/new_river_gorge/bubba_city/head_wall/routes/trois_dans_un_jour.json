@@ -2,7 +2,7 @@
     "meta": {
         "region": "head_wall",
         "stub": "trois_dans_un_jour",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

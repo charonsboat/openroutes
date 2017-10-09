@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_infirmary",
         "stub": "porphyria",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

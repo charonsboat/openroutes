@@ -2,7 +2,7 @@
     "meta": {
         "region": "lumpy_wall",
         "stub": "spider_wand",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

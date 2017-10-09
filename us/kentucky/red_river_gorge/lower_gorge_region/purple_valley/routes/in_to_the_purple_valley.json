@@ -2,7 +2,7 @@
     "meta": {
         "region": "purple_valley",
         "stub": "in_to_the_purple_valley",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

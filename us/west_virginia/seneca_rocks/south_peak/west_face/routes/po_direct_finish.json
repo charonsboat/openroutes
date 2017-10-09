@@ -2,7 +2,7 @@
     "meta": {
         "region": "west_face",
         "stub": "po_direct_finish",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

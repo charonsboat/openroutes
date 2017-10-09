@@ -2,7 +2,7 @@
     "meta": {
         "region": "whipperwill_left",
         "stub": "tacos_pescados",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_infirmary",
         "stub": "malpractice",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

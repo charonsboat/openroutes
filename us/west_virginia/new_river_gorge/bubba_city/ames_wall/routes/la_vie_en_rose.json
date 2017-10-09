@@ -2,7 +2,7 @@
     "meta": {
         "region": "ames_wall",
         "stub": "la_vie_en_rose",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

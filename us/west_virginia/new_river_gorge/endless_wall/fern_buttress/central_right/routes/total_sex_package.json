@@ -2,7 +2,7 @@
     "meta": {
         "region": "central_right",
         "stub": "total_sex_package",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

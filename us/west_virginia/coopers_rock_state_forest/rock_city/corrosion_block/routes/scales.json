@@ -2,7 +2,7 @@
     "meta": {
         "region": "corrosion_block",
         "stub": "scales",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v2",

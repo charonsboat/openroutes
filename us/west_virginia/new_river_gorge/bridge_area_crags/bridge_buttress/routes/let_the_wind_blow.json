@@ -2,7 +2,7 @@
     "meta": {
         "region": "bridge_buttress",
         "stub": "let_the_wind_blow",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

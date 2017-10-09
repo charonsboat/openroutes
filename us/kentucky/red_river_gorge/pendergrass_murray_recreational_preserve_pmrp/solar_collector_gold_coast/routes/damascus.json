@@ -2,7 +2,7 @@
     "meta": {
         "region": "solar_collector_gold_coast",
         "stub": "damascus",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

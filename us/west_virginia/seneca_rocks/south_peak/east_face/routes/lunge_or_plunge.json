@@ -2,7 +2,7 @@
     "meta": {
         "region": "east_face",
         "stub": "lunge_or_plunge",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

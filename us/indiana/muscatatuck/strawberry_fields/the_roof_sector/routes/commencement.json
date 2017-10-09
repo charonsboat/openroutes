@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_roof_sector",
         "stub": "commencement",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v8",

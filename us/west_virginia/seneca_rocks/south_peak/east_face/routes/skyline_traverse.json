@@ -2,7 +2,7 @@
     "meta": {
         "region": "east_face",
         "stub": "skyline_traverse",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.3",

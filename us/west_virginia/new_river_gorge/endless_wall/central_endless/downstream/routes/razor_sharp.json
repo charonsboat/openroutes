@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "razor_sharp",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_playground",
         "stub": "capture_the_flag",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

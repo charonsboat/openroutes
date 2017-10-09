@@ -2,7 +2,7 @@
     "meta": {
         "region": "french_wall",
         "stub": "the_great_white_shark",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12c",

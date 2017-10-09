@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_boneyard",
         "stub": "oink_oink",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "west_face",
         "stub": "total_malfunction",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c x",

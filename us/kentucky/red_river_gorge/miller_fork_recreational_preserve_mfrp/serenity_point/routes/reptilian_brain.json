@@ -2,7 +2,7 @@
     "meta": {
         "region": "serenity_point",
         "stub": "reptilian_brain",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10a",

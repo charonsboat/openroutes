@@ -2,7 +2,7 @@
     "meta": {
         "region": "bibliothek",
         "stub": "east_of_eden",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

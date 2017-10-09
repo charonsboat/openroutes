@@ -2,7 +2,7 @@
     "meta": {
         "region": "long_wall",
         "stub": "big_country",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.5",

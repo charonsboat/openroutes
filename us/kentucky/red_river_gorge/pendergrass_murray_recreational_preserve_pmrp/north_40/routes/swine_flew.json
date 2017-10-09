@@ -2,7 +2,7 @@
     "meta": {
         "region": "north_40",
         "stub": "swine_flew",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.13b",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "perfect_sunday",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v6",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "main_wall",
         "stub": "the_cave",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "",

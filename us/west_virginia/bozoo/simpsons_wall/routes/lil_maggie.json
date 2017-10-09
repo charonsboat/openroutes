@@ -2,7 +2,7 @@
     "meta": {
         "region": "simpsons_wall",
         "stub": "lil_maggie",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

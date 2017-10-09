@@ -2,7 +2,7 @@
     "meta": {
         "region": "butcher_block",
         "stub": "hangover_helper",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v3",

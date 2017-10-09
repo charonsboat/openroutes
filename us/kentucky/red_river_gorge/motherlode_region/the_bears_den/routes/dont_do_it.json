@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_bears_den",
         "stub": "dont_do_it",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.2",

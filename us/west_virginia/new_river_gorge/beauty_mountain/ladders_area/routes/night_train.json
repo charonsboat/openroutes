@@ -2,7 +2,7 @@
     "meta": {
         "region": "ladders_area",
         "stub": "night_train",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",

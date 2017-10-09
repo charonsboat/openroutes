@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_zoo",
         "stub": "lynx_jinx",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "ceiling_block",
         "stub": "bastards_edge",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v3",

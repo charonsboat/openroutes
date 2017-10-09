@@ -2,7 +2,7 @@
     "meta": {
         "region": "military_wall",
         "stub": "things_that_go_bump_in_the_night",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

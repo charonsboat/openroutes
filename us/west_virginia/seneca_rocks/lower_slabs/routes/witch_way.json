@@ -2,7 +2,7 @@
     "meta": {
         "region": "lower_slabs",
         "stub": "witch_way",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10c",

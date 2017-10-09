@@ -2,7 +2,7 @@
     "meta": {
         "region": "greenblock",
         "stub": "morning_stroller",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v3",

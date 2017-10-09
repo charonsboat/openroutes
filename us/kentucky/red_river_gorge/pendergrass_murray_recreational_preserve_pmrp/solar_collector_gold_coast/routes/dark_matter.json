@@ -2,7 +2,7 @@
     "meta": {
         "region": "solar_collector_gold_coast",
         "stub": "dark_matter",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

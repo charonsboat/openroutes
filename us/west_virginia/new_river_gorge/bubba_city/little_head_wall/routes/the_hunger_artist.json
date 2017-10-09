@@ -2,7 +2,7 @@
     "meta": {
         "region": "little_head_wall",
         "stub": "the_hunger_artist",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10b",

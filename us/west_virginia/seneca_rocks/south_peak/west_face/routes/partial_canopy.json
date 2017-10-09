@@ -2,7 +2,7 @@
     "meta": {
         "region": "west_face",
         "stub": "partial_canopy",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d r",

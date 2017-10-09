@@ -2,7 +2,7 @@
     "meta": {
         "region": "monastery",
         "stub": "lounge_lizard",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

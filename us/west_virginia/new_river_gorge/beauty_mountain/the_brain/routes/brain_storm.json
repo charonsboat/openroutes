@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_brain",
         "stub": "brain_storm",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

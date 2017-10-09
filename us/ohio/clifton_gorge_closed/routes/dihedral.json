@@ -2,7 +2,7 @@
     "meta": {
         "region": "clifton_gorge_closed",
         "stub": "dihedral",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11",

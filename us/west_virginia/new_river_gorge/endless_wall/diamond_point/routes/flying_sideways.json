@@ -2,7 +2,7 @@
     "meta": {
         "region": "diamond_point",
         "stub": "flying_sideways",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "lumpy_wall",
         "stub": "hildas_crack",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

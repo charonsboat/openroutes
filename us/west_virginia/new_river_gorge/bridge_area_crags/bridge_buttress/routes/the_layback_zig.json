@@ -2,7 +2,7 @@
     "meta": {
         "region": "bridge_buttress",
         "stub": "the_layback_zig",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

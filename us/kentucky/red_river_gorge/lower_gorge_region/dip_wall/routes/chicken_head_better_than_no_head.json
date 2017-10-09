@@ -2,7 +2,7 @@
     "meta": {
         "region": "dip_wall",
         "stub": "chicken_head_better_than_no_head",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10a r",

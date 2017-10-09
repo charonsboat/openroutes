@@ -2,7 +2,7 @@
     "meta": {
         "region": "look_whos_pulling_area",
         "stub": "casper_says_boo",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

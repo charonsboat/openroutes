@@ -2,7 +2,7 @@
     "meta": {
         "region": "camp_store_crag",
         "stub": "store",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10c",

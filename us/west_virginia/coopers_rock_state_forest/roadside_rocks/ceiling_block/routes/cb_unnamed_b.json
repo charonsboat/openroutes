@@ -2,7 +2,7 @@
     "meta": {
         "region": "ceiling_block",
         "stub": "cb_unnamed_b",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8",

@@ -2,7 +2,7 @@
     "meta": {
         "region": "tattoo_wall",
         "stub": "plumbers_crack",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.6",

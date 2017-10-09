@@ -2,7 +2,7 @@
     "meta": {
         "region": "left_field",
         "stub": "return_to_zoe",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.6",

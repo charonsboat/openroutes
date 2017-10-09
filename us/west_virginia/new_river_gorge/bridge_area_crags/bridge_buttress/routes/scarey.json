@@ -2,7 +2,7 @@
     "meta": {
         "region": "bridge_buttress",
         "stub": "scarey",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

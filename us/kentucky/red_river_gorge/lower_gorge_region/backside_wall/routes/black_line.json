@@ -2,7 +2,7 @@
     "meta": {
         "region": "backside_wall",
         "stub": "black_line",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

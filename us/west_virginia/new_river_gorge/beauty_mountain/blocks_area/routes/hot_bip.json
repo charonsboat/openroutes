@@ -2,7 +2,7 @@
     "meta": {
         "region": "blocks_area",
         "stub": "hot_bip",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

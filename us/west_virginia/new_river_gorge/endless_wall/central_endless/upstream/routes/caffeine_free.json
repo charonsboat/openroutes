@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "caffeine_free",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.9",

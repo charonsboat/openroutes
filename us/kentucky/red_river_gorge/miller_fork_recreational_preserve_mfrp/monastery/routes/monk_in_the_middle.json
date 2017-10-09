@@ -2,7 +2,7 @@
     "meta": {
         "region": "monastery",
         "stub": "monk_in_the_middle",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

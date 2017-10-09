@@ -2,7 +2,7 @@
     "meta": {
         "region": "star_trek_wall",
         "stub": "tractor_beam",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.8 r",

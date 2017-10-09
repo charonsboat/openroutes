@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_record_shop",
         "stub": "hitch_a_ride",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

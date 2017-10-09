@@ -2,7 +2,7 @@
     "meta": {
         "region": "eastern_skybridge_ridge",
         "stub": "jack_in_the_pulpit",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10d",

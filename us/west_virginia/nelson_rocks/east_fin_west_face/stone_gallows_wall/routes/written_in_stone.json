@@ -2,7 +2,7 @@
     "meta": {
         "region": "stone_gallows_wall",
         "stub": "written_in_stone",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11c",

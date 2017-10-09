@@ -2,7 +2,7 @@
     "meta": {
         "region": "contact_zone",
         "stub": "dynosaurus",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12a",

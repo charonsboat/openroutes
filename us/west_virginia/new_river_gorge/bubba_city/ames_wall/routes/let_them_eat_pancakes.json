@@ -2,7 +2,7 @@
     "meta": {
         "region": "ames_wall",
         "stub": "let_them_eat_pancakes",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10b",

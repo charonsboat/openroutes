@@ -2,7 +2,7 @@
     "meta": {
         "region": "west_face",
         "stub": "sidewinder",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11a",

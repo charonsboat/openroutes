@@ -2,7 +2,7 @@
     "meta": {
         "region": "the_roc",
         "stub": "robs_route",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

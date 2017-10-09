@@ -2,7 +2,7 @@
     "meta": {
         "region": "pirates_cove",
         "stub": "another_name_for_pirate_treasure",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11d",

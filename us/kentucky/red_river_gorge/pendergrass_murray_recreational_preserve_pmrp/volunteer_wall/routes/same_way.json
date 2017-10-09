@@ -2,7 +2,7 @@
     "meta": {
         "region": "volunteer_wall",
         "stub": "same_way",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.11b",

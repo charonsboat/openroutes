@@ -2,7 +2,7 @@
     "meta": {
         "region": "upstream",
         "stub": "stoats_escape",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.4",

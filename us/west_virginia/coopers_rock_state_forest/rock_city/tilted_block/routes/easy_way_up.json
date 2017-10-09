@@ -2,7 +2,7 @@
     "meta": {
         "region": "tilted_block",
         "stub": "easy_way_up",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "v0-",

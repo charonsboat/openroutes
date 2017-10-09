@@ -2,7 +2,7 @@
     "meta": {
         "region": "michelin_man_area",
         "stub": "bubba_black_sheep",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12c",

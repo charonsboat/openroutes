@@ -2,7 +2,7 @@
     "meta": {
         "region": "west_face",
         "stub": "burn_escape",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "",

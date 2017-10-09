@@ -2,7 +2,7 @@
     "meta": {
         "region": "downstream",
         "stub": "the_glass_onion",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10b",

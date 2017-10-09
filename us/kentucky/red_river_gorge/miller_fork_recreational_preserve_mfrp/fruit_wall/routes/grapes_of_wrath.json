@@ -2,7 +2,7 @@
     "meta": {
         "region": "fruit_wall",
         "stub": "grapes_of_wrath",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.13",

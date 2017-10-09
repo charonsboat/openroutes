@@ -2,7 +2,7 @@
     "meta": {
         "region": "tectonic_wall",
         "stub": "plate_tectonics",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.10a",

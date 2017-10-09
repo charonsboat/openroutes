@@ -2,7 +2,7 @@
     "meta": {
         "region": "diamond_life_area",
         "stub": "into_the_fire",
-        "type": "region"
+        "type": "route"
     },
     "info": {
         "grade": "5.12b",
