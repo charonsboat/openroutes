@@ -1,10 +1,10 @@
 {
     "meta": {
         "parent": "west_virginia",
-        "stub": "seneca",
+        "stub": "seneca_rocks",
         "type": "region"
     },
     "info": {
-        "name": "Seneca"
+        "name": "Seneca Rocks"
     }
 }

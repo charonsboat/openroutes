@@ -1,6 +1,6 @@
 {
     "meta": {
-        "parent": "seneca",
+        "parent": "seneca_rocks",
         "stub": "the_south_end",
         "type": "region"
     },
