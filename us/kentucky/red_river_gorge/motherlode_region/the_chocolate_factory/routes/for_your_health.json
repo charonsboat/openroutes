@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "for_your_health",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "For Your Health",
+        "types": [
+            "sport"
+        ]
+    }
+}

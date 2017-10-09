@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "secret_garden",
+        "stub": "spork",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Spork",
+        "types": [
+            "mixed"
+        ]
+    }
+}

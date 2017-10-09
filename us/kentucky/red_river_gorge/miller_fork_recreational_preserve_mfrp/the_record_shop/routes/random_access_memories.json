@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_record_shop",
+        "stub": "random_access_memories",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Random Access Memories",
+        "types": [
+            "sport"
+        ]
+    }
+}

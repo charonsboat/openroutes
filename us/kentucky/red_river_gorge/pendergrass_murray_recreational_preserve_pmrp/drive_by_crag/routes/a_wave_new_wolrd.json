@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "a_wave_new_wolrd",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "A Wave New Wolrd",
+        "types": [
+            "sport"
+        ]
+    }
+}

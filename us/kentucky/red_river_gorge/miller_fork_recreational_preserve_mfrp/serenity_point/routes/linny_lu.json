@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "serenity_point",
+        "stub": "linny_lu",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Linny Lu",
+        "types": [
+            "sport"
+        ]
+    }
+}

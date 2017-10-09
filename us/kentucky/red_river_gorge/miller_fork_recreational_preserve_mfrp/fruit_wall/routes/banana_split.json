@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "banana_split",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Banana Split",
+        "types": [
+            "sport"
+        ]
+    }
+}

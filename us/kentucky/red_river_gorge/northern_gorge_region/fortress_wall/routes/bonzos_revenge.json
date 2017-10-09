@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fortress_wall",
+        "stub": "bonzos_revenge",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "bonzo's revenge",
+        "types": [
+            "unknown"
+        ]
+    }
+}

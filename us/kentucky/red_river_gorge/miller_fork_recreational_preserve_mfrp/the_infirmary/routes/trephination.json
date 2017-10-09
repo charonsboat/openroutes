@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_infirmary",
+        "stub": "trephination",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Trephination",
+        "types": [
+            "sport"
+        ]
+    }
+}

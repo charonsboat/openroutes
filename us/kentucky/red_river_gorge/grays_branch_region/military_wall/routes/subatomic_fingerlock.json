@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "subatomic_fingerlock",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Subatomic Fingerlock",
+        "types": [
+            "trad"
+        ]
+    }
+}

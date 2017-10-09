@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "the_high_hard_one",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "The High Hard One",
+        "types": [
+            "sport"
+        ]
+    }
+}

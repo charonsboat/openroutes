@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pinch_em_tight_ridge",
+        "stub": "bungle_through_the_jungle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Bungle Through the Jungle",
+        "types": [
+            "trad"
+        ]
+    }
+}

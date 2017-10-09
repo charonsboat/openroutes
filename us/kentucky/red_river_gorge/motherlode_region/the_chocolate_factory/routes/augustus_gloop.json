@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "augustus_gloop",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Augustus Gloop",
+        "types": [
+            "sport"
+        ]
+    }
+}

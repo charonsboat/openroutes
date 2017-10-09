@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_infirmary",
+        "stub": "typhoid_mary",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Typhoid Mary",
+        "types": [
+            "sport"
+        ]
+    }
+}

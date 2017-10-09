@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pebble_beach",
+        "stub": "high_noon",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "High Noon",
+        "types": [
+            "unknown"
+        ]
+    }
+}

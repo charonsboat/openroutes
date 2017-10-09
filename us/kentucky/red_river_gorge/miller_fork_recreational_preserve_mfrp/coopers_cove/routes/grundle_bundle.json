@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coopers_cove",
+        "stub": "grundle_bundle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Grundle Bundle",
+        "types": [
+            "sport"
+        ]
+    }
+}

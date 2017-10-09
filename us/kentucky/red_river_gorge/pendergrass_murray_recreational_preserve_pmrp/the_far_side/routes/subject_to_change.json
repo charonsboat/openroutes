@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_far_side",
+        "stub": "subject_to_change",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Subject to Change",
+        "types": [
+            "sport"
+        ]
+    }
+}

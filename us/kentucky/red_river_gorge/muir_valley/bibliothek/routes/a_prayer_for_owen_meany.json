@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bibliothek",
+        "stub": "a_prayer_for_owen_meany",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "A Prayer for Owen Meany",
+        "types": [
+            "trad"
+        ]
+    }
+}

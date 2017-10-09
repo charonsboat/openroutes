@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "funk_rock_city",
+        "stub": "rite_of_passage",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Rite of Passage",
+        "types": [
+            "trad"
+        ]
+    }
+}

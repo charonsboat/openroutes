@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "left_flank",
+        "stub": "too_many_puppies",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Too Many Puppies",
+        "types": [
+            "sport"
+        ]
+    }
+}

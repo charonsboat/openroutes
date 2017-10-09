@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "funk_rock_city",
+        "stub": "frugal_chariot",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Frugal Chariot",
+        "types": [
+            "sport"
+        ]
+    }
+}

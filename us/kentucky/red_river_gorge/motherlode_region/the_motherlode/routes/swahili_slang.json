@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "swahili_slang",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Swahili Slang",
+        "types": [
+            "sport"
+        ]
+    }
+}

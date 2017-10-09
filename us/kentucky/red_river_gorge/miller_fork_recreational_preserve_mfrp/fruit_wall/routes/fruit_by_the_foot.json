@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "fruit_by_the_foot",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Fruit by the Foot",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "in_the_light",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "In the Light",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_sanctuary",
+        "stub": "hoosier_boys",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Hoosier Boys",
+        "types": [
+            "sport"
+        ]
+    }
+}

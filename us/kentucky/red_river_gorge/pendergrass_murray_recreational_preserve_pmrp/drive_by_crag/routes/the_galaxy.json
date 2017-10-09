@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "the_galaxy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "The Galaxy",
+        "types": [
+            "sport"
+        ]
+    }
+}

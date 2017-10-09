@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "animal_crackers",
+        "stub": "much_ado_about_nothing",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Much Ado About Nothing",
+        "types": [
+            "sport"
+        ]
+    }
+}

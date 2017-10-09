@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_sanctuary",
+        "stub": "cherry_red",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.14a",
+        "name": "Cherry Red",
+        "types": [
+            "sport"
+        ]
+    }
+}

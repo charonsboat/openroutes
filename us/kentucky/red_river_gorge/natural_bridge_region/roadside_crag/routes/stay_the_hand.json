@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "stay_the_hand",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Stay the Hand",
+        "types": [
+            "sport"
+        ]
+    }
+}

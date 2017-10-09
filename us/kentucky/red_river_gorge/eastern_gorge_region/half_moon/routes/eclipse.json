@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "half_moon",
+        "stub": "eclipse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Eclipse",
+        "types": [
+            "unknown"
+        ]
+    }
+}

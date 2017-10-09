@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "golden_snow_cone",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Golden Snow Cone",
+        "types": [
+            "sport"
+        ]
+    }
+}

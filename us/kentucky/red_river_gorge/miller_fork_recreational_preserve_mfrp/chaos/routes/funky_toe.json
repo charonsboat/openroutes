@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chaos",
+        "stub": "funky_toe",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Funky Toe",
+        "types": [
+            "sport"
+        ]
+    }
+}

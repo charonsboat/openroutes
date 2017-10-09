@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_infirmary",
+        "stub": "brachial_plexus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Brachial Plexus",
+        "types": [
+            "sport"
+        ]
+    }
+}

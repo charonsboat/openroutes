@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "purgatory",
+        "stub": "fallen_angel",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Fallen Angel",
+        "types": [
+            "trad"
+        ]
+    }
+}

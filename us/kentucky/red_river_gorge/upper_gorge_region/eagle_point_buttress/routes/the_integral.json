@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eagle_point_buttress",
+        "stub": "the_integral",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "The Integral",
+        "types": [
+            "unknown"
+        ]
+    }
+}

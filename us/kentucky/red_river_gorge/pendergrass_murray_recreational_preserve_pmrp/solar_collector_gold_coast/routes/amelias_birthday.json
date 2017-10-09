@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "amelias_birthday",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Amelia's Birthday",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dawson_bluffs",
+        "stub": "skeltar",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11+",
+        "name": "Skeltar",
+        "types": [
+            "unknown"
+        ]
+    }
+}

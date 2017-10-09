@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bowling_alley",
+        "stub": "expresso",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Expresso",
+        "types": [
+            "sport"
+        ]
+    }
+}

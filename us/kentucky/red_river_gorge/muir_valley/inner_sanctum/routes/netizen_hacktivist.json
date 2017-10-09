@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "inner_sanctum",
+        "stub": "netizen_hacktivist",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Netizen Hacktivist",
+        "types": [
+            "sport"
+        ]
+    }
+}

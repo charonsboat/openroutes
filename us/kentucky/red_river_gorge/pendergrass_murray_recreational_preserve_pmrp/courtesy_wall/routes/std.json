@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "courtesy_wall",
+        "stub": "std",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "STD",
+        "types": [
+            "sport"
+        ]
+    }
+}

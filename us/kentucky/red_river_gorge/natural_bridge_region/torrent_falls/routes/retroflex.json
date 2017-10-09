@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "torrent_falls",
+        "stub": "retroflex",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Retroflex",
+        "types": [
+            "trad"
+        ]
+    }
+}

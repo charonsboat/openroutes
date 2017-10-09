@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "monastery",
+        "stub": "barking_dogmas",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Barking Dogmas",
+        "types": [
+            "sport"
+        ]
+    }
+}

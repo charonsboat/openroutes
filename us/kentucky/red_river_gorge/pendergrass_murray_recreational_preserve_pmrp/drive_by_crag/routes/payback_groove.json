@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "payback_groove",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Payback & Groove",
+        "types": [
+            "sport"
+        ]
+    }
+}

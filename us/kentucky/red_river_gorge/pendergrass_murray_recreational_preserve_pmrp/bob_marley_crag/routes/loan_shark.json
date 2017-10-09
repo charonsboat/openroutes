@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bob_marley_crag",
+        "stub": "loan_shark",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Loan Shark",
+        "types": [
+            "trad"
+        ]
+    }
+}

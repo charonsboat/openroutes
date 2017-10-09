@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "secret_garden",
+        "stub": "nilbog_night_life",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Nilbog Night Life",
+        "types": [
+            "sport"
+        ]
+    }
+}

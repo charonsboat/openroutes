@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "be_my_yoko_ono",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Be My Yoko Ono",
+        "types": [
+            "sport"
+        ]
+    }
+}

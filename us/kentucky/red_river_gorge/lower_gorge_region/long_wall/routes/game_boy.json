@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "game_boy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Game Boy",
+        "types": [
+            "sport"
+        ]
+    }
+}

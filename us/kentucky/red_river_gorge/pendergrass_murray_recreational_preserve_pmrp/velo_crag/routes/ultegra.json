@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "velo_crag",
+        "stub": "ultegra",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Ultegra",
+        "types": [
+            "sport"
+        ]
+    }
+}

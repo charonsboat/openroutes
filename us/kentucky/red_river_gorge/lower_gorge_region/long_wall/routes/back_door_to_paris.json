@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "back_door_to_paris",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Back Door to Paris",
+        "types": [
+            "sport"
+        ]
+    }
+}

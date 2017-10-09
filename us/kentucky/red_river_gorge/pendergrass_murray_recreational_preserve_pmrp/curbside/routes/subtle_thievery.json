@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "curbside",
+        "stub": "subtle_thievery",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Subtle Thievery",
+        "types": [
+            "sport"
+        ]
+    }
+}

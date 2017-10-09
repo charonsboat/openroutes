@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "7_11",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "7-11",
+        "types": [
+            "sport"
+        ]
+    }
+}

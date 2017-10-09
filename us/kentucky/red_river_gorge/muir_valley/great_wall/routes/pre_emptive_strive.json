@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "great_wall",
+        "stub": "pre_emptive_strive",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Pre-emptive Strive",
+        "types": [
+            "sport"
+        ]
+    }
+}

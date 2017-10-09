@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "midnight_surf",
+        "stub": "the_crucible",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "The Crucible",
+        "types": [
+            "sport"
+        ]
+    }
+}

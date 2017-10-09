@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solarium",
+        "stub": "so_long_mr_petey",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "So Long Mr Petey",
+        "types": [
+            "sport"
+        ]
+    }
+}

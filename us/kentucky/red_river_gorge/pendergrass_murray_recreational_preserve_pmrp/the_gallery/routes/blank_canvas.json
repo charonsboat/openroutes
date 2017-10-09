@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "blank_canvas",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Blank Canvas",
+        "types": [
+            "sport"
+        ]
+    }
+}

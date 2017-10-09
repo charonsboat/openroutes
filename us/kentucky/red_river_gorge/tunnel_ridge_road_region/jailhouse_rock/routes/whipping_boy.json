@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "jailhouse_rock",
+        "stub": "whipping_boy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Whipping Boy",
+        "types": [
+            "sport"
+        ]
+    }
+}

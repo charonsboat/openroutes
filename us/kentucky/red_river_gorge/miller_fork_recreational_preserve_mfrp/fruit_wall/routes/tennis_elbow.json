@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "tennis_elbow",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Tennis Elbow",
+        "types": [
+            "trad"
+        ]
+    }
+}

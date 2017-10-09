@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "johnnys_wall",
+        "stub": "grey_matter",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Grey Matter",
+        "types": [
+            "sport"
+        ]
+    }
+}

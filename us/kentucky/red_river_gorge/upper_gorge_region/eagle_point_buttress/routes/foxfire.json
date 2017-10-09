@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eagle_point_buttress",
+        "stub": "foxfire",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Foxfire",
+        "types": [
+            "unknown"
+        ]
+    }
+}

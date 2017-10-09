@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bright_side",
+        "stub": "lomm",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "LOMM",
+        "types": [
+            "sport"
+        ]
+    }
+}

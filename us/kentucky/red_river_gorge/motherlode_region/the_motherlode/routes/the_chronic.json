@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "the_chronic",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "The Chronic",
+        "types": [
+            "sport"
+        ]
+    }
+}

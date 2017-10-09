@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "the_shocker",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.14b",
+        "name": "The Shocker",
+        "types": [
+            "sport"
+        ]
+    }
+}

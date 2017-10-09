@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "kentucky",
+        "stub": "pennyrile_state_park",
+        "type": "region"
+    },
+    "info": {
+        "name": "Pennyrile State Park"
+    }
+}

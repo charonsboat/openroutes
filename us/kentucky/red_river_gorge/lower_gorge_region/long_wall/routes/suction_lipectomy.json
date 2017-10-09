@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "suction_lipectomy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Suction Lipectomy",
+        "types": [
+            "trad"
+        ]
+    }
+}

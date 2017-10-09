@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "sams_boy_toy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Sams Boy Toy",
+        "types": [
+            "sport"
+        ]
+    }
+}

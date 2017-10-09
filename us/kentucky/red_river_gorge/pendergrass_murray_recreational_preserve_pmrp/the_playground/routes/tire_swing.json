@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_playground",
+        "stub": "tire_swing",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Tire Swing",
+        "types": [
+            "sport"
+        ]
+    }
+}

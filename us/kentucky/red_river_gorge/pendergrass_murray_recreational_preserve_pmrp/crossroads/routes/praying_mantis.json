@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "praying_mantis",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Praying Mantis",
+        "types": [
+            "sport"
+        ]
+    }
+}

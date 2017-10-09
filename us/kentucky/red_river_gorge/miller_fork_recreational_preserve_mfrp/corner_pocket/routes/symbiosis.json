@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "corner_pocket",
+        "stub": "symbiosis",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "Symbiosis",
+        "types": [
+            "mixed"
+        ]
+    }
+}

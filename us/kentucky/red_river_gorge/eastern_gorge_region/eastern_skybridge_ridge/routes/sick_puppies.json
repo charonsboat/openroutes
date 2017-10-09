@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eastern_skybridge_ridge",
+        "stub": "sick_puppies",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Sick Puppies",
+        "types": [
+            "sport"
+        ]
+    }
+}

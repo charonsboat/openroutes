@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunnyside",
+        "stub": "dog_wars",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12",
+        "name": "Dog Wars",
+        "types": [
+            "mixed"
+        ]
+    }
+}

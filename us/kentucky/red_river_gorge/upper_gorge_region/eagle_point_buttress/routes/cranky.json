@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eagle_point_buttress",
+        "stub": "cranky",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Cranky",
+        "types": [
+            "unknown"
+        ]
+    }
+}

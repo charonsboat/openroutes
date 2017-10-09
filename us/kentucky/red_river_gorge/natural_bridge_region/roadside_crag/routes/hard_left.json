@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "hard_left",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Hard Left",
+        "types": [
+            "unknown"
+        ]
+    }
+}

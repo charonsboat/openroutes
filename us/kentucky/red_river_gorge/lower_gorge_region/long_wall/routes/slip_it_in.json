@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "slip_it_in",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Slip it in",
+        "types": [
+            "sport"
+        ]
+    }
+}

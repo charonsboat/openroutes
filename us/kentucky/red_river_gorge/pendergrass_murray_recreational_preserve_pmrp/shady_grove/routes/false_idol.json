@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "shady_grove",
+        "stub": "false_idol",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "False Idol",
+        "types": [
+            "sport"
+        ]
+    }
+}

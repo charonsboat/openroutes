@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "devil_made_me_do_it",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Devil Made Me Do It",
+        "types": [
+            "sport"
+        ]
+    }
+}

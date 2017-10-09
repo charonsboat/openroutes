@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "oil_crack_rock",
+        "stub": "blankety_blank",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Blankety Blank",
+        "types": [
+            "sport"
+        ]
+    }
+}

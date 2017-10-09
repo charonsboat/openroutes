@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "practice_wall",
+        "stub": "short_and_sweet",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Short and Sweet",
+        "types": [
+            "trad"
+        ]
+    }
+}

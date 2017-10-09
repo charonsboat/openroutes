@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "volunteer_wall",
+        "stub": "johnny_on_roofies",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Johnny on Roofies",
+        "types": [
+            "sport"
+        ]
+    }
+}

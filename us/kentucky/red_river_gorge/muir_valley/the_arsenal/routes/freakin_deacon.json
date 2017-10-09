@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arsenal",
+        "stub": "freakin_deacon",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Freakin' Deacon",
+        "types": [
+            "sport"
+        ]
+    }
+}

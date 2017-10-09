@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "short_by_a_foot",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Short by a Foot",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "leave_it_to_beavis",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Leave it to Beavis",
+        "types": [
+            "sport"
+        ]
+    }
+}

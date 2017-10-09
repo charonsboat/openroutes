@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "half_moon",
+        "stub": "initiation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "Initiation",
+        "types": [
+            "unknown"
+        ]
+    }
+}

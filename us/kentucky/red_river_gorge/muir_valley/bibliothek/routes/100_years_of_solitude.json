@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bibliothek",
+        "stub": "100_years_of_solitude",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "100 Years of Solitude",
+        "types": [
+            "sport"
+        ]
+    }
+}

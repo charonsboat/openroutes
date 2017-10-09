@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "eastern_gorge_region",
+        "stub": "eastern_skybridge_ridge",
+        "type": "region"
+    },
+    "info": {
+        "name": "Eastern Skybridge Ridge"
+    }
+}

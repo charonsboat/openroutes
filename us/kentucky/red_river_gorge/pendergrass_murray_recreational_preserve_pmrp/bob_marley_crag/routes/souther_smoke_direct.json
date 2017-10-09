@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bob_marley_crag",
+        "stub": "souther_smoke_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.15a",
+        "name": "Souther Smoke Direct",
+        "types": [
+            "sport"
+        ]
+    }
+}

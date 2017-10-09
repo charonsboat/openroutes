@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "left_field",
+        "stub": "flee_from_fixer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Flee From Fixer",
+        "types": [
+            "trad"
+        ]
+    }
+}

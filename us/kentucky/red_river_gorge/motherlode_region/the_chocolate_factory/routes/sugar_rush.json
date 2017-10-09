@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "sugar_rush",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Sugar Rush",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bibliothek",
+        "stub": "who_pooped_in_the_park",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Who Pooped in the Park?",
+        "types": [
+            "sport"
+        ]
+    }
+}

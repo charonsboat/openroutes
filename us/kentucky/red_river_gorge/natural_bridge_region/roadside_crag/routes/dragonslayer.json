@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "dragonslayer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Dragonslayer",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_infirmary",
+        "stub": "diminished_gluteal_syndrome",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Diminished Gluteal Syndrome",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "torrent_falls",
+        "stub": "us_and_them",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Us and Them",
+        "types": [
+            "sport"
+        ]
+    }
+}

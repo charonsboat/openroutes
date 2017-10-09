@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "deep_end",
+        "stub": "adult_swim",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Adult Swim",
+        "types": [
+            "sport"
+        ]
+    }
+}

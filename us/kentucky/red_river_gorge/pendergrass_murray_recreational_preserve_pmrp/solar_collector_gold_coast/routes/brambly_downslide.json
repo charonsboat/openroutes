@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "brambly_downslide",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Brambly Downslide",
+        "types": [
+            "sport"
+        ]
+    }
+}

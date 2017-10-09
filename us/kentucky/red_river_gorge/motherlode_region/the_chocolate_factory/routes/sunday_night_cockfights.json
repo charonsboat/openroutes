@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "sunday_night_cockfights",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Sunday Night Cockfights",
+        "types": [
+            "sport"
+        ]
+    }
+}

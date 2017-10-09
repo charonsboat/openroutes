@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "fourty_ounces_of_justice",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Fourty Ounces of Justice",
+        "types": [
+            "sport"
+        ]
+    }
+}

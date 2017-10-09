@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_record_shop",
+        "stub": "record_shop",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.14a",
+        "name": "Record Shop",
+        "types": [
+            "sport"
+        ]
+    }
+}

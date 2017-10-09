@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "a1a",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "A1A",
+        "types": [
+            "sport"
+        ]
+    }
+}

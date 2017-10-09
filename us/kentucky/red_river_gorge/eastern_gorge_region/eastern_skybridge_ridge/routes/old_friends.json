@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eastern_skybridge_ridge",
+        "stub": "old_friends",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Old Friends",
+        "types": [
+            "trad"
+        ]
+    }
+}

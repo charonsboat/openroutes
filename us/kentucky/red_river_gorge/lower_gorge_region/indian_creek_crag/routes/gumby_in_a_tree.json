@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "indian_creek_crag",
+        "stub": "gumby_in_a_tree",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Gumby In A Tree",
+        "types": [
+            "unknown"
+        ]
+    }
+}

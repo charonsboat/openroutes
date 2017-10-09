@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "courtesy_wall",
+        "stub": "aural_pleasure",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Aural Pleasure",
+        "types": [
+            "sport"
+        ]
+    }
+}

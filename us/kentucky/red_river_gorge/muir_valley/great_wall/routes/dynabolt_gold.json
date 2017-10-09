@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "great_wall",
+        "stub": "dynabolt_gold",
+        "type": "region"
+    },
+    "info": {
+        "grade": "{au} yds:5.10a",
+        "name": "Dynabolt Gold",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "muscle_beach",
+        "stub": "trouble",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Trouble",
+        "types": [
+            "unknown"
+        ]
+    }
+}

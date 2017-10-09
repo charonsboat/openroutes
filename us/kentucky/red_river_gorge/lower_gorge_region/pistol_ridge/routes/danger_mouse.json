@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pistol_ridge",
+        "stub": "danger_mouse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "danger mouse",
+        "types": [
+            "unknown"
+        ]
+    }
+}

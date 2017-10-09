@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_cove",
+        "stub": "kryptonite",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v6",
+        "name": "Kryptonite",
+        "types": [
+            "boulder"
+        ]
+    }
+}

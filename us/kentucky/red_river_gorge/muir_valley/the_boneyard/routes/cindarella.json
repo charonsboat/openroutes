@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_boneyard",
+        "stub": "cindarella",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Cindarella",
+        "types": [
+            "sport"
+        ]
+    }
+}

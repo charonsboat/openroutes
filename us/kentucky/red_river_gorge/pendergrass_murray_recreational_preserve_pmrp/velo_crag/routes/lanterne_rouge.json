@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "velo_crag",
+        "stub": "lanterne_rouge",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Lanterne Rouge",
+        "types": [
+            "sport"
+        ]
+    }
+}

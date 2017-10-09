@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arsenal",
+        "stub": "picador",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Picador",
+        "types": [
+            "sport"
+        ]
+    }
+}

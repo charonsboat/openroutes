@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "beer_belly_boulder_problem",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Beer Belly / Boulder Problem",
+        "types": [
+            "sport"
+        ]
+    }
+}

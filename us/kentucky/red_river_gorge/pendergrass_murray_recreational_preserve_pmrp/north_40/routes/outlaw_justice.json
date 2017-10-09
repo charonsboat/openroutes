@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "north_40",
+        "stub": "outlaw_justice",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Outlaw Justice",
+        "types": [
+            "sport"
+        ]
+    }
+}

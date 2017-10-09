@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_sanctuary",
+        "stub": "triple_sec_aka_50_bucks",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Triple Sec (aka 50 bucks)",
+        "types": [
+            "sport"
+        ]
+    }
+}

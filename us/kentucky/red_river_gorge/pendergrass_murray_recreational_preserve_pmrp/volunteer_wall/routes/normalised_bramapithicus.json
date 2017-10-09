@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "volunteer_wall",
+        "stub": "normalised_bramapithicus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Normalised Bramapithicus",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "gi_joe_project",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12",
+        "name": "G.I. Joe Project",
+        "types": [
+            "sport"
+        ]
+    }
+}

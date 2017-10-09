@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_infirmary",
+        "stub": "pre_op",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Pre-op",
+        "types": [
+            "sport"
+        ]
+    }
+}

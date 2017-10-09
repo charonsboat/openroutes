@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "old_school_chocolate",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Old School Chocolate",
+        "types": [
+            "trad"
+        ]
+    }
+}

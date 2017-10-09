@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_playground",
+        "stub": "octopus_tag",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Octopus Tag",
+        "types": [
+            "trad"
+        ]
+    }
+}

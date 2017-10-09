@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "land_before_time_wall",
+        "stub": "watering_hole",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Watering Hole",
+        "types": [
+            "sport"
+        ]
+    }
+}

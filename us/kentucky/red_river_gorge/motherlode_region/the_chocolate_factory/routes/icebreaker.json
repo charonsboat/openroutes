@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "icebreaker",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Icebreaker",
+        "types": [
+            "sport"
+        ]
+    }
+}

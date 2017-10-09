@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "conkle_donkle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Conkle Donkle",
+        "types": [
+            "sport"
+        ]
+    }
+}

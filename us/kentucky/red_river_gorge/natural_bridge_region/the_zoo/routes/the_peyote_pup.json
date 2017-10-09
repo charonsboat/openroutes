@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_zoo",
+        "stub": "the_peyote_pup",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "The Peyote Pup",
+        "types": [
+            "sport"
+        ]
+    }
+}

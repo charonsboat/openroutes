@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "amish_whoopie_cushion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Amish Whoopie Cushion",
+        "types": [
+            "sport"
+        ]
+    }
+}

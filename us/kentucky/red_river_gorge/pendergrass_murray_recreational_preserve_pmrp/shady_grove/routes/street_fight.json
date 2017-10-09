@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "shady_grove",
+        "stub": "street_fight",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Street Fight",
+        "types": [
+            "sport"
+        ]
+    }
+}

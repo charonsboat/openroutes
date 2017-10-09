@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_playground",
+        "stub": "balance_beam",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Balance Beam",
+        "types": [
+            "sport"
+        ]
+    }
+}

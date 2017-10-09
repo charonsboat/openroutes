@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "secret_garden",
+        "stub": "rememberbuilding7org",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Rememberbuilding7.org",
+        "types": [
+            "sport"
+        ]
+    }
+}

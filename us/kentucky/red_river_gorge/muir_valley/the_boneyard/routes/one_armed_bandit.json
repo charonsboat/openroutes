@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_boneyard",
+        "stub": "one_armed_bandit",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "One-Armed Bandit",
+        "types": [
+            "sport"
+        ]
+    }
+}

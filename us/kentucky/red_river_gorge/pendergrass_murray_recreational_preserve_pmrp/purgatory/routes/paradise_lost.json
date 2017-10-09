@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "purgatory",
+        "stub": "paradise_lost",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Paradise Lost",
+        "types": [
+            "sport"
+        ]
+    }
+}

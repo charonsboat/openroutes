@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "global_village",
+        "stub": "the_frayed_ends_of_sanity",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "The Frayed Ends of Sanity",
+        "types": [
+            "sport"
+        ]
+    }
+}

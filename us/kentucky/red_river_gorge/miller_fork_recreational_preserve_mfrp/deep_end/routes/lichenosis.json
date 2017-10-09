@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "deep_end",
+        "stub": "lichenosis",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Lichenosis",
+        "types": [
+            "sport"
+        ]
+    }
+}

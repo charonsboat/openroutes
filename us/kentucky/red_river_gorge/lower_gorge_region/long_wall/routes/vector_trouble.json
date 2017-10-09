@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "vector_trouble",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Vector Trouble",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "animal_crackers",
+        "stub": "rikki_tikki_tavi",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Rikki Tikki Tavi",
+        "types": [
+            "sport"
+        ]
+    }
+}

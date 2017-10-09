@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bruise_brothers_wall",
+        "stub": "critters_on_the_cliff",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Critters on the Cliff",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "oil_crack_rock",
+        "stub": "doughbelly",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Doughbelly",
+        "types": [
+            "sport"
+        ]
+    }
+}

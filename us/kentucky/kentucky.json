@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "us",
+        "stub": "kentucky",
+        "type": "region"
+    },
+    "info": {
+        "name": "Kentucky"
+    }
+}

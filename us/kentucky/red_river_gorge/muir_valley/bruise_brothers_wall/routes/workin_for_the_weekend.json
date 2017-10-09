@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bruise_brothers_wall",
+        "stub": "workin_for_the_weekend",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Workin' for the Weekend",
+        "types": [
+            "sport"
+        ]
+    }
+}

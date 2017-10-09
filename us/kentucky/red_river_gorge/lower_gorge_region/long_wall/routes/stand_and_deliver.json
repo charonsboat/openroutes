@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "stand_and_deliver",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Stand and Deliver",
+        "types": [
+            "sport"
+        ]
+    }
+}

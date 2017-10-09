@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "phantasia",
+        "stub": "count_floyd_show",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Count Floyd Show",
+        "types": [
+            "sport"
+        ]
+    }
+}

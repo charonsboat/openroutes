@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "melon_baller",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Melon Baller",
+        "types": [
+            "sport"
+        ]
+    }
+}

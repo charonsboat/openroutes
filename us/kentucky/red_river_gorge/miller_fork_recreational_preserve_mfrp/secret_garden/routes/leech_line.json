@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "secret_garden",
+        "stub": "leech_line",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Leech Line",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "when_rats_attack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "When Rats Attack",
+        "types": [
+            "sport"
+        ]
+    }
+}

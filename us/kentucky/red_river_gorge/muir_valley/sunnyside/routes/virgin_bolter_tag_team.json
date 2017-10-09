@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunnyside",
+        "stub": "virgin_bolter_tag_team",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Virgin Bolter Tag Team",
+        "types": [
+            "sport"
+        ]
+    }
+}

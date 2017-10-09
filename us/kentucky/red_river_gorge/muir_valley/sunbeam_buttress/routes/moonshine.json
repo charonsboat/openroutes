@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunbeam_buttress",
+        "stub": "moonshine",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Moonshine",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "rules_of_engagement",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Rules of Engagement",
+        "types": [
+            "sport"
+        ]
+    }
+}

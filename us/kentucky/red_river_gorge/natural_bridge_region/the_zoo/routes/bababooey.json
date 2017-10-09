@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_zoo",
+        "stub": "bababooey",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "BabaBooey",
+        "types": [
+            "sport"
+        ]
+    }
+}

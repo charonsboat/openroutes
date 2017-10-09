@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "texas_tea",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Texas Tea",
+        "types": [
+            "trad"
+        ]
+    }
+}

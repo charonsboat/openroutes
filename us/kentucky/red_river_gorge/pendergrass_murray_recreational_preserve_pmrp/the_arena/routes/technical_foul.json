@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arena",
+        "stub": "technical_foul",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Technical Foul",
+        "types": [
+            "unknown"
+        ]
+    }
+}

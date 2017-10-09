@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eagle_point_buttress",
+        "stub": "southern_hospitality",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Southern Hospitality",
+        "types": [
+            "unknown"
+        ]
+    }
+}

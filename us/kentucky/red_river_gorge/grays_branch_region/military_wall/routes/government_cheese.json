@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "government_cheese",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Government Cheese",
+        "types": [
+            "sport"
+        ]
+    }
+}

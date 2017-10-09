@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "wonkaholic",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Wonkaholic",
+        "types": [
+            "sport"
+        ]
+    }
+}

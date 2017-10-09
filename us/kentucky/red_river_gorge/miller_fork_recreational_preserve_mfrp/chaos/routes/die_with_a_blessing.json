@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chaos",
+        "stub": "die_with_a_blessing",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Die With a Blessing",
+        "types": [
+            "sport"
+        ]
+    }
+}

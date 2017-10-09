@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "sojourner_truth",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Sojourner Truth",
+        "types": [
+            "sport"
+        ]
+    }
+}

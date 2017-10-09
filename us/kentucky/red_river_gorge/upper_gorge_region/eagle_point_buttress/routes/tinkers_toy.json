@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eagle_point_buttress",
+        "stub": "tinkers_toy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Tinker's Toy",
+        "types": [
+            "unknown"
+        ]
+    }
+}

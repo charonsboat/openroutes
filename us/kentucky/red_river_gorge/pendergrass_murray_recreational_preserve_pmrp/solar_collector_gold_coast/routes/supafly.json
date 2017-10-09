@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "supafly",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Supafly",
+        "types": [
+            "sport"
+        ]
+    }
+}

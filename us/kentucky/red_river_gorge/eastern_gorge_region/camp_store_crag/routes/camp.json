@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "camp_store_crag",
+        "stub": "camp",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Camp",
+        "types": [
+            "sport"
+        ]
+    }
+}

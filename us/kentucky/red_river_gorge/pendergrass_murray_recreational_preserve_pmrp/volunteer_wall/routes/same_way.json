@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "volunteer_wall",
+        "stub": "same_way",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Same Way",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "das_krue",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Das Krue",
+        "types": [
+            "sport"
+        ]
+    }
+}

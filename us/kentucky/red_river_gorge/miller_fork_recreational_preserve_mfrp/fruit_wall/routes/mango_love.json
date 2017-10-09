@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "mango_love",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Mango Love",
+        "types": [
+            "sport"
+        ]
+    }
+}

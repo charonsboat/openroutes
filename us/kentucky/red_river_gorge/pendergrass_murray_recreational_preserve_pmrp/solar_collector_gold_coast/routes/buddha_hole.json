@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "buddha_hole",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Buddha Hole",
+        "types": [
+            "sport"
+        ]
+    }
+}

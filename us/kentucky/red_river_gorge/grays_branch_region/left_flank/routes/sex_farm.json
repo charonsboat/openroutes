@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "left_flank",
+        "stub": "sex_farm",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Sex Farm",
+        "types": [
+            "sport"
+        ]
+    }
+}

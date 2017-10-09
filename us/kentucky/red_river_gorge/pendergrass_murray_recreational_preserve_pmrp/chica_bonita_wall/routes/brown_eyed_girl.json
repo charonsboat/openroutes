@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "brown_eyed_girl",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Brown-Eyed Girl",
+        "types": [
+            "sport"
+        ]
+    }
+}

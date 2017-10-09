@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lumpy_wall",
+        "stub": "sensible_shoes",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c r",
+        "name": "Sensible Shoes",
+        "types": [
+            "unknown"
+        ]
+    }
+}

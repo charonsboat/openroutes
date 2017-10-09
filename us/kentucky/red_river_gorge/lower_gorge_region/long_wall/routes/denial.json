@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "denial",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Denial",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "chucklehead",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Chucklehead",
+        "types": [
+            "sport"
+        ]
+    }
+}

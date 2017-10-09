@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "kazi_and_mito",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Kazi and Mito",
+        "types": [
+            "sport"
+        ]
+    }
+}

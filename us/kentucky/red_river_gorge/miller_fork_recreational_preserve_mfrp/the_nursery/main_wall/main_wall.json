@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "the_nursery",
+        "stub": "main_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Main Wall"
+    }
+}

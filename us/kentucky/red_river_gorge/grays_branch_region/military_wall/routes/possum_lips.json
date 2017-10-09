@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "possum_lips",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Possum Lips",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "the_mad_hatters_tea_party",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "The Mad Hatter's Tea Party",
+        "types": [
+            "trad"
+        ]
+    }
+}

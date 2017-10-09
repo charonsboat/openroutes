@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "poppin_cherries",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Poppin Cherries",
+        "types": [
+            "sport"
+        ]
+    }
+}

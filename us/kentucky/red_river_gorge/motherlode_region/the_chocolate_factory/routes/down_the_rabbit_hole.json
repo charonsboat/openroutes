@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "down_the_rabbit_hole",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Down The Rabbit Hole",
+        "types": [
+            "trad"
+        ]
+    }
+}

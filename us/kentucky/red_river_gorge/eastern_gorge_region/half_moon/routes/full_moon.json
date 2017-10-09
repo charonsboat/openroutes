@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "half_moon",
+        "stub": "full_moon",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Full Moon",
+        "types": [
+            "unknown"
+        ]
+    }
+}

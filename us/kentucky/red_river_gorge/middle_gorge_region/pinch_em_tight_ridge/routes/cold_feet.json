@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pinch_em_tight_ridge",
+        "stub": "cold_feet",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Cold Feet",
+        "types": [
+            "trad"
+        ]
+    }
+}

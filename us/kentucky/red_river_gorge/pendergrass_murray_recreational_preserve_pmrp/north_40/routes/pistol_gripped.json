@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "north_40",
+        "stub": "pistol_gripped",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Pistol Gripped",
+        "types": [
+            "mixed"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pendergrass_murray_recreational_preserve_pmrp",
+        "stub": "crossroads",
+        "type": "region"
+    },
+    "info": {
+        "name": "Crossroads"
+    }
+}

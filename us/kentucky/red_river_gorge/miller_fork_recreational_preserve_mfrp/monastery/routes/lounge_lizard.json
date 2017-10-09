@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "monastery",
+        "stub": "lounge_lizard",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Lounge Lizard",
+        "types": [
+            "sport"
+        ]
+    }
+}

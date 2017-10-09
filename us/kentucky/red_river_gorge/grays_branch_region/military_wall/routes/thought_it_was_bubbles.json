@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "thought_it_was_bubbles",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8 r",
+        "name": "Thought It Was Bubbles",
+        "types": [
+            "trad"
+        ]
+    }
+}

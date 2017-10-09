@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_infirmary",
+        "stub": "phantom_pain",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Phantom Pain",
+        "types": [
+            "sport"
+        ]
+    }
+}

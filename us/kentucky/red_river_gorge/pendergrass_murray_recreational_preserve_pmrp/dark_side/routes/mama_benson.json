@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dark_side",
+        "stub": "mama_benson",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Mama Benson",
+        "types": [
+            "unknown"
+        ]
+    }
+}

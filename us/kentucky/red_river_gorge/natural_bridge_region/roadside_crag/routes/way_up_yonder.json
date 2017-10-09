@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "way_up_yonder",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Way Up Yonder",
+        "types": [
+            "sport"
+        ]
+    }
+}

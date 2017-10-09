@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "whippoorwill",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Whippoorwill",
+        "types": [
+            "sport"
+        ]
+    }
+}

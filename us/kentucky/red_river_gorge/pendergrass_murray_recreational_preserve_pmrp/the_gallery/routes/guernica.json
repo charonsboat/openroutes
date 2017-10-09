@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "guernica",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Guernica",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "special_impetus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Special Impetus",
+        "types": [
+            "sport"
+        ]
+    }
+}

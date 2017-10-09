@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bronaugh_wall",
+        "stub": "two_women_alone",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Two Women Alone",
+        "types": [
+            "sport"
+        ]
+    }
+}

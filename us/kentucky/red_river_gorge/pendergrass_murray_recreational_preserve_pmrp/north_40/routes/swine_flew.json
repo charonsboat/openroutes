@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "north_40",
+        "stub": "swine_flew",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "Swine Flew",
+        "types": [
+            "sport"
+        ]
+    }
+}

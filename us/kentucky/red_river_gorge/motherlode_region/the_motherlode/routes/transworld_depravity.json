@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "transworld_depravity",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.14a",
+        "name": "Transworld Depravity",
+        "types": [
+            "sport"
+        ]
+    }
+}

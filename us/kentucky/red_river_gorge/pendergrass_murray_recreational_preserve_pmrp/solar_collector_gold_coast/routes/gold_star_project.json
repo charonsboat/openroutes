@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "gold_star_project",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "Gold Star Project",
+        "types": [
+            "unknown"
+        ]
+    }
+}

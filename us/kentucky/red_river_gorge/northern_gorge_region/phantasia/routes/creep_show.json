@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "phantasia",
+        "stub": "creep_show",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Creep Show",
+        "types": [
+            "sport"
+        ]
+    }
+}

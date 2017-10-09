@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "middle_small_wall",
+        "stub": "lactic_acid",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Lactic Acid",
+        "types": [
+            "unknown"
+        ]
+    }
+}

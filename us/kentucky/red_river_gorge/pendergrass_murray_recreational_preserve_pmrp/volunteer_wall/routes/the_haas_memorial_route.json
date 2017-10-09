@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "volunteer_wall",
+        "stub": "the_haas_memorial_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "The Haas Memorial Route",
+        "types": [
+            "unknown"
+        ]
+    }
+}

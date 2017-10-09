@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "secret_garden",
+        "stub": "lightning_zap",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Lightning Zap",
+        "types": [
+            "sport"
+        ]
+    }
+}

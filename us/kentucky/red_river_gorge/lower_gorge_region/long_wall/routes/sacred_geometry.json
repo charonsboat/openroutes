@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "sacred_geometry",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13c",
+        "name": "Sacred Geometry",
+        "types": [
+            "trad"
+        ]
+    }
+}

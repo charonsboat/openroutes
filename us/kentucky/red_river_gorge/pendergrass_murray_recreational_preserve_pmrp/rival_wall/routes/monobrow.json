@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rival_wall",
+        "stub": "monobrow",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Monobrow",
+        "types": [
+            "sport"
+        ]
+    }
+}

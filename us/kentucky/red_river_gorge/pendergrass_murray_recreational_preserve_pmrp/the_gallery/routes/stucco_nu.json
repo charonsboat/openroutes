@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "stucco_nu",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11+",
+        "name": "Stucco nu",
+        "types": [
+            "trad"
+        ]
+    }
+}

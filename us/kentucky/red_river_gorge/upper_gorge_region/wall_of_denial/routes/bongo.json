@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "wall_of_denial",
+        "stub": "bongo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Bongo",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "dain_bramage",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Dain Bramage",
+        "types": [
+            "sport"
+        ]
+    }
+}

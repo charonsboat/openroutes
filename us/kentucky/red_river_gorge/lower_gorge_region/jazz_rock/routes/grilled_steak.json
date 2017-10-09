@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "jazz_rock",
+        "stub": "grilled_steak",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Grilled Steak",
+        "types": [
+            "trad"
+        ]
+    }
+}

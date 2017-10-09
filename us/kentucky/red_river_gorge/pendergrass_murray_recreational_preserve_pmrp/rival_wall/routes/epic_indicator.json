@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rival_wall",
+        "stub": "epic_indicator",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Epic Indicator",
+        "types": [
+            "trad"
+        ]
+    }
+}

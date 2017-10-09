@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eastern_skybridge_ridge",
+        "stub": "the_rifleman",
+        "type": "region"
+    },
+    "info": {
+        "grade": "{au} yds:5.12b",
+        "name": "The Rifleman",
+        "types": [
+            "sport"
+        ]
+    }
+}

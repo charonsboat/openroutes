@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "indy_wall",
+        "stub": "mentor_powers",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Mentor Powers",
+        "types": [
+            "sport"
+        ]
+    }
+}

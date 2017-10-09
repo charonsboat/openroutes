@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "hurricane_amy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Hurricane Amy",
+        "types": [
+            "sport"
+        ]
+    }
+}

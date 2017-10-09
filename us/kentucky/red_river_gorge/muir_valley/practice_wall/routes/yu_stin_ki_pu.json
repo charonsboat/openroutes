@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "practice_wall",
+        "stub": "yu_stin_ki_pu",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Yu Stin Ki Pu",
+        "types": [
+            "sport"
+        ]
+    }
+}

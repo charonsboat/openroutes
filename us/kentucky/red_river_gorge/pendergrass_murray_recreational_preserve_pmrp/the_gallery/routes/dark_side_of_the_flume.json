@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "dark_side_of_the_flume",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Dark Side of the Flume",
+        "types": [
+            "trad"
+        ]
+    }
+}

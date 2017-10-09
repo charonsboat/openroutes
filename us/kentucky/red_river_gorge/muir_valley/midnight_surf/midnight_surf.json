@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "muir_valley",
+        "stub": "midnight_surf",
+        "type": "region"
+    },
+    "info": {
+        "name": "Midnight Surf"
+    }
+}

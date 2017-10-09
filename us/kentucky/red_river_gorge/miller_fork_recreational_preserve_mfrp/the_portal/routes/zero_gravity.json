@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_portal",
+        "stub": "zero_gravity",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Zero Gravity",
+        "types": [
+            "sport"
+        ]
+    }
+}

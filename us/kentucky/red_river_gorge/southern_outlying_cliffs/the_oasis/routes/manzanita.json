@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_oasis",
+        "stub": "manzanita",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Manzanita",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "frontal_lobotomy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Frontal Lobotomy",
+        "types": [
+            "sport"
+        ]
+    }
+}

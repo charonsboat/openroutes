@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "different_strokes",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Different Strokes",
+        "types": [
+            "sport"
+        ]
+    }
+}

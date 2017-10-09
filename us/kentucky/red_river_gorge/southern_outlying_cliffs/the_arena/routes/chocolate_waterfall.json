@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arena",
+        "stub": "chocolate_waterfall",
+        "type": "region"
+    },
+    "info": {
+        "grade": "{au} yds:5.9",
+        "name": "Chocolate Waterfall",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "backside_wall",
+        "stub": "back_in_the_saddle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Back in the Saddle",
+        "types": [
+            "unknown"
+        ]
+    }
+}

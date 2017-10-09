@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "funk_rock_city",
+        "stub": "up_swift_creek_without_a_paddle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Up Swift Creek Without A Paddle",
+        "types": [
+            "trad"
+        ]
+    }
+}

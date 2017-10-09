@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eastern_skybridge_ridge",
+        "stub": "physical_graffiti",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Physical Graffiti",
+        "types": [
+            "sport"
+        ]
+    }
+}

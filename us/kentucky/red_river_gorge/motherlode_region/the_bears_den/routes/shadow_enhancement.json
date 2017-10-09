@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "shadow_enhancement",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Shadow Enhancement",
+        "types": [
+            "sport"
+        ]
+    }
+}

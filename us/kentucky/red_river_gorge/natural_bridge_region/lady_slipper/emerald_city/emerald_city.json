@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "lady_slipper",
+        "stub": "emerald_city",
+        "type": "region"
+    },
+    "info": {
+        "name": "Emerald City"
+    }
+}

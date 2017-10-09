@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "cruise_control",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Cruise Control",
+        "types": [
+            "trad"
+        ]
+    }
+}

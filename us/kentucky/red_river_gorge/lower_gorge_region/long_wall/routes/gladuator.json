@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "gladuator",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Gladuator",
+        "types": [
+            "sport"
+        ]
+    }
+}

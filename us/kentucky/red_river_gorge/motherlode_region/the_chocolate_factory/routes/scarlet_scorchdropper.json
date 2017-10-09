@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "scarlet_scorchdropper",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Scarlet Scorchdropper",
+        "types": [
+            "sport"
+        ]
+    }
+}

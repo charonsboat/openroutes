@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "bohica",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "Bohica",
+        "types": [
+            "sport"
+        ]
+    }
+}

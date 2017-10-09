@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "fuzzy_undercling",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Fuzzy Undercling",
+        "types": [
+            "sport"
+        ]
+    }
+}

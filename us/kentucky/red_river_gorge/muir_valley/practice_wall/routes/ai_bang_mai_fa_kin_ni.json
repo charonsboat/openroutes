@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "practice_wall",
+        "stub": "ai_bang_mai_fa_kin_ni",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Ai Bang Mai Fa Kin Ni",
+        "types": [
+            "sport"
+        ]
+    }
+}

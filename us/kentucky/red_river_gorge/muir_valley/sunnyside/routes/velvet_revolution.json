@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunnyside",
+        "stub": "velvet_revolution",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Velvet Revolution",
+        "types": [
+            "sport"
+        ]
+    }
+}

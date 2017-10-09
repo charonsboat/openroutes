@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "secret_garden",
+        "stub": "fuzzy_side_up",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Fuzzy Side Up",
+        "types": [
+            "trad"
+        ]
+    }
+}

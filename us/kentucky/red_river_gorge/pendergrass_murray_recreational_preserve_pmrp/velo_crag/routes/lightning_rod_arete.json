@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "velo_crag",
+        "stub": "lightning_rod_arete",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Lightning Rod Arete",
+        "types": [
+            "sport"
+        ]
+    }
+}

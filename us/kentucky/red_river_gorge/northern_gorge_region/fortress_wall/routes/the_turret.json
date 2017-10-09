@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fortress_wall",
+        "stub": "the_turret",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "the turret",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "beenestalker",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Beenestalker",
+        "types": [
+            "trad"
+        ]
+    }
+}

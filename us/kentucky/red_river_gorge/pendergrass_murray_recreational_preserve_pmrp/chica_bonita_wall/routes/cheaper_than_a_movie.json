@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "cheaper_than_a_movie",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Cheaper Than a Movie",
+        "types": [
+            "trad"
+        ]
+    }
+}

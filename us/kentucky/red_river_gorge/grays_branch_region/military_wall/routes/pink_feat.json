@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "pink_feat",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d r",
+        "name": "Pink Feat",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "north_40",
+        "stub": "yosemite_sam",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Yosemite Sam",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bright_side",
+        "stub": "flat_lux",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Flat Lux",
+        "types": [
+            "sport"
+        ]
+    }
+}

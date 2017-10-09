@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_boneyard",
+        "stub": "the_first_fast_draw",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "The First Fast Draw",
+        "types": [
+            "mixed"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "middle_gorge_region",
+        "stub": "pinch_em_tight_ridge",
+        "type": "region"
+    },
+    "info": {
+        "name": "Pinch-em Tight Ridge"
+    }
+}

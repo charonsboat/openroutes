@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eastern_skybridge_ridge",
+        "stub": "the_learning_curve",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "The Learning Curve",
+        "types": [
+            "trad"
+        ]
+    }
+}

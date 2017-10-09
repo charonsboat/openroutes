@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pebble_beach",
+        "stub": "razorback",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Razorback",
+        "types": [
+            "unknown"
+        ]
+    }
+}

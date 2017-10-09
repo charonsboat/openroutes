@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunbeam_buttress",
+        "stub": "out_of_the_dark",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Out of the Dark",
+        "types": [
+            "sport"
+        ]
+    }
+}

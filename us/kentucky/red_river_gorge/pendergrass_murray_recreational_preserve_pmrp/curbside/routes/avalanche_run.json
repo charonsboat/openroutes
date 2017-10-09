@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "curbside",
+        "stub": "avalanche_run",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Avalanche Run",
+        "types": [
+            "sport"
+        ]
+    }
+}

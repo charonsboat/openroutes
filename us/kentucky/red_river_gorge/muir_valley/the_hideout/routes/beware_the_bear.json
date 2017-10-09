@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_hideout",
+        "stub": "beware_the_bear",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Beware the Bear",
+        "types": [
+            "sport"
+        ]
+    }
+}

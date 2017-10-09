@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bright_side",
+        "stub": "scalawagarus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Scalawagarus",
+        "types": [
+            "sport"
+        ]
+    }
+}

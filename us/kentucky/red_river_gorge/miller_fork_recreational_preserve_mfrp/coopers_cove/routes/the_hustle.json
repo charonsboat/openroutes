@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coopers_cove",
+        "stub": "the_hustle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "The Hustle",
+        "types": [
+            "sport"
+        ]
+    }
+}

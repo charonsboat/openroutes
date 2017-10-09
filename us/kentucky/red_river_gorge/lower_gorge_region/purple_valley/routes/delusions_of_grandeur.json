@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "purple_valley",
+        "stub": "delusions_of_grandeur",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Delusions of Grandeur",
+        "types": [
+            "unknown"
+        ]
+    }
+}

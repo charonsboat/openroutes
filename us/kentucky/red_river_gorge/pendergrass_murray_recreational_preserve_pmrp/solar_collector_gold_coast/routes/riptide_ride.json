@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "riptide_ride",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Riptide Ride",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dark_side",
+        "stub": "small_fry",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Small Fry",
+        "types": [
+            "unknown"
+        ]
+    }
+}

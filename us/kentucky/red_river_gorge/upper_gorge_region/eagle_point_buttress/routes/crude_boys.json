@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eagle_point_buttress",
+        "stub": "crude_boys",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Crude Boys",
+        "types": [
+            "unknown"
+        ]
+    }
+}

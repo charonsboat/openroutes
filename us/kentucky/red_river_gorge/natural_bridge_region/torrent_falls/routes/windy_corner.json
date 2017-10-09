@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "torrent_falls",
+        "stub": "windy_corner",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Windy Corner",
+        "types": [
+            "trad"
+        ]
+    }
+}

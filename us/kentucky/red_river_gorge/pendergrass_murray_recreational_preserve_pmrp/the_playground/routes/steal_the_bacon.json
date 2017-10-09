@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_playground",
+        "stub": "steal_the_bacon",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Steal The Bacon",
+        "types": [
+            "sport"
+        ]
+    }
+}

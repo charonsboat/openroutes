@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "great_wall",
+        "stub": "bitter_ray_of_sunshine",
+        "type": "region"
+    },
+    "info": {
+        "grade": "{au} yds:5.10d",
+        "name": "Bitter Ray of Sunshine",
+        "types": [
+            "sport"
+        ]
+    }
+}

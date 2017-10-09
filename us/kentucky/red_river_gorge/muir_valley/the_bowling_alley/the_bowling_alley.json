@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "muir_valley",
+        "stub": "the_bowling_alley",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Bowling Alley"
+    }
+}

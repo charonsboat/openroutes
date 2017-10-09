@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bibliothek",
+        "stub": "tea_at_trhe_palaz_of_hoon",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Tea at trhe Palaz of Hoon",
+        "types": [
+            "sport"
+        ]
+    }
+}

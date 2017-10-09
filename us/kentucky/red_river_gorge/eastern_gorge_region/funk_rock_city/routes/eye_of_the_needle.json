@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "funk_rock_city",
+        "stub": "eye_of_the_needle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Eye of the needle",
+        "types": [
+            "unknown"
+        ]
+    }
+}

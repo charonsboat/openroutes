@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dip_wall",
+        "stub": "the_grinch",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "The Grinch",
+        "types": [
+            "unknown"
+        ]
+    }
+}

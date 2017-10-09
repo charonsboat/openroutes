@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bob_marley_crag",
+        "stub": "sugar_magnolia",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13d",
+        "name": "Sugar Magnolia",
+        "types": [
+            "sport"
+        ]
+    }
+}

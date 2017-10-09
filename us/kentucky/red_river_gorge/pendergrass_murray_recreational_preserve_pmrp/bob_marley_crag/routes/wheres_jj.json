@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bob_marley_crag",
+        "stub": "wheres_jj",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Where's JJ?",
+        "types": [
+            "sport"
+        ]
+    }
+}

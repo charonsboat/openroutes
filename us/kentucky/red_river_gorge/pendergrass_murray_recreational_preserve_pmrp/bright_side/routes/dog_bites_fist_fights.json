@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bright_side",
+        "stub": "dog_bites_fist_fights",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Dog Bites & Fist Fights",
+        "types": [
+            "sport"
+        ]
+    }
+}

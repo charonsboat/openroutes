@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_oasis",
+        "stub": "finnegans_ladder",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Finnegan's Ladder",
+        "types": [
+            "sport"
+        ]
+    }
+}

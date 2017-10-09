@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_pharmacy",
+        "stub": "nicotine_knuckles",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Nicotine Knuckles",
+        "types": [
+            "sport"
+        ]
+    }
+}

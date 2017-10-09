@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_record_shop",
+        "stub": "bitches_brew",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Bitches Brew",
+        "types": [
+            "mixed"
+        ]
+    }
+}

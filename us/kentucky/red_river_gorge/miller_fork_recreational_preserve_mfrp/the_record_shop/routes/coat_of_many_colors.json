@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_record_shop",
+        "stub": "coat_of_many_colors",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13",
+        "name": "Coat of Many Colors",
+        "types": [
+            "sport"
+        ]
+    }
+}

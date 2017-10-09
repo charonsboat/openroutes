@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "half_moon",
+        "stub": "ellens_descent",
+        "type": "region"
+    },
+    "info": {
+        "grade": "class 4",
+        "name": "Ellen's Descent",
+        "types": [
+            "unknown"
+        ]
+    }
+}

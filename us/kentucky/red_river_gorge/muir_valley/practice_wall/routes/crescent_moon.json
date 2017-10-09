@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "practice_wall",
+        "stub": "crescent_moon",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Crescent Moon",
+        "types": [
+            "sport"
+        ]
+    }
+}

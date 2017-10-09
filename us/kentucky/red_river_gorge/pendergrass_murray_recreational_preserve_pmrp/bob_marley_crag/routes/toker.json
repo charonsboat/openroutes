@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bob_marley_crag",
+        "stub": "toker",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Toker",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "pickle_head",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Pickle Head",
+        "types": [
+            "trad"
+        ]
+    }
+}

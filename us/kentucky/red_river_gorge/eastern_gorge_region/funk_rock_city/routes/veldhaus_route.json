@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "funk_rock_city",
+        "stub": "veldhaus_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Veldhaus Route",
+        "types": [
+            "trad"
+        ]
+    }
+}

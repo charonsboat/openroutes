@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "green_gully",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "Green Gully",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eagle_point_buttress",
+        "stub": "if_my_numbers_up",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "If My Number's Up",
+        "types": [
+            "unknown"
+        ]
+    }
+}

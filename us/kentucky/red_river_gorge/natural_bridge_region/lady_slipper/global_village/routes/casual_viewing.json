@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "global_village",
+        "stub": "casual_viewing",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Casual Viewing",
+        "types": [
+            "trad"
+        ]
+    }
+}

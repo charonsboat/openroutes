@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "natural_bridge_region",
+        "stub": "roadside_crag",
+        "type": "region"
+    },
+    "info": {
+        "name": "Roadside Crag"
+    }
+}

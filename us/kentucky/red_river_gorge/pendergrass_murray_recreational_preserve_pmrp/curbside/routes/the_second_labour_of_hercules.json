@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "curbside",
+        "stub": "the_second_labour_of_hercules",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "The Second Labour of Hercules",
+        "types": [
+            "sport"
+        ]
+    }
+}

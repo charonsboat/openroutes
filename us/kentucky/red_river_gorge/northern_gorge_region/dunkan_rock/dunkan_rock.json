@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "northern_gorge_region",
+        "stub": "dunkan_rock",
+        "type": "region"
+    },
+    "info": {
+        "name": "Dunkan Rock"
+    }
+}

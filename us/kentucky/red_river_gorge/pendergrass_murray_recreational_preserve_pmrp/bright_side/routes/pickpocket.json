@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bright_side",
+        "stub": "pickpocket",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Pickpocket",
+        "types": [
+            "sport"
+        ]
+    }
+}

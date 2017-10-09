@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "serenity_point",
+        "stub": "malignant",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Malignant",
+        "types": [
+            "sport"
+        ]
+    }
+}

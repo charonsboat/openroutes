@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "secret_garden",
+        "stub": "cephalopagus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Cephalopagus",
+        "types": [
+            "trad"
+        ]
+    }
+}

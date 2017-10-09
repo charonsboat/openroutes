@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "shady_grove",
+        "stub": "listerine_girl",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Listerine Girl",
+        "types": [
+            "sport"
+        ]
+    }
+}

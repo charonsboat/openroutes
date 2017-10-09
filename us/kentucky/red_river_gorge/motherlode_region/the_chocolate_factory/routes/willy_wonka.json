@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "willy_wonka",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Willy Wonka",
+        "types": [
+            "sport"
+        ]
+    }
+}

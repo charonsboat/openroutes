@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_boneyard",
+        "stub": "captain_blondie_sinks_the_ship",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Captain Blondie Sinks The Ship",
+        "types": [
+            "sport"
+        ]
+    }
+}

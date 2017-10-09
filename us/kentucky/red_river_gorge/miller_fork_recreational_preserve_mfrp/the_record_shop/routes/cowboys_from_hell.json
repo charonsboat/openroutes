@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_record_shop",
+        "stub": "cowboys_from_hell",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Cowboys From Hell",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "secret_garden",
+        "stub": "flashback",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Flashback",
+        "types": [
+            "trad"
+        ]
+    }
+}

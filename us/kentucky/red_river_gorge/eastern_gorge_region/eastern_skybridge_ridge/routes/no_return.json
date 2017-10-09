@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eastern_skybridge_ridge",
+        "stub": "no_return",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "No Return",
+        "types": [
+            "trad"
+        ]
+    }
+}

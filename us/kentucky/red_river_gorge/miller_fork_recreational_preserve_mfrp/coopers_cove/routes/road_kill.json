@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coopers_cove",
+        "stub": "road_kill",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Road Kill",
+        "types": [
+            "sport"
+        ]
+    }
+}

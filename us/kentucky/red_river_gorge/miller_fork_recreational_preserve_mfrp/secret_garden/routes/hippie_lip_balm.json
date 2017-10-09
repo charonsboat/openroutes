@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "secret_garden",
+        "stub": "hippie_lip_balm",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Hippie Lip Balm",
+        "types": [
+            "sport"
+        ]
+    }
+}

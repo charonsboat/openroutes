@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "the_nursery",
+        "stub": "sanitarium",
+        "type": "region"
+    },
+    "info": {
+        "name": "Sanitarium"
+    }
+}

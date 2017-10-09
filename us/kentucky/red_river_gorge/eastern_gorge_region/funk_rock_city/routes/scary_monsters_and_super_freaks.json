@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "funk_rock_city",
+        "stub": "scary_monsters_and_super_freaks",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b r",
+        "name": "Scary Monsters and Super Freaks",
+        "types": [
+            "top rope"
+        ]
+    }
+}

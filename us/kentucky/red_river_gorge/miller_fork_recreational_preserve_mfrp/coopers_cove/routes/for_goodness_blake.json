@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coopers_cove",
+        "stub": "for_goodness_blake",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "For Goodness Blake",
+        "types": [
+            "trad"
+        ]
+    }
+}

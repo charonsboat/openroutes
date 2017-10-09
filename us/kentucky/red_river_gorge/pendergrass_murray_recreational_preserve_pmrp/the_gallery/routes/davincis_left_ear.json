@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "davincis_left_ear",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "DaVinci's Left Ear",
+        "types": [
+            "sport"
+        ]
+    }
+}

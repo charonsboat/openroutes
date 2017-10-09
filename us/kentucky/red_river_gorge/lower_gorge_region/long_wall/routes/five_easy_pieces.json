@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "five_easy_pieces",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Five Easy Pieces",
+        "types": [
+            "trad"
+        ]
+    }
+}

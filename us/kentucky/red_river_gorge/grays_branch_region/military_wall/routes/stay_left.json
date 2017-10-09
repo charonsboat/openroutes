@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "stay_left",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Stay Left",
+        "types": [
+            "sport"
+        ]
+    }
+}

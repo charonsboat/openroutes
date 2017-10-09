@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "bromance",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Bromance",
+        "types": [
+            "sport"
+        ]
+    }
+}

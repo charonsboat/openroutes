@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_playground",
+        "stub": "capture_the_flag",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Capture The Flag",
+        "types": [
+            "sport"
+        ]
+    }
+}

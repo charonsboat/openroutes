@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "clay_city_exit",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Clay City Exit",
+        "types": [
+            "sport"
+        ]
+    }
+}

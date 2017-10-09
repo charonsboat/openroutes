@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dip_wall",
+        "stub": "ham",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Ham",
+        "types": [
+            "unknown"
+        ]
+    }
+}

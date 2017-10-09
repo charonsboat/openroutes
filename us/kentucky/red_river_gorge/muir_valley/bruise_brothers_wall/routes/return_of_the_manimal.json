@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bruise_brothers_wall",
+        "stub": "return_of_the_manimal",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Return of the Manimal",
+        "types": [
+            "sport"
+        ]
+    }
+}

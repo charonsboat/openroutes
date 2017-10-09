@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "beene_material",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Beene Material",
+        "types": [
+            "trad"
+        ]
+    }
+}

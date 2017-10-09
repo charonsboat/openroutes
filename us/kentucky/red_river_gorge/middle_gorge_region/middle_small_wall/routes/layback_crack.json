@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "middle_small_wall",
+        "stub": "layback_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Layback Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

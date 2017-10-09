@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pebble_beach",
+        "stub": "small_change",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Small Change",
+        "types": [
+            "unknown"
+        ]
+    }
+}

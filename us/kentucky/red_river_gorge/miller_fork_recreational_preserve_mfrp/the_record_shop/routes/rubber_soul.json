@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_record_shop",
+        "stub": "rubber_soul",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Rubber Soul",
+        "types": [
+            "mixed"
+        ]
+    }
+}

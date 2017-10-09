@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bob_marley_crag",
+        "stub": "the_rube_goldberg_experiment",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "The Rube Goldberg Experiment",
+        "types": [
+            "trad"
+        ]
+    }
+}

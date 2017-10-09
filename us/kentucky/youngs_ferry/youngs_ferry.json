@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "kentucky",
+        "stub": "youngs_ferry",
+        "type": "region"
+    },
+    "info": {
+        "name": "Youngs Ferry"
+    }
+}

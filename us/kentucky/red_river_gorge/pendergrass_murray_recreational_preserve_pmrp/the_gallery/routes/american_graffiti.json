@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "american_graffiti",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "American Graffiti",
+        "types": [
+            "sport"
+        ]
+    }
+}

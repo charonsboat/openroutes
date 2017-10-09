@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "eric_and_brians_excellent_adventure",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Eric and Brian's Excellent Adventure",
+        "types": [
+            "sport"
+        ]
+    }
+}

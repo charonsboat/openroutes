@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_hideout",
+        "stub": "call_of_the_wild",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Call of the Wild",
+        "types": [
+            "mixed"
+        ]
+    }
+}

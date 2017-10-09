@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pendergrass_murray_recreational_preserve_pmrp",
+        "stub": "shady_grove",
+        "type": "region"
+    },
+    "info": {
+        "name": "Shady Grove"
+    }
+}

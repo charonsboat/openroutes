@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "purgatory",
+        "stub": "stirrin_the_grits",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Stirrin' The Grits",
+        "types": [
+            "sport"
+        ]
+    }
+}

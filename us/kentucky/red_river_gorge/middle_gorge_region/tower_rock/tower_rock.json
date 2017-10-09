@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "middle_gorge_region",
+        "stub": "tower_rock",
+        "type": "region"
+    },
+    "info": {
+        "name": "Tower Rock"
+    }
+}

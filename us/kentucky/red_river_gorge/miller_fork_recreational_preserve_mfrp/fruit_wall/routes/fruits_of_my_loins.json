@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "fruits_of_my_loins",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Fruits of my Loins",
+        "types": [
+            "sport"
+        ]
+    }
+}

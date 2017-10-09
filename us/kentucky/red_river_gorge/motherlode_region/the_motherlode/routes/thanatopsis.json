@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "thanatopsis",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.14a",
+        "name": "Thanatopsis",
+        "types": [
+            "sport"
+        ]
+    }
+}

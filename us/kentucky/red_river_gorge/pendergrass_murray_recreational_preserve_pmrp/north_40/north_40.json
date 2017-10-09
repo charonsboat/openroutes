@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pendergrass_murray_recreational_preserve_pmrp",
+        "stub": "north_40",
+        "type": "region"
+    },
+    "info": {
+        "name": "North 40"
+    }
+}

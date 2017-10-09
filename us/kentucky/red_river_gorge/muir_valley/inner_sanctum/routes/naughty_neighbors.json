@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "inner_sanctum",
+        "stub": "naughty_neighbors",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Naughty Neighbors",
+        "types": [
+            "sport"
+        ]
+    }
+}

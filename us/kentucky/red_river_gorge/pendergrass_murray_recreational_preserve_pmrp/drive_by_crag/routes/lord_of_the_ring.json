@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "lord_of_the_ring",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11",
+        "name": "Lord of The Ring",
+        "types": [
+            "trad"
+        ]
+    }
+}

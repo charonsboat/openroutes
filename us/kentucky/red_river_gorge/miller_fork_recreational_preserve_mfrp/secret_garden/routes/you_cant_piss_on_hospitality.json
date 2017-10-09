@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "secret_garden",
+        "stub": "you_cant_piss_on_hospitality",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "You Can't Piss on Hospitality",
+        "types": [
+            "sport"
+        ]
+    }
+}

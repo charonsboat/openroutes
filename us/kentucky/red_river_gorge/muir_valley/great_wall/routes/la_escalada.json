@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "great_wall",
+        "stub": "la_escalada",
+        "type": "region"
+    },
+    "info": {
+        "grade": "{au} yds:5.6",
+        "name": "La Escalada",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "indian_creek_crag",
+        "stub": "slimy_creatures",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Slimy Creatures",
+        "types": [
+            "unknown"
+        ]
+    }
+}

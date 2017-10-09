@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "jazz_rock",
+        "stub": "colonic_irrigation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.0",
+        "name": "Colonic Irrigation",
+        "types": [
+            "trad"
+        ]
+    }
+}

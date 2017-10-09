@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_infirmary",
+        "stub": "family_history",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Family History",
+        "types": [
+            "sport"
+        ]
+    }
+}

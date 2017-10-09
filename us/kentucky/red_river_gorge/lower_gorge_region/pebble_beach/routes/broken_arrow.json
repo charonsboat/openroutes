@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pebble_beach",
+        "stub": "broken_arrow",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Broken Arrow",
+        "types": [
+            "unknown"
+        ]
+    }
+}

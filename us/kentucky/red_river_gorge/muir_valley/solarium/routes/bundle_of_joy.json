@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solarium",
+        "stub": "bundle_of_joy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Bundle of Joy",
+        "types": [
+            "sport"
+        ]
+    }
+}

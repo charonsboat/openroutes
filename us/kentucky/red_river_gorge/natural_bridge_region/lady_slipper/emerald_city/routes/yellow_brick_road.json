@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "emerald_city",
+        "stub": "yellow_brick_road",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Yellow Brick Road",
+        "types": [
+            "sport"
+        ]
+    }
+}

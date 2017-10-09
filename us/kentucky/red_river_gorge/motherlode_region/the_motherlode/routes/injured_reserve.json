@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "injured_reserve",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Injured Reserve",
+        "types": [
+            "sport"
+        ]
+    }
+}

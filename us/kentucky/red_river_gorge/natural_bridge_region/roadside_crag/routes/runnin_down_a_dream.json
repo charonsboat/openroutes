@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "runnin_down_a_dream",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Runnin' Down a Dream",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "land_before_time_wall",
+        "stub": "prehistoric_extermination",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Prehistoric Extermination",
+        "types": [
+            "sport"
+        ]
+    }
+}

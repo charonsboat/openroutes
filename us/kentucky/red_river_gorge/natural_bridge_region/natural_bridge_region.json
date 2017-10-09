@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "red_river_gorge",
+        "stub": "natural_bridge_region",
+        "type": "region"
+    },
+    "info": {
+        "name": "Natural Bridge Region"
+    }
+}

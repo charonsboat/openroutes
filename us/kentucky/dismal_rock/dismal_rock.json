@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "kentucky",
+        "stub": "dismal_rock",
+        "type": "region"
+    },
+    "info": {
+        "name": "Dismal Rock"
+    }
+}

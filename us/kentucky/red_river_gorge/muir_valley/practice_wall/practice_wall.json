@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "muir_valley",
+        "stub": "practice_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Practice Wall"
+    }
+}

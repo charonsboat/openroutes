@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "corner_pocket",
+        "stub": "elevator_pitch",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Elevator Pitch",
+        "types": [
+            "sport"
+        ]
+    }
+}

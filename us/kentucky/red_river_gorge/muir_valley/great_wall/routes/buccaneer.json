@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "great_wall",
+        "stub": "buccaneer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Buccaneer",
+        "types": [
+            "sport"
+        ]
+    }
+}

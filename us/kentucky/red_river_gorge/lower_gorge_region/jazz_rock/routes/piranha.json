@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "jazz_rock",
+        "stub": "piranha",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Piranha",
+        "types": [
+            "trad"
+        ]
+    }
+}

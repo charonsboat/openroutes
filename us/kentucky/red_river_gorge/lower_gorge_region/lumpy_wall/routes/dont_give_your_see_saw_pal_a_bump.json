@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lumpy_wall",
+        "stub": "dont_give_your_see_saw_pal_a_bump",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Don't Give Your See-Saw Pal a Bump",
+        "types": [
+            "unknown"
+        ]
+    }
+}

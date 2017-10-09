@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "funk_rock_city",
+        "stub": "joe_camel",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Joe Camel",
+        "types": [
+            "trad"
+        ]
+    }
+}

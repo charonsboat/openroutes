@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "norway_on_my_mind",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Norway on my Mind",
+        "types": [
+            "sport"
+        ]
+    }
+}

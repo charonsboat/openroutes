@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "briefer_history_of_climb",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Briefer History of Climb",
+        "types": [
+            "trad"
+        ]
+    }
+}

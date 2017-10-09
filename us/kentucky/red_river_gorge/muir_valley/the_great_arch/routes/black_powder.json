@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_great_arch",
+        "stub": "black_powder",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Black Powder",
+        "types": [
+            "sport"
+        ]
+    }
+}

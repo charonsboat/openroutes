@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "whip_it_out",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Whip it Out",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bruise_brothers_wall",
+        "stub": "rat_stew",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Rat Stew",
+        "types": [
+            "sport"
+        ]
+    }
+}

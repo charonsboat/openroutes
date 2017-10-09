@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "reliquary",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Reliquary",
+        "types": [
+            "sport"
+        ]
+    }
+}

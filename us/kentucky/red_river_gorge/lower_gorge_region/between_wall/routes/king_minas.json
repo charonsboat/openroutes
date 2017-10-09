@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "between_wall",
+        "stub": "king_minas",
+        "type": "region"
+    },
+    "info": {
+        "grade": "a1",
+        "name": "King Minas",
+        "types": [
+            "aid"
+        ]
+    }
+}

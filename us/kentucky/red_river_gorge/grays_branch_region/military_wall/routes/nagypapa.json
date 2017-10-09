@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "nagypapa",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13d",
+        "name": "Nagypapa",
+        "types": [
+            "sport"
+        ]
+    }
+}

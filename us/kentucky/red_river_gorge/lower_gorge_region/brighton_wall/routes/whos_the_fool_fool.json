@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "brighton_wall",
+        "stub": "whos_the_fool_fool",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Who's the Fool, Fool?",
+        "types": [
+            "unknown"
+        ]
+    }
+}

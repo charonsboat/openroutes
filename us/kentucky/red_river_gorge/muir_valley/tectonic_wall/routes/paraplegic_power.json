@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tectonic_wall",
+        "stub": "paraplegic_power",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Paraplegic Power",
+        "types": [
+            "trad"
+        ]
+    }
+}

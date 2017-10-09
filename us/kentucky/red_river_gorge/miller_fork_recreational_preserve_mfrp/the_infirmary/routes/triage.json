@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_infirmary",
+        "stub": "triage",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Triage",
+        "types": [
+            "sport"
+        ]
+    }
+}

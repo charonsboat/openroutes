@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tectonic_wall",
+        "stub": "serpentine",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Serpentine",
+        "types": [
+            "sport"
+        ]
+    }
+}

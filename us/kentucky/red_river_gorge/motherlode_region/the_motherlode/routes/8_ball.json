@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "8_ball",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "8 Ball",
+        "types": [
+            "sport"
+        ]
+    }
+}

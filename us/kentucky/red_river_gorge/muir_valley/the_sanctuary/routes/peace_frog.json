@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_sanctuary",
+        "stub": "peace_frog",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Peace Frog",
+        "types": [
+            "sport"
+        ]
+    }
+}

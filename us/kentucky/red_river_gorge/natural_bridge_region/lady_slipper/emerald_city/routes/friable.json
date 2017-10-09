@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "emerald_city",
+        "stub": "friable",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9 r",
+        "name": "Friable",
+        "types": [
+            "trad"
+        ]
+    }
+}

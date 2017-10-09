@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solarium",
+        "stub": "delicatessen",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Delicatessen",
+        "types": [
+            "sport"
+        ]
+    }
+}

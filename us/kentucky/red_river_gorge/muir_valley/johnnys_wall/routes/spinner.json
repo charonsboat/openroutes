@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "johnnys_wall",
+        "stub": "spinner",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Spinner",
+        "types": [
+            "sport"
+        ]
+    }
+}

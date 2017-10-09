@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tarr_ridge",
+        "stub": "brain_damage",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Brain Damage",
+        "types": [
+            "unknown"
+        ]
+    }
+}

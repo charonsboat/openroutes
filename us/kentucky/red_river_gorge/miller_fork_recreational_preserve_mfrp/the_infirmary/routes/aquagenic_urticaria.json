@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_infirmary",
+        "stub": "aquagenic_urticaria",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Aquagenic Urticaria",
+        "types": [
+            "sport"
+        ]
+    }
+}

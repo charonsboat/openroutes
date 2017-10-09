@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "another_doug_reed_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Another Doug Reed Route",
+        "types": [
+            "sport"
+        ]
+    }
+}

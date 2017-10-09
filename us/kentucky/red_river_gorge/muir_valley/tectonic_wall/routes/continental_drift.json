@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tectonic_wall",
+        "stub": "continental_drift",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Continental Drift",
+        "types": [
+            "trad"
+        ]
+    }
+}

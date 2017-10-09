@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "grays_branch_region",
+        "stub": "raven_rock",
+        "type": "region"
+    },
+    "info": {
+        "name": "Raven Rock"
+    }
+}

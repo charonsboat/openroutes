@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "parting_gift",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Parting Gift",
+        "types": [
+            "sport"
+        ]
+    }
+}

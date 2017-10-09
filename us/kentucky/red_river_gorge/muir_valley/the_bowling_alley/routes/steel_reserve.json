@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bowling_alley",
+        "stub": "steel_reserve",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Steel Reserve",
+        "types": [
+            "sport"
+        ]
+    }
+}

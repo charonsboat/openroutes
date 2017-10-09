@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "muir_valley",
+        "stub": "the_arsenal",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Arsenal"
+    }
+}

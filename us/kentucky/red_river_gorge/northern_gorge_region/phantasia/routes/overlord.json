@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "phantasia",
+        "stub": "overlord",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Overlord",
+        "types": [
+            "sport"
+        ]
+    }
+}

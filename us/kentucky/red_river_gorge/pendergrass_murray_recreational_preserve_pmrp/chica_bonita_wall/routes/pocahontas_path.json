@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "pocahontas_path",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Pocahontas Path",
+        "types": [
+            "sport"
+        ]
+    }
+}

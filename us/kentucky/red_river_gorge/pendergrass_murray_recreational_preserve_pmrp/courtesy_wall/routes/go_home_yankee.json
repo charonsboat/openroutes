@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "courtesy_wall",
+        "stub": "go_home_yankee",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Go Home Yankee",
+        "types": [
+            "sport"
+        ]
+    }
+}

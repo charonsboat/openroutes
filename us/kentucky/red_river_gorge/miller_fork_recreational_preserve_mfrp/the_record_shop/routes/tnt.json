@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_record_shop",
+        "stub": "tnt",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "TNT",
+        "types": [
+            "sport"
+        ]
+    }
+}

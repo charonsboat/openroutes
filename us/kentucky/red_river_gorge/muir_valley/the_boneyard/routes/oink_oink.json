@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_boneyard",
+        "stub": "oink_oink",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Oink! Oink!",
+        "types": [
+            "trad"
+        ]
+    }
+}

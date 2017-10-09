@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "shawnee_shelter",
+        "stub": "noo_tha",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Noo-tha",
+        "types": [
+            "sport"
+        ]
+    }
+}

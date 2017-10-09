@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_infirmary",
+        "stub": "last_rites",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Last Rites",
+        "types": [
+            "sport"
+        ]
+    }
+}

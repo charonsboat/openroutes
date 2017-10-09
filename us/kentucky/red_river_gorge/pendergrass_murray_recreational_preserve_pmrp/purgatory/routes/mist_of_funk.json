@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "purgatory",
+        "stub": "mist_of_funk",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Mist of Funk",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "js_on_my_feet",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "J's on my Feet",
+        "types": [
+            "sport"
+        ]
+    }
+}

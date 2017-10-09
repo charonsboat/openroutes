@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "torrent_falls",
+        "stub": "be_prepared",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Be Prepared",
+        "types": [
+            "sport"
+        ]
+    }
+}

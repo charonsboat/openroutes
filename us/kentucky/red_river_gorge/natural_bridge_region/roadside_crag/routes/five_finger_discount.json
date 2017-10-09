@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "five_finger_discount",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Five Finger Discount",
+        "types": [
+            "unknown"
+        ]
+    }
+}

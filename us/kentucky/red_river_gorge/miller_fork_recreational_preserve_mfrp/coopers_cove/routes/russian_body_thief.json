@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coopers_cove",
+        "stub": "russian_body_thief",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Russian Body Thief",
+        "types": [
+            "sport"
+        ]
+    }
+}

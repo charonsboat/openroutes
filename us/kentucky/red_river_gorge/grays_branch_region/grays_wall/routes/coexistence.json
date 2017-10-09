@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "grays_wall",
+        "stub": "coexistence",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Coexistence",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "fear_and_loathing_in_nada",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Fear and Loathing in Nada",
+        "types": [
+            "trad"
+        ]
+    }
+}

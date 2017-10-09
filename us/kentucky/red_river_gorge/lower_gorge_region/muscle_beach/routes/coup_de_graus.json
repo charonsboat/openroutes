@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "muscle_beach",
+        "stub": "coup_de_graus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Coup De Graus",
+        "types": [
+            "unknown"
+        ]
+    }
+}

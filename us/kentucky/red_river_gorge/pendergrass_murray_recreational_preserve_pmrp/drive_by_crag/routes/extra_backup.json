@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "extra_backup",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Extra Backup",
+        "types": [
+            "sport"
+        ]
+    }
+}

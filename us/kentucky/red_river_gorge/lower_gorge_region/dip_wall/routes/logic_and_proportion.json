@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dip_wall",
+        "stub": "logic_and_proportion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Logic and Proportion",
+        "types": [
+            "unknown"
+        ]
+    }
+}

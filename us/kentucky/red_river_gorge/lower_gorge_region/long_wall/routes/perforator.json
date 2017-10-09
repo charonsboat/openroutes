@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "perforator",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Perforator",
+        "types": [
+            "trad"
+        ]
+    }
+}

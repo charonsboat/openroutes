@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "flaccid_fruit",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Flaccid Fruit",
+        "types": [
+            "sport"
+        ]
+    }
+}

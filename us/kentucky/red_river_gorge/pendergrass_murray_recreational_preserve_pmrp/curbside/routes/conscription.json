@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "curbside",
+        "stub": "conscription",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Conscription",
+        "types": [
+            "sport"
+        ]
+    }
+}

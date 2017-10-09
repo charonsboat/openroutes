@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_boneyard",
+        "stub": "winona",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Winona",
+        "types": [
+            "trad"
+        ]
+    }
+}

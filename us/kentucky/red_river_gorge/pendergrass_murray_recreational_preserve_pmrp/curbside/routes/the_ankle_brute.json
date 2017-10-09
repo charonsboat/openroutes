@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "curbside",
+        "stub": "the_ankle_brute",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "The Ankle Brute",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pebble_beach",
+        "stub": "scabies",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Scabies",
+        "types": [
+            "sport"
+        ]
+    }
+}

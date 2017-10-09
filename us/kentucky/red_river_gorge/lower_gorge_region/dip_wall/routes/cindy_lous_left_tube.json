@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dip_wall",
+        "stub": "cindy_lous_left_tube",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Cindy Lou's Left Tube",
+        "types": [
+            "unknown"
+        ]
+    }
+}

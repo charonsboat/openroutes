@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "minumum_creep",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Minumum Creep",
+        "types": [
+            "sport"
+        ]
+    }
+}

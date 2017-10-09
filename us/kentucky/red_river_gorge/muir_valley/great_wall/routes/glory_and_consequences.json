@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "great_wall",
+        "stub": "glory_and_consequences",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Glory and Consequences",
+        "types": [
+            "sport"
+        ]
+    }
+}

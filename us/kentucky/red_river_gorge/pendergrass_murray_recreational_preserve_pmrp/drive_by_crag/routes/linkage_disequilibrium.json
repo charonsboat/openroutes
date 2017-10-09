@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "linkage_disequilibrium",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Linkage Disequilibrium",
+        "types": [
+            "trad"
+        ]
+    }
+}

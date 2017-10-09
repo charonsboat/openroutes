@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "resurrection",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Resurrection",
+        "types": [
+            "sport"
+        ]
+    }
+}

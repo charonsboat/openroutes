@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bibliothek",
+        "stub": "the_sound",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "The Sound",
+        "types": [
+            "sport"
+        ]
+    }
+}

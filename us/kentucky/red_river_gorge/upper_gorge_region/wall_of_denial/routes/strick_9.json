@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "wall_of_denial",
+        "stub": "strick_9",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Strick 9",
+        "types": [
+            "unknown"
+        ]
+    }
+}

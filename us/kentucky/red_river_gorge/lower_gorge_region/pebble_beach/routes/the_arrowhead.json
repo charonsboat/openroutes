@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pebble_beach",
+        "stub": "the_arrowhead",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "The Arrowhead",
+        "types": [
+            "unknown"
+        ]
+    }
+}

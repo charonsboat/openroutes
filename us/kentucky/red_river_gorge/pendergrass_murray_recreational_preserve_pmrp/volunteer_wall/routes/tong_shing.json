@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "volunteer_wall",
+        "stub": "tong_shing",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Tong Shing",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "indy_wall",
+        "stub": "the_muir_the_merrier",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "The Muir The Merrier",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "bottle_infrontome",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Bottle Infrontome",
+        "types": [
+            "sport"
+        ]
+    }
+}

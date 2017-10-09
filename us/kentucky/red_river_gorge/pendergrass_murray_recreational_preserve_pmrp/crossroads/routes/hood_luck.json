@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "hood_luck",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Hood Luck",
+        "types": [
+            "sport"
+        ]
+    }
+}

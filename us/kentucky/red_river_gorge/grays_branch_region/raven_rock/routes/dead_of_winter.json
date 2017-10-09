@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "raven_rock",
+        "stub": "dead_of_winter",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b r",
+        "name": "Dead of Winter",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tectonic_wall",
+        "stub": "plate_tectonics",
+        "type": "region"
+    },
+    "info": {
+        "grade": "{au} yds:5.10a",
+        "name": "Plate Tectonics",
+        "types": [
+            "sport"
+        ]
+    }
+}

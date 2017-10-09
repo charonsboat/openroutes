@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dip_wall",
+        "stub": "seuss_is_dead",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Seuss is Dead",
+        "types": [
+            "unknown"
+        ]
+    }
+}

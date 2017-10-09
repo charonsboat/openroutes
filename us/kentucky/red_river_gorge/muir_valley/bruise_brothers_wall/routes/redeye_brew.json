@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bruise_brothers_wall",
+        "stub": "redeye_brew",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Redeye Brew",
+        "types": [
+            "sport"
+        ]
+    }
+}

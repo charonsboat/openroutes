@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_infirmary",
+        "stub": "treponema_pallidum",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Treponema Pallidum",
+        "types": [
+            "sport"
+        ]
+    }
+}

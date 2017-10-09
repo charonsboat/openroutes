@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "ticks_and_beer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Ticks and Beer",
+        "types": [
+            "sport"
+        ]
+    }
+}

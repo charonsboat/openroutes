@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "red_river_gorge",
+        "stub": "southern_outlying_cliffs",
+        "type": "region"
+    },
+    "info": {
+        "name": "Southern Outlying Cliffs"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arena",
+        "stub": "opening_act",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Opening Act",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "the_business",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "The Business",
+        "types": [
+            "sport"
+        ]
+    }
+}

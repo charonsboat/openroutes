@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "ethics_police",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Ethics Police",
+        "types": [
+            "sport"
+        ]
+    }
+}

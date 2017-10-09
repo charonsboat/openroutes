@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "f_man",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "F-Man",
+        "types": [
+            "trad"
+        ]
+    }
+}

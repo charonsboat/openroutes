@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "great_wall",
+        "stub": "cruisin_for_a_bruisin",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Cruisin' for a Bruisin'",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "indian_creek_crag",
+        "stub": "all_in_a_days_work",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "All In a Day's Work",
+        "types": [
+            "unknown"
+        ]
+    }
+}

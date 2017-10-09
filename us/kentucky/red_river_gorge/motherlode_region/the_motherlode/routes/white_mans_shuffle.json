@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "white_mans_shuffle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13d",
+        "name": "White Man's Shuffle",
+        "types": [
+            "sport"
+        ]
+    }
+}

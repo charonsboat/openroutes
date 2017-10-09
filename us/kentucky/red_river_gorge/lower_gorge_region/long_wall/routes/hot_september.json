@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "hot_september",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Hot September",
+        "types": [
+            "trad"
+        ]
+    }
+}

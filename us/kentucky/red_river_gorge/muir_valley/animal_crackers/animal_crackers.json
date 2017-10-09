@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "muir_valley",
+        "stub": "animal_crackers",
+        "type": "region"
+    },
+    "info": {
+        "name": "Animal Crackers"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "levi_yoder",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Levi Yoder",
+        "types": [
+            "sport"
+        ]
+    }
+}

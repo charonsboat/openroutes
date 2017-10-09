@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "slab_city",
+        "stub": "sacred_stones",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Sacred Stones",
+        "types": [
+            "sport"
+        ]
+    }
+}

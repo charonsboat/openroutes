@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bob_marley_crag",
+        "stub": "horn",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Horn",
+        "types": [
+            "sport"
+        ]
+    }
+}

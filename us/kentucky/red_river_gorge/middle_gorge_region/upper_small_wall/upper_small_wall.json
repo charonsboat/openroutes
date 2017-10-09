@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "middle_gorge_region",
+        "stub": "upper_small_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Upper Small Wall"
+    }
+}

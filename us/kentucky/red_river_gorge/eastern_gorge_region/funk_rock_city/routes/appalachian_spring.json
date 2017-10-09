@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "funk_rock_city",
+        "stub": "appalachian_spring",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Appalachian Spring",
+        "types": [
+            "sport"
+        ]
+    }
+}

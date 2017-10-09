@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "area_6",
+        "stub": "white_lightning",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "White Lightning",
+        "types": [
+            "sport"
+        ]
+    }
+}

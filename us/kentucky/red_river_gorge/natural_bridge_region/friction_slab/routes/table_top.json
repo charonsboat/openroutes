@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "friction_slab",
+        "stub": "table_top",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Table Top",
+        "types": [
+            "boulder"
+        ]
+    }
+}

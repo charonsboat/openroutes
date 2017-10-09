@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "mental_health",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Mental Health",
+        "types": [
+            "trad"
+        ]
+    }
+}

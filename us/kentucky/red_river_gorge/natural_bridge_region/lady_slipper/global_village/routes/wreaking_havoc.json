@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "global_village",
+        "stub": "wreaking_havoc",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Wreaking Havoc",
+        "types": [
+            "sport"
+        ]
+    }
+}

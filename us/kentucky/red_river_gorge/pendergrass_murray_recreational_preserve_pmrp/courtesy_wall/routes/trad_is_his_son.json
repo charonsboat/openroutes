@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "courtesy_wall",
+        "stub": "trad_is_his_son",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Trad is His Son",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "torrent_falls",
+        "stub": "wadcutter",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Wadcutter",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "big_country",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Big Country",
+        "types": [
+            "trad"
+        ]
+    }
+}

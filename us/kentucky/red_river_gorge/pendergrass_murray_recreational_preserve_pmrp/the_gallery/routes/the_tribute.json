@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "the_tribute",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "The Tribute",
+        "types": [
+            "sport"
+        ]
+    }
+}

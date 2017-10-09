@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "animal_crackers",
+        "stub": "panda_bear",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Panda Bear",
+        "types": [
+            "sport"
+        ]
+    }
+}

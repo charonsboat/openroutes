@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "shady_grove",
+        "stub": "shaved_squirrel",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Shaved Squirrel",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_zoo",
+        "stub": "scar_tissue",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Scar Tissue",
+        "types": [
+            "sport"
+        ]
+    }
+}

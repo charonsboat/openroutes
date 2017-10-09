@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tectonic_wall",
+        "stub": "lidar",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "LIDAR",
+        "types": [
+            "trad"
+        ]
+    }
+}

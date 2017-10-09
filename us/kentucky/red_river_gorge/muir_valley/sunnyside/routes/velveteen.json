@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunnyside",
+        "stub": "velveteen",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Velveteen",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "torrent_falls",
+        "stub": "racer_x",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Racer X",
+        "types": [
+            "sport"
+        ]
+    }
+}

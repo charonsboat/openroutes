@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pebble_beach",
+        "stub": "reserved_seating",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Reserved Seating",
+        "types": [
+            "sport"
+        ]
+    }
+}

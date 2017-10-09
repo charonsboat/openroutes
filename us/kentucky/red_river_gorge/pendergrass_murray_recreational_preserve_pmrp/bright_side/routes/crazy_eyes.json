@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bright_side",
+        "stub": "crazy_eyes",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Crazy Eyes",
+        "types": [
+            "sport"
+        ]
+    }
+}

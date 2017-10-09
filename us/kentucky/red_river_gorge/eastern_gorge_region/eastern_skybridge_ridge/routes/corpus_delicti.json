@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eastern_skybridge_ridge",
+        "stub": "corpus_delicti",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Corpus Delicti",
+        "types": [
+            "sport"
+        ]
+    }
+}

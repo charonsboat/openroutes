@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "torrent_falls",
+        "stub": "smoke_screen",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Smoke Screen",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "yell_fire",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Yell Fire!",
+        "types": [
+            "sport"
+        ]
+    }
+}

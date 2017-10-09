@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_dome",
+        "stub": "blue_belly_lizard_pinnacle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.1",
+        "name": "Blue Belly Lizard Pinnacle",
+        "types": [
+            "unknown"
+        ]
+    }
+}

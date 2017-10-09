@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fortress_wall",
+        "stub": "afterburner",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Afterburner",
+        "types": [
+            "unknown"
+        ]
+    }
+}

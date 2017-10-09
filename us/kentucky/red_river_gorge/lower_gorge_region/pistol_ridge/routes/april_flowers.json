@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pistol_ridge",
+        "stub": "april_flowers",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "April Flowers",
+        "types": [
+            "unknown"
+        ]
+    }
+}

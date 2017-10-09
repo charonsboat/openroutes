@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "end_of_days",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "End of Days",
+        "types": [
+            "trad"
+        ]
+    }
+}

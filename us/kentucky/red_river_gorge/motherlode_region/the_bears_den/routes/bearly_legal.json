@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "bearly_legal",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Bearly Legal",
+        "types": [
+            "trad"
+        ]
+    }
+}

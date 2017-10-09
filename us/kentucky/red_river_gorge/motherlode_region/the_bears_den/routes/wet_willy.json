@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "wet_willy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Wet Willy",
+        "types": [
+            "trad"
+        ]
+    }
+}

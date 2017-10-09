@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "swedish_fish",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Swedish Fish",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "henry_kissingers_glasses",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Henry Kissinger's Glasses",
+        "types": [
+            "trad"
+        ]
+    }
+}

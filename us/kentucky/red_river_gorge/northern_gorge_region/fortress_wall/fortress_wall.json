@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "northern_gorge_region",
+        "stub": "fortress_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Fortress Wall"
+    }
+}

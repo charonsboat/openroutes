@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "dont_do_it",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.2",
+        "name": "Don't Do It",
+        "types": [
+            "trad"
+        ]
+    }
+}

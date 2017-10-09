@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fortress_wall",
+        "stub": "party_time",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Party Time",
+        "types": [
+            "trad"
+        ]
+    }
+}

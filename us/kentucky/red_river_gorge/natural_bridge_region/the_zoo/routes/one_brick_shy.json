@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_zoo",
+        "stub": "one_brick_shy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "One Brick Shy",
+        "types": [
+            "sport"
+        ]
+    }
+}

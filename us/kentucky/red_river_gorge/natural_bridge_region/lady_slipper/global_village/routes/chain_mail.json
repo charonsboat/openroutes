@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "global_village",
+        "stub": "chain_mail",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Chain Mail",
+        "types": [
+            "mixed"
+        ]
+    }
+}

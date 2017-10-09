@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "routeburglar",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Routeburglar",
+        "types": [
+            "sport"
+        ]
+    }
+}

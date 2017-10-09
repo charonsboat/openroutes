@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chaos",
+        "stub": "slabalicious",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Slabalicious",
+        "types": [
+            "sport"
+        ]
+    }
+}

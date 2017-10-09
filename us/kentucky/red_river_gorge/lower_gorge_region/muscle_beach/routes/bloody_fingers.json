@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "muscle_beach",
+        "stub": "bloody_fingers",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Bloody Fingers",
+        "types": [
+            "unknown"
+        ]
+    }
+}

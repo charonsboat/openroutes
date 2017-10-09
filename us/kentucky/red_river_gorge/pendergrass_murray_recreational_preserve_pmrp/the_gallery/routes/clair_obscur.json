@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "clair_obscur",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Clair Obscur",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "no_brain_no_pain",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "No Brain, No Pain",
+        "types": [
+            "sport"
+        ]
+    }
+}

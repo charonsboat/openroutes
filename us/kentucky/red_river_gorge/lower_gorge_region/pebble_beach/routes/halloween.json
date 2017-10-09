@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pebble_beach",
+        "stub": "halloween",
+        "type": "region"
+    },
+    "info": {
+        "grade": "a2",
+        "name": "Halloween",
+        "types": [
+            "aid"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "north_40",
+        "stub": "barbed_wire",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Barbed Wire",
+        "types": [
+            "sport"
+        ]
+    }
+}

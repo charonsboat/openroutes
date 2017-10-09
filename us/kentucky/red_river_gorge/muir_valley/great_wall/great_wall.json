@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "muir_valley",
+        "stub": "great_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Great Wall"
+    }
+}

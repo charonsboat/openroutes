@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "now_im_nothing",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Now I'm Nothing",
+        "types": [
+            "boulder"
+        ]
+    }
+}

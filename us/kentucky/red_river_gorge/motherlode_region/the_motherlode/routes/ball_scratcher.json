@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "ball_scratcher",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Ball Scratcher",
+        "types": [
+            "sport"
+        ]
+    }
+}

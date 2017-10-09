@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "so_low",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "So Low",
+        "types": [
+            "sport"
+        ]
+    }
+}

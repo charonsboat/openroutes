@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arsenal",
+        "stub": "chicken_little_loves_abubu",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Chicken Little Loves Abubu",
+        "types": [
+            "trad"
+        ]
+    }
+}

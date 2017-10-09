@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "land_before_time_wall",
+        "stub": "ryanosaurus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Ryanosaurus",
+        "types": [
+            "sport"
+        ]
+    }
+}

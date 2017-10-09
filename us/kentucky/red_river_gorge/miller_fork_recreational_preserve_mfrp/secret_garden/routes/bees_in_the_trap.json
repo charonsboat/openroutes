@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "secret_garden",
+        "stub": "bees_in_the_trap",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Bees in the Trap",
+        "types": [
+            "sport"
+        ]
+    }
+}

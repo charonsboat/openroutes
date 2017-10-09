@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dip_wall",
+        "stub": "winkin_blinkin_and_nod",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Winkin, Blinkin and Nod",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_boneyard",
+        "stub": "armed_insurrection",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Armed Insurrection",
+        "types": [
+            "sport"
+        ]
+    }
+}

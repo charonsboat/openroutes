@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "zen_master_dude",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Zen Master Dude",
+        "types": [
+            "trad"
+        ]
+    }
+}

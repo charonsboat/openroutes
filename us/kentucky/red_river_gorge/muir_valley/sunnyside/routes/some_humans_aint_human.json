@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunnyside",
+        "stub": "some_humans_aint_human",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Some Humans Ain't Human",
+        "types": [
+            "sport"
+        ]
+    }
+}

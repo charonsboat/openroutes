@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "dementia",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Dementia",
+        "types": [
+            "trad"
+        ]
+    }
+}

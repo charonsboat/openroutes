@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "eternal_fire",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13d",
+        "name": "Eternal Fire",
+        "types": [
+            "sport"
+        ]
+    }
+}

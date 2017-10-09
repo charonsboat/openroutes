@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "emerald_city",
+        "stub": "spiny_norman",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Spiny Norman",
+        "types": [
+            "trad"
+        ]
+    }
+}

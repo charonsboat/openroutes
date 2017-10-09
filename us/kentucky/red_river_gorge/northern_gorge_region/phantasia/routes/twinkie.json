@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "phantasia",
+        "stub": "twinkie",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Twinkie",
+        "types": [
+            "sport"
+        ]
+    }
+}

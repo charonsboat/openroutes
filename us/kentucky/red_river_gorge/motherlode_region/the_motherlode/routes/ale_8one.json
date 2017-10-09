@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "ale_8one",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Ale-8-One",
+        "types": [
+            "sport"
+        ]
+    }
+}

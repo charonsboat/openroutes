@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "unbearable",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Unbearable",
+        "types": [
+            "sport"
+        ]
+    }
+}

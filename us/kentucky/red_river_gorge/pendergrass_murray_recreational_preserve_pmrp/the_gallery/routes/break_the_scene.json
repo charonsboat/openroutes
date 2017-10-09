@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "break_the_scene",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Break The Scene",
+        "types": [
+            "sport"
+        ]
+    }
+}

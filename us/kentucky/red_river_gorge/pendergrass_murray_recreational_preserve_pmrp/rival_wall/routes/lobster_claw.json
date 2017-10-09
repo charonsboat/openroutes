@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rival_wall",
+        "stub": "lobster_claw",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Lobster Claw",
+        "types": [
+            "sport"
+        ]
+    }
+}

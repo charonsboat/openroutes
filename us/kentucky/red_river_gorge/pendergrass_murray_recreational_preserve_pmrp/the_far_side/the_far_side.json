@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pendergrass_murray_recreational_preserve_pmrp",
+        "stub": "the_far_side",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Far Side"
+    }
+}

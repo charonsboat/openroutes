@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "grays_branch_region",
+        "stub": "grays_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Gray's Wall"
+    }
+}

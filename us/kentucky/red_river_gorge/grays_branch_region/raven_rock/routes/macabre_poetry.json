@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "raven_rock",
+        "stub": "macabre_poetry",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Macabre Poetry",
+        "types": [
+            "unknown"
+        ]
+    }
+}

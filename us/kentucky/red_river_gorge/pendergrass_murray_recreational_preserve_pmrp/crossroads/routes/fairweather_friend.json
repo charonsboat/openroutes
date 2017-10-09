@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "fairweather_friend",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Fairweather Friend",
+        "types": [
+            "sport"
+        ]
+    }
+}

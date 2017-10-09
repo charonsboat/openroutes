@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pebble_beach",
+        "stub": "ju_ju",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Ju-Ju",
+        "types": [
+            "unknown"
+        ]
+    }
+}

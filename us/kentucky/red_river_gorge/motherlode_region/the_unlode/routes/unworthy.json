@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_unlode",
+        "stub": "unworthy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Unworthy",
+        "types": [
+            "sport"
+        ]
+    }
+}

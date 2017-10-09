@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "emerald_city",
+        "stub": "the_man_behind_the_curtain",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "The Man Behind The Curtain",
+        "types": [
+            "trad"
+        ]
+    }
+}

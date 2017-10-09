@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "half_moon",
+        "stub": "rons_garden",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Ron's Garden",
+        "types": [
+            "unknown"
+        ]
+    }
+}

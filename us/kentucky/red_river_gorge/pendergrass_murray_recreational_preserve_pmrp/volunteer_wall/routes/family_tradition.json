@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "volunteer_wall",
+        "stub": "family_tradition",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Family Tradition",
+        "types": [
+            "sport"
+        ]
+    }
+}

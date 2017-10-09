@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "left_flank",
+        "stub": "gumby_unicorn",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.1",
+        "name": "Gumby Unicorn",
+        "types": [
+            "trad"
+        ]
+    }
+}

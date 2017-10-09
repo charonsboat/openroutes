@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "middle_small_wall",
+        "stub": "devine_climb",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Devine Climb",
+        "types": [
+            "unknown"
+        ]
+    }
+}

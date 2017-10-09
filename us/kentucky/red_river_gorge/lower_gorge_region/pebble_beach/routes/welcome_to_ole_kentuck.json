@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pebble_beach",
+        "stub": "welcome_to_ole_kentuck",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Welcome to Ole Kentuck",
+        "types": [
+            "unknown"
+        ]
+    }
+}

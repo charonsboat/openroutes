@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "drag_city",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Drag City",
+        "types": [
+            "trad"
+        ]
+    }
+}

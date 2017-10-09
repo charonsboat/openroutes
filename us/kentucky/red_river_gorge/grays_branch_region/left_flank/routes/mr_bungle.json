@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "left_flank",
+        "stub": "mr_bungle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Mr. Bungle",
+        "types": [
+            "sport"
+        ]
+    }
+}

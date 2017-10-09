@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "buff_the_wood",
+        "type": "region"
+    },
+    "info": {
+        "grade": "{au} yds:5.12b",
+        "name": "Buff The Wood",
+        "types": [
+            "sport"
+        ]
+    }
+}

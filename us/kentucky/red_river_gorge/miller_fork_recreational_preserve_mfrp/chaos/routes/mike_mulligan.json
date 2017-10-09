@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chaos",
+        "stub": "mike_mulligan",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Mike Mulligan",
+        "types": [
+            "sport"
+        ]
+    }
+}

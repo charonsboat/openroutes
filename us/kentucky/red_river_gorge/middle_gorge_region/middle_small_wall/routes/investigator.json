@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "middle_small_wall",
+        "stub": "investigator",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Investigator",
+        "types": [
+            "unknown"
+        ]
+    }
+}

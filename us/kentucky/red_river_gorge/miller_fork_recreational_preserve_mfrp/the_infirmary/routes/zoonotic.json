@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_infirmary",
+        "stub": "zoonotic",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Zoonotic",
+        "types": [
+            "sport"
+        ]
+    }
+}

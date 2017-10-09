@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "deep_end",
+        "stub": "green_room",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Green Room",
+        "types": [
+            "sport"
+        ]
+    }
+}

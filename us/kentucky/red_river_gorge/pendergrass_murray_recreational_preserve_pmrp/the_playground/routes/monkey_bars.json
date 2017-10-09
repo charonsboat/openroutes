@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_playground",
+        "stub": "monkey_bars",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Monkey Bars",
+        "types": [
+            "sport"
+        ]
+    }
+}

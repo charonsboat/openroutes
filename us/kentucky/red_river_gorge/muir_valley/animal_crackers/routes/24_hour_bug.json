@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "animal_crackers",
+        "stub": "24_hour_bug",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "24 Hour Bug",
+        "types": [
+            "trad"
+        ]
+    }
+}

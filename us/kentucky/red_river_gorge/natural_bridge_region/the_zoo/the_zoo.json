@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "natural_bridge_region",
+        "stub": "the_zoo",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Zoo"
+    }
+}

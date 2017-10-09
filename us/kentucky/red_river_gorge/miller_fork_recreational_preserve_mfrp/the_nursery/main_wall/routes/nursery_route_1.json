@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "nursery_route_1",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Nursery Route 1",
+        "types": [
+            "sport"
+        ]
+    }
+}

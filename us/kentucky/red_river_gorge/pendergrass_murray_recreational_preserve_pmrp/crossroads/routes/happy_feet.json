@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "happy_feet",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Happy Feet",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coopers_cove",
+        "stub": "la_nambla",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "La NAMBLA",
+        "types": [
+            "sport"
+        ]
+    }
+}

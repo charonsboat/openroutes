@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "bumpers_bogs",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Bumpers & Bogs",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "foot_jive",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Foot Jive",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "natural_bridge_region",
+        "stub": "friction_slab",
+        "type": "region"
+    },
+    "info": {
+        "name": "Friction Slab"
+    }
+}

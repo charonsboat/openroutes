@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "chunnel",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Chunnel",
+        "types": [
+            "unknown"
+        ]
+    }
+}

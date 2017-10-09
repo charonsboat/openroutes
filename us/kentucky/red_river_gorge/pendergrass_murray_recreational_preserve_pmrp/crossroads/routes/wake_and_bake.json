@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "wake_and_bake",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Wake and Bake",
+        "types": [
+            "sport"
+        ]
+    }
+}

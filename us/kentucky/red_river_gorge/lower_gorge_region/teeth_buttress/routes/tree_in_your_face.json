@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "teeth_buttress",
+        "stub": "tree_in_your_face",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Tree In Your Face",
+        "types": [
+            "unknown"
+        ]
+    }
+}

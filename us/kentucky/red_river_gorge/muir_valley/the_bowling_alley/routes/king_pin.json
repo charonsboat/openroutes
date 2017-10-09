@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bowling_alley",
+        "stub": "king_pin",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "King Pin",
+        "types": [
+            "sport"
+        ]
+    }
+}

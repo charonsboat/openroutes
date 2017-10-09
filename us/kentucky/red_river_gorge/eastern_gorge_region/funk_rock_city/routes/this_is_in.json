@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "funk_rock_city",
+        "stub": "this_is_in",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "This is In",
+        "types": [
+            "sport"
+        ]
+    }
+}

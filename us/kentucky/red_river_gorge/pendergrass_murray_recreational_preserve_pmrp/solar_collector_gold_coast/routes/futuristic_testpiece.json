@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "futuristic_testpiece",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Futuristic Testpiece",
+        "types": [
+            "trad"
+        ]
+    }
+}

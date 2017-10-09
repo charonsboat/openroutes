@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "shootin_hot_hugs",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Shootin' Hot Hugs",
+        "types": [
+            "sport"
+        ]
+    }
+}

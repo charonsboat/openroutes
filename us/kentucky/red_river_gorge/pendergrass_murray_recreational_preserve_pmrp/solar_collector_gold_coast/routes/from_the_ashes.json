@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "from_the_ashes",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "From The Ashes",
+        "types": [
+            "trad"
+        ]
+    }
+}

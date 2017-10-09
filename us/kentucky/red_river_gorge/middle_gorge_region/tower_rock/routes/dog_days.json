@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tower_rock",
+        "stub": "dog_days",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Dog Days",
+        "types": [
+            "trad"
+        ]
+    }
+}

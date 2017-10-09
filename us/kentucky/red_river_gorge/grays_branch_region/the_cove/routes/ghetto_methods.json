@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_cove",
+        "stub": "ghetto_methods",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v10",
+        "name": "Ghetto Methods",
+        "types": [
+            "boulder"
+        ]
+    }
+}

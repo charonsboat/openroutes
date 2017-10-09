@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "grays_wall",
+        "stub": "never_again",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Never Again",
+        "types": [
+            "unknown"
+        ]
+    }
+}

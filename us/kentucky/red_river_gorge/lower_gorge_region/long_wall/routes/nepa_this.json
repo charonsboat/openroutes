@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "nepa_this",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "NEPA This",
+        "types": [
+            "trad"
+        ]
+    }
+}

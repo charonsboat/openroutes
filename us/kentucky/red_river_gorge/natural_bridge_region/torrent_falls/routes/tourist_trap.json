@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "torrent_falls",
+        "stub": "tourist_trap",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Tourist Trap",
+        "types": [
+            "sport"
+        ]
+    }
+}

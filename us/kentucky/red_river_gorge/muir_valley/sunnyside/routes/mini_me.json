@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunnyside",
+        "stub": "mini_me",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Mini Me",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arena",
+        "stub": "through_the_turnstiles",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Through the Turnstiles",
+        "types": [
+            "unknown"
+        ]
+    }
+}

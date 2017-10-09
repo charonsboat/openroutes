@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "room_with_a_view_project",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12",
+        "name": "Room With A View Project",
+        "types": [
+            "sport"
+        ]
+    }
+}

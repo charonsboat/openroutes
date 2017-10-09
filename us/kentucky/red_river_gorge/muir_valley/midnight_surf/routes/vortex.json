@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "midnight_surf",
+        "stub": "vortex",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Vortex",
+        "types": [
+            "sport"
+        ]
+    }
+}

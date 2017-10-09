@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bright_side",
+        "stub": "sandy_malone",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Sandy Malone",
+        "types": [
+            "sport"
+        ]
+    }
+}

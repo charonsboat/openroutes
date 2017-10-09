@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "indy_wall",
+        "stub": "parasite",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Parasite",
+        "types": [
+            "sport"
+        ]
+    }
+}

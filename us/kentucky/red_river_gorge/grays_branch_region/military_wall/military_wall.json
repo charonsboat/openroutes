@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "grays_branch_region",
+        "stub": "military_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Military Wall"
+    }
+}

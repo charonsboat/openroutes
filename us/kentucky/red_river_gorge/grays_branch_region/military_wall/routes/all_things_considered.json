@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "all_things_considered",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "All Things Considered",
+        "types": [
+            "sport"
+        ]
+    }
+}

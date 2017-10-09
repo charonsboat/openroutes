@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "the_snatch",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "The Snatch",
+        "types": [
+            "sport"
+        ]
+    }
+}

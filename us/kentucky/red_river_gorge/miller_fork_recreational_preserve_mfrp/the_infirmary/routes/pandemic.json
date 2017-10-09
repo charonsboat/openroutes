@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_infirmary",
+        "stub": "pandemic",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Pandemic",
+        "types": [
+            "sport"
+        ]
+    }
+}

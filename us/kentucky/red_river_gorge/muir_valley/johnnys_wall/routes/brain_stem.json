@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "johnnys_wall",
+        "stub": "brain_stem",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Brain Stem",
+        "types": [
+            "trad"
+        ]
+    }
+}

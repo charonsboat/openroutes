@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "indian_creek_crag",
+        "stub": "g2_the_friction",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8 r",
+        "name": "G2 the Friction",
+        "types": [
+            "unknown"
+        ]
+    }
+}

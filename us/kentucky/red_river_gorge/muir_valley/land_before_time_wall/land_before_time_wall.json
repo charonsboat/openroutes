@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "muir_valley",
+        "stub": "land_before_time_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Land Before Time Wall"
+    }
+}

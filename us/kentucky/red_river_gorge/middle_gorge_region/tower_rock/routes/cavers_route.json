@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tower_rock",
+        "stub": "cavers_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4 r",
+        "name": "Caver's Route",
+        "types": [
+            "unknown"
+        ]
+    }
+}

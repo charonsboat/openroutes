@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "ledger_line",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Ledger Line",
+        "types": [
+            "sport"
+        ]
+    }
+}

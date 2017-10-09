@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "broken_chicken_wing",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Broken Chicken Wing",
+        "types": [
+            "trad"
+        ]
+    }
+}

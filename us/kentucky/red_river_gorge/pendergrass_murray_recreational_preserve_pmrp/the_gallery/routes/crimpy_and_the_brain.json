@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "crimpy_and_the_brain",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Crimpy and the Brain",
+        "types": [
+            "sport"
+        ]
+    }
+}

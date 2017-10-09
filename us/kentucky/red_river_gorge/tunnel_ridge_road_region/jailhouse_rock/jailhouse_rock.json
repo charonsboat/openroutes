@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "tunnel_ridge_road_region",
+        "stub": "jailhouse_rock",
+        "type": "region"
+    },
+    "info": {
+        "name": "Jailhouse Rock"
+    }
+}

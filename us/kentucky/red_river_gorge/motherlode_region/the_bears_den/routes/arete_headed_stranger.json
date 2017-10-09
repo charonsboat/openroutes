@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "arete_headed_stranger",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Arete Headed Stranger",
+        "types": [
+            "sport"
+        ]
+    }
+}

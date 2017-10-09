@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_sanctuary",
+        "stub": "dirty_old_men",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Dirty Old Men",
+        "types": [
+            "trad"
+        ]
+    }
+}

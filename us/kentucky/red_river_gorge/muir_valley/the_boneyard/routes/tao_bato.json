@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_boneyard",
+        "stub": "tao_bato",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Tao Bato",
+        "types": [
+            "sport"
+        ]
+    }
+}

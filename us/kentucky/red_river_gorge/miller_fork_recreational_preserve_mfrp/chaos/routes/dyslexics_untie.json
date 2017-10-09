@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chaos",
+        "stub": "dyslexics_untie",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Dyslexics Untie!",
+        "types": [
+            "sport"
+        ]
+    }
+}

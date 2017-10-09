@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_far_side",
+        "stub": "french_fighter",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11",
+        "name": "French Fighter",
+        "types": [
+            "sport"
+        ]
+    }
+}

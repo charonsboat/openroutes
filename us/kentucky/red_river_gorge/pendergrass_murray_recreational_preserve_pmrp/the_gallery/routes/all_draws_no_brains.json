@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "all_draws_no_brains",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "All Draws & No Brains",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "thunda_bunda",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Thunda Bunda",
+        "types": [
+            "trad"
+        ]
+    }
+}

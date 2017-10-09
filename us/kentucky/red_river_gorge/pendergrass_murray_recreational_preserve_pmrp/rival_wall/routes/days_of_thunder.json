@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rival_wall",
+        "stub": "days_of_thunder",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Days of Thunder",
+        "types": [
+            "sport"
+        ]
+    }
+}

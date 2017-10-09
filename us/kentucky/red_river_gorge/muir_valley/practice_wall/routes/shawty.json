@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "practice_wall",
+        "stub": "shawty",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Shawty",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "the_legend",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "The Legend",
+        "types": [
+            "sport"
+        ]
+    }
+}

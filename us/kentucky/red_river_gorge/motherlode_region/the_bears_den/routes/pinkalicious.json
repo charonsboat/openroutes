@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "pinkalicious",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Pinkalicious",
+        "types": [
+            "sport"
+        ]
+    }
+}

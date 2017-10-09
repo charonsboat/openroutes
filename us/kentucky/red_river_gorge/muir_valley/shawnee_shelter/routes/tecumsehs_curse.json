@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "shawnee_shelter",
+        "stub": "tecumsehs_curse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Tecumseh's Curse",
+        "types": [
+            "sport"
+        ]
+    }
+}

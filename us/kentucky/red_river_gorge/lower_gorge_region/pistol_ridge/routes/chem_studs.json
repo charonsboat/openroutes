@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pistol_ridge",
+        "stub": "chem_studs",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Chem Studs",
+        "types": [
+            "unknown"
+        ]
+    }
+}

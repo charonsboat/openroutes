@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "the_country_boy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "The Country Boy",
+        "types": [
+            "sport"
+        ]
+    }
+}

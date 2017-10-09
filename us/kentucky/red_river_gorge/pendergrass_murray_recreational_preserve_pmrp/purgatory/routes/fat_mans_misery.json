@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "purgatory",
+        "stub": "fat_mans_misery",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Fat Man's Misery",
+        "types": [
+            "trad"
+        ]
+    }
+}

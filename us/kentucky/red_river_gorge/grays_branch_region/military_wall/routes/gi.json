@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "gi",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "G.I.",
+        "types": [
+            "trad"
+        ]
+    }
+}

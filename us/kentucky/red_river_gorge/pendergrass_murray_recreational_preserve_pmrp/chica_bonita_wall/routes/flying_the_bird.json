@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "flying_the_bird",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Flying the Bird",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "hell_or_high_water",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Hell or High Water",
+        "types": [
+            "sport"
+        ]
+    }
+}

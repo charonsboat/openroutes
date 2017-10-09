@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "deep_end",
+        "stub": "the_abyss",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "The Abyss",
+        "types": [
+            "sport"
+        ]
+    }
+}

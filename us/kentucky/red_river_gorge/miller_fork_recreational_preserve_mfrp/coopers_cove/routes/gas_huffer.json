@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coopers_cove",
+        "stub": "gas_huffer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Gas Huffer",
+        "types": [
+            "sport"
+        ]
+    }
+}

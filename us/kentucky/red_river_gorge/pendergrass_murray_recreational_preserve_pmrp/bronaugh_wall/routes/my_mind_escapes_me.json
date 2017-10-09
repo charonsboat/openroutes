@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bronaugh_wall",
+        "stub": "my_mind_escapes_me",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "My Mind Escapes Me",
+        "types": [
+            "sport"
+        ]
+    }
+}

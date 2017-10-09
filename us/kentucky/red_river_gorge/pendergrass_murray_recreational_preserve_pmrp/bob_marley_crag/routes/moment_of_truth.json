@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bob_marley_crag",
+        "stub": "moment_of_truth",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Moment of Truth",
+        "types": [
+            "mixed"
+        ]
+    }
+}

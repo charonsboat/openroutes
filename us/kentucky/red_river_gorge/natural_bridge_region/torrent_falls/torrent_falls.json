@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "natural_bridge_region",
+        "stub": "torrent_falls",
+        "type": "region"
+    },
+    "info": {
+        "name": "Torrent Falls"
+    }
+}

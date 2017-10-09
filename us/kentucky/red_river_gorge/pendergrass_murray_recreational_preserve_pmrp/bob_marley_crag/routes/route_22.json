@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bob_marley_crag",
+        "stub": "route_22",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Route 22",
+        "types": [
+            "sport"
+        ]
+    }
+}

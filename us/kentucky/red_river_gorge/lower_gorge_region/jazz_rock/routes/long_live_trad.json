@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "jazz_rock",
+        "stub": "long_live_trad",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Long Live Trad",
+        "types": [
+            "trad"
+        ]
+    }
+}

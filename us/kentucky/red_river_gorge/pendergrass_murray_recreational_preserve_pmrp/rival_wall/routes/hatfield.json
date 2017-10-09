@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rival_wall",
+        "stub": "hatfield",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Hatfield",
+        "types": [
+            "sport"
+        ]
+    }
+}

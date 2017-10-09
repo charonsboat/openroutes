@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "thin_skin",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Thin Skin",
+        "types": [
+            "trad"
+        ]
+    }
+}

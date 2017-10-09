@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arena",
+        "stub": "big_in_japan",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Big in Japan",
+        "types": [
+            "unknown"
+        ]
+    }
+}

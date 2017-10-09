@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_infirmary",
+        "stub": "anaphylaxis",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Anaphylaxis",
+        "types": [
+            "sport"
+        ]
+    }
+}

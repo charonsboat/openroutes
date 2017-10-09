@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_shire",
+        "stub": "pee_wee",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Pee-Wee",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "b3",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "B3",
+        "types": [
+            "trad"
+        ]
+    }
+}

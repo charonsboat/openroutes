@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "the_cream_machine",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "The Cream Machine",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arsenal",
+        "stub": "bullfighter",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Bullfighter",
+        "types": [
+            "sport"
+        ]
+    }
+}

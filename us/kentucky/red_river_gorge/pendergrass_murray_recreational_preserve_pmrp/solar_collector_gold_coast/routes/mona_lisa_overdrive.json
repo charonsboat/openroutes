@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "mona_lisa_overdrive",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Mona Lisa Overdrive",
+        "types": [
+            "sport"
+        ]
+    }
+}

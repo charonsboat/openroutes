@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solarium",
+        "stub": "magnum_opus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Magnum Opus",
+        "types": [
+            "sport"
+        ]
+    }
+}

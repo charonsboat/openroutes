@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "area_6",
+        "stub": "va_jay_jay",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Va Jay Jay",
+        "types": [
+            "sport"
+        ]
+    }
+}

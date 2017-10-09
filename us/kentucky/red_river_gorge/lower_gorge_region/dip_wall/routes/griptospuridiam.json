@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dip_wall",
+        "stub": "griptospuridiam",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Griptospuridiam",
+        "types": [
+            "unknown"
+        ]
+    }
+}

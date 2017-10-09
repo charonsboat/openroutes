@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "symphony_wall",
+        "stub": "pop_tart",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7 r",
+        "name": "Pop Tart",
+        "types": [
+            "unknown"
+        ]
+    }
+}

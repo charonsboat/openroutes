@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "between_wall",
+        "stub": "hemlock_rap",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Hemlock Rap",
+        "types": [
+            "unknown"
+        ]
+    }
+}

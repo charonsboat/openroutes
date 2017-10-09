@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "sunny_the_boxer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Sunny The Boxer",
+        "types": [
+            "sport"
+        ]
+    }
+}

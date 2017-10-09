@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "crude_awakening",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Crude Awakening",
+        "types": [
+            "sport"
+        ]
+    }
+}

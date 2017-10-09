@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arena",
+        "stub": "exacta",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Exacta",
+        "types": [
+            "unknown"
+        ]
+    }
+}

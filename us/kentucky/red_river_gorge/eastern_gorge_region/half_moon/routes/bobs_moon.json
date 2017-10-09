@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "half_moon",
+        "stub": "bobs_moon",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Bob's Moon",
+        "types": [
+            "unknown"
+        ]
+    }
+}

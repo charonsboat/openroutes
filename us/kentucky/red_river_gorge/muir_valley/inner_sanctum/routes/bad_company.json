@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "inner_sanctum",
+        "stub": "bad_company",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Bad Company",
+        "types": [
+            "sport"
+        ]
+    }
+}

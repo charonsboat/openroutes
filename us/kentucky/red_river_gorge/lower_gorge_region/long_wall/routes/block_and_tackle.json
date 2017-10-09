@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "block_and_tackle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Block and Tackle",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chaos",
+        "stub": "switch",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Switch",
+        "types": [
+            "sport"
+        ]
+    }
+}

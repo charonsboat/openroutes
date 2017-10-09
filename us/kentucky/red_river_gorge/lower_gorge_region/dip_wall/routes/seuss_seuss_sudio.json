@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dip_wall",
+        "stub": "seuss_seuss_sudio",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "Seuss Seuss Sudio",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bob_marley_crag",
+        "stub": "stone_pipe",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Stone Pipe",
+        "types": [
+            "sport"
+        ]
+    }
+}

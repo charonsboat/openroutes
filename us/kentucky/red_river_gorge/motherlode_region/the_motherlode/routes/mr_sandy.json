@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "mr_sandy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.14c",
+        "name": "Mr. Sandy",
+        "types": [
+            "sport"
+        ]
+    }
+}

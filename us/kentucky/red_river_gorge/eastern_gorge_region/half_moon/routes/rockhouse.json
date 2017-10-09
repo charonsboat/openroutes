@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "half_moon",
+        "stub": "rockhouse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Rockhouse",
+        "types": [
+            "unknown"
+        ]
+    }
+}

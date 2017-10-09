@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_zoo",
+        "stub": "cannon_ball",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Cannon Ball",
+        "types": [
+            "sport"
+        ]
+    }
+}

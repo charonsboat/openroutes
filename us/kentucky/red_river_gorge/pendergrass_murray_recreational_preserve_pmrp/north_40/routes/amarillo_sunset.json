@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "north_40",
+        "stub": "amarillo_sunset",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Amarillo Sunset",
+        "types": [
+            "sport"
+        ]
+    }
+}

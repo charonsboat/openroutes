@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "half_moon",
+        "stub": "honeymoon",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Honeymoon",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chaos",
+        "stub": "broken_dreams",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Broken Dreams",
+        "types": [
+            "trad"
+        ]
+    }
+}

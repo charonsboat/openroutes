@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "miller_fork_recreational_preserve_mfrp",
+        "stub": "chaos",
+        "type": "region"
+    },
+    "info": {
+        "name": "Chaos"
+    }
+}

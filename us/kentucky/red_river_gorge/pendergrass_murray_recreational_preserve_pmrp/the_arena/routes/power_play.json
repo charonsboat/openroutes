@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arena",
+        "stub": "power_play",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12+",
+        "name": "Power Play",
+        "types": [
+            "unknown"
+        ]
+    }
+}

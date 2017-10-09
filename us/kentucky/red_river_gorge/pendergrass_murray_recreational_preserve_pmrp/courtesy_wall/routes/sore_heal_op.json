@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "courtesy_wall",
+        "stub": "sore_heal_op",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Sore Heal OP",
+        "types": [
+            "sport"
+        ]
+    }
+}

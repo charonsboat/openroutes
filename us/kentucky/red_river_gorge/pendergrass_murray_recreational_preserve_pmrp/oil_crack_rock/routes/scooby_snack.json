@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "oil_crack_rock",
+        "stub": "scooby_snack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Scooby Snack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

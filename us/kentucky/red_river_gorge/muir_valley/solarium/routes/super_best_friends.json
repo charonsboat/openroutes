@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solarium",
+        "stub": "super_best_friends",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Super Best Friends",
+        "types": [
+            "sport"
+        ]
+    }
+}

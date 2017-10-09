@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "middle_small_wall",
+        "stub": "which_way_is_up",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Which Way Is Up",
+        "types": [
+            "unknown"
+        ]
+    }
+}

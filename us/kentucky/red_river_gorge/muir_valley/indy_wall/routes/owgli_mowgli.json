@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "indy_wall",
+        "stub": "owgli_mowgli",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Owgli Mowgli",
+        "types": [
+            "trad"
+        ]
+    }
+}

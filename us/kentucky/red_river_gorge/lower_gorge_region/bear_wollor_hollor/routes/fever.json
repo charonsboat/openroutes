@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bear_wollor_hollor",
+        "stub": "fever",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7 r",
+        "name": "Fever",
+        "types": [
+            "unknown"
+        ]
+    }
+}

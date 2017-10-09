@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "crime_time",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Crime Time",
+        "types": [
+            "sport"
+        ]
+    }
+}

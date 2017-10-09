@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coyote_cliff",
+        "stub": "retirement_day",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Retirement Day",
+        "types": [
+            "sport"
+        ]
+    }
+}

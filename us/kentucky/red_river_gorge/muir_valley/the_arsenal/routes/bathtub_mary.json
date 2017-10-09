@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arsenal",
+        "stub": "bathtub_mary",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Bathtub Mary",
+        "types": [
+            "sport"
+        ]
+    }
+}

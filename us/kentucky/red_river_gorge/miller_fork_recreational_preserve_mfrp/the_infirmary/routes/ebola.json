@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_infirmary",
+        "stub": "ebola",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Ebola",
+        "types": [
+            "sport"
+        ]
+    }
+}

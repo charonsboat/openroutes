@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "oil_crack_rock",
+        "stub": "a_clean_well_lighted_face",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.14a",
+        "name": "A Clean Well Lighted Face",
+        "types": [
+            "sport"
+        ]
+    }
+}

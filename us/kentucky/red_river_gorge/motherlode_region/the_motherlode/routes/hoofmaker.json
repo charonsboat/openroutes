@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "hoofmaker",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Hoofmaker",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "left_field",
+        "stub": "hopscotch",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Hopscotch",
+        "types": [
+            "sport"
+        ]
+    }
+}

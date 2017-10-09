@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fortress_wall",
+        "stub": "bedtime_for_bonzo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Bedtime for Bonzo",
+        "types": [
+            "trad"
+        ]
+    }
+}

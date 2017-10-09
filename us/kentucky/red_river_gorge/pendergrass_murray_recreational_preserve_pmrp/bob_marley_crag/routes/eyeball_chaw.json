@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bob_marley_crag",
+        "stub": "eyeball_chaw",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Eyeball Chaw",
+        "types": [
+            "sport"
+        ]
+    }
+}

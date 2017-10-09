@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "omaha_beach",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.14a",
+        "name": "Omaha Beach",
+        "types": [
+            "sport"
+        ]
+    }
+}

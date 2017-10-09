@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "great_wall",
+        "stub": "moots_madness",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Moots Madness",
+        "types": [
+            "unknown"
+        ]
+    }
+}

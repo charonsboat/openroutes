@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "gobstopper",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Gobstopper",
+        "types": [
+            "sport"
+        ]
+    }
+}

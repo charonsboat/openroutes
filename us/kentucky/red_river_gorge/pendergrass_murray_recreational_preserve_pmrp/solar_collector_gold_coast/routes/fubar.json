@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "fubar",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Fubar",
+        "types": [
+            "trad"
+        ]
+    }
+}

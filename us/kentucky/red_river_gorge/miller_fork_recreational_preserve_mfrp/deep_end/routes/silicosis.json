@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "deep_end",
+        "stub": "silicosis",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Silicosis",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_record_shop",
+        "stub": "appetite_for_destruction",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Appetite for Destruction",
+        "types": [
+            "sport"
+        ]
+    }
+}

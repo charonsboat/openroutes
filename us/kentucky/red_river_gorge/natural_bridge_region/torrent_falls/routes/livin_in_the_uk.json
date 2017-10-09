@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "torrent_falls",
+        "stub": "livin_in_the_uk",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Livin' in the UK",
+        "types": [
+            "sport"
+        ]
+    }
+}

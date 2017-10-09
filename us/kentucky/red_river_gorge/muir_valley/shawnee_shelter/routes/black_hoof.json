@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "shawnee_shelter",
+        "stub": "black_hoof",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "Black Hoof",
+        "types": [
+            "sport"
+        ]
+    }
+}

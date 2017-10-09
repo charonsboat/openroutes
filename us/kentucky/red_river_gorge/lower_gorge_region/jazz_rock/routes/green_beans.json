@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "jazz_rock",
+        "stub": "green_beans",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Green Beans",
+        "types": [
+            "trad"
+        ]
+    }
+}

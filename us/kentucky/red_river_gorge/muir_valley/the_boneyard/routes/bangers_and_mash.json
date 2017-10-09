@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_boneyard",
+        "stub": "bangers_and_mash",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Bangers and Mash",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "deep_end",
+        "stub": "pool_boy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Pool Boy",
+        "types": [
+            "sport"
+        ]
+    }
+}

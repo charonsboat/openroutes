@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "volunteer_wall",
+        "stub": "bleed_like_me",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12",
+        "name": "Bleed Like Me",
+        "types": [
+            "unknown"
+        ]
+    }
+}

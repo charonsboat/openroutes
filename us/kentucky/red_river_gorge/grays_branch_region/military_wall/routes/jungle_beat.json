@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "jungle_beat",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Jungle Beat",
+        "types": [
+            "trad"
+        ]
+    }
+}

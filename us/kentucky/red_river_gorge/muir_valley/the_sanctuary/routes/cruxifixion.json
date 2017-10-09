@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_sanctuary",
+        "stub": "cruxifixion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Cruxifixion",
+        "types": [
+            "sport"
+        ]
+    }
+}

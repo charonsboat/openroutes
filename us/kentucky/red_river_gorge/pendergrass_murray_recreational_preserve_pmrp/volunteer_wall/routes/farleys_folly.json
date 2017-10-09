@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "volunteer_wall",
+        "stub": "farleys_folly",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Farley's Folly",
+        "types": [
+            "sport"
+        ]
+    }
+}

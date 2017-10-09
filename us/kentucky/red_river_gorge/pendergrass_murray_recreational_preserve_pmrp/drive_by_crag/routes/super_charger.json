@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "super_charger",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13d",
+        "name": "Super Charger",
+        "types": [
+            "sport"
+        ]
+    }
+}

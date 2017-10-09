@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "muir_valley",
+        "stub": "coyote_cliff",
+        "type": "region"
+    },
+    "info": {
+        "name": "Coyote Cliff"
+    }
+}

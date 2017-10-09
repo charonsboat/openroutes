@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "eastern_gorge_region",
+        "stub": "half_moon",
+        "type": "region"
+    },
+    "info": {
+        "name": "Half Moon"
+    }
+}

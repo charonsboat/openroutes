@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "serenity_point",
+        "stub": "melanoma",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Melanoma",
+        "types": [
+            "mixed"
+        ]
+    }
+}

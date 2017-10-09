@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chaos",
+        "stub": "left_coast",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Left Coast",
+        "types": [
+            "sport"
+        ]
+    }
+}

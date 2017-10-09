@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "harvest",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Harvest",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lumpy_wall",
+        "stub": "majors_pinnacle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Major's Pinnacle",
+        "types": [
+            "unknown"
+        ]
+    }
+}

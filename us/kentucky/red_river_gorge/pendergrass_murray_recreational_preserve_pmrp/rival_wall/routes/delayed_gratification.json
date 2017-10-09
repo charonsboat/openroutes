@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rival_wall",
+        "stub": "delayed_gratification",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Delayed Gratification",
+        "types": [
+            "sport"
+        ]
+    }
+}

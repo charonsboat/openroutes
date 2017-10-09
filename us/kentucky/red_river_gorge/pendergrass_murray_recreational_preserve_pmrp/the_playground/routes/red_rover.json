@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_playground",
+        "stub": "red_rover",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Red Rover",
+        "types": [
+            "sport"
+        ]
+    }
+}

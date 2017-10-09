@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beer_trailer_crag",
+        "stub": "morning_wood",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Morning Wood",
+        "types": [
+            "sport"
+        ]
+    }
+}

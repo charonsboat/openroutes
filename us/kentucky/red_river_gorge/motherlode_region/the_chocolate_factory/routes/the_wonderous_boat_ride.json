@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "the_wonderous_boat_ride",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "The Wonderous Boat Ride",
+        "types": [
+            "trad"
+        ]
+    }
+}

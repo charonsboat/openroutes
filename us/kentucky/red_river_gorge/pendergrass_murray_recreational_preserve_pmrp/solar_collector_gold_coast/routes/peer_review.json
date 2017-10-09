@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "peer_review",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Peer Review",
+        "types": [
+            "sport"
+        ]
+    }
+}

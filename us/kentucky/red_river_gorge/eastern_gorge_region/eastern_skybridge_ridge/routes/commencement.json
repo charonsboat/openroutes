@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eastern_skybridge_ridge",
+        "stub": "commencement",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Commencement",
+        "types": [
+            "sport"
+        ]
+    }
+}

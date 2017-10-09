@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "are_the_pies_fresh",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Are the Pies Fresh?",
+        "types": [
+            "sport"
+        ]
+    }
+}

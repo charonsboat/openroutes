@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "convicted",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Convicted",
+        "types": [
+            "sport"
+        ]
+    }
+}

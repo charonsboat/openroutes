@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "middle_small_wall",
+        "stub": "basecamp",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Basecamp",
+        "types": [
+            "unknown"
+        ]
+    }
+}

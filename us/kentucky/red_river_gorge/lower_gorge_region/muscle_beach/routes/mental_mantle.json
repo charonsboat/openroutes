@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "muscle_beach",
+        "stub": "mental_mantle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Mental Mantle",
+        "types": [
+            "unknown"
+        ]
+    }
+}

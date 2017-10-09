@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "area_6",
+        "stub": "up_for_grabs",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Up For Grabs",
+        "types": [
+            "sport"
+        ]
+    }
+}

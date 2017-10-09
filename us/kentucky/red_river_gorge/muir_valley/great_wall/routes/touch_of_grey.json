@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "great_wall",
+        "stub": "touch_of_grey",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Touch of Grey",
+        "types": [
+            "unknown"
+        ]
+    }
+}

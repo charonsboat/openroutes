@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "practice_wall",
+        "stub": "mercenary_of_the_mandarin_chicken",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Mercenary of the Mandarin Chicken",
+        "types": [
+            "sport"
+        ]
+    }
+}

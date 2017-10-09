@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bibliothek",
+        "stub": "a_portrait_of_the_artist_as_a_young_man",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "A Portrait of The Artist as a Young Man",
+        "types": [
+            "sport"
+        ]
+    }
+}

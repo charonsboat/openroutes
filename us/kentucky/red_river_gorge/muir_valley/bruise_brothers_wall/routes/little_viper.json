@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bruise_brothers_wall",
+        "stub": "little_viper",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Little Viper",
+        "types": [
+            "sport"
+        ]
+    }
+}

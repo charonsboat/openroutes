@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_zoo",
+        "stub": "barrel_full_of_monkeys",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Barrel Full of Monkeys",
+        "types": [
+            "sport"
+        ]
+    }
+}

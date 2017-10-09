@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arena",
+        "stub": "edge_of_your_seat",
+        "type": "region"
+    },
+    "info": {
+        "grade": "{au} yds:5.10a",
+        "name": "Edge of your Seat",
+        "types": [
+            "unknown"
+        ]
+    }
+}

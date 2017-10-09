@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "purgatory",
+        "stub": "the_proverbial_donkey",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "The Proverbial Donkey",
+        "types": [
+            "trad"
+        ]
+    }
+}

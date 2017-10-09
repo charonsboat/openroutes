@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "bear_belly",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Bear Belly",
+        "types": [
+            "sport"
+        ]
+    }
+}

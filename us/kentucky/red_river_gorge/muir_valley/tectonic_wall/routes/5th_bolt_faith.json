@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tectonic_wall",
+        "stub": "5th_bolt_faith",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "5th Bolt Faith",
+        "types": [
+            "sport"
+        ]
+    }
+}

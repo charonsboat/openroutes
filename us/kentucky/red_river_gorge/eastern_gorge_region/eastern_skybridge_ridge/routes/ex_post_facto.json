@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eastern_skybridge_ridge",
+        "stub": "ex_post_facto",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Ex Post Facto",
+        "types": [
+            "trad"
+        ]
+    }
+}

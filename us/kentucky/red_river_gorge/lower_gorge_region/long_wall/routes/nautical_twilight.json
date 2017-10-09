@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "nautical_twilight",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Nautical Twilight",
+        "types": [
+            "trad"
+        ]
+    }
+}

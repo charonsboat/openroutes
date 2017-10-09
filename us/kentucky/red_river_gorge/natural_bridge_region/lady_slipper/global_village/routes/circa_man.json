@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "global_village",
+        "stub": "circa_man",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Circa Man",
+        "types": [
+            "sport"
+        ]
+    }
+}

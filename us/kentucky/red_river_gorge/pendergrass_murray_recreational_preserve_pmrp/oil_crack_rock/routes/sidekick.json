@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "oil_crack_rock",
+        "stub": "sidekick",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Sidekick",
+        "types": [
+            "sport"
+        ]
+    }
+}

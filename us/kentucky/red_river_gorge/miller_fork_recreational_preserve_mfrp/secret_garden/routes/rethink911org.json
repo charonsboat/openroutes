@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "secret_garden",
+        "stub": "rethink911org",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Rethink911.org",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "phantasia",
+        "stub": "pogue_ethics",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Pogue Ethics",
+        "types": [
+            "sport"
+        ]
+    }
+}

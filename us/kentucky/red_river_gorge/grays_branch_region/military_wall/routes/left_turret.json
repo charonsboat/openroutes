@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "left_turret",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Left Turret",
+        "types": [
+            "sport"
+        ]
+    }
+}

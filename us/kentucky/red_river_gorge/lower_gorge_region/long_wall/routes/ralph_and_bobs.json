@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "ralph_and_bobs",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Ralph and Bob's",
+        "types": [
+            "trad"
+        ]
+    }
+}

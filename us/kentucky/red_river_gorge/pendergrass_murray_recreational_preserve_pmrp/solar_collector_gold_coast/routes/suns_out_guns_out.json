@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "suns_out_guns_out",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Suns Out Guns Out",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "curbside",
+        "stub": "curbside_no_traction",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Curbside No Traction",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "muir_valley",
+        "stub": "the_boneyard",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Boneyard"
+    }
+}

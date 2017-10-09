@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "marriage_counseling",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c r",
+        "name": "Marriage Counseling",
+        "types": [
+            "trad"
+        ]
+    }
+}

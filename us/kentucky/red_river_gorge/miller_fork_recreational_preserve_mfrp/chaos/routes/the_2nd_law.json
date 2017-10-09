@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chaos",
+        "stub": "the_2nd_law",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "The 2nd Law",
+        "types": [
+            "trad"
+        ]
+    }
+}

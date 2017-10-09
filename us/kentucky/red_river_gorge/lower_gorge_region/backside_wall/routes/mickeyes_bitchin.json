@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "backside_wall",
+        "stub": "mickeyes_bitchin",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Mickeye's Bitchin",
+        "types": [
+            "unknown"
+        ]
+    }
+}

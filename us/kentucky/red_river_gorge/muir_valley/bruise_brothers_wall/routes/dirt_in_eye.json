@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bruise_brothers_wall",
+        "stub": "dirt_in_eye",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Dirt In Eye",
+        "types": [
+            "trad"
+        ]
+    }
+}

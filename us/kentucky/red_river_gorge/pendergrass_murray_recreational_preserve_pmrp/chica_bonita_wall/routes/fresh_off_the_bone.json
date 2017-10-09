@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "fresh_off_the_bone",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Fresh off the Bone",
+        "types": [
+            "sport"
+        ]
+    }
+}

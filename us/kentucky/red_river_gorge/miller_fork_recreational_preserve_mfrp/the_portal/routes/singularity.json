@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_portal",
+        "stub": "singularity",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Singularity",
+        "types": [
+            "sport"
+        ]
+    }
+}

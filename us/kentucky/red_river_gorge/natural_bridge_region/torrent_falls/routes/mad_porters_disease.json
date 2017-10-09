@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "torrent_falls",
+        "stub": "mad_porters_disease",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Mad Porter's Disease",
+        "types": [
+            "sport"
+        ]
+    }
+}

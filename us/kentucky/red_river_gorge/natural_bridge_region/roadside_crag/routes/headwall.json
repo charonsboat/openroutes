@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "headwall",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Headwall",
+        "types": [
+            "sport"
+        ]
+    }
+}

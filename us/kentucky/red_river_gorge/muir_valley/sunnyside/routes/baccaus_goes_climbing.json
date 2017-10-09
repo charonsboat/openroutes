@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunnyside",
+        "stub": "baccaus_goes_climbing",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Baccaus Goes Climbing",
+        "types": [
+            "trad"
+        ]
+    }
+}

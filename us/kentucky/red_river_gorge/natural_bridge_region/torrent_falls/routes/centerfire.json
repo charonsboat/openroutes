@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "torrent_falls",
+        "stub": "centerfire",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Centerfire",
+        "types": [
+            "sport"
+        ]
+    }
+}

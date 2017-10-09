@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "raven_rock",
+        "stub": "premature_burial",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Premature Burial",
+        "types": [
+            "unknown"
+        ]
+    }
+}

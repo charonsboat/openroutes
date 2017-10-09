@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "souders_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Souder's Crack",
+        "types": [
+            "trad"
+        ]
+    }
+}

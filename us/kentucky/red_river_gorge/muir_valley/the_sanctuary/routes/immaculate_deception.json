@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_sanctuary",
+        "stub": "immaculate_deception",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Immaculate Deception",
+        "types": [
+            "sport"
+        ]
+    }
+}

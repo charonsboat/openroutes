@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "the_ballad_of_paul_shin",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "The Ballad of Paul Shin",
+        "types": [
+            "trad"
+        ]
+    }
+}

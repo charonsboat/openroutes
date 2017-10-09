@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunnyside",
+        "stub": "back_to_the_earth",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Back To The Earth",
+        "types": [
+            "boulder"
+        ]
+    }
+}

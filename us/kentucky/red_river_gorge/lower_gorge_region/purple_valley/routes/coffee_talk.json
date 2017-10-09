@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "purple_valley",
+        "stub": "coffee_talk",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Coffee Talk",
+        "types": [
+            "unknown"
+        ]
+    }
+}

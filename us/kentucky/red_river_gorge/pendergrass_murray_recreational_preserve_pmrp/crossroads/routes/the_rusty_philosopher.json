@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "the_rusty_philosopher",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "The Rusty Philosopher",
+        "types": [
+            "trad"
+        ]
+    }
+}

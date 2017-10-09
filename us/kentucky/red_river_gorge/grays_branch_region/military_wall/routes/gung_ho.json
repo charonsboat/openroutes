@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "gung_ho",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Gung Ho",
+        "types": [
+            "sport"
+        ]
+    }
+}

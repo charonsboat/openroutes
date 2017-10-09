@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "muscle_beach",
+        "stub": "rocket_man",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Rocket Man",
+        "types": [
+            "unknown"
+        ]
+    }
+}

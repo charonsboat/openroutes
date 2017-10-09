@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "serenity_point",
+        "stub": "cant_touch_this",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Can't Touch This",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "oil_crack_rock",
+        "stub": "scooby_doo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Scooby Doo",
+        "types": [
+            "unknown"
+        ]
+    }
+}

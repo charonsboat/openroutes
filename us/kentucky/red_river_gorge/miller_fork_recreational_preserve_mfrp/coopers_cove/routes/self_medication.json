@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coopers_cove",
+        "stub": "self_medication",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Self Medication",
+        "types": [
+            "sport"
+        ]
+    }
+}

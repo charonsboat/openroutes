@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "eastern_gorge_region",
+        "stub": "rough_trail",
+        "type": "region"
+    },
+    "info": {
+        "name": "Rough Trail"
+    }
+}

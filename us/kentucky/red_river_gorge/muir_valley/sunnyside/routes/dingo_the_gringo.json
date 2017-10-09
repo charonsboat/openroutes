@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunnyside",
+        "stub": "dingo_the_gringo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Dingo the Gringo",
+        "types": [
+            "sport"
+        ]
+    }
+}

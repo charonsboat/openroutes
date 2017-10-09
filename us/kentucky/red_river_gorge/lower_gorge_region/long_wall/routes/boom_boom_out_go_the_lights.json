@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "boom_boom_out_go_the_lights",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Boom! Boom! Out Go the Lights",
+        "types": [
+            "sport"
+        ]
+    }
+}

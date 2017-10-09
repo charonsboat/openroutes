@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eagle_point_buttress",
+        "stub": "southern_comfort",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Southern Comfort",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "two_step",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Two Step",
+        "types": [
+            "trad"
+        ]
+    }
+}

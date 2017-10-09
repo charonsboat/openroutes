@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "pottsville_escarpment",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Pottsville Escarpment",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "gecko_circus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "Gecko Circus",
+        "types": [
+            "sport"
+        ]
+    }
+}

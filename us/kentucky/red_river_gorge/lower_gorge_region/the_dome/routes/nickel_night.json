@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_dome",
+        "stub": "nickel_night",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Nickel Night",
+        "types": [
+            "unknown"
+        ]
+    }
+}

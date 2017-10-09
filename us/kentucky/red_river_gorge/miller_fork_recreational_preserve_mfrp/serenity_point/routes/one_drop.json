@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "serenity_point",
+        "stub": "one_drop",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "One Drop",
+        "types": [
+            "sport"
+        ]
+    }
+}

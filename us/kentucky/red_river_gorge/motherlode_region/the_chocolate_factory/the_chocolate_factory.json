@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "motherlode_region",
+        "stub": "the_chocolate_factory",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Chocolate Factory"
+    }
+}

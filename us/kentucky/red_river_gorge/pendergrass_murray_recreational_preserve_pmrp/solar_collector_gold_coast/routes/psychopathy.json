@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "psychopathy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Psychopathy",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tectonic_wall",
+        "stub": "ball_and_chain",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Ball and Chain",
+        "types": [
+            "sport"
+        ]
+    }
+}

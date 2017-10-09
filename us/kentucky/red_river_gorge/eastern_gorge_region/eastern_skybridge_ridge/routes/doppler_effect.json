@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eastern_skybridge_ridge",
+        "stub": "doppler_effect",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Doppler Effect",
+        "types": [
+            "trad"
+        ]
+    }
+}

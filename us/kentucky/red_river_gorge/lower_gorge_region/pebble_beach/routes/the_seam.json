@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pebble_beach",
+        "stub": "the_seam",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c r",
+        "name": "The Seam",
+        "types": [
+            "unknown"
+        ]
+    }
+}

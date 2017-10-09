@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "wobbler",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Wobbler",
+        "types": [
+            "sport"
+        ]
+    }
+}

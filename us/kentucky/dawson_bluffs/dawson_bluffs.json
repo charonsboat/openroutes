@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "kentucky",
+        "stub": "dawson_bluffs",
+        "type": "region"
+    },
+    "info": {
+        "name": "Dawson Bluffs"
+    }
+}

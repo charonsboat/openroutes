@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "thug_life",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13d",
+        "name": "Thug Life",
+        "types": [
+            "sport"
+        ]
+    }
+}

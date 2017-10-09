@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "happy_trails",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Happy Trails",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_great_arch",
+        "stub": "dyn_omite",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Dyn-o-mite",
+        "types": [
+            "sport"
+        ]
+    }
+}

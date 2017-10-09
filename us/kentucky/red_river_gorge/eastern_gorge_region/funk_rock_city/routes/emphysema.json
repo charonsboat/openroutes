@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "funk_rock_city",
+        "stub": "emphysema",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Emphysema",
+        "types": [
+            "trad"
+        ]
+    }
+}

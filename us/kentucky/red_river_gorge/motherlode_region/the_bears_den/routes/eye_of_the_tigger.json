@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "eye_of_the_tigger",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Eye of the Tigger",
+        "types": [
+            "sport"
+        ]
+    }
+}

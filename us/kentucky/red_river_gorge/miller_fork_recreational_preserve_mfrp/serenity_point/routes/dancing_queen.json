@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "serenity_point",
+        "stub": "dancing_queen",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Dancing Queen",
+        "types": [
+            "sport"
+        ]
+    }
+}

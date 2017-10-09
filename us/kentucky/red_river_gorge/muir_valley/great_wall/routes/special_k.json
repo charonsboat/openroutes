@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "great_wall",
+        "stub": "special_k",
+        "type": "region"
+    },
+    "info": {
+        "grade": "{au} yds:5.11b",
+        "name": "Special K",
+        "types": [
+            "unknown"
+        ]
+    }
+}

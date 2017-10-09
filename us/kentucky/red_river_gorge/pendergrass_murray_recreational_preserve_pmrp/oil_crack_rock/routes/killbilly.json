@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "oil_crack_rock",
+        "stub": "killbilly",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Killbilly",
+        "types": [
+            "sport"
+        ]
+    }
+}

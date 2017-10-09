@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "j_rats_back",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "J-Rat's Back",
+        "types": [
+            "sport"
+        ]
+    }
+}

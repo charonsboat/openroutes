@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "overdrive",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Overdrive",
+        "types": [
+            "trad"
+        ]
+    }
+}

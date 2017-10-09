@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "oil_crack_rock",
+        "stub": "tool_pusher",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Tool Pusher",
+        "types": [
+            "sport"
+        ]
+    }
+}

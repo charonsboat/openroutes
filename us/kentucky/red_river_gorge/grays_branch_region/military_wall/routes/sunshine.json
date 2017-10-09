@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "sunshine",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Sunshine",
+        "types": [
+            "sport"
+        ]
+    }
+}

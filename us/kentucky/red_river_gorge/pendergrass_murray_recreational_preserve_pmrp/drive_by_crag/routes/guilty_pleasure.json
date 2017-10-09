@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "guilty_pleasure",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Guilty Pleasure",
+        "types": [
+            "sport"
+        ]
+    }
+}

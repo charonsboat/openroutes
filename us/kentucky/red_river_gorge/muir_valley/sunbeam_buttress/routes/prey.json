@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunbeam_buttress",
+        "stub": "prey",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Prey",
+        "types": [
+            "sport"
+        ]
+    }
+}

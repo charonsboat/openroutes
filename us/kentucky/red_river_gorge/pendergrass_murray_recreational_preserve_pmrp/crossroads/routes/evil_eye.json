@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "evil_eye",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Evil Eye",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eastern_skybridge_ridge",
+        "stub": "soul_ram",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Soul Ram",
+        "types": [
+            "sport"
+        ]
+    }
+}

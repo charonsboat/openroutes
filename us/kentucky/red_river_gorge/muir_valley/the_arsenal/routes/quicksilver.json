@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arsenal",
+        "stub": "quicksilver",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Quicksilver",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "the_sharma_project",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "The Sharma Project",
+        "types": [
+            "sport"
+        ]
+    }
+}

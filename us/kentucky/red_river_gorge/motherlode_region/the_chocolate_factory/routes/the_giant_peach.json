@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "the_giant_peach",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "The Giant Peach",
+        "types": [
+            "sport"
+        ]
+    }
+}

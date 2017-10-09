@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "deep_end",
+        "stub": "fluffer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Fluffer",
+        "types": [
+            "sport"
+        ]
+    }
+}

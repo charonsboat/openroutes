@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_hideout",
+        "stub": "pre_emptive_strike",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Pre-emptive Strike",
+        "types": [
+            "sport"
+        ]
+    }
+}

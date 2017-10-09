@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "tuna_town",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Tuna Town",
+        "types": [
+            "sport"
+        ]
+    }
+}

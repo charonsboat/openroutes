@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "long_wall_chimney",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Long Wall Chimney",
+        "types": [
+            "trad"
+        ]
+    }
+}

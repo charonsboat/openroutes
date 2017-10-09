@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "funk_rock_city",
+        "stub": "goodstone",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Goodstone",
+        "types": [
+            "trad"
+        ]
+    }
+}

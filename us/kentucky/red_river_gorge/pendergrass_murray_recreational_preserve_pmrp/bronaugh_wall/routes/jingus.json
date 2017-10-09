@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bronaugh_wall",
+        "stub": "jingus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Jingus",
+        "types": [
+            "sport"
+        ]
+    }
+}

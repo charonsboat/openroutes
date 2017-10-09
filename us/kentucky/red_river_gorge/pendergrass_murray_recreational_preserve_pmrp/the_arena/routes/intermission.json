@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arena",
+        "stub": "intermission",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Intermission",
+        "types": [
+            "unknown"
+        ]
+    }
+}

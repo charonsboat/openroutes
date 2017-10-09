@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "roadside_roof_problem",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v? (project)",
+        "name": "Roadside Roof Problem",
+        "types": [
+            "boulder"
+        ]
+    }
+}

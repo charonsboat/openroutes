@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "breakfast_at_koops",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Breakfast at Koops",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "oil_crack_rock",
+        "stub": "paradiddle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Paradiddle",
+        "types": [
+            "sport"
+        ]
+    }
+}

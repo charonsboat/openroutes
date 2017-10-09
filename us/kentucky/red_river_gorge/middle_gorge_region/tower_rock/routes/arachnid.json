@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tower_rock",
+        "stub": "arachnid",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Arachnid",
+        "types": [
+            "trad"
+        ]
+    }
+}

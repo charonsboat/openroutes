@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coopers_cove",
+        "stub": "shake_down",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Shake Down",
+        "types": [
+            "sport"
+        ]
+    }
+}

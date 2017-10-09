@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "muir_valley",
+        "stub": "the_hideout",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Hideout"
+    }
+}

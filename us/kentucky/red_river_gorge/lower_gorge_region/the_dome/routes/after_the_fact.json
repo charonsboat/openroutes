@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_dome",
+        "stub": "after_the_fact",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "After the Fact",
+        "types": [
+            "unknown"
+        ]
+    }
+}

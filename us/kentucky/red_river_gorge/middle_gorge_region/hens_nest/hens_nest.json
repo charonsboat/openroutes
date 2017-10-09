@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "middle_gorge_region",
+        "stub": "hens_nest",
+        "type": "region"
+    },
+    "info": {
+        "name": "Hen's Nest"
+    }
+}

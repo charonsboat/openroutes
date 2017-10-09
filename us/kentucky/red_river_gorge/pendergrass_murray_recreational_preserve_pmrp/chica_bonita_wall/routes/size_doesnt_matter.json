@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "size_doesnt_matter",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Size Doesn't Matter",
+        "types": [
+            "sport"
+        ]
+    }
+}

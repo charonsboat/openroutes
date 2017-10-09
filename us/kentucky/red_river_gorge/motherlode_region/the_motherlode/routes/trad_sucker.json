@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "trad_sucker",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Trad Sucker",
+        "types": [
+            "sport"
+        ]
+    }
+}

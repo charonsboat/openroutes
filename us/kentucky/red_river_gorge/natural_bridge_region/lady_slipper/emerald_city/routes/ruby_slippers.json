@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "emerald_city",
+        "stub": "ruby_slippers",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Ruby Slippers",
+        "types": [
+            "sport"
+        ]
+    }
+}

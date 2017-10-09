@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "midnight_surf",
+        "stub": "iniquity",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Iniquity",
+        "types": [
+            "sport"
+        ]
+    }
+}

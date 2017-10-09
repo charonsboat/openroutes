@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_shire",
+        "stub": "significant_other",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Significant Other",
+        "types": [
+            "sport"
+        ]
+    }
+}

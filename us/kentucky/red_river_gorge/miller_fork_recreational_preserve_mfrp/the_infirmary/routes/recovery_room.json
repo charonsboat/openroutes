@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_infirmary",
+        "stub": "recovery_room",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Recovery Room",
+        "types": [
+            "sport"
+        ]
+    }
+}

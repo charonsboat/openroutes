@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "courtesy_wall",
+        "stub": "tweaked_unit",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Tweaked Unit",
+        "types": [
+            "sport"
+        ]
+    }
+}

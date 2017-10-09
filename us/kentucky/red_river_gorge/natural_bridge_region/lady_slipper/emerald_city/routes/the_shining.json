@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "emerald_city",
+        "stub": "the_shining",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "The Shining",
+        "types": [
+            "trad"
+        ]
+    }
+}

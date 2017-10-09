@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "chainsaw_massacre",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Chainsaw Massacre",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "muscle_beach",
+        "stub": "muscle_shoals",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Muscle Shoals",
+        "types": [
+            "unknown"
+        ]
+    }
+}

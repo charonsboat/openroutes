@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bibliothek",
+        "stub": "the_short_happy_life_of_fracis_macomber",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "The Short, Happy Life of Fracis Macomber",
+        "types": [
+            "sport"
+        ]
+    }
+}

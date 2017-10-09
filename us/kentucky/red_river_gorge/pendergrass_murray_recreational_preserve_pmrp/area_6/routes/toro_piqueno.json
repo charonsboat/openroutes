@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "area_6",
+        "stub": "toro_piqueno",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Toro Piqueno",
+        "types": [
+            "sport"
+        ]
+    }
+}

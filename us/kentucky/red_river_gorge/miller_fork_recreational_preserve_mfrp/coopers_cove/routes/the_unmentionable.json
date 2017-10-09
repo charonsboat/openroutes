@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coopers_cove",
+        "stub": "the_unmentionable",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "The Unmentionable",
+        "types": [
+            "trad"
+        ]
+    }
+}

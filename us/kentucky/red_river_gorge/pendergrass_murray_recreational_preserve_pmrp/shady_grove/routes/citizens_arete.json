@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "shady_grove",
+        "stub": "citizens_arete",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Citizen's Arete",
+        "types": [
+            "sport"
+        ]
+    }
+}

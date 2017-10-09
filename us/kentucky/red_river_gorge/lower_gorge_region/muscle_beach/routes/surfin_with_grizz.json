@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "muscle_beach",
+        "stub": "surfin_with_grizz",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Surfin With Grizz",
+        "types": [
+            "unknown"
+        ]
+    }
+}

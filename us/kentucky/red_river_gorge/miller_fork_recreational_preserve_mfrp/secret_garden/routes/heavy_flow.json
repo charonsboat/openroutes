@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "secret_garden",
+        "stub": "heavy_flow",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Heavy Flow",
+        "types": [
+            "mixed"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "muir_valley",
+        "stub": "the_great_arch",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Great Arch"
+    }
+}

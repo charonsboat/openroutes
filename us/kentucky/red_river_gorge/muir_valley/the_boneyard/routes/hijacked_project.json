@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_boneyard",
+        "stub": "hijacked_project",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Hijacked Project",
+        "types": [
+            "sport"
+        ]
+    }
+}

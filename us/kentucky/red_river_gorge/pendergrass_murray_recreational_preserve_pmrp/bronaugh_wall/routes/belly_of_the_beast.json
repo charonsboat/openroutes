@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bronaugh_wall",
+        "stub": "belly_of_the_beast",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Belly of the Beast",
+        "types": [
+            "sport"
+        ]
+    }
+}

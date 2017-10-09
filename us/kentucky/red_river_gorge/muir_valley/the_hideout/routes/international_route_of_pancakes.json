@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_hideout",
+        "stub": "international_route_of_pancakes",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "International Route of Pancakes",
+        "types": [
+            "sport"
+        ]
+    }
+}

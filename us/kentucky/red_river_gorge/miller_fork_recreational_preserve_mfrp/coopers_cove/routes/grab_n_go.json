@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coopers_cove",
+        "stub": "grab_n_go",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Grab n' Go",
+        "types": [
+            "sport"
+        ]
+    }
+}

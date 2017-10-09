@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "rinse_and_repeat",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Rinse and Repeat",
+        "types": [
+            "trad"
+        ]
+    }
+}

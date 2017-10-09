@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fortress_wall",
+        "stub": "fortress_grunges",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "fortress grunges",
+        "types": [
+            "unknown"
+        ]
+    }
+}

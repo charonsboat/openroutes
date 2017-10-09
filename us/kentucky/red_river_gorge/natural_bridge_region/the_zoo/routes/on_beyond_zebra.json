@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_zoo",
+        "stub": "on_beyond_zebra",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "On Beyond Zebra!",
+        "types": [
+            "sport"
+        ]
+    }
+}

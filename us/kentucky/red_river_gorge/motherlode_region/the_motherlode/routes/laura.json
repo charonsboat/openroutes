@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "laura",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Laura",
+        "types": [
+            "sport"
+        ]
+    }
+}

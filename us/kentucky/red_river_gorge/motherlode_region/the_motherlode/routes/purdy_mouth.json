@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "purdy_mouth",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Purdy Mouth",
+        "types": [
+            "sport"
+        ]
+    }
+}

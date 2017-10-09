@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arena",
+        "stub": "standing_ovation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Standing Ovation",
+        "types": [
+            "unknown"
+        ]
+    }
+}

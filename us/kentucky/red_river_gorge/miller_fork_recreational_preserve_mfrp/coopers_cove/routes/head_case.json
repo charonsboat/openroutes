@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coopers_cove",
+        "stub": "head_case",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Head Case",
+        "types": [
+            "trad"
+        ]
+    }
+}

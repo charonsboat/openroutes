@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_boneyard",
+        "stub": "jeffs_boneyard_project_closed",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Jeff's Boneyard Project (closed)",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "r_kelly_ethics",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "R. Kelly Ethics",
+        "types": [
+            "trad"
+        ]
+    }
+}

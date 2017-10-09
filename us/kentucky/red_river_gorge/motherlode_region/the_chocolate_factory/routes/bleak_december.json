@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "bleak_december",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Bleak December",
+        "types": [
+            "sport"
+        ]
+    }
+}

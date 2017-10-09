@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "shady_grove",
+        "stub": "coming_out_party",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Coming Out Party",
+        "types": [
+            "sport"
+        ]
+    }
+}

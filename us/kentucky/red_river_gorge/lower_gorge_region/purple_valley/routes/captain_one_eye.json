@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "purple_valley",
+        "stub": "captain_one_eye",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Captain One Eye",
+        "types": [
+            "unknown"
+        ]
+    }
+}

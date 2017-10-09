@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chaos",
+        "stub": "spider_monkey",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Spider Monkey",
+        "types": [
+            "sport"
+        ]
+    }
+}

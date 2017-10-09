@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pendergrass_murray_recreational_preserve_pmrp",
+        "stub": "volunteer_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Volunteer Wall"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunbeam_buttress",
+        "stub": "backstabber",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Backstabber",
+        "types": [
+            "sport"
+        ]
+    }
+}

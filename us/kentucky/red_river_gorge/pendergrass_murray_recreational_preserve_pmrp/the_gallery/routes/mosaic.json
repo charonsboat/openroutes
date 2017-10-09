@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "mosaic",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Mosaic",
+        "types": [
+            "sport"
+        ]
+    }
+}

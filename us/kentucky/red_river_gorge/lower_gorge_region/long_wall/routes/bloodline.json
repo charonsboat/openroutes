@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "bloodline",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Bloodline",
+        "types": [
+            "trad"
+        ]
+    }
+}

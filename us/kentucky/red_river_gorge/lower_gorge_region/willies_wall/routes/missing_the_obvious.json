@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "willies_wall",
+        "stub": "missing_the_obvious",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Missing the Obvious",
+        "types": [
+            "unknown"
+        ]
+    }
+}

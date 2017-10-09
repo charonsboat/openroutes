@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pistol_ridge",
+        "stub": "please_dont_feed_the_triceratops",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Please Don't Feed the Triceratops",
+        "types": [
+            "unknown"
+        ]
+    }
+}

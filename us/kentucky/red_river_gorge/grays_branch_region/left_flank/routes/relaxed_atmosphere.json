@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "left_flank",
+        "stub": "relaxed_atmosphere",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Relaxed Atmosphere",
+        "types": [
+            "sport"
+        ]
+    }
+}

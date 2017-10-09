@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pinch_em_tight_ridge",
+        "stub": "dukes_day",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Duke's Day",
+        "types": [
+            "trad"
+        ]
+    }
+}

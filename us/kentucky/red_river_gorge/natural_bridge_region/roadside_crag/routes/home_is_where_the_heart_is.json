@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "home_is_where_the_heart_is",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Home Is Where the Heart Is",
+        "types": [
+            "unknown"
+        ]
+    }
+}

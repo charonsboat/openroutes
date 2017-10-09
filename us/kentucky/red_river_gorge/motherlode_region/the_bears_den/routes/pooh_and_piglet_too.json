@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "pooh_and_piglet_too",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Pooh and Piglet Too",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "muir_valley",
+        "stub": "sunbeam_buttress",
+        "type": "region"
+    },
+    "info": {
+        "name": "Sunbeam Buttress"
+    }
+}

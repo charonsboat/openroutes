@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eastern_skybridge_ridge",
+        "stub": "inhibitor",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Inhibitor",
+        "types": [
+            "trad"
+        ]
+    }
+}

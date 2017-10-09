@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "funk_rock_city",
+        "stub": "funkadelic",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Funkadelic",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_shire",
+        "stub": "team_wilander",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Team Wilander",
+        "types": [
+            "sport"
+        ]
+    }
+}

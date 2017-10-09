@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "deep_end",
+        "stub": "half_mast",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Half Mast",
+        "types": [
+            "sport"
+        ]
+    }
+}

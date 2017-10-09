@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "shady_grove",
+        "stub": "far_from_god",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Far From God",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "practice_wall",
+        "stub": "slabalito",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Slabalito",
+        "types": [
+            "sport"
+        ]
+    }
+}

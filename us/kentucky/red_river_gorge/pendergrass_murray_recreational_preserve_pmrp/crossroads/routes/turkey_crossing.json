@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "turkey_crossing",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Turkey Crossing",
+        "types": [
+            "trad"
+        ]
+    }
+}

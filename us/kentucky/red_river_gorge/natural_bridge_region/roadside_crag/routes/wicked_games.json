@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "wicked_games",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Wicked Games",
+        "types": [
+            "sport"
+        ]
+    }
+}

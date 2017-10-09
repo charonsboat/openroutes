@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chaos",
+        "stub": "9_volt",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "9-Volt",
+        "types": [
+            "sport"
+        ]
+    }
+}

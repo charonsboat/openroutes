@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "signed_in_blood",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Signed In Blood",
+        "types": [
+            "sport"
+        ]
+    }
+}

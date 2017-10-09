@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "zero_dark_fiddy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Zero Dark Fiddy",
+        "types": [
+            "sport"
+        ]
+    }
+}

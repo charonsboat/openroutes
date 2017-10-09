@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "muscle_beach",
+        "stub": "jaws",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Jaws",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "muir_valley",
+        "stub": "tectonic_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Tectonic Wall"
+    }
+}

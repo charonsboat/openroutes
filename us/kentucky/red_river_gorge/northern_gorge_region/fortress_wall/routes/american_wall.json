@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fortress_wall",
+        "stub": "american_wall",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "American Wall",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "muscle_beach",
+        "stub": "last_wave",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Last Wave",
+        "types": [
+            "unknown"
+        ]
+    }
+}

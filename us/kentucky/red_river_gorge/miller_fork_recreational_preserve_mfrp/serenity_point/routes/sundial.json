@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "serenity_point",
+        "stub": "sundial",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Sundial",
+        "types": [
+            "sport"
+        ]
+    }
+}

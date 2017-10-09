@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "volunteer_wall",
+        "stub": "swap_meet",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Swap Meet",
+        "types": [
+            "sport"
+        ]
+    }
+}

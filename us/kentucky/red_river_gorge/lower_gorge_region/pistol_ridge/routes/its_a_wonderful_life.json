@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pistol_ridge",
+        "stub": "its_a_wonderful_life",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "It's a Wonderful Life",
+        "types": [
+            "unknown"
+        ]
+    }
+}

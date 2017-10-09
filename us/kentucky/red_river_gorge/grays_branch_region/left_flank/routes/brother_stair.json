@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "left_flank",
+        "stub": "brother_stair",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Brother Stair",
+        "types": [
+            "sport"
+        ]
+    }
+}

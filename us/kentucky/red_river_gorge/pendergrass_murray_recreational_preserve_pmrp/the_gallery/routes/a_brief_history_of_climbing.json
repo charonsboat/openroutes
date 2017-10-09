@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "a_brief_history_of_climbing",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "A Brief History of Climbing",
+        "types": [
+            "sport"
+        ]
+    }
+}

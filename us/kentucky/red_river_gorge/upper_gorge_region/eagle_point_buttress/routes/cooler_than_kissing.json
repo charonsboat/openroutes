@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eagle_point_buttress",
+        "stub": "cooler_than_kissing",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Cooler Than Kissing",
+        "types": [
+            "unknown"
+        ]
+    }
+}

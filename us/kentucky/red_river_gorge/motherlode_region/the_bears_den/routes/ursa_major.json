@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "ursa_major",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Ursa Major",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_boneyard",
+        "stub": "haggis_neeps_tatties",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Haggis, Neeps & Tatties",
+        "types": [
+            "sport"
+        ]
+    }
+}

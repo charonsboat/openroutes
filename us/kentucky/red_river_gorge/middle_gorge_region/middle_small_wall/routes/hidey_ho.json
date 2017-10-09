@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "middle_small_wall",
+        "stub": "hidey_ho",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Hidey-Ho",
+        "types": [
+            "unknown"
+        ]
+    }
+}

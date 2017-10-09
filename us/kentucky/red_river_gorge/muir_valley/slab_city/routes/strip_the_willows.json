@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "slab_city",
+        "stub": "strip_the_willows",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Strip the Willows",
+        "types": [
+            "sport"
+        ]
+    }
+}

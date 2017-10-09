@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "motherlode_region",
+        "stub": "the_bears_den",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Bear's Den"
+    }
+}

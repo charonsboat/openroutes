@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arena",
+        "stub": "red_card",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Red Card",
+        "types": [
+            "unknown"
+        ]
+    }
+}

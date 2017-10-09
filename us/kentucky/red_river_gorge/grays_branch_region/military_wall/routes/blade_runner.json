@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "blade_runner",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Blade Runner",
+        "types": [
+            "trad"
+        ]
+    }
+}

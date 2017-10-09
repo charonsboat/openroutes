@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "ill_take_sue",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "I'll Take Sue",
+        "types": [
+            "sport"
+        ]
+    }
+}

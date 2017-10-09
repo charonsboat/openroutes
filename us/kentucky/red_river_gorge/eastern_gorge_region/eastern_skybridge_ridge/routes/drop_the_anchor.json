@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eastern_skybridge_ridge",
+        "stub": "drop_the_anchor",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Drop the Anchor",
+        "types": [
+            "sport"
+        ]
+    }
+}

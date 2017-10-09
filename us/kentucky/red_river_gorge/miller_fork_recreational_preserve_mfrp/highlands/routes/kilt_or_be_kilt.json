@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "highlands",
+        "stub": "kilt_or_be_kilt",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Kilt or be Kilt",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bright_side",
+        "stub": "deep_fried",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Deep Fried",
+        "types": [
+            "sport"
+        ]
+    }
+}

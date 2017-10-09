@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "shady_grove",
+        "stub": "taste_the_rainbow",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Taste The Rainbow",
+        "types": [
+            "sport"
+        ]
+    }
+}

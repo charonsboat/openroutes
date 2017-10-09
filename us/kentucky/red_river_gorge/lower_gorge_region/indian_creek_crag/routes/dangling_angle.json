@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "indian_creek_crag",
+        "stub": "dangling_angle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Dangling Angle",
+        "types": [
+            "unknown"
+        ]
+    }
+}

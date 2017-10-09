@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "graveyard",
+        "stub": "grim_reaper",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Grim Reaper",
+        "types": [
+            "sport"
+        ]
+    }
+}

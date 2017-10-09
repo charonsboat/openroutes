@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "inner_sanctum",
+        "stub": "psyberpunk",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Psyberpunk",
+        "types": [
+            "sport"
+        ]
+    }
+}

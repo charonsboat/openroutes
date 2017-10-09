@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eastern_skybridge_ridge",
+        "stub": "jack_in_the_pulpit",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Jack in the Pulpit",
+        "types": [
+            "sport"
+        ]
+    }
+}

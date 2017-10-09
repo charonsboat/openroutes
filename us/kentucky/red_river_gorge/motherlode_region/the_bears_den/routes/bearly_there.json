@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "bearly_there",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.14a",
+        "name": "Bearly There",
+        "types": [
+            "sport"
+        ]
+    }
+}

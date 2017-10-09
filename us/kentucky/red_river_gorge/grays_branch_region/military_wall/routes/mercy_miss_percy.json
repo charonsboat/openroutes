@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "mercy_miss_percy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Mercy Miss Percy",
+        "types": [
+            "sport"
+        ]
+    }
+}

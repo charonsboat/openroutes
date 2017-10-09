@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solarium",
+        "stub": "summer_sunshine",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Summer Sunshine",
+        "types": [
+            "sport"
+        ]
+    }
+}

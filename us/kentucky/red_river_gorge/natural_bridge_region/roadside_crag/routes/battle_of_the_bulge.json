@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "battle_of_the_bulge",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a r",
+        "name": "Battle of the Bulge",
+        "types": [
+            "unknown"
+        ]
+    }
+}

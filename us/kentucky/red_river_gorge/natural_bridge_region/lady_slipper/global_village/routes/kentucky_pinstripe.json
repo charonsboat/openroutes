@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "global_village",
+        "stub": "kentucky_pinstripe",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Kentucky Pinstripe",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "global_village",
+        "stub": "deep_six",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Deep Six",
+        "types": [
+            "sport"
+        ]
+    }
+}

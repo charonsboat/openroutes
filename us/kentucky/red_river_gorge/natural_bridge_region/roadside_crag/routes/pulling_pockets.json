@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "pulling_pockets",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Pulling Pockets",
+        "types": [
+            "sport"
+        ]
+    }
+}

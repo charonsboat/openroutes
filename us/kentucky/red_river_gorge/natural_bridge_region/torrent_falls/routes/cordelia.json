@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "torrent_falls",
+        "stub": "cordelia",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Cordelia",
+        "types": [
+            "sport"
+        ]
+    }
+}

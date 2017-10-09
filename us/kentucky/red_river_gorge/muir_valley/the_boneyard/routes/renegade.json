@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_boneyard",
+        "stub": "renegade",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Renegade",
+        "types": [
+            "mixed"
+        ]
+    }
+}

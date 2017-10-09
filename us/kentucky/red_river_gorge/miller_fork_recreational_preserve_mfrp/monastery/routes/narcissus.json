@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "monastery",
+        "stub": "narcissus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Narcissus",
+        "types": [
+            "sport"
+        ]
+    }
+}

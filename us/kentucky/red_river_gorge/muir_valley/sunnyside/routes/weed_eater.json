@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunnyside",
+        "stub": "weed_eater",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Weed Eater",
+        "types": [
+            "sport"
+        ]
+    }
+}

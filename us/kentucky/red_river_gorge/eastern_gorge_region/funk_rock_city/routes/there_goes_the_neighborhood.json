@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "funk_rock_city",
+        "stub": "there_goes_the_neighborhood",
+        "type": "region"
+    },
+    "info": {
+        "grade": "{au} yds:5.11c",
+        "name": "There Goes The Neighborhood",
+        "types": [
+            "unknown"
+        ]
+    }
+}

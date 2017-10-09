@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "muir_valley",
+        "stub": "solarium",
+        "type": "region"
+    },
+    "info": {
+        "name": "Solarium"
+    }
+}

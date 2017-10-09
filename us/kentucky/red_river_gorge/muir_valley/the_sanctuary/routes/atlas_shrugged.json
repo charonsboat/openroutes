@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_sanctuary",
+        "stub": "atlas_shrugged",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Atlas Shrugged",
+        "types": [
+            "sport"
+        ]
+    }
+}

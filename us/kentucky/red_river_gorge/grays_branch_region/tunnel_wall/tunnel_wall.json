@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "grays_branch_region",
+        "stub": "tunnel_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Tunnel Wall"
+    }
+}

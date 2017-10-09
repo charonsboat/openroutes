@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_boneyard",
+        "stub": "abby_gabby_doo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Abby Gabby Doo",
+        "types": [
+            "sport"
+        ]
+    }
+}

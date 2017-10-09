@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "are_the_pies_fresh_first_anchor",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Are the Pies Fresh? (first anchor)",
+        "types": [
+            "sport"
+        ]
+    }
+}

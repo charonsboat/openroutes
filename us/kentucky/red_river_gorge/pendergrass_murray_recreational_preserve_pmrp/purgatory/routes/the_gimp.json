@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "purgatory",
+        "stub": "the_gimp",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "The Gimp",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_boneyard",
+        "stub": "son_of_a_wanted_man",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Son of a Wanted Man",
+        "types": [
+            "mixed"
+        ]
+    }
+}

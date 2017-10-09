@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bob_marley_crag",
+        "stub": "peel_it_back",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Peel It Back",
+        "types": [
+            "sport"
+        ]
+    }
+}

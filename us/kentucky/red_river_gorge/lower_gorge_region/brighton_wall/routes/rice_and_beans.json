@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "brighton_wall",
+        "stub": "rice_and_beans",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Rice and Beans",
+        "types": [
+            "unknown"
+        ]
+    }
+}

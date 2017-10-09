@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "kentucky",
+        "stub": "red_river_gorge",
+        "type": "region"
+    },
+    "info": {
+        "name": "Red River Gorge"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chaos",
+        "stub": "lithuanian_princess",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Lithuanian Princess",
+        "types": [
+            "sport"
+        ]
+    }
+}

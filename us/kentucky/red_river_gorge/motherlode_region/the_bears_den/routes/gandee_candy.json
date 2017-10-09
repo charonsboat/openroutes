@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "gandee_candy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Gandee Candy",
+        "types": [
+            "sport"
+        ]
+    }
+}

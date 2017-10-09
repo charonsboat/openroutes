@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bright_side",
+        "stub": "crown_of_thorns",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Crown of Thorns",
+        "types": [
+            "sport"
+        ]
+    }
+}

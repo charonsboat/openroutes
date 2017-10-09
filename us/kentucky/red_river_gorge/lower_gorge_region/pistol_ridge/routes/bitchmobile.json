@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pistol_ridge",
+        "stub": "bitchmobile",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Bitchmobile",
+        "types": [
+            "unknown"
+        ]
+    }
+}

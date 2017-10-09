@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "purgatory",
+        "stub": "skunk_love",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Skunk Love",
+        "types": [
+            "sport"
+        ]
+    }
+}

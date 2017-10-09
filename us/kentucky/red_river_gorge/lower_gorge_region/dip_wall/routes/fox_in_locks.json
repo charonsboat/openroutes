@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dip_wall",
+        "stub": "fox_in_locks",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9 r",
+        "name": "Fox in Locks",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "breakfast_burrito",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Breakfast Burrito",
+        "types": [
+            "sport"
+        ]
+    }
+}

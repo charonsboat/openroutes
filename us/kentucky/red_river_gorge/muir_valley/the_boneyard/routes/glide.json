@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_boneyard",
+        "stub": "glide",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Glide",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "good_gravy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Good Gravy",
+        "types": [
+            "sport"
+        ]
+    }
+}

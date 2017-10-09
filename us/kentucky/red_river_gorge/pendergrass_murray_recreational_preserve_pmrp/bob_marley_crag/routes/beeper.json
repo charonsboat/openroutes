@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bob_marley_crag",
+        "stub": "beeper",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Beeper",
+        "types": [
+            "sport"
+        ]
+    }
+}

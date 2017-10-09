@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "deep_end",
+        "stub": "the_cough",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "The Cough",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "the_juggernaut",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "The Juggernaut",
+        "types": [
+            "sport"
+        ]
+    }
+}

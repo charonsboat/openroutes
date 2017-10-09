@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "mud_on_the_rug",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Mud on the Rug",
+        "types": [
+            "trad"
+        ]
+    }
+}

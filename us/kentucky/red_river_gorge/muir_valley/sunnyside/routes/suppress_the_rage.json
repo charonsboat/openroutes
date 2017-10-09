@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunnyside",
+        "stub": "suppress_the_rage",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Suppress The Rage",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bob_marley_crag",
+        "stub": "fungus_among_us",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Fungus Among Us",
+        "types": [
+            "sport"
+        ]
+    }
+}

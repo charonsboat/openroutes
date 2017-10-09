@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "oil_crack_rock",
+        "stub": "blue_plate_special",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Blue Plate Special",
+        "types": [
+            "sport"
+        ]
+    }
+}

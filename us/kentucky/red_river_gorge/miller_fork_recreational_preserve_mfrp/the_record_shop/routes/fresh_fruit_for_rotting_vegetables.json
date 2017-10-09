@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_record_shop",
+        "stub": "fresh_fruit_for_rotting_vegetables",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Fresh Fruit for Rotting Vegetables",
+        "types": [
+            "mixed"
+        ]
+    }
+}

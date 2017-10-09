@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bibliothek",
+        "stub": "the_stranger",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "The Stranger",
+        "types": [
+            "sport"
+        ]
+    }
+}

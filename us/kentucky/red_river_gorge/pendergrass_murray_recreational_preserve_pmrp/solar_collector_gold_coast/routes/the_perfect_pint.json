@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "the_perfect_pint",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "The Perfect Pint",
+        "types": [
+            "trad"
+        ]
+    }
+}

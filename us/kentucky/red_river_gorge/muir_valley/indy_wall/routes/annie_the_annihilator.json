@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "indy_wall",
+        "stub": "annie_the_annihilator",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Annie The Annihilator.",
+        "types": [
+            "sport"
+        ]
+    }
+}

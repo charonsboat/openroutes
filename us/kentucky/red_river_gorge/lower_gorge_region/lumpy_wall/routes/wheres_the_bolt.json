@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lumpy_wall",
+        "stub": "wheres_the_bolt",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Where's the Bolt?",
+        "types": [
+            "unknown"
+        ]
+    }
+}

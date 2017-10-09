@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pebble_beach",
+        "stub": "brontosaurus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Brontosaurus",
+        "types": [
+            "unknown"
+        ]
+    }
+}

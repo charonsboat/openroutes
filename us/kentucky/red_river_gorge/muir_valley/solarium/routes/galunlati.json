@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solarium",
+        "stub": "galunlati",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Galunlati",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "left_field",
+        "stub": "jet_lag",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Jet Lag",
+        "types": [
+            "sport"
+        ]
+    }
+}

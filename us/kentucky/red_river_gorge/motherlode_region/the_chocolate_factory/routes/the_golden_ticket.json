@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "the_golden_ticket",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.14d",
+        "name": "The Golden Ticket",
+        "types": [
+            "sport"
+        ]
+    }
+}

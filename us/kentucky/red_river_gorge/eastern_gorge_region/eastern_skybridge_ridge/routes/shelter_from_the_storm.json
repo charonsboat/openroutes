@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eastern_skybridge_ridge",
+        "stub": "shelter_from_the_storm",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Shelter from the Storm",
+        "types": [
+            "trad"
+        ]
+    }
+}

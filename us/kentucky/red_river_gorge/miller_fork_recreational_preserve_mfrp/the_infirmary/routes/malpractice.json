@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_infirmary",
+        "stub": "malpractice",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Malpractice",
+        "types": [
+            "trad"
+        ]
+    }
+}

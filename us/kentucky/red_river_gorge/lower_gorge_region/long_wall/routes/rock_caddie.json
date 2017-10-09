@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "rock_caddie",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Rock Caddie",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_playground",
+        "stub": "slide",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Slide",
+        "types": [
+            "sport"
+        ]
+    }
+}

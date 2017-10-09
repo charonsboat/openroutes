@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_record_shop",
+        "stub": "fly_by_night",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Fly By Night",
+        "types": [
+            "sport"
+        ]
+    }
+}

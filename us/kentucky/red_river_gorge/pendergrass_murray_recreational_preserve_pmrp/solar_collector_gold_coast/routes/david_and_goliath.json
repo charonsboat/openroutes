@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "david_and_goliath",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "David and Goliath",
+        "types": [
+            "sport"
+        ]
+    }
+}

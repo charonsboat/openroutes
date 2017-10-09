@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "cannibal_queen",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Cannibal Queen",
+        "types": [
+            "sport"
+        ]
+    }
+}

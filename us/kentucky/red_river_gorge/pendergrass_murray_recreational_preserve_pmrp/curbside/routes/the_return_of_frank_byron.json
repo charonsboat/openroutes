@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "curbside",
+        "stub": "the_return_of_frank_byron",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "The Return of Frank Byron",
+        "types": [
+            "sport"
+        ]
+    }
+}

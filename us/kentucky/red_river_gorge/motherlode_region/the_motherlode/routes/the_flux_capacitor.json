@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "the_flux_capacitor",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "The Flux Capacitor",
+        "types": [
+            "sport"
+        ]
+    }
+}

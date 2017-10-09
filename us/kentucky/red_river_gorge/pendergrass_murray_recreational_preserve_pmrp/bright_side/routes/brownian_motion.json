@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bright_side",
+        "stub": "brownian_motion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Brownian Motion",
+        "types": [
+            "sport"
+        ]
+    }
+}

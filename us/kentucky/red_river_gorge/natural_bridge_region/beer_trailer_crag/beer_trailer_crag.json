@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "natural_bridge_region",
+        "stub": "beer_trailer_crag",
+        "type": "region"
+    },
+    "info": {
+        "name": "Beer Trailer Crag"
+    }
+}

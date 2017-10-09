@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "muscle_beach",
+        "stub": "casual_corner",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Casual Corner",
+        "types": [
+            "unknown"
+        ]
+    }
+}

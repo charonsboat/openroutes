@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "curbside",
+        "stub": "wildfire",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Wildfire",
+        "types": [
+            "sport"
+        ]
+    }
+}

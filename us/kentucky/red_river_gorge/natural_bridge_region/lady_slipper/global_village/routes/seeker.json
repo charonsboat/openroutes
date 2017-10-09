@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "global_village",
+        "stub": "seeker",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Seeker",
+        "types": [
+            "sport"
+        ]
+    }
+}

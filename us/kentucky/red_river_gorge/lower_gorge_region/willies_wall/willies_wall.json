@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "lower_gorge_region",
+        "stub": "willies_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Willie's Wall"
+    }
+}

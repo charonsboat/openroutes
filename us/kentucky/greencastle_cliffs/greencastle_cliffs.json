@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "kentucky",
+        "stub": "greencastle_cliffs",
+        "type": "region"
+    },
+    "info": {
+        "name": "Greencastle Cliffs"
+    }
+}

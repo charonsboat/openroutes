@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunnyside",
+        "stub": "beam_me_up_shorty",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Beam Me Up Shorty",
+        "types": [
+            "boulder"
+        ]
+    }
+}

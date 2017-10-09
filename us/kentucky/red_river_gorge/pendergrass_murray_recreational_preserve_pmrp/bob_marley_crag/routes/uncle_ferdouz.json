@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bob_marley_crag",
+        "stub": "uncle_ferdouz",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Uncle Ferdouz",
+        "types": [
+            "sport"
+        ]
+    }
+}

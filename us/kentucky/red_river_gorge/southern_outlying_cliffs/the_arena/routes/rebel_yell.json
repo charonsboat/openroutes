@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arena",
+        "stub": "rebel_yell",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Rebel Yell",
+        "types": [
+            "unknown"
+        ]
+    }
+}

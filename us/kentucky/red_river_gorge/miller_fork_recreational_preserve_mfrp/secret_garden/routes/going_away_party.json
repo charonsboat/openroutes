@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "secret_garden",
+        "stub": "going_away_party",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Going Away Party",
+        "types": [
+            "sport"
+        ]
+    }
+}

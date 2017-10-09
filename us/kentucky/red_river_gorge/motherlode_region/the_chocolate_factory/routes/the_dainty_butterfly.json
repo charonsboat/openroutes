@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "the_dainty_butterfly",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "The Dainty Butterfly",
+        "types": [
+            "sport"
+        ]
+    }
+}

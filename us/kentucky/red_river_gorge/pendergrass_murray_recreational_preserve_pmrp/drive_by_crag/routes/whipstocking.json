@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "whipstocking",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Whipstocking",
+        "types": [
+            "sport"
+        ]
+    }
+}

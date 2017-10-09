@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "highway_turtle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Highway Turtle",
+        "types": [
+            "sport"
+        ]
+    }
+}

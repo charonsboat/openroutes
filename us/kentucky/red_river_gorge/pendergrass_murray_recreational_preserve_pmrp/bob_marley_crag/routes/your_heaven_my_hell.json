@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bob_marley_crag",
+        "stub": "your_heaven_my_hell",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.15a",
+        "name": "Your Heaven My Hell",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_sanctuary",
+        "stub": "perfidious_deciduous",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Perfidious Deciduous",
+        "types": [
+            "trad"
+        ]
+    }
+}

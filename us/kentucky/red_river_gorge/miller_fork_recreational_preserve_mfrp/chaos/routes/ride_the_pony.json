@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chaos",
+        "stub": "ride_the_pony",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Ride The Pony",
+        "types": [
+            "sport"
+        ]
+    }
+}

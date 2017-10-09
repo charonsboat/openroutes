@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunbeam_buttress",
+        "stub": "universal_gravitation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Universal Gravitation",
+        "types": [
+            "sport"
+        ]
+    }
+}

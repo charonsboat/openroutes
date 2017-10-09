@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bruise_brothers_wall",
+        "stub": "dont_take_yer_guns_to_town",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Don't Take Yer Guns to Town",
+        "types": [
+            "sport"
+        ]
+    }
+}

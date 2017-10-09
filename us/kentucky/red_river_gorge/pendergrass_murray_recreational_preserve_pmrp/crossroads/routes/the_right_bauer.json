@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "the_right_bauer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "The Right Bauer",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "thats_what_she_said",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "That's What She Said",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "c_quest_r",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "C Quest R",
+        "types": [
+            "sport"
+        ]
+    }
+}

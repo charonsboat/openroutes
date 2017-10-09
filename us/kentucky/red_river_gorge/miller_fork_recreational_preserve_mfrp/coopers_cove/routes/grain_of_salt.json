@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coopers_cove",
+        "stub": "grain_of_salt",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Grain of Salt",
+        "types": [
+            "sport"
+        ]
+    }
+}

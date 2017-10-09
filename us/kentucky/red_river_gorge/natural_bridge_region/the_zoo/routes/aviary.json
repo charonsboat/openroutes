@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_zoo",
+        "stub": "aviary",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Aviary",
+        "types": [
+            "sport"
+        ]
+    }
+}

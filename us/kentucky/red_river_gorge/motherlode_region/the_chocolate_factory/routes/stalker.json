@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "stalker",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Stalker",
+        "types": [
+            "sport"
+        ]
+    }
+}

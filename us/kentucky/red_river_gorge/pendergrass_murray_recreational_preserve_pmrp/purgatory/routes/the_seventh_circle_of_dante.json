@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "purgatory",
+        "stub": "the_seventh_circle_of_dante",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "The Seventh Circle of Dante",
+        "types": [
+            "trad"
+        ]
+    }
+}

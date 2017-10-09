@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "indy_wall",
+        "stub": "social_stigma",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Social Stigma",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "alcatraz",
+        "stub": "dope_on_a_rope",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Dope on a Rope",
+        "types": [
+            "sport"
+        ]
+    }
+}

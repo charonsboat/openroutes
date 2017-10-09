@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "top_ropers_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.2",
+        "name": "Top-roper's Route",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bibliothek",
+        "stub": "lolita",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Lolita",
+        "types": [
+            "sport"
+        ]
+    }
+}

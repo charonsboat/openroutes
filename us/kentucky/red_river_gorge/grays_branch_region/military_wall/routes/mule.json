@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "mule",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Mule",
+        "types": [
+            "sport"
+        ]
+    }
+}

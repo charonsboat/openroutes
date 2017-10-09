@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "false_positive",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "False Positive",
+        "types": [
+            "sport"
+        ]
+    }
+}

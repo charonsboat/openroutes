@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_cove",
+        "stub": "hobbies_delight",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Hobbies Delight",
+        "types": [
+            "boulder"
+        ]
+    }
+}

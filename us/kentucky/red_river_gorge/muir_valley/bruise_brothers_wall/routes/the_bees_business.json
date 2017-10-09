@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bruise_brothers_wall",
+        "stub": "the_bees_business",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "The Bee's Business",
+        "types": [
+            "sport"
+        ]
+    }
+}

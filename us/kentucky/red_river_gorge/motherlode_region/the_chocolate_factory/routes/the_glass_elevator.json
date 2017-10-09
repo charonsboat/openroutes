@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "the_glass_elevator",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "The Glass Elevator",
+        "types": [
+            "sport"
+        ]
+    }
+}

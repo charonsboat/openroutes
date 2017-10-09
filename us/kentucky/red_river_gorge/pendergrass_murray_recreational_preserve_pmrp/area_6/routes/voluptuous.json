@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "area_6",
+        "stub": "voluptuous",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Voluptuous",
+        "types": [
+            "sport"
+        ]
+    }
+}

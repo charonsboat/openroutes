@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_record_shop",
+        "stub": "call_me_maybe",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Call Me Maybe",
+        "types": [
+            "sport"
+        ]
+    }
+}

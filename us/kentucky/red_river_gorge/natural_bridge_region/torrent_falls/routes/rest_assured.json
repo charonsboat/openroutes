@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "torrent_falls",
+        "stub": "rest_assured",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Rest Assured",
+        "types": [
+            "sport"
+        ]
+    }
+}

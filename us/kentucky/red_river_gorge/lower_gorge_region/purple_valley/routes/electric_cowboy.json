@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "purple_valley",
+        "stub": "electric_cowboy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Electric Cowboy",
+        "types": [
+            "unknown"
+        ]
+    }
+}

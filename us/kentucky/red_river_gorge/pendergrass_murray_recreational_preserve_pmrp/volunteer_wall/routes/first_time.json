@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "volunteer_wall",
+        "stub": "first_time",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "First Time",
+        "types": [
+            "sport"
+        ]
+    }
+}

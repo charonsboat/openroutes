@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "torrent_falls",
+        "stub": "paranoia",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "Paranoia",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "torrent_falls",
+        "stub": "sport_for_brains",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Sport for Brains",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "deep_end",
+        "stub": "peeping_tom",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Peeping Tom",
+        "types": [
+            "trad"
+        ]
+    }
+}

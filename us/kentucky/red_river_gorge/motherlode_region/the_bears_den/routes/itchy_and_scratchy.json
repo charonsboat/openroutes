@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "itchy_and_scratchy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Itchy and Scratchy",
+        "types": [
+            "sport"
+        ]
+    }
+}

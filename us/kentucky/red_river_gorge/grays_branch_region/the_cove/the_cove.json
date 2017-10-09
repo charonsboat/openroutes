@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "grays_branch_region",
+        "stub": "the_cove",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Cove"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_record_shop",
+        "stub": "hitch_a_ride",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Hitch a Ride",
+        "types": [
+            "sport"
+        ]
+    }
+}

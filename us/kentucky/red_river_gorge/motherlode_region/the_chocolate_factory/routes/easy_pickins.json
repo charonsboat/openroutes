@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "easy_pickins",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Easy Pickins",
+        "types": [
+            "trad"
+        ]
+    }
+}

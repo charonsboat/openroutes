@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "tar_baby",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Tar Baby",
+        "types": [
+            "sport"
+        ]
+    }
+}

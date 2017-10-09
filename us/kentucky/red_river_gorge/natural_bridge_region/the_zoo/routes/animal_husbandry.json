@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_zoo",
+        "stub": "animal_husbandry",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Animal Husbandry",
+        "types": [
+            "sport"
+        ]
+    }
+}

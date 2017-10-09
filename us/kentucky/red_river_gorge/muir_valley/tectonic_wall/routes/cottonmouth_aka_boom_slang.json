@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tectonic_wall",
+        "stub": "cottonmouth_aka_boom_slang",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Cottonmouth (Aka Boom-Slang)",
+        "types": [
+            "sport"
+        ]
+    }
+}

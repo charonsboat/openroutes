@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "love_potion_9",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Love Potion #9",
+        "types": [
+            "sport"
+        ]
+    }
+}

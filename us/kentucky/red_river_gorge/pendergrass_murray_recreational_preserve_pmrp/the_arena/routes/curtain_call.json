@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arena",
+        "stub": "curtain_call",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Curtain Call",
+        "types": [
+            "unknown"
+        ]
+    }
+}

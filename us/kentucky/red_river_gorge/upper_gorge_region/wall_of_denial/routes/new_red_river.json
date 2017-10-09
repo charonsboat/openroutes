@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "wall_of_denial",
+        "stub": "new_red_river",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "New Red River",
+        "types": [
+            "unknown"
+        ]
+    }
+}

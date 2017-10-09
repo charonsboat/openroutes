@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "bozos_bogus_booty_biner",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Bozo's Bogus Booty Biner",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "jazz_rock",
+        "stub": "dead_deer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Dead Deer",
+        "types": [
+            "trad"
+        ]
+    }
+}

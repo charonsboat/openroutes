@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "loompa",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Loompa",
+        "types": [
+            "sport"
+        ]
+    }
+}

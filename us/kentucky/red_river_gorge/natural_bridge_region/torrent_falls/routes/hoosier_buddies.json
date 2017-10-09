@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "torrent_falls",
+        "stub": "hoosier_buddies",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Hoosier Buddies",
+        "types": [
+            "sport"
+        ]
+    }
+}

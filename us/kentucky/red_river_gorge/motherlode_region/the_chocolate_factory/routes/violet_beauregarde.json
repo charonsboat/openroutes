@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "violet_beauregarde",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Violet Beauregarde",
+        "types": [
+            "sport"
+        ]
+    }
+}

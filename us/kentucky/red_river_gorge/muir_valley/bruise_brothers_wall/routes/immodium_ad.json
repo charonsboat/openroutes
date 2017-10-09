@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bruise_brothers_wall",
+        "stub": "immodium_ad",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Immodium AD",
+        "types": [
+            "trad"
+        ]
+    }
+}

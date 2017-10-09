@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "techno_destructo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Techno Destructo",
+        "types": [
+            "sport"
+        ]
+    }
+}

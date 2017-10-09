@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "practice_wall",
+        "stub": "acrophobiacs_anonymous",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Acrophobiacs Anonymous",
+        "types": [
+            "sport"
+        ]
+    }
+}

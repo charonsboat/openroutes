@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "herd_mentality",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Herd Mentality",
+        "types": [
+            "sport"
+        ]
+    }
+}

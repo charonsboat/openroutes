@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "johnny_b_good",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Johnny B. Good",
+        "types": [
+            "sport"
+        ]
+    }
+}

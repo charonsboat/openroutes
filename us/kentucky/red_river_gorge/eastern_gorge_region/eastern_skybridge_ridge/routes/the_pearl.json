@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eastern_skybridge_ridge",
+        "stub": "the_pearl",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "The Pearl",
+        "types": [
+            "boulder"
+        ]
+    }
+}

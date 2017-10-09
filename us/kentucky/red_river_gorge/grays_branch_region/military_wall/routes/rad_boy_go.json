@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "rad_boy_go",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Rad Boy Go",
+        "types": [
+            "sport"
+        ]
+    }
+}

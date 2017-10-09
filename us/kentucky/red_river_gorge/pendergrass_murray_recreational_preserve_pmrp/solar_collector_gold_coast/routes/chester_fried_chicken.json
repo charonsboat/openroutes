@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "chester_fried_chicken",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Chester Fried Chicken",
+        "types": [
+            "trad"
+        ]
+    }
+}

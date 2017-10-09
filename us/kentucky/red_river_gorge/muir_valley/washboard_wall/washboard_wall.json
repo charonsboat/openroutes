@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "muir_valley",
+        "stub": "washboard_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Washboard Wall"
+    }
+}

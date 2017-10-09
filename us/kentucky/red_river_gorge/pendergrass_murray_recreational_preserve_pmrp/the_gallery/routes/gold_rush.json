@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "gold_rush",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Gold Rush",
+        "types": [
+            "sport"
+        ]
+    }
+}

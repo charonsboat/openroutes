@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "oil_crack_rock",
+        "stub": "checkmate",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Checkmate",
+        "types": [
+            "sport"
+        ]
+    }
+}

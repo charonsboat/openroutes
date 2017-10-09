@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "left_flank",
+        "stub": "face_up_to_that_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Face Up to That Crack",
+        "types": [
+            "mixed"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "cruisemaster",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Cruisemaster",
+        "types": [
+            "trad"
+        ]
+    }
+}

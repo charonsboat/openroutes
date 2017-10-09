@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "armed_forces",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.3 r",
+        "name": "Armed Forces",
+        "types": [
+            "trad"
+        ]
+    }
+}

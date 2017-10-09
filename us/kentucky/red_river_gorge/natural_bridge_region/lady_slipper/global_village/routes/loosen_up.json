@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "global_village",
+        "stub": "loosen_up",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Loosen Up",
+        "types": [
+            "unknown"
+        ]
+    }
+}

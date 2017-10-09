@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "torrent_falls",
+        "stub": "last_resort",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Last Resort",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bright_side",
+        "stub": "chica_loca",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Chica Loca",
+        "types": [
+            "sport"
+        ]
+    }
+}

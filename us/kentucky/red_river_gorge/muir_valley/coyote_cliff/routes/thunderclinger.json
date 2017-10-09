@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coyote_cliff",
+        "stub": "thunderclinger",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Thunderclinger",
+        "types": [
+            "sport"
+        ]
+    }
+}

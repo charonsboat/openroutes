@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tunnel_wall",
+        "stub": "no_doz",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "No Doz",
+        "types": [
+            "unknown"
+        ]
+    }
+}

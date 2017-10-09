@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "things_that_go_bump_in_the_night",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Things That Go Bump In the Night",
+        "types": [
+            "trad"
+        ]
+    }
+}

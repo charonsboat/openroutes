@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "funk_rock_city",
+        "stub": "gyana_mundra",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Gyana Mundra",
+        "types": [
+            "trad"
+        ]
+    }
+}

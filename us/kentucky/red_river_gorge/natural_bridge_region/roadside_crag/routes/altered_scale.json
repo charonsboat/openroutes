@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "altered_scale",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Altered Scale",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chaos",
+        "stub": "morla",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Morla",
+        "types": [
+            "trad"
+        ]
+    }
+}

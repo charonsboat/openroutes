@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "black_gold",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13c",
+        "name": "Black Gold",
+        "types": [
+            "sport"
+        ]
+    }
+}

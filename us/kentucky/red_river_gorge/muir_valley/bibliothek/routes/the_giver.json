@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bibliothek",
+        "stub": "the_giver",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "The Giver",
+        "types": [
+            "trad"
+        ]
+    }
+}

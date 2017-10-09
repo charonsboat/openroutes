@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_playground",
+        "stub": "crack_the_whip",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Crack The Whip",
+        "types": [
+            "sport"
+        ]
+    }
+}

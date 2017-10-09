@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "muir_valley",
+        "stub": "sunnyside",
+        "type": "region"
+    },
+    "info": {
+        "name": "Sunnyside"
+    }
+}

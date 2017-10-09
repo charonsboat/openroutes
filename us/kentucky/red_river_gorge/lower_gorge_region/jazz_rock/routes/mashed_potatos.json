@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "jazz_rock",
+        "stub": "mashed_potatos",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Mashed Potatos",
+        "types": [
+            "trad"
+        ]
+    }
+}

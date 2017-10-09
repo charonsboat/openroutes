@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bibliothek",
+        "stub": "the_unbearable_lightness_of_being",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "The Unbearable Lightness of Being",
+        "types": [
+            "sport"
+        ]
+    }
+}

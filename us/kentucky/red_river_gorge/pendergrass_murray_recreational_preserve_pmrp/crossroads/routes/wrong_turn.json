@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "wrong_turn",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Wrong Turn",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "lady_slipper",
+        "stub": "global_village",
+        "type": "region"
+    },
+    "info": {
+        "name": "Global Village"
+    }
+}

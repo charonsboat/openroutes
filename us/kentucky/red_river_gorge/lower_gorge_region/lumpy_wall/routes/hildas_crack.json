@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lumpy_wall",
+        "stub": "hildas_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Hilda's Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

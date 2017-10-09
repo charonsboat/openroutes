@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "yada_yada_yada",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Yada Yada Yada",
+        "types": [
+            "sport"
+        ]
+    }
+}

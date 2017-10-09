@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "alcatraz",
+        "stub": "birdman",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Birdman",
+        "types": [
+            "sport"
+        ]
+    }
+}

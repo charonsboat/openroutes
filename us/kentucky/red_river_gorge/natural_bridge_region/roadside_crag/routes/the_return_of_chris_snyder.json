@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "the_return_of_chris_snyder",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "The Return of Chris Snyder",
+        "types": [
+            "sport"
+        ]
+    }
+}

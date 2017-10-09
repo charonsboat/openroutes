@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "emerald_city",
+        "stub": "oz",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Oz",
+        "types": [
+            "sport"
+        ]
+    }
+}

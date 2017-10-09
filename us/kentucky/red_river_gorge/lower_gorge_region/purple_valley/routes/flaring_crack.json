@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "purple_valley",
+        "stub": "flaring_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Flaring crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

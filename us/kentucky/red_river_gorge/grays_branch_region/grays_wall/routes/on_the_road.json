@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "grays_wall",
+        "stub": "on_the_road",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "On the Road",
+        "types": [
+            "unknown"
+        ]
+    }
+}

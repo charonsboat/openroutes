@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "real_deep_end",
+        "stub": "poop_chute",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Poop Chute",
+        "types": [
+            "sport"
+        ]
+    }
+}

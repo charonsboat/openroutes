@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "nicoderm",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Nicoderm",
+        "types": [
+            "sport"
+        ]
+    }
+}

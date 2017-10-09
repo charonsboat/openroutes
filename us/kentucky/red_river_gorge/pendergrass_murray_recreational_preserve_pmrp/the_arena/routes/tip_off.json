@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arena",
+        "stub": "tip_off",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Tip Off",
+        "types": [
+            "unknown"
+        ]
+    }
+}

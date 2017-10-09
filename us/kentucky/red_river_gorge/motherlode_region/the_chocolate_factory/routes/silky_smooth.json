@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "silky_smooth",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13c",
+        "name": "Silky Smooth",
+        "types": [
+            "sport"
+        ]
+    }
+}

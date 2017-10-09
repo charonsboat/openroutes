@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "snapper",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Snapper",
+        "types": [
+            "sport"
+        ]
+    }
+}

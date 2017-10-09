@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coffee_shop",
+        "stub": "the_watch_tower",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v6",
+        "name": "The Watch Tower",
+        "types": [
+            "boulder"
+        ]
+    }
+}

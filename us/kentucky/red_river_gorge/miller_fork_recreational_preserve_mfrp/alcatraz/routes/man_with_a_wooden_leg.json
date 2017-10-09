@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "alcatraz",
+        "stub": "man_with_a_wooden_leg",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Man With A Wooden Leg",
+        "types": [
+            "sport"
+        ]
+    }
+}

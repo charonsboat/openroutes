@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "indian_creek_crag",
+        "stub": "break_the_edge",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Break the Edge",
+        "types": [
+            "unknown"
+        ]
+    }
+}

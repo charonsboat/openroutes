@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "torrent_falls",
+        "stub": "its_alive",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "It's Alive",
+        "types": [
+            "sport"
+        ]
+    }
+}

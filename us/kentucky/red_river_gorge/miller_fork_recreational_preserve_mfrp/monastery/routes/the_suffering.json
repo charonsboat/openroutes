@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "monastery",
+        "stub": "the_suffering",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "The Suffering",
+        "types": [
+            "sport"
+        ]
+    }
+}

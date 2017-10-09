@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "global_village",
+        "stub": "disappear",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Disappear",
+        "types": [
+            "sport"
+        ]
+    }
+}

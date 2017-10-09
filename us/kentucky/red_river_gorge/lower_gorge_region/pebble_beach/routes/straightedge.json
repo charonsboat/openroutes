@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pebble_beach",
+        "stub": "straightedge",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Straightedge",
+        "types": [
+            "sport"
+        ]
+    }
+}

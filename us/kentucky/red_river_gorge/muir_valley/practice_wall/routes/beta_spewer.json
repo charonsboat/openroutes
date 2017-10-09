@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "practice_wall",
+        "stub": "beta_spewer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Beta Spewer",
+        "types": [
+            "sport"
+        ]
+    }
+}

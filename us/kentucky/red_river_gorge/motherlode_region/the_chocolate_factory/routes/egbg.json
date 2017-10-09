@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "egbg",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "EGBG",
+        "types": [
+            "sport"
+        ]
+    }
+}

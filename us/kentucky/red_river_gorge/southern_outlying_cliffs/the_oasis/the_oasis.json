@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "southern_outlying_cliffs",
+        "stub": "the_oasis",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Oasis"
+    }
+}

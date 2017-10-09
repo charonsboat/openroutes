@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "hot_drama_teacher",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Hot Drama Teacher",
+        "types": [
+            "sport"
+        ]
+    }
+}

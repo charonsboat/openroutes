@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bright_side",
+        "stub": "golden_brown",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Golden Brown",
+        "types": [
+            "sport"
+        ]
+    }
+}

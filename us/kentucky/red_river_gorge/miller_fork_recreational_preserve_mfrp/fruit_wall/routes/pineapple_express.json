@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "pineapple_express",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Pineapple Express",
+        "types": [
+            "sport"
+        ]
+    }
+}

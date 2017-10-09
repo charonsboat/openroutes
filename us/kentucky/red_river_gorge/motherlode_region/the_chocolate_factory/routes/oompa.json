@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "oompa",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Oompa",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "midnight_surf",
+        "stub": "cell_block_six",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Cell Block Six",
+        "types": [
+            "sport"
+        ]
+    }
+}

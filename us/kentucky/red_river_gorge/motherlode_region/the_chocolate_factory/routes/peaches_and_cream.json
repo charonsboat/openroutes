@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "peaches_and_cream",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Peaches and Cream",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "swallow_the_hollow",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Swallow the Hollow",
+        "types": [
+            "sport"
+        ]
+    }
+}

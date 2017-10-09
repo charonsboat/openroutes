@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "red_river_gorge",
+        "stub": "muir_valley",
+        "type": "region"
+    },
+    "info": {
+        "name": "Muir Valley"
+    }
+}

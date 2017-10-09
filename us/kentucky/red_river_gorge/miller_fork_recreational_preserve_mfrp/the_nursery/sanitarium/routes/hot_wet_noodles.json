@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sanitarium",
+        "stub": "hot_wet_noodles",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Hot Wet Noodles",
+        "types": [
+            "sport"
+        ]
+    }
+}

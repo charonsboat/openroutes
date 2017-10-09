@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "muscle_beach",
+        "stub": "grand_illusion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Grand Illusion",
+        "types": [
+            "unknown"
+        ]
+    }
+}

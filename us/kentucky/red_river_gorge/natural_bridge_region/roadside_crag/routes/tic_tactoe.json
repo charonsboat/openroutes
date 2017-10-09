@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "tic_tactoe",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Tic-tac-toe",
+        "types": [
+            "sport"
+        ]
+    }
+}

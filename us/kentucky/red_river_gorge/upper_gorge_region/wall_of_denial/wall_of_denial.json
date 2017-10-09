@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "upper_gorge_region",
+        "stub": "wall_of_denial",
+        "type": "region"
+    },
+    "info": {
+        "name": "Wall of Denial"
+    }
+}

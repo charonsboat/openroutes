@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tunnel_wall",
+        "stub": "negative_energy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Negative Energy",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "practice_wall",
+        "stub": "low_exposure",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Low Exposure",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pebble_beach",
+        "stub": "sundance",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Sundance",
+        "types": [
+            "sport"
+        ]
+    }
+}

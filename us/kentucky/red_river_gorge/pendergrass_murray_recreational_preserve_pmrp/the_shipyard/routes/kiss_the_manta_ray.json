@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_shipyard",
+        "stub": "kiss_the_manta_ray",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Kiss The Manta Ray",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bibliothek",
+        "stub": "american_psycho",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "American Psycho",
+        "types": [
+            "sport"
+        ]
+    }
+}

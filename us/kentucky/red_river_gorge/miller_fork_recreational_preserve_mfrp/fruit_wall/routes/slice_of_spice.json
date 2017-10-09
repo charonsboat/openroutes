@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "slice_of_spice",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Slice of Spice",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_infirmary",
+        "stub": "magic_bed",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Magic Bed",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_record_shop",
+        "stub": "the_wall",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12",
+        "name": "The Wall",
+        "types": [
+            "sport"
+        ]
+    }
+}

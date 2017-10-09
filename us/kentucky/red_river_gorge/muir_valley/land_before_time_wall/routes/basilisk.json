@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "land_before_time_wall",
+        "stub": "basilisk",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Basilisk",
+        "types": [
+            "sport"
+        ]
+    }
+}

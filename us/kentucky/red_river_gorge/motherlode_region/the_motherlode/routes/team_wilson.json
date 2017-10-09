@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "team_wilson",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Team Wilson",
+        "types": [
+            "sport"
+        ]
+    }
+}

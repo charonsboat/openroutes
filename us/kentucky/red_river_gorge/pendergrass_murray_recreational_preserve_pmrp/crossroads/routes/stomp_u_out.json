@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "stomp_u_out",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Stomp U Out",
+        "types": [
+            "sport"
+        ]
+    }
+}

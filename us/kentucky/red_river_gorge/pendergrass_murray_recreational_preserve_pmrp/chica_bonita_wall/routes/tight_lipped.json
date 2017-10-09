@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "tight_lipped",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Tight Lipped",
+        "types": [
+            "sport"
+        ]
+    }
+}

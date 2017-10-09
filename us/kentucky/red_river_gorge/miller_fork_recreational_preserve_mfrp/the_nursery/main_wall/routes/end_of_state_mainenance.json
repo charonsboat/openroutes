@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "end_of_state_mainenance",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "End of State Mainenance",
+        "types": [
+            "sport"
+        ]
+    }
+}

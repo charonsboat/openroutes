@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pebble_beach",
+        "stub": "blood_money",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Blood Money",
+        "types": [
+            "sport"
+        ]
+    }
+}

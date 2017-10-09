@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "torrent_falls",
+        "stub": "burchams_folly",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Burcham's Folly",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "through_the_looking_glass",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Through The Looking Glass",
+        "types": [
+            "trad"
+        ]
+    }
+}

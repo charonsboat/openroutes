@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "in_red_we_trust",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "In Red We Trust",
+        "types": [
+            "sport"
+        ]
+    }
+}

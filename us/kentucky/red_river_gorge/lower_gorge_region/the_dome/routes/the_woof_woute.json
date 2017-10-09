@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_dome",
+        "stub": "the_woof_woute",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "The Woof Woute",
+        "types": [
+            "unknown"
+        ]
+    }
+}

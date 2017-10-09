@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "fickelgruber",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Fickelgruber",
+        "types": [
+            "trad"
+        ]
+    }
+}

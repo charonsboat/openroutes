@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dip_wall",
+        "stub": "chicken_head_better_than_no_head",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a r",
+        "name": "Chicken Head Better Than No Head",
+        "types": [
+            "unknown"
+        ]
+    }
+}

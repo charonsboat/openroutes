@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "deep_end",
+        "stub": "knuckle_sauce",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Knuckle Sauce",
+        "types": [
+            "sport"
+        ]
+    }
+}

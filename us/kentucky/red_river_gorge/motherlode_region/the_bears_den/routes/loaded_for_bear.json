@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "loaded_for_bear",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Loaded For Bear",
+        "types": [
+            "sport"
+        ]
+    }
+}

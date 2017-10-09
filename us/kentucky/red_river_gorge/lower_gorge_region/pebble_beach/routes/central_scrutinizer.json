@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pebble_beach",
+        "stub": "central_scrutinizer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9 r",
+        "name": "Central Scrutinizer",
+        "types": [
+            "unknown"
+        ]
+    }
+}

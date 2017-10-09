@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "shady_grove",
+        "stub": "who_knows",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Who Knows?",
+        "types": [
+            "sport"
+        ]
+    }
+}

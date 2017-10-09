@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "wall_of_denial",
+        "stub": "funhouse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Funhouse",
+        "types": [
+            "unknown"
+        ]
+    }
+}

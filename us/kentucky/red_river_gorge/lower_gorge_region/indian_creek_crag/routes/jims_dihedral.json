@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "indian_creek_crag",
+        "stub": "jims_dihedral",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Jim's Dihedral",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "jazz_rock",
+        "stub": "caesar_salad",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Caesar Salad",
+        "types": [
+            "trad"
+        ]
+    }
+}

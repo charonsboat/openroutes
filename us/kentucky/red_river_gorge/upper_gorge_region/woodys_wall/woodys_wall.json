@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "upper_gorge_region",
+        "stub": "woodys_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Woody's Wall"
+    }
+}

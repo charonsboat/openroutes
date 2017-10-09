@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pistol_ridge",
+        "stub": "double_helix",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Double Helix",
+        "types": [
+            "unknown"
+        ]
+    }
+}

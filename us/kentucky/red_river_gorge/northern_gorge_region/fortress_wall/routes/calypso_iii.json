@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fortress_wall",
+        "stub": "calypso_iii",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.2",
+        "name": "Calypso III",
+        "types": [
+            "unknown"
+        ]
+    }
+}

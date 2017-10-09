@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_boneyard",
+        "stub": "trouble_in_paradise",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Trouble In Paradise",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bright_side",
+        "stub": "fresh_baked",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Fresh Baked",
+        "types": [
+            "sport"
+        ]
+    }
+}

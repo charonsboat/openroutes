@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "fire_and_brimstone",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Fire and Brimstone",
+        "types": [
+            "sport"
+        ]
+    }
+}

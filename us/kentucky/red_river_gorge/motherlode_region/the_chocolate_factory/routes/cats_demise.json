@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "cats_demise",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "Cat's Demise",
+        "types": [
+            "sport"
+        ]
+    }
+}

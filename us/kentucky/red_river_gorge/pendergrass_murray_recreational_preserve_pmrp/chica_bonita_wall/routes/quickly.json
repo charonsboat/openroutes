@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "quickly",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Quickly",
+        "types": [
+            "trad"
+        ]
+    }
+}

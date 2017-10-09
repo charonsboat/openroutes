@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_boneyard",
+        "stub": "sweet_tater",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Sweet Tater",
+        "types": [
+            "sport"
+        ]
+    }
+}

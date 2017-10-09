@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "northern_gorge_region",
+        "stub": "phantasia",
+        "type": "region"
+    },
+    "info": {
+        "name": "Phantasia"
+    }
+}

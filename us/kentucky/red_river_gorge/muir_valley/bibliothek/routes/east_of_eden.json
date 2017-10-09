@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bibliothek",
+        "stub": "east_of_eden",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "East of Eden",
+        "types": [
+            "sport"
+        ]
+    }
+}

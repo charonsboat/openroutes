@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "shady_grove",
+        "stub": "pile_driver",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Pile Driver",
+        "types": [
+            "sport"
+        ]
+    }
+}

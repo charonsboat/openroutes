@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "king_cobra",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "King Cobra",
+        "types": [
+            "sport"
+        ]
+    }
+}

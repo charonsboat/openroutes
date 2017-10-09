@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eastern_skybridge_ridge",
+        "stub": "super_dario",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Super Dario",
+        "types": [
+            "sport"
+        ]
+    }
+}

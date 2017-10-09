@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "great_wall",
+        "stub": "preemptive_strike",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Preemptive Strike",
+        "types": [
+            "unknown"
+        ]
+    }
+}

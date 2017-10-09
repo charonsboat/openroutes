@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "eastern_gorge_region",
+        "stub": "camp_store_crag",
+        "type": "region"
+    },
+    "info": {
+        "name": "Camp Store Crag"
+    }
+}

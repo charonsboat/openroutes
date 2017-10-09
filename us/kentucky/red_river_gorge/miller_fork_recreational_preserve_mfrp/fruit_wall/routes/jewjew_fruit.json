@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "jewjew_fruit",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "JewJew Fruit",
+        "types": [
+            "sport"
+        ]
+    }
+}

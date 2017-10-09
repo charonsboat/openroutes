@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "serenity_point",
+        "stub": "hammer_time",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Hammer Time",
+        "types": [
+            "sport"
+        ]
+    }
+}

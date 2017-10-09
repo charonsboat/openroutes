@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "funk_rock_city",
+        "stub": "go_easy_billy_clyde",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Go Easy Billy Clyde!",
+        "types": [
+            "sport"
+        ]
+    }
+}

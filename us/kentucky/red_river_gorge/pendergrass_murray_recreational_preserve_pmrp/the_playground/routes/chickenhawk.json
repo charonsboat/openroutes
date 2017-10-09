@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_playground",
+        "stub": "chickenhawk",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Chickenhawk",
+        "types": [
+            "trad"
+        ]
+    }
+}

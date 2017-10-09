@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "monastery",
+        "stub": "arete_syndrome",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Arete Syndrome",
+        "types": [
+            "sport"
+        ]
+    }
+}

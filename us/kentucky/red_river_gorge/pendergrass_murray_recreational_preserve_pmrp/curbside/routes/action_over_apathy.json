@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "curbside",
+        "stub": "action_over_apathy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Action over Apathy",
+        "types": [
+            "sport"
+        ]
+    }
+}

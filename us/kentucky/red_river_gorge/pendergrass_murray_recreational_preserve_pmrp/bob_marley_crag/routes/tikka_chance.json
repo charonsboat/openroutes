@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bob_marley_crag",
+        "stub": "tikka_chance",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Tikka Chance",
+        "types": [
+            "sport"
+        ]
+    }
+}

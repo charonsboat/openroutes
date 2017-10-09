@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "whipper_snapper",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Whipper Snapper",
+        "types": [
+            "sport"
+        ]
+    }
+}

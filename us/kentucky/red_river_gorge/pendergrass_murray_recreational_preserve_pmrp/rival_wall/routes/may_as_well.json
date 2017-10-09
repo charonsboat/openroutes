@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rival_wall",
+        "stub": "may_as_well",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "May As Well",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mt_olive_rock",
+        "stub": "south_side_of_the_sky",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "South Side of the Sky",
+        "types": [
+            "unknown"
+        ]
+    }
+}

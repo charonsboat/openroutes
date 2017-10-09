@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "super_slab",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Super Slab",
+        "types": [
+            "sport"
+        ]
+    }
+}

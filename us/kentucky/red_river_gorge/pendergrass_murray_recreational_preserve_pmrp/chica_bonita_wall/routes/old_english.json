@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "old_english",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Old English",
+        "types": [
+            "sport"
+        ]
+    }
+}

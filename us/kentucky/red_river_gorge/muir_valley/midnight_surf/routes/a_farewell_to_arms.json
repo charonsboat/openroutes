@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "midnight_surf",
+        "stub": "a_farewell_to_arms",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "A Farewell to Arms",
+        "types": [
+            "sport"
+        ]
+    }
+}

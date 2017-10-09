@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "check_your_grip",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Check Your Grip",
+        "types": [
+            "sport"
+        ]
+    }
+}

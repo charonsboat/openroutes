@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "natural_bridge_region",
+        "stub": "coffee_shop",
+        "type": "region"
+    },
+    "info": {
+        "name": "Coffee Shop"
+    }
+}

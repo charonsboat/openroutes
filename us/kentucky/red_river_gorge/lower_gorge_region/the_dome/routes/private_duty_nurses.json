@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_dome",
+        "stub": "private_duty_nurses",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Private Duty Nurses",
+        "types": [
+            "unknown"
+        ]
+    }
+}

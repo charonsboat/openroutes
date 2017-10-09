@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "grumpalump",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Grumpalump",
+        "types": [
+            "sport"
+        ]
+    }
+}

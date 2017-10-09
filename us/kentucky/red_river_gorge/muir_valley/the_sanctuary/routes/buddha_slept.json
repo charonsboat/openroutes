@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_sanctuary",
+        "stub": "buddha_slept",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Buddha Slept",
+        "types": [
+            "mixed"
+        ]
+    }
+}

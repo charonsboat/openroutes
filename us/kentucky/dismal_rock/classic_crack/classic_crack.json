@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "dismal_rock",
+        "stub": "classic_crack",
+        "type": "region"
+    },
+    "info": {
+        "name": "Classic Crack"
+    }
+}

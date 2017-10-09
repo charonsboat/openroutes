@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chaos",
+        "stub": "live_with_a_curse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Live With a Curse",
+        "types": [
+            "sport"
+        ]
+    }
+}

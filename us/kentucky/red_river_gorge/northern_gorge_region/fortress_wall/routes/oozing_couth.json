@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fortress_wall",
+        "stub": "oozing_couth",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "oozing couth",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "jungle_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Jungle Direct",
+        "types": [
+            "mixed"
+        ]
+    }
+}

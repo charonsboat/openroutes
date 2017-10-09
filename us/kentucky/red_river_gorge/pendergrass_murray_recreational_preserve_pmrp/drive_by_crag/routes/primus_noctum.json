@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "primus_noctum",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Primus Noctum",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "middle_gorge_region",
+        "stub": "jewel_pinnacle",
+        "type": "region"
+    },
+    "info": {
+        "name": "Jewel Pinnacle"
+    }
+}

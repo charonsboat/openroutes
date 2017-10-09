@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_far_side",
+        "stub": "dirty_sanchez",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Dirty Sanchez",
+        "types": [
+            "sport"
+        ]
+    }
+}

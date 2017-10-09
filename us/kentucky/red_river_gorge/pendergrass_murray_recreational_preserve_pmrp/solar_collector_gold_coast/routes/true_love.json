@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "true_love",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13d",
+        "name": "True Love",
+        "types": [
+            "sport"
+        ]
+    }
+}

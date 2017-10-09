@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "torrent_falls",
+        "stub": "bandolier",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Bandolier",
+        "types": [
+            "sport"
+        ]
+    }
+}

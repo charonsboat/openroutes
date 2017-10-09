@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "hourglass_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Hourglass Crack",
+        "types": [
+            "trad"
+        ]
+    }
+}

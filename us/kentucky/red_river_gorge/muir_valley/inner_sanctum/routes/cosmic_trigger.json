@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "inner_sanctum",
+        "stub": "cosmic_trigger",
+        "type": "region"
+    },
+    "info": {
+        "grade": "{au} yds:5.12a",
+        "name": "Cosmic Trigger",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "southern_outlying_cliffs",
+        "stub": "mt_olive_rock",
+        "type": "region"
+    },
+    "info": {
+        "name": "Mt. Olive Rock"
+    }
+}

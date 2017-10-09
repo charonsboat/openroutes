@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arena",
+        "stub": "dope_show",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Dope Show",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "backside_wall",
+        "stub": "black_line",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Black Line",
+        "types": [
+            "unknown"
+        ]
+    }
+}

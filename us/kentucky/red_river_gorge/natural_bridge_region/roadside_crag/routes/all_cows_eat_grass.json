@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "all_cows_eat_grass",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "All Cows Eat Grass",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bronaugh_wall",
+        "stub": "take_the_scary_out_of_life",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Take the Scary Out of Life",
+        "types": [
+            "sport"
+        ]
+    }
+}

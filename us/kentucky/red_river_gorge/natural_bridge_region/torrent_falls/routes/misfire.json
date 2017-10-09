@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "torrent_falls",
+        "stub": "misfire",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Misfire",
+        "types": [
+            "sport"
+        ]
+    }
+}

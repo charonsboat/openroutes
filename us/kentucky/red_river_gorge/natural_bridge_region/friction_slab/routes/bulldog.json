@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "friction_slab",
+        "stub": "bulldog",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v8",
+        "name": "Bulldog",
+        "types": [
+            "boulder"
+        ]
+    }
+}

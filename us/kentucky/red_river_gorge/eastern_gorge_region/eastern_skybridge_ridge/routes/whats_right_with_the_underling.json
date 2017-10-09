@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eastern_skybridge_ridge",
+        "stub": "whats_right_with_the_underling",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "What's Right with the Underling",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "backside_wall",
+        "stub": "orange_newt",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Orange Newt",
+        "types": [
+            "unknown"
+        ]
+    }
+}

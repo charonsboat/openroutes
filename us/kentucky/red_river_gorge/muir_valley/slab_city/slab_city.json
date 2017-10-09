@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "muir_valley",
+        "stub": "slab_city",
+        "type": "region"
+    },
+    "info": {
+        "name": "Slab CIty"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "red_shift",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Red Shift",
+        "types": [
+            "sport"
+        ]
+    }
+}

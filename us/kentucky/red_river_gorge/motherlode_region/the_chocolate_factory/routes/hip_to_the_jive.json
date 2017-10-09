@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "hip_to_the_jive",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Hip To The Jive",
+        "types": [
+            "sport"
+        ]
+    }
+}

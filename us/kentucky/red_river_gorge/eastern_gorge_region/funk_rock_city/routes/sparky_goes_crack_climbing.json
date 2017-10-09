@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "funk_rock_city",
+        "stub": "sparky_goes_crack_climbing",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Sparky Goes Crack Climbing",
+        "types": [
+            "trad"
+        ]
+    }
+}

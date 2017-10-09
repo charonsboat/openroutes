@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "torrent_falls",
+        "stub": "torrential",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Torrential",
+        "types": [
+            "sport"
+        ]
+    }
+}

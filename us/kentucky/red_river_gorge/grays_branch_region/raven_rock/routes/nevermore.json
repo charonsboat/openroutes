@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "raven_rock",
+        "stub": "nevermore",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9 r",
+        "name": "Nevermore",
+        "types": [
+            "unknown"
+        ]
+    }
+}

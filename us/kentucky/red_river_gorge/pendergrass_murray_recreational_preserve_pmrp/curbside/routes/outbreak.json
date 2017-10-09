@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "curbside",
+        "stub": "outbreak",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Outbreak",
+        "types": [
+            "sport"
+        ]
+    }
+}

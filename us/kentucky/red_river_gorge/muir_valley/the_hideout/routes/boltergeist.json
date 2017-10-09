@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_hideout",
+        "stub": "boltergeist",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Boltergeist",
+        "types": [
+            "sport"
+        ]
+    }
+}

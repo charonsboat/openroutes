@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eagle_point_buttress",
+        "stub": "scary",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Scary",
+        "types": [
+            "unknown"
+        ]
+    }
+}

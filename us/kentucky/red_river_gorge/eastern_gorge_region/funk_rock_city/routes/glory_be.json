@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "funk_rock_city",
+        "stub": "glory_be",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Glory Be",
+        "types": [
+            "sport"
+        ]
+    }
+}

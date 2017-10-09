@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "volunteer_wall",
+        "stub": "generosity",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Generosity",
+        "types": [
+            "sport"
+        ]
+    }
+}

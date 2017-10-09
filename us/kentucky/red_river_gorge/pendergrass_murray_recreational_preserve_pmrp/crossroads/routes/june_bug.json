@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "june_bug",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "June Bug",
+        "types": [
+            "sport"
+        ]
+    }
+}

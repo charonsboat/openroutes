@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_stadium",
+        "stub": "no_bones_about_it",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "No Bones About It",
+        "types": [
+            "unknown"
+        ]
+    }
+}

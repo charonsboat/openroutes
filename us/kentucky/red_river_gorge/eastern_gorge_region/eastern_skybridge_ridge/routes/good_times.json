@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eastern_skybridge_ridge",
+        "stub": "good_times",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Good Times",
+        "types": [
+            "trad"
+        ]
+    }
+}

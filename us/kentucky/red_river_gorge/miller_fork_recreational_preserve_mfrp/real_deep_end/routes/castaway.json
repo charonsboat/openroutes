@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "real_deep_end",
+        "stub": "castaway",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Castaway",
+        "types": [
+            "sport"
+        ]
+    }
+}

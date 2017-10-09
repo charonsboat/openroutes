@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "half_moon",
+        "stub": "meteor_fall",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Meteor Fall",
+        "types": [
+            "unknown"
+        ]
+    }
+}

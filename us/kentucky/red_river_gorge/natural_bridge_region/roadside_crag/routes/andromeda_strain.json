@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "andromeda_strain",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Andromeda Strain",
+        "types": [
+            "unknown"
+        ]
+    }
+}

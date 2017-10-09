@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bob_marley_crag",
+        "stub": "green_machine",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12",
+        "name": "Green Machine",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "left_flank",
+        "stub": "wild_yet_tasty",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Wild, Yet Tasty",
+        "types": [
+            "sport"
+        ]
+    }
+}

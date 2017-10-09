@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coopers_cove",
+        "stub": "the_devil_in_the_white_city",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "The Devil in The White City",
+        "types": [
+            "sport"
+        ]
+    }
+}

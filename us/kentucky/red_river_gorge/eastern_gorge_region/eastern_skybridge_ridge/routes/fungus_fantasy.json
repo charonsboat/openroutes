@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eastern_skybridge_ridge",
+        "stub": "fungus_fantasy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Fungus Fantasy",
+        "types": [
+            "trad"
+        ]
+    }
+}

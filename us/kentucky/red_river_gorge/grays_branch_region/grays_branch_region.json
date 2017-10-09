@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "red_river_gorge",
+        "stub": "grays_branch_region",
+        "type": "region"
+    },
+    "info": {
+        "name": "Gray's Branch Region"
+    }
+}

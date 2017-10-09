@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "fruit_of_the_loin",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Fruit of the Loin",
+        "types": [
+            "trad"
+        ]
+    }
+}

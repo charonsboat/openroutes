@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coopers_cove",
+        "stub": "pure_pleasure",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Pure Pleasure",
+        "types": [
+            "sport"
+        ]
+    }
+}

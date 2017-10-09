@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "spring_jammers_and_widget_blocks",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Spring Jammers and Widget Blocks",
+        "types": [
+            "trad"
+        ]
+    }
+}

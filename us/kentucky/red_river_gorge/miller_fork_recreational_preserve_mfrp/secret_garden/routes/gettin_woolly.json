@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "secret_garden",
+        "stub": "gettin_woolly",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Gettin' Woolly",
+        "types": [
+            "sport"
+        ]
+    }
+}

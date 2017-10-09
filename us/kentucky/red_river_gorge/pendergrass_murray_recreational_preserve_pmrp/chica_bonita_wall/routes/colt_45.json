@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "colt_45",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Colt 45",
+        "types": [
+            "sport"
+        ]
+    }
+}

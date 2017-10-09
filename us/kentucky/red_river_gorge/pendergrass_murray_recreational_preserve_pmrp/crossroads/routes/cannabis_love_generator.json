@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "cannabis_love_generator",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Cannabis Love Generator",
+        "types": [
+            "sport"
+        ]
+    }
+}

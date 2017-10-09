@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "global_village",
+        "stub": "out_for_justice",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Out For Justice",
+        "types": [
+            "sport"
+        ]
+    }
+}

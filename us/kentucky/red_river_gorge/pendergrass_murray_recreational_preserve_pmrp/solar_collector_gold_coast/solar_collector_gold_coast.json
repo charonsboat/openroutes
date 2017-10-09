@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pendergrass_murray_recreational_preserve_pmrp",
+        "stub": "solar_collector_gold_coast",
+        "type": "region"
+    },
+    "info": {
+        "name": "Solar Collector/Gold Coast"
+    }
+}

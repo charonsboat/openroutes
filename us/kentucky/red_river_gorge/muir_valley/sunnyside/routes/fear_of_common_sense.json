@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunnyside",
+        "stub": "fear_of_common_sense",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Fear of Common Sense",
+        "types": [
+            "sport"
+        ]
+    }
+}

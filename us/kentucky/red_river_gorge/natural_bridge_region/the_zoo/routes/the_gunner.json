@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_zoo",
+        "stub": "the_gunner",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "The Gunner",
+        "types": [
+            "sport"
+        ]
+    }
+}

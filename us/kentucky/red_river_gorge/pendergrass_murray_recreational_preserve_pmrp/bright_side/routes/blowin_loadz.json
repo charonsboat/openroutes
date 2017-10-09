@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bright_side",
+        "stub": "blowin_loadz",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Blowin' Loadz",
+        "types": [
+            "sport"
+        ]
+    }
+}

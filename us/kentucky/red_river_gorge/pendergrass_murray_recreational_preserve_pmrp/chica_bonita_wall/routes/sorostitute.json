@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "sorostitute",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Sorostitute",
+        "types": [
+            "trad"
+        ]
+    }
+}

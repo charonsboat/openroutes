@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coopers_cove",
+        "stub": "bay_harbor_butcher",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Bay Harbor Butcher",
+        "types": [
+            "sport"
+        ]
+    }
+}

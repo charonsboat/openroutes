@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "funk_rock_city",
+        "stub": "headstone_surfer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Headstone Surfer",
+        "types": [
+            "unknown"
+        ]
+    }
+}

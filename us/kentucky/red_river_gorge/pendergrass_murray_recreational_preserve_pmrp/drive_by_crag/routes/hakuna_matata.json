@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "hakuna_matata",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Hakuna Matata",
+        "types": [
+            "sport"
+        ]
+    }
+}

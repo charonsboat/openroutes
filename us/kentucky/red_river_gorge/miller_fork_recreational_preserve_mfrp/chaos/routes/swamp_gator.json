@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chaos",
+        "stub": "swamp_gator",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Swamp Gator",
+        "types": [
+            "sport"
+        ]
+    }
+}

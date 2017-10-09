@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "c_sharp_or_b_flat",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "C Sharp or B Flat",
+        "types": [
+            "unknown"
+        ]
+    }
+}

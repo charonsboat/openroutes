@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "symphony_wall",
+        "stub": "boogered",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11+",
+        "name": "Boogered",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_far_side",
+        "stub": "nameless",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Nameless",
+        "types": [
+            "sport"
+        ]
+    }
+}

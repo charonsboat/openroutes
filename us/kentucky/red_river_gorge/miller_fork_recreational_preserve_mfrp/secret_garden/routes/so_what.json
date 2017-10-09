@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "secret_garden",
+        "stub": "so_what",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "So What?",
+        "types": [
+            "sport"
+        ]
+    }
+}

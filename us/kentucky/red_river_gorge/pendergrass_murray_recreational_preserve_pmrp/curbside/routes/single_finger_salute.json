@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "curbside",
+        "stub": "single_finger_salute",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Single Finger Salute",
+        "types": [
+            "sport"
+        ]
+    }
+}

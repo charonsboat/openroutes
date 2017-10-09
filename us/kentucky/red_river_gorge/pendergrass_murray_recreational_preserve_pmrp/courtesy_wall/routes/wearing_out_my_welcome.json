@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "courtesy_wall",
+        "stub": "wearing_out_my_welcome",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Wearing Out My Welcome",
+        "types": [
+            "sport"
+        ]
+    }
+}

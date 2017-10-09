@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "hot_for_teacher",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Hot For Teacher",
+        "types": [
+            "sport"
+        ]
+    }
+}

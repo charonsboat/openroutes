@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_infirmary",
+        "stub": "sacbrood_virus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Sacbrood Virus",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "super_pinch",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Super Pinch",
+        "types": [
+            "sport"
+        ]
+    }
+}

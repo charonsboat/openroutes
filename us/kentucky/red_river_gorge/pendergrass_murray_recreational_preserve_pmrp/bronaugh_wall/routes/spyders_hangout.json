@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bronaugh_wall",
+        "stub": "spyders_hangout",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Spyder's Hangout",
+        "types": [
+            "sport"
+        ]
+    }
+}

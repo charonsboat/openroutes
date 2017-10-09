@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coopers_cove",
+        "stub": "where_the_sidwalk_ends",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Where The Sidwalk Ends",
+        "types": [
+            "sport"
+        ]
+    }
+}

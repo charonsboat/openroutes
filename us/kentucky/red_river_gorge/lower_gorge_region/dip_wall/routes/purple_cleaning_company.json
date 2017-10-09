@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dip_wall",
+        "stub": "purple_cleaning_company",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Purple Cleaning Company",
+        "types": [
+            "unknown"
+        ]
+    }
+}

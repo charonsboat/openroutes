@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "hotdog_in_a_hallway",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Hotdog In a Hallway",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "dark_matter",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Dark Matter",
+        "types": [
+            "trad"
+        ]
+    }
+}

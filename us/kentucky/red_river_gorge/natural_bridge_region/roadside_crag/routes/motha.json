@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "motha",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Motha",
+        "types": [
+            "sport"
+        ]
+    }
+}

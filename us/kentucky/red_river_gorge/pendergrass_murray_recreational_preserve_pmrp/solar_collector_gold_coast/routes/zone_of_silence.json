@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "zone_of_silence",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Zone of Silence",
+        "types": [
+            "sport"
+        ]
+    }
+}

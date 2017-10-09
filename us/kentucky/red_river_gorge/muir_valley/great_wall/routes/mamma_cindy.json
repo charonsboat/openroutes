@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "great_wall",
+        "stub": "mamma_cindy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Mamma Cindy",
+        "types": [
+            "sport"
+        ]
+    }
+}

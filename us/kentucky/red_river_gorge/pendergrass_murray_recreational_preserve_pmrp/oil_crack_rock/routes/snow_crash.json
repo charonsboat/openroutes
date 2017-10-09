@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "oil_crack_rock",
+        "stub": "snow_crash",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Snow Crash",
+        "types": [
+            "sport"
+        ]
+    }
+}

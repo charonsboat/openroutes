@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunnyside",
+        "stub": "kokopelis_dream",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Kokopeli's Dream",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "eastern_gorge_region",
+        "stub": "western_sky_bridge_ridge",
+        "type": "region"
+    },
+    "info": {
+        "name": "Western Sky Bridge Ridge"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_stadium",
+        "stub": "tugowar",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Tugowar",
+        "types": [
+            "sport"
+        ]
+    }
+}

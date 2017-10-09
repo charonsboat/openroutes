@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "middle_small_wall",
+        "stub": "mantlepiece",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Mantlepiece",
+        "types": [
+            "unknown"
+        ]
+    }
+}

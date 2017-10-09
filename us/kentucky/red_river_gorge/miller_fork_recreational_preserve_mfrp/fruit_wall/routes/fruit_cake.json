@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "fruit_cake",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Fruit Cake",
+        "types": [
+            "trad"
+        ]
+    }
+}

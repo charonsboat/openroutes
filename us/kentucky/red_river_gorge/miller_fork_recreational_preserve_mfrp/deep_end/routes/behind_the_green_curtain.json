@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "deep_end",
+        "stub": "behind_the_green_curtain",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Behind the Green Curtain",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "global_village",
+        "stub": "the_wheel_of_time",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "The Wheel of Time",
+        "types": [
+            "sport"
+        ]
+    }
+}

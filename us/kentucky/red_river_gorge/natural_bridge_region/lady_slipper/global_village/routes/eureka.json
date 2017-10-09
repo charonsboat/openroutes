@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "global_village",
+        "stub": "eureka",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Eureka",
+        "types": [
+            "sport"
+        ]
+    }
+}

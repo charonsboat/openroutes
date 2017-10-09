@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "upper_gorge_region",
+        "stub": "moonshiners_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Moonshiner's Wall"
+    }
+}

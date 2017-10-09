@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "hellava_caucasion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Hellava Caucasion",
+        "types": [
+            "sport"
+        ]
+    }
+}

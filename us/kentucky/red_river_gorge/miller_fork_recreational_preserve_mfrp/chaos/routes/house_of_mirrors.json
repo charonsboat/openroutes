@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chaos",
+        "stub": "house_of_mirrors",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "House of Mirrors",
+        "types": [
+            "sport"
+        ]
+    }
+}

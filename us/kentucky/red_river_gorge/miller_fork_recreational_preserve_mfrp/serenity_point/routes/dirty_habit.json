@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "serenity_point",
+        "stub": "dirty_habit",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Dirty Habit",
+        "types": [
+            "sport"
+        ]
+    }
+}

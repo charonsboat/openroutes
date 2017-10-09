@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "the_decline_of_western_civilization",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "The Decline of Western Civilization",
+        "types": [
+            "sport"
+        ]
+    }
+}

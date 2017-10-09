@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "great_wall",
+        "stub": "earth_surfer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Earth Surfer",
+        "types": [
+            "unknown"
+        ]
+    }
+}

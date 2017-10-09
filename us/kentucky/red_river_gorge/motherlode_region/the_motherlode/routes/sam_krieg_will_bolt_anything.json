@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "sam_krieg_will_bolt_anything",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Sam Krieg Will Bolt Anything",
+        "types": [
+            "sport"
+        ]
+    }
+}

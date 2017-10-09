@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "great_wall",
+        "stub": "legends_of_limonite",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Legends of Limonite",
+        "types": [
+            "sport"
+        ]
+    }
+}

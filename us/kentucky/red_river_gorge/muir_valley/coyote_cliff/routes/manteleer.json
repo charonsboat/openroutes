@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coyote_cliff",
+        "stub": "manteleer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Manteleer",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunbeam_buttress",
+        "stub": "sunbeam",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Sunbeam",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "stain",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Stain",
+        "types": [
+            "sport"
+        ]
+    }
+}

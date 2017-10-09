@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "land_before_time_wall",
+        "stub": "sabertooth",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Sabertooth",
+        "types": [
+            "sport"
+        ]
+    }
+}

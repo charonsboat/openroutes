@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "peach_fuzz",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Peach Fuzz",
+        "types": [
+            "sport"
+        ]
+    }
+}

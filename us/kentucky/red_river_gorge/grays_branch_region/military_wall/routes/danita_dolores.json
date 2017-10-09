@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "danita_dolores",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Danita Dolores",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coopers_cove",
+        "stub": "diesel_therapy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Diesel Therapy",
+        "types": [
+            "sport"
+        ]
+    }
+}

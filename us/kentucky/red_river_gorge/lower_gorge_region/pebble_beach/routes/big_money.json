@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pebble_beach",
+        "stub": "big_money",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Big Money",
+        "types": [
+            "unknown"
+        ]
+    }
+}

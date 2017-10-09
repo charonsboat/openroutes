@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bright_side",
+        "stub": "tongue_punch",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Tongue-punch",
+        "types": [
+            "sport"
+        ]
+    }
+}

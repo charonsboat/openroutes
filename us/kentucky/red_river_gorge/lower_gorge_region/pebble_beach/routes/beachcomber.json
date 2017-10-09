@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pebble_beach",
+        "stub": "beachcomber",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Beachcomber",
+        "types": [
+            "unknown"
+        ]
+    }
+}

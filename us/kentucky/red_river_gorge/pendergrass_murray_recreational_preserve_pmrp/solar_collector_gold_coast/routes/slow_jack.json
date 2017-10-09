@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "slow_jack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Slow Jack",
+        "types": [
+            "trad"
+        ]
+    }
+}

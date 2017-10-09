@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "great_wall",
+        "stub": "dance_of_the_druids",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Dance of the Druids",
+        "types": [
+            "unknown"
+        ]
+    }
+}

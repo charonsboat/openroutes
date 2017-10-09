@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_shire",
+        "stub": "the_g_man",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "The G-Man",
+        "types": [
+            "sport"
+        ]
+    }
+}

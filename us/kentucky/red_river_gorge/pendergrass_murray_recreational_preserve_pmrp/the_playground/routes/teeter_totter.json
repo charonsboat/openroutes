@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_playground",
+        "stub": "teeter_totter",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Teeter Totter",
+        "types": [
+            "sport"
+        ]
+    }
+}

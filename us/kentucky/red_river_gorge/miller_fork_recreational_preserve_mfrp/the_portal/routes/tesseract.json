@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_portal",
+        "stub": "tesseract",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Tesseract",
+        "types": [
+            "sport"
+        ]
+    }
+}

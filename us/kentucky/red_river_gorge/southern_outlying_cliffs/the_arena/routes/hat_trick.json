@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arena",
+        "stub": "hat_trick",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Hat Trick",
+        "types": [
+            "unknown"
+        ]
+    }
+}

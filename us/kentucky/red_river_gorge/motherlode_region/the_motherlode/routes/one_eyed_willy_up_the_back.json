@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "one_eyed_willy_up_the_back",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "One-Eyed Willy Up The Back",
+        "types": [
+            "sport"
+        ]
+    }
+}

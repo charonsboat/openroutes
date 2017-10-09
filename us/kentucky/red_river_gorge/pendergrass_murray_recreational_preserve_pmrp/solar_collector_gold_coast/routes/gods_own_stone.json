@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "gods_own_stone",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.14a",
+        "name": "God's Own Stone",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bowling_alley",
+        "stub": "imminent_demise",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Imminent Demise",
+        "types": [
+            "sport"
+        ]
+    }
+}

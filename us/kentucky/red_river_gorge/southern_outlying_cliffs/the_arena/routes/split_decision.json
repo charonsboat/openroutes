@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arena",
+        "stub": "split_decision",
+        "type": "region"
+    },
+    "info": {
+        "grade": "{au} yds:5.8",
+        "name": "Split Decision",
+        "types": [
+            "unknown"
+        ]
+    }
+}

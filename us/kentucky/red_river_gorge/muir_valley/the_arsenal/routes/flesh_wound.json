@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arsenal",
+        "stub": "flesh_wound",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Flesh Wound",
+        "types": [
+            "sport"
+        ]
+    }
+}

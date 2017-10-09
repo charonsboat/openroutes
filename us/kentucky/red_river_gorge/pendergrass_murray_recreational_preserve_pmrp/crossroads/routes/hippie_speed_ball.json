@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "hippie_speed_ball",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Hippie Speed Ball",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "fruit_wall_project_2",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Fruit Wall Project 2",
+        "types": [
+            "sport"
+        ]
+    }
+}

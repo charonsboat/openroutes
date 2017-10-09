@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "midnight_surf",
+        "stub": "mello_yellow",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Mello Yellow",
+        "types": [
+            "sport"
+        ]
+    }
+}

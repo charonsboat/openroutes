@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bob_marley_crag",
+        "stub": "technical_difficulties",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Technical Difficulties",
+        "types": [
+            "sport"
+        ]
+    }
+}

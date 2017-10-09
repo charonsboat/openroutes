@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "red_river_gorge",
+        "stub": "eastern_gorge_region",
+        "type": "region"
+    },
+    "info": {
+        "name": "Eastern Gorge Region"
+    }
+}

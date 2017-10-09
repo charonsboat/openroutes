@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bear_wollor_hollor",
+        "stub": "in_the_doorway",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9 r",
+        "name": "In the Doorway",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "indy_wall",
+        "stub": "drop_the_hammer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Drop The Hammer",
+        "types": [
+            "sport"
+        ]
+    }
+}

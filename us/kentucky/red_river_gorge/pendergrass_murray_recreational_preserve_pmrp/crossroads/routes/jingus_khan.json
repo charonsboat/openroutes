@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "jingus_khan",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Jingus Khan",
+        "types": [
+            "sport"
+        ]
+    }
+}

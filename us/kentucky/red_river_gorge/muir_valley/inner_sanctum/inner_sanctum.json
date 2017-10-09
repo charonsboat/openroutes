@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "muir_valley",
+        "stub": "inner_sanctum",
+        "type": "region"
+    },
+    "info": {
+        "name": "Inner Sanctum"
+    }
+}

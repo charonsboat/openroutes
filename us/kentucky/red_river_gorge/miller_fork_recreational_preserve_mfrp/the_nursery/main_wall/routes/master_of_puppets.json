@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "master_of_puppets",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Master of Puppets",
+        "types": [
+            "sport"
+        ]
+    }
+}

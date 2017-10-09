@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "shady_grove",
+        "stub": "crucify_me",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Crucify Me",
+        "types": [
+            "sport"
+        ]
+    }
+}

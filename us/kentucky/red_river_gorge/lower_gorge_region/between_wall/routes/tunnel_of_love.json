@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "between_wall",
+        "stub": "tunnel_of_love",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Tunnel of Love",
+        "types": [
+            "unknown"
+        ]
+    }
+}

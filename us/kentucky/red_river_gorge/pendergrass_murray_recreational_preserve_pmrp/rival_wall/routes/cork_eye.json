@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rival_wall",
+        "stub": "cork_eye",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Cork Eye",
+        "types": [
+            "sport"
+        ]
+    }
+}

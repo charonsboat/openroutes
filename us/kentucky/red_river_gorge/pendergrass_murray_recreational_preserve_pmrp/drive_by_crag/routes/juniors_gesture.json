@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "juniors_gesture",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Junior's Gesture",
+        "types": [
+            "sport"
+        ]
+    }
+}

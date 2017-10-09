@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "muscle_beach",
+        "stub": "lost_soul",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Lost Soul",
+        "types": [
+            "unknown"
+        ]
+    }
+}

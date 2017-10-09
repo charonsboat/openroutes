@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dip_wall",
+        "stub": "whoville",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Whoville",
+        "types": [
+            "unknown"
+        ]
+    }
+}

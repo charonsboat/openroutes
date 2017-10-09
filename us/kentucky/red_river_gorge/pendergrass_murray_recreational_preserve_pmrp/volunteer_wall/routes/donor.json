@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "volunteer_wall",
+        "stub": "donor",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Donor",
+        "types": [
+            "sport"
+        ]
+    }
+}

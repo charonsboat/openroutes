@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunnyside",
+        "stub": "enganche",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Enganche",
+        "types": [
+            "trad"
+        ]
+    }
+}

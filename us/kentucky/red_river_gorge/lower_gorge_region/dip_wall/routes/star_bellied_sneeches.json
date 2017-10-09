@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dip_wall",
+        "stub": "star_bellied_sneeches",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Star-bellied Sneeches",
+        "types": [
+            "unknown"
+        ]
+    }
+}

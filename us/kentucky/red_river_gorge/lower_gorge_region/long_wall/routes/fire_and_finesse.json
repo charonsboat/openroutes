@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "fire_and_finesse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Fire and Finesse",
+        "types": [
+            "sport"
+        ]
+    }
+}

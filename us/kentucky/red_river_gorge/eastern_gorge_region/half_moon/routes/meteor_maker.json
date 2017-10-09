@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "half_moon",
+        "stub": "meteor_maker",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Meteor Maker",
+        "types": [
+            "unknown"
+        ]
+    }
+}

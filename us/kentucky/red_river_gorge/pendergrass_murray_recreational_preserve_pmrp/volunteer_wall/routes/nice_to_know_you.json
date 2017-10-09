@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "volunteer_wall",
+        "stub": "nice_to_know_you",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Nice to Know You",
+        "types": [
+            "sport"
+        ]
+    }
+}

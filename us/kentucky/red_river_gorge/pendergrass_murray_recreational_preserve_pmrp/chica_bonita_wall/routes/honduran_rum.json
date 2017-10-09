@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "honduran_rum",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Honduran Rum",
+        "types": [
+            "trad"
+        ]
+    }
+}

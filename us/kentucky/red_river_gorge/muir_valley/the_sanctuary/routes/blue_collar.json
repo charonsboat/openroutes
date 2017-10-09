@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_sanctuary",
+        "stub": "blue_collar",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Blue Collar",
+        "types": [
+            "sport"
+        ]
+    }
+}

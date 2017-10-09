@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "global_village",
+        "stub": "off_with_batman",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Off With Batman",
+        "types": [
+            "trad"
+        ]
+    }
+}

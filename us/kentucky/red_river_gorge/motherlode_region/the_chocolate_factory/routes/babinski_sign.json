@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "babinski_sign",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Babinski Sign",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "shawnee_shelter",
+        "stub": "waterfall_ballet",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Waterfall Ballet",
+        "types": [
+            "sport"
+        ]
+    }
+}

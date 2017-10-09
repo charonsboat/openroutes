@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bob_marley_crag",
+        "stub": "blood_bath",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Blood Bath",
+        "types": [
+            "sport"
+        ]
+    }
+}

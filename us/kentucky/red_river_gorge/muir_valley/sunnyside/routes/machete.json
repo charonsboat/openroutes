@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunnyside",
+        "stub": "machete",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Machete",
+        "types": [
+            "sport"
+        ]
+    }
+}

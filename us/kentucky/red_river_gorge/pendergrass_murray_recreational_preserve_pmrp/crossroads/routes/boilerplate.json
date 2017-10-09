@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "boilerplate",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Boilerplate",
+        "types": [
+            "sport"
+        ]
+    }
+}

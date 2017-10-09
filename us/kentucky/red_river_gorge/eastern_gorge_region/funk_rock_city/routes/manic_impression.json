@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "funk_rock_city",
+        "stub": "manic_impression",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Manic Impression",
+        "types": [
+            "unknown"
+        ]
+    }
+}

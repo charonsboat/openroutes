@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coopers_cove",
+        "stub": "poop_dolla",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Poop Dolla!!",
+        "types": [
+            "aid"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sanitarium",
+        "stub": "chossfit",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Chossfit",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "october_sky",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "October Sky",
+        "types": [
+            "sport"
+        ]
+    }
+}

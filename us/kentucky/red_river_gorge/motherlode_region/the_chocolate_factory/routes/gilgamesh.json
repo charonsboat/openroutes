@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "gilgamesh",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Gilgamesh",
+        "types": [
+            "sport"
+        ]
+    }
+}

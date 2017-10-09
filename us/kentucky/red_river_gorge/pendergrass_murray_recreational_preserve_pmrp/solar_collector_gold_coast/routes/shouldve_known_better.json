@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "shouldve_known_better",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Should've Known Better",
+        "types": [
+            "trad"
+        ]
+    }
+}

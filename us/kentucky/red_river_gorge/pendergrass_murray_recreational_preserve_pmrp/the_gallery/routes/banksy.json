@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "banksy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Banksy",
+        "types": [
+            "sport"
+        ]
+    }
+}

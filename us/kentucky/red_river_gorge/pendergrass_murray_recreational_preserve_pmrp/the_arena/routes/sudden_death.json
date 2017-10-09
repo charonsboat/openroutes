@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arena",
+        "stub": "sudden_death",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12+",
+        "name": "Sudden Death",
+        "types": [
+            "unknown"
+        ]
+    }
+}

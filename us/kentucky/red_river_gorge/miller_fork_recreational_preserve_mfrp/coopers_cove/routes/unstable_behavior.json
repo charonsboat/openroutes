@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coopers_cove",
+        "stub": "unstable_behavior",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Unstable Behavior",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lumpy_wall",
+        "stub": "geezers_with_tweezers",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Geezers With Tweezers",
+        "types": [
+            "unknown"
+        ]
+    }
+}

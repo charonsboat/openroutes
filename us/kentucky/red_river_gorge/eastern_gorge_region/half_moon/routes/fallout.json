@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "half_moon",
+        "stub": "fallout",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Fallout",
+        "types": [
+            "unknown"
+        ]
+    }
+}

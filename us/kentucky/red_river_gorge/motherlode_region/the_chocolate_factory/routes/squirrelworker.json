@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "squirrelworker",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Squirrelworker",
+        "types": [
+            "sport"
+        ]
+    }
+}

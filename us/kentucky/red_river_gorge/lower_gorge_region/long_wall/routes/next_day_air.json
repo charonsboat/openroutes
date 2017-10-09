@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "next_day_air",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Next Day Air",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "funk_rock_city",
+        "stub": "prime_directive",
+        "type": "region"
+    },
+    "info": {
+        "grade": "{au} yds:5.11b",
+        "name": "Prime Directive",
+        "types": [
+            "sport"
+        ]
+    }
+}

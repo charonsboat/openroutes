@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chaos",
+        "stub": "some_assembly_required",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Some Assembly Required",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "accidentally_kelly_street",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Accidentally Kelly Street",
+        "types": [
+            "trad"
+        ]
+    }
+}

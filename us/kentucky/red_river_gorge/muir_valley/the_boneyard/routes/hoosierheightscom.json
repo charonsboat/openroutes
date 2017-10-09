@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_boneyard",
+        "stub": "hoosierheightscom",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Hoosierheights.com",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "global_village",
+        "stub": "father_and_son",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Father and Son",
+        "types": [
+            "trad"
+        ]
+    }
+}

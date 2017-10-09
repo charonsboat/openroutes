@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pebble_beach",
+        "stub": "versatile_universe",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Versatile Universe",
+        "types": [
+            "unknown"
+        ]
+    }
+}

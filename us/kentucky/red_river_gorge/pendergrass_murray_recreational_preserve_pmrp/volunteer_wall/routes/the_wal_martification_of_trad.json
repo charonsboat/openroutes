@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "volunteer_wall",
+        "stub": "the_wal_martification_of_trad",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "The Wal-Martification of Trad",
+        "types": [
+            "unknown"
+        ]
+    }
+}

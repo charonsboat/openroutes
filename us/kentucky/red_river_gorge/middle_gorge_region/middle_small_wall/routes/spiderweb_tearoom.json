@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "middle_small_wall",
+        "stub": "spiderweb_tearoom",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Spiderweb Tearoom",
+        "types": [
+            "unknown"
+        ]
+    }
+}

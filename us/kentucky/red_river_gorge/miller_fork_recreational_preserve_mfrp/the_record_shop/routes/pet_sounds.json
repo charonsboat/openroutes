@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_record_shop",
+        "stub": "pet_sounds",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Pet Sounds",
+        "types": [
+            "sport"
+        ]
+    }
+}

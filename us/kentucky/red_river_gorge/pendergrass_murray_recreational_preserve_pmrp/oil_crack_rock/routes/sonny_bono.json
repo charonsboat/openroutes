@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "oil_crack_rock",
+        "stub": "sonny_bono",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Sonny Bono",
+        "types": [
+            "sport"
+        ]
+    }
+}

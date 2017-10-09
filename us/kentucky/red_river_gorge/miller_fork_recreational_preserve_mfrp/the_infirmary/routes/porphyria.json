@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_infirmary",
+        "stub": "porphyria",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Porphyria",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "death_wish",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Death Wish",
+        "types": [
+            "sport"
+        ]
+    }
+}

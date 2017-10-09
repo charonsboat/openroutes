@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_zoo",
+        "stub": "skin_the_cat",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Skin the Cat",
+        "types": [
+            "sport"
+        ]
+    }
+}

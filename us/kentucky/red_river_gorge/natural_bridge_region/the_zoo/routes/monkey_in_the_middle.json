@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_zoo",
+        "stub": "monkey_in_the_middle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Monkey in the Middle",
+        "types": [
+            "sport"
+        ]
+    }
+}

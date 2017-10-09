@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "eastern_gorge_region",
+        "stub": "funk_rock_city",
+        "type": "region"
+    },
+    "info": {
+        "name": "Funk Rock City"
+    }
+}

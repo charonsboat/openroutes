@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_zoo",
+        "stub": "lynx_jinx",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Lynx Jinx",
+        "types": [
+            "sport"
+        ]
+    }
+}

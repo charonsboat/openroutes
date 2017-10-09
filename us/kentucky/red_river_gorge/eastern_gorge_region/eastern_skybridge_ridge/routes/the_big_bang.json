@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eastern_skybridge_ridge",
+        "stub": "the_big_bang",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "The Big Bang",
+        "types": [
+            "trad"
+        ]
+    }
+}

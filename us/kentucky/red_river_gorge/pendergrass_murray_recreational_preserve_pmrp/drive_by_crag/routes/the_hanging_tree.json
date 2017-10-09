@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "the_hanging_tree",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "The Hanging Tree",
+        "types": [
+            "sport"
+        ]
+    }
+}

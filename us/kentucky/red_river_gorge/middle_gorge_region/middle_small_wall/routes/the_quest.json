@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "middle_small_wall",
+        "stub": "the_quest",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "The Quest",
+        "types": [
+            "unknown"
+        ]
+    }
+}

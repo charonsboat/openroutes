@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "what_about_bob_wall",
+        "stub": "threat_level_blue",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Threat Level Blue",
+        "types": [
+            "sport"
+        ]
+    }
+}

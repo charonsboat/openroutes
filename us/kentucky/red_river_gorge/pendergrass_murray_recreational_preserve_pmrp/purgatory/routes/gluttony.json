@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "purgatory",
+        "stub": "gluttony",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Gluttony",
+        "types": [
+            "sport"
+        ]
+    }
+}

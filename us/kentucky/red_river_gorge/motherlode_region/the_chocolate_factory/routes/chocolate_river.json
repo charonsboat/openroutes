@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "chocolate_river",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Chocolate River",
+        "types": [
+            "sport"
+        ]
+    }
+}

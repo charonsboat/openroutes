@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "phantasia",
+        "stub": "creature_feature",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Creature Feature",
+        "types": [
+            "sport"
+        ]
+    }
+}

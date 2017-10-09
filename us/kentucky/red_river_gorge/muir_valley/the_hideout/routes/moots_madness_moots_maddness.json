@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_hideout",
+        "stub": "moots_madness_moots_maddness",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Moots Madness / Moots Maddness",
+        "types": [
+            "sport"
+        ]
+    }
+}

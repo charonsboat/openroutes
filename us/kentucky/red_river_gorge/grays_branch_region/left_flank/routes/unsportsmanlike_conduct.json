@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "left_flank",
+        "stub": "unsportsmanlike_conduct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Unsportsmanlike Conduct",
+        "types": [
+            "trad"
+        ]
+    }
+}

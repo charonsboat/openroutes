@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "monastery",
+        "stub": "the_shaman",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "The Shaman",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eastern_skybridge_ridge",
+        "stub": "dave_the_dude",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Dave the Dude",
+        "types": [
+            "sport"
+        ]
+    }
+}

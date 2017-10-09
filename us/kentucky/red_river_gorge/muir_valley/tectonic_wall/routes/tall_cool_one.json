@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tectonic_wall",
+        "stub": "tall_cool_one",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Tall Cool One",
+        "types": [
+            "sport"
+        ]
+    }
+}

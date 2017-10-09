@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "deep_in_dis_bear",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Deep in Dis Bear",
+        "types": [
+            "trad"
+        ]
+    }
+}

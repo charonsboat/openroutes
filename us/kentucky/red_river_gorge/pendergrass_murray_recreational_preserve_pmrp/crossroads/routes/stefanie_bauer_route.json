@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "stefanie_bauer_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Stefanie Bauer Route",
+        "types": [
+            "trad"
+        ]
+    }
+}

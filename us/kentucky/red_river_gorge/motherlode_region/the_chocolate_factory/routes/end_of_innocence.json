@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "end_of_innocence",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "End of Innocence",
+        "types": [
+            "trad"
+        ]
+    }
+}

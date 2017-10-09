@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pebble_beach",
+        "stub": "environmental_impact",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Environmental Impact",
+        "types": [
+            "unknown"
+        ]
+    }
+}

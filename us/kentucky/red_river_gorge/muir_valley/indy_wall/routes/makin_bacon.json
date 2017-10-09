@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "indy_wall",
+        "stub": "makin_bacon",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Makin' Bacon",
+        "types": [
+            "sport"
+        ]
+    }
+}

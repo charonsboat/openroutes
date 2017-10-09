@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "monastery",
+        "stub": "monks_brew",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Monk's Brew",
+        "types": [
+            "sport"
+        ]
+    }
+}

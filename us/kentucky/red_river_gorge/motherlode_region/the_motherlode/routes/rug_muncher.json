@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "rug_muncher",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Rug Muncher",
+        "types": [
+            "sport"
+        ]
+    }
+}

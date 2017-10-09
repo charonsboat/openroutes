@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "sister_catherine_the_conquer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Sister Catherine the Conquer",
+        "types": [
+            "sport"
+        ]
+    }
+}

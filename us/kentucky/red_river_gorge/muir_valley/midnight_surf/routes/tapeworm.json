@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "midnight_surf",
+        "stub": "tapeworm",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Tapeworm",
+        "types": [
+            "sport"
+        ]
+    }
+}

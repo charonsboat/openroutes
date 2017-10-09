@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arsenal",
+        "stub": "sacriledge",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Sacriledge",
+        "types": [
+            "sport"
+        ]
+    }
+}

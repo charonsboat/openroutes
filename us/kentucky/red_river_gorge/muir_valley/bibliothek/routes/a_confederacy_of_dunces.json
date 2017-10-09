@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bibliothek",
+        "stub": "a_confederacy_of_dunces",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "A Confederacy of Dunces",
+        "types": [
+            "sport"
+        ]
+    }
+}

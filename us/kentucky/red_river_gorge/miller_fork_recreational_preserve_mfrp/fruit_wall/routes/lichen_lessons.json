@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "lichen_lessons",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Lichen Lessons",
+        "types": [
+            "sport"
+        ]
+    }
+}

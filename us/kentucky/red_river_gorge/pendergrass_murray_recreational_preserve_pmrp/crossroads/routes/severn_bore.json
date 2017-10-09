@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "severn_bore",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Severn Bore",
+        "types": [
+            "sport"
+        ]
+    }
+}

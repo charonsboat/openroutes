@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "white_mans_overbite",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13c",
+        "name": "White Man's Overbite",
+        "types": [
+            "sport"
+        ]
+    }
+}

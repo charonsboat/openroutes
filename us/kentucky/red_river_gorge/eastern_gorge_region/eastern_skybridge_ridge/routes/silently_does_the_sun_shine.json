@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eastern_skybridge_ridge",
+        "stub": "silently_does_the_sun_shine",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.14-",
+        "name": "Silently Does the Sun Shine",
+        "types": [
+            "trad"
+        ]
+    }
+}

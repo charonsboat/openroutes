@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "deep_end",
+        "stub": "natural_ice",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Natural Ice",
+        "types": [
+            "sport"
+        ]
+    }
+}

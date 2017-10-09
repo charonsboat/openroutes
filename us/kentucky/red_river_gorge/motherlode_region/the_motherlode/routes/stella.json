@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "stella",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Stella",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "twisted",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Twisted",
+        "types": [
+            "sport"
+        ]
+    }
+}

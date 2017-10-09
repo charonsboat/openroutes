@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coopers_cove",
+        "stub": "addiction",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Addiction",
+        "types": [
+            "sport"
+        ]
+    }
+}

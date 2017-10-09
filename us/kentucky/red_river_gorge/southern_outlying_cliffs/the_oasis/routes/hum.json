@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_oasis",
+        "stub": "hum",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Hum",
+        "types": [
+            "sport"
+        ]
+    }
+}

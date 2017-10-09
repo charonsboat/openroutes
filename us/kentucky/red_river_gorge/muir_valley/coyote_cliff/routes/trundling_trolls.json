@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coyote_cliff",
+        "stub": "trundling_trolls",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Trundling Trolls",
+        "types": [
+            "sport"
+        ]
+    }
+}

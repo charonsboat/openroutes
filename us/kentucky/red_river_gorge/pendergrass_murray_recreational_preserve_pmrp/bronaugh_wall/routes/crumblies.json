@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bronaugh_wall",
+        "stub": "crumblies",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Crumblies",
+        "types": [
+            "sport"
+        ]
+    }
+}

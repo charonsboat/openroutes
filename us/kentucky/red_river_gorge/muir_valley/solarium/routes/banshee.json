@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solarium",
+        "stub": "banshee",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Banshee",
+        "types": [
+            "sport"
+        ]
+    }
+}

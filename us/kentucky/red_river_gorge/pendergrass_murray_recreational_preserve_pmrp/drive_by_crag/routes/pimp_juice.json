@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "pimp_juice",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Pimp Juice",
+        "types": [
+            "sport"
+        ]
+    }
+}

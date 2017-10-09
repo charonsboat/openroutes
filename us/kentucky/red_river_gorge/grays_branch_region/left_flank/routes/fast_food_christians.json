@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "left_flank",
+        "stub": "fast_food_christians",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Fast Food Christians",
+        "types": [
+            "sport"
+        ]
+    }
+}

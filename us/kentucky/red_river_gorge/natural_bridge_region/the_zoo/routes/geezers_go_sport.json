@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_zoo",
+        "stub": "geezers_go_sport",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Geezers Go Sport",
+        "types": [
+            "sport"
+        ]
+    }
+}

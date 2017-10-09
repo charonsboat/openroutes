@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "fall_of_the_anti_climber",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.14b",
+        "name": "Fall of The Anti-Climber",
+        "types": [
+            "sport"
+        ]
+    }
+}

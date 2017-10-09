@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chaos",
+        "stub": "teachers_pet",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Teacher's Pet",
+        "types": [
+            "trad"
+        ]
+    }
+}

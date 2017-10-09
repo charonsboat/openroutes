@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "volunteer_wall",
+        "stub": "stephanies_cabaret_p1",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Stephanie's Cabaret p1",
+        "types": [
+            "sport"
+        ]
+    }
+}

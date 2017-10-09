@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "stabbed_in_the_back",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Stabbed in the Back",
+        "types": [
+            "trad"
+        ]
+    }
+}

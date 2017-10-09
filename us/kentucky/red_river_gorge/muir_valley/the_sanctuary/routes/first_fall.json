@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_sanctuary",
+        "stub": "first_fall",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "First Fall",
+        "types": [
+            "trad"
+        ]
+    }
+}

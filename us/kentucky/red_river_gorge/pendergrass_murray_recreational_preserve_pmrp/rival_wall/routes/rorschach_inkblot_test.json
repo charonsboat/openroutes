@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rival_wall",
+        "stub": "rorschach_inkblot_test",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Rorschach Inkblot Test",
+        "types": [
+            "sport"
+        ]
+    }
+}

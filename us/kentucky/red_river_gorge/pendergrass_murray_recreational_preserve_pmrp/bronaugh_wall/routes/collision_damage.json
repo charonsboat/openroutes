@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bronaugh_wall",
+        "stub": "collision_damage",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Collision Damage",
+        "types": [
+            "sport"
+        ]
+    }
+}

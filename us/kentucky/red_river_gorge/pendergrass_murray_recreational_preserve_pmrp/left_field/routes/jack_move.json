@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "left_field",
+        "stub": "jack_move",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Jack Move",
+        "types": [
+            "sport"
+        ]
+    }
+}

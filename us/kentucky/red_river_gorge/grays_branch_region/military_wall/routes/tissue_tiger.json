@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "tissue_tiger",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Tissue Tiger",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_hideout",
+        "stub": "dance_of_the_druids",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Dance of the Druids",
+        "types": [
+            "sport"
+        ]
+    }
+}

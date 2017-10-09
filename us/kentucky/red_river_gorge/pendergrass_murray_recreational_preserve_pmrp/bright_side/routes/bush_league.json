@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bright_side",
+        "stub": "bush_league",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Bush League",
+        "types": [
+            "sport"
+        ]
+    }
+}

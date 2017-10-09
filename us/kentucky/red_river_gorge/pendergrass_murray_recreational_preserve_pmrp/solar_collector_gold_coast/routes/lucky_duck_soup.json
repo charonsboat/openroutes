@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "lucky_duck_soup",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Lucky Duck Soup",
+        "types": [
+            "sport"
+        ]
+    }
+}

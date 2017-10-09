@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "funk_rock_city",
+        "stub": "trad_wagon",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Trad Wagon",
+        "types": [
+            "trad"
+        ]
+    }
+}

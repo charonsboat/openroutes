@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "muscle_beach",
+        "stub": "when_gravity_fails",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "When Gravity Fails",
+        "types": [
+            "unknown"
+        ]
+    }
+}

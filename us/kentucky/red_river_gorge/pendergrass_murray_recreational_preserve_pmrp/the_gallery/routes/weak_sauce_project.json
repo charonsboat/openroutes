@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "weak_sauce_project",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "Weak Sauce Project",
+        "types": [
+            "unknown"
+        ]
+    }
+}

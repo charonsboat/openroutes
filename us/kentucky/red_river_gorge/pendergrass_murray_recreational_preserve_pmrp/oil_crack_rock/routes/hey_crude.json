@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "oil_crack_rock",
+        "stub": "hey_crude",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Hey Crude",
+        "types": [
+            "sport"
+        ]
+    }
+}

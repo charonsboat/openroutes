@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "courtesy_wall",
+        "stub": "kiss_it_all_better",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Kiss It All Better",
+        "types": [
+            "trad"
+        ]
+    }
+}

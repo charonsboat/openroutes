@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "nothing_for_now",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Nothing For Now",
+        "types": [
+            "sport"
+        ]
+    }
+}

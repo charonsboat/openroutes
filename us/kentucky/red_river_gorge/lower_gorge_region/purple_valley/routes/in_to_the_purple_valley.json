@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "purple_valley",
+        "stub": "in_to_the_purple_valley",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "In to the purple valley",
+        "types": [
+            "unknown"
+        ]
+    }
+}

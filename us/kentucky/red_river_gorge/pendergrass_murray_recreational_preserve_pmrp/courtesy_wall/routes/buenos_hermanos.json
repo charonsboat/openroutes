@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "courtesy_wall",
+        "stub": "buenos_hermanos",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Buenos Hermanos",
+        "types": [
+            "sport"
+        ]
+    }
+}

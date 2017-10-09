@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bruise_brothers_wall",
+        "stub": "stay_off_the_radio_jeff",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Stay Off the Radio Jeff!",
+        "types": [
+            "sport"
+        ]
+    }
+}

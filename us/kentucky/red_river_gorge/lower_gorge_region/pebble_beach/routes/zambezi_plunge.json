@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pebble_beach",
+        "stub": "zambezi_plunge",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Zambezi Plunge",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "forearm_follies",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Forearm Follies",
+        "types": [
+            "sport"
+        ]
+    }
+}

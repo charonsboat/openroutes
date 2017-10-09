@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "johnnys_wall",
+        "stub": "burning_bush",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Burning Bush",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "north_40",
+        "stub": "summer_breeze",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Summer Breeze",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tarr_ridge",
+        "stub": "good_intentions",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Good Intentions",
+        "types": [
+            "unknown"
+        ]
+    }
+}

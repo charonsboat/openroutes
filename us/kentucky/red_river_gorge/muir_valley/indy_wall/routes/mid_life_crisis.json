@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "indy_wall",
+        "stub": "mid_life_crisis",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Mid-Life Crisis",
+        "types": [
+            "sport"
+        ]
+    }
+}

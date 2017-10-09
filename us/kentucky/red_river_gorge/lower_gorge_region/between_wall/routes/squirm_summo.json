@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "between_wall",
+        "stub": "squirm_summo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Squirm Summo",
+        "types": [
+            "unknown"
+        ]
+    }
+}

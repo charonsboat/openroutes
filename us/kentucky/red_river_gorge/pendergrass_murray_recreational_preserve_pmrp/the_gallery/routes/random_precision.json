@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "random_precision",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Random Precision",
+        "types": [
+            "sport"
+        ]
+    }
+}

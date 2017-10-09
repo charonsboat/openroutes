@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "oil_crack_rock",
+        "stub": "john_henry",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "John Henry",
+        "types": [
+            "sport"
+        ]
+    }
+}

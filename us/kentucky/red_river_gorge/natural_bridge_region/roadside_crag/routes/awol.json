@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "awol",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "A.W.O.L.",
+        "types": [
+            "sport"
+        ]
+    }
+}

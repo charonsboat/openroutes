@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fortress_wall",
+        "stub": "thunder_chicken",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Thunder Chicken",
+        "types": [
+            "unknown"
+        ]
+    }
+}

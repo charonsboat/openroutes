@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arena",
+        "stub": "redneck_ways",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Redneck Ways",
+        "types": [
+            "unknown"
+        ]
+    }
+}

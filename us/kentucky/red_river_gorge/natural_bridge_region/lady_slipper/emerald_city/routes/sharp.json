@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "emerald_city",
+        "stub": "sharp",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Sharp",
+        "types": [
+            "trad"
+        ]
+    }
+}

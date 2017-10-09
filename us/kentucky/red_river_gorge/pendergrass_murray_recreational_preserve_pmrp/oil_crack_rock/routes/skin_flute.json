@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "oil_crack_rock",
+        "stub": "skin_flute",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Skin Flute",
+        "types": [
+            "sport"
+        ]
+    }
+}

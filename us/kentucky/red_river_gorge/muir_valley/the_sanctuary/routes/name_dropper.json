@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_sanctuary",
+        "stub": "name_dropper",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Name Dropper",
+        "types": [
+            "sport"
+        ]
+    }
+}

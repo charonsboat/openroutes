@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solarium",
+        "stub": "urban_voodoo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Urban Voodoo",
+        "types": [
+            "sport"
+        ]
+    }
+}

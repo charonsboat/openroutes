@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "midnight_surf",
+        "stub": "babyface",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Babyface",
+        "types": [
+            "sport"
+        ]
+    }
+}

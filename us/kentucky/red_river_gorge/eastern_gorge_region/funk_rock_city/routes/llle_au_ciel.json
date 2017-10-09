@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "funk_rock_city",
+        "stub": "llle_au_ciel",
+        "type": "region"
+    },
+    "info": {
+        "grade": "{au} yds:5.11c",
+        "name": "L'lle Au Ciel",
+        "types": [
+            "unknown"
+        ]
+    }
+}

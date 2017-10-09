@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "yakuza",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Yakuza",
+        "types": [
+            "trad"
+        ]
+    }
+}

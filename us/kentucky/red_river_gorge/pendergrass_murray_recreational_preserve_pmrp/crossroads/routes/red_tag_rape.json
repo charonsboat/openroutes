@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "red_tag_rape",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Red Tag Rape",
+        "types": [
+            "sport"
+        ]
+    }
+}

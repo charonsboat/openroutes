@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_boneyard",
+        "stub": "hematopoiesis",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Hematopoiesis",
+        "types": [
+            "sport"
+        ]
+    }
+}

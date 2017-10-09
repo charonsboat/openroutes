@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bruise_brothers_wall",
+        "stub": "pine_needle_shuffle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Pine Needle Shuffle",
+        "types": [
+            "trad"
+        ]
+    }
+}

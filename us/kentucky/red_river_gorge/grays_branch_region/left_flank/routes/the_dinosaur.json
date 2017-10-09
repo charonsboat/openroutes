@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "left_flank",
+        "stub": "the_dinosaur",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "The Dinosaur",
+        "types": [
+            "sport"
+        ]
+    }
+}

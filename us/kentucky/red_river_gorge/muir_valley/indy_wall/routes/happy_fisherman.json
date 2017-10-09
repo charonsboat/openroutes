@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "indy_wall",
+        "stub": "happy_fisherman",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Happy Fisherman",
+        "types": [
+            "sport"
+        ]
+    }
+}

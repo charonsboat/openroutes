@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "half_moon",
+        "stub": "it_aint_over_yet",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "It Ain't Over Yet",
+        "types": [
+            "unknown"
+        ]
+    }
+}

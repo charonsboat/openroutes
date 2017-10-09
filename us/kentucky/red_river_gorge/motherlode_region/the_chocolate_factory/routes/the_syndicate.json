@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "the_syndicate",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13",
+        "name": "The Syndicate",
+        "types": [
+            "sport"
+        ]
+    }
+}

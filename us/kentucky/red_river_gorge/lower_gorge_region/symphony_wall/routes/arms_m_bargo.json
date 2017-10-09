@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "symphony_wall",
+        "stub": "arms_m_bargo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "a2",
+        "name": "Arms M Bargo",
+        "types": [
+            "aid"
+        ]
+    }
+}

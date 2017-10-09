@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "gumby_land",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "Gumby Land",
+        "types": [
+            "trad"
+        ]
+    }
+}

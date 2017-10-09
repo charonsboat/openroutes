@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_far_side",
+        "stub": "nambla_rambla",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11",
+        "name": "NAMBLA RAMBLA",
+        "types": [
+            "sport"
+        ]
+    }
+}

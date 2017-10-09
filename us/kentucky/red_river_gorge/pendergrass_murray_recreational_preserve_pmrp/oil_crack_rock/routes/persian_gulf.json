@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "oil_crack_rock",
+        "stub": "persian_gulf",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Persian Gulf",
+        "types": [
+            "sport"
+        ]
+    }
+}

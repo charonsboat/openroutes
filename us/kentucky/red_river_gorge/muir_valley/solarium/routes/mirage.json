@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solarium",
+        "stub": "mirage",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Mirage",
+        "types": [
+            "sport"
+        ]
+    }
+}

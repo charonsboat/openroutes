@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "harder_than_your_husband",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Harder Than Your Husband",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "raven_rock",
+        "stub": "groveling_earthworm",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Groveling Earthworm",
+        "types": [
+            "unknown"
+        ]
+    }
+}

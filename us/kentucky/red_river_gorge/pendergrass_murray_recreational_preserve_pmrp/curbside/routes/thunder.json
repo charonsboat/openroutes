@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "curbside",
+        "stub": "thunder",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Thunder",
+        "types": [
+            "sport"
+        ]
+    }
+}

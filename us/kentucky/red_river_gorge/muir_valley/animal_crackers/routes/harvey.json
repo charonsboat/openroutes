@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "animal_crackers",
+        "stub": "harvey",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Harvey",
+        "types": [
+            "sport"
+        ]
+    }
+}

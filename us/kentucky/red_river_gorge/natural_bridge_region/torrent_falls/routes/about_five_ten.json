@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "torrent_falls",
+        "stub": "about_five_ten",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "About Five Ten",
+        "types": [
+            "sport"
+        ]
+    }
+}

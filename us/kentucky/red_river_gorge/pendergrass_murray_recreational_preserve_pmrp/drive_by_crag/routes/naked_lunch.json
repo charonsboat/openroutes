@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "naked_lunch",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Naked Lunch",
+        "types": [
+            "sport"
+        ]
+    }
+}

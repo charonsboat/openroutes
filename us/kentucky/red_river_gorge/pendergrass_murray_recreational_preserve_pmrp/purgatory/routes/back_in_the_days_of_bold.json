@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "purgatory",
+        "stub": "back_in_the_days_of_bold",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Back in The Days of Bold",
+        "types": [
+            "trad"
+        ]
+    }
+}

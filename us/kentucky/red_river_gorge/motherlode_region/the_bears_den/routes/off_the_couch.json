@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "off_the_couch",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Off the couch",
+        "types": [
+            "sport"
+        ]
+    }
+}

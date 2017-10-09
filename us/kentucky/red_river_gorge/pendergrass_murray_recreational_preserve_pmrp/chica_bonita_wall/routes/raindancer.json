@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "raindancer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Raindancer",
+        "types": [
+            "sport"
+        ]
+    }
+}

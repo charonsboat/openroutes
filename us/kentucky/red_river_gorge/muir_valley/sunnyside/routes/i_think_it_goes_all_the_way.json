@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunnyside",
+        "stub": "i_think_it_goes_all_the_way",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "I Think It Goes All The Way",
+        "types": [
+            "boulder"
+        ]
+    }
+}

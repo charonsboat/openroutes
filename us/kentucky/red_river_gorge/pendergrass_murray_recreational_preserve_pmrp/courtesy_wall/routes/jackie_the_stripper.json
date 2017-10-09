@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "courtesy_wall",
+        "stub": "jackie_the_stripper",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Jackie the Stripper",
+        "types": [
+            "mixed"
+        ]
+    }
+}

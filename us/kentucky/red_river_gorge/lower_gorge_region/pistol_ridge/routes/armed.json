@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pistol_ridge",
+        "stub": "armed",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Armed",
+        "types": [
+            "unknown"
+        ]
+    }
+}

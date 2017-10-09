@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eagle_point_buttress",
+        "stub": "quantum_mechanics",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Quantum Mechanics",
+        "types": [
+            "unknown"
+        ]
+    }
+}

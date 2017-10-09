@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "the_king_lives_on",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "The King Lives On",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "spirit_fingers",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Spirit Fingers",
+        "types": [
+            "sport"
+        ]
+    }
+}

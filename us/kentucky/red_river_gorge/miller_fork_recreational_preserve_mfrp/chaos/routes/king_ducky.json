@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chaos",
+        "stub": "king_ducky",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "King Ducky",
+        "types": [
+            "sport"
+        ]
+    }
+}

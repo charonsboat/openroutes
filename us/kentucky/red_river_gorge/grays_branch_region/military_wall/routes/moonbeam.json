@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "moonbeam",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Moonbeam",
+        "types": [
+            "sport"
+        ]
+    }
+}

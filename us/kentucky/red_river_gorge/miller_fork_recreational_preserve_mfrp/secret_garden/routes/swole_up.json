@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "secret_garden",
+        "stub": "swole_up",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Swole Up",
+        "types": [
+            "trad"
+        ]
+    }
+}

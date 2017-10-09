@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coopers_cove",
+        "stub": "work_therapy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Work Therapy",
+        "types": [
+            "sport"
+        ]
+    }
+}

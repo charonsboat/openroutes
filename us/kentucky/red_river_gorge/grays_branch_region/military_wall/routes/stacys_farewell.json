@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "stacys_farewell",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Stacy's Farewell",
+        "types": [
+            "trad"
+        ]
+    }
+}

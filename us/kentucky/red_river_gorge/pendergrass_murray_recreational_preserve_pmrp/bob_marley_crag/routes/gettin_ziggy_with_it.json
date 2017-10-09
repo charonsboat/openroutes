@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bob_marley_crag",
+        "stub": "gettin_ziggy_with_it",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Gettin' Ziggy With It",
+        "types": [
+            "trad"
+        ]
+    }
+}

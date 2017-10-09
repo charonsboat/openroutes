@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_boneyard",
+        "stub": "tanduay_time",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Tanduay Time",
+        "types": [
+            "sport"
+        ]
+    }
+}

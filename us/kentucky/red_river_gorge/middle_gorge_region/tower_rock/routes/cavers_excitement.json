@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tower_rock",
+        "stub": "cavers_excitement",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Caver's Excitement",
+        "types": [
+            "unknown"
+        ]
+    }
+}

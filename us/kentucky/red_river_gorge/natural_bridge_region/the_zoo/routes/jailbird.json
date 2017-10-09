@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_zoo",
+        "stub": "jailbird",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Jailbird",
+        "types": [
+            "sport"
+        ]
+    }
+}

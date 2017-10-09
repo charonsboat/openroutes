@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "red_river_gorge",
+        "stub": "tunnel_ridge_road_region",
+        "type": "region"
+    },
+    "info": {
+        "name": "Tunnel Ridge Road Region"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_zoo",
+        "stub": "hippocrite",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Hippocrite",
+        "types": [
+            "sport"
+        ]
+    }
+}

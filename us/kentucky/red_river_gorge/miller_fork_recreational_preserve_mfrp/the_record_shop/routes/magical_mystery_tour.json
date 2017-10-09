@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_record_shop",
+        "stub": "magical_mystery_tour",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Magical Mystery Tour",
+        "types": [
+            "sport"
+        ]
+    }
+}

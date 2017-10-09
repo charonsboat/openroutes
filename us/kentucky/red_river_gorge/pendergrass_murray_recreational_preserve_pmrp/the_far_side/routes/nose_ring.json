@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_far_side",
+        "stub": "nose_ring",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11",
+        "name": "Nose Ring",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bob_marley_crag",
+        "stub": "dreadlocked",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Dreadlocked",
+        "types": [
+            "sport"
+        ]
+    }
+}

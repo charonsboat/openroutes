@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "curbside",
+        "stub": "waltz_the_deal",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Waltz the Deal",
+        "types": [
+            "sport"
+        ]
+    }
+}

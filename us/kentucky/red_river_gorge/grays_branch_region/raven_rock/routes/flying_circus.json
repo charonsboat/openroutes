@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "raven_rock",
+        "stub": "flying_circus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d r",
+        "name": "Flying Circus",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "kick_me_in_the_jimmie",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Kick Me In The Jimmie",
+        "types": [
+            "sport"
+        ]
+    }
+}

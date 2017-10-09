@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_motherlode",
+        "stub": "the_reacharound",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "The Reacharound",
+        "types": [
+            "sport"
+        ]
+    }
+}

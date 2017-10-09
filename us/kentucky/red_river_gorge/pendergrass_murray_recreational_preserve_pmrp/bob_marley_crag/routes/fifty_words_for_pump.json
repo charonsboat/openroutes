@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bob_marley_crag",
+        "stub": "fifty_words_for_pump",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.14c",
+        "name": "Fifty Words For Pump",
+        "types": [
+            "sport"
+        ]
+    }
+}

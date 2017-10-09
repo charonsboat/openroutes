@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tunnel_wall",
+        "stub": "sideshow",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Sideshow",
+        "types": [
+            "unknown"
+        ]
+    }
+}

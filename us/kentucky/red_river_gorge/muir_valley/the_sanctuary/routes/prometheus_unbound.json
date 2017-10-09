@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_sanctuary",
+        "stub": "prometheus_unbound",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Prometheus Unbound",
+        "types": [
+            "sport"
+        ]
+    }
+}

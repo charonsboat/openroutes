@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_boneyard",
+        "stub": "flying_serpents",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Flying Serpents",
+        "types": [
+            "sport"
+        ]
+    }
+}

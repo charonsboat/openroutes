@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "drive_by_crag",
+        "stub": "big_sinkin_breakdown",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Big Sinkin' Breakdown",
+        "types": [
+            "sport"
+        ]
+    }
+}

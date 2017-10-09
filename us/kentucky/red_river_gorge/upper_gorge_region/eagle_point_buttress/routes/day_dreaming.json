@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eagle_point_buttress",
+        "stub": "day_dreaming",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Day Dreaming",
+        "types": [
+            "unknown"
+        ]
+    }
+}

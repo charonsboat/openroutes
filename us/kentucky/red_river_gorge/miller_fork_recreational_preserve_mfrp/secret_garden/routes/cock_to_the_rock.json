@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "secret_garden",
+        "stub": "cock_to_the_rock",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Cock to the Rock",
+        "types": [
+            "sport"
+        ]
+    }
+}

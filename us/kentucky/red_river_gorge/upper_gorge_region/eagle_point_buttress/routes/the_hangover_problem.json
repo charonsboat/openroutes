@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eagle_point_buttress",
+        "stub": "the_hangover_problem",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "The Hangover Problem",
+        "types": [
+            "unknown"
+        ]
+    }
+}

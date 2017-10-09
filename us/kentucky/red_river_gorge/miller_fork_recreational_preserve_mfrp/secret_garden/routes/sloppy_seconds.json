@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "secret_garden",
+        "stub": "sloppy_seconds",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Sloppy Seconds",
+        "types": [
+            "sport"
+        ]
+    }
+}

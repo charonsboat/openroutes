@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "mojo_bro_tank_bar_crawl",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Mojo Bro Tank Bar Crawl",
+        "types": [
+            "sport"
+        ]
+    }
+}

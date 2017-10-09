@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "global_village",
+        "stub": "howard_roark",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Howard Roark",
+        "types": [
+            "trad"
+        ]
+    }
+}

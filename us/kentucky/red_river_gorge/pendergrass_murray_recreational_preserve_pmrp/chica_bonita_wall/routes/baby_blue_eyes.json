@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "baby_blue_eyes",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Baby Blue Eyes",
+        "types": [
+            "sport"
+        ]
+    }
+}

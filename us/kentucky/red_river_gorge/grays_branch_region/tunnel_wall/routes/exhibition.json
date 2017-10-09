@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tunnel_wall",
+        "stub": "exhibition",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Exhibition",
+        "types": [
+            "unknown"
+        ]
+    }
+}

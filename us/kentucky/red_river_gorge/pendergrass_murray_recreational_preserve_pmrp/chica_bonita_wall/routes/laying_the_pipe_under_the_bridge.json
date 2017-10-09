@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chica_bonita_wall",
+        "stub": "laying_the_pipe_under_the_bridge",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Laying the Pipe Under the Bridge",
+        "types": [
+            "trad"
+        ]
+    }
+}

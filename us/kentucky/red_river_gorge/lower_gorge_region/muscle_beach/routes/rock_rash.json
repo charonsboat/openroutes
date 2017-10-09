@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "muscle_beach",
+        "stub": "rock_rash",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Rock Rash",
+        "types": [
+            "unknown"
+        ]
+    }
+}

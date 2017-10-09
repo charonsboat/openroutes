@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "military_wall",
+        "stub": "not_worth_it",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9 r",
+        "name": "Not Worth It",
+        "types": [
+            "trad"
+        ]
+    }
+}

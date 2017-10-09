@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dip_wall",
+        "stub": "green_eggs",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Green Eggs",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bob_marley_crag",
+        "stub": "slampiece_bam",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Slampiece BAM!",
+        "types": [
+            "sport"
+        ]
+    }
+}

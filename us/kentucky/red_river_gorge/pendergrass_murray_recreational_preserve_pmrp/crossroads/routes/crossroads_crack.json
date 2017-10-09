@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "crossroads",
+        "stub": "crossroads_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "Crossroads Crack",
+        "types": [
+            "mixed"
+        ]
+    }
+}

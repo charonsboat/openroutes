@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "grays_branch_region",
+        "stub": "spring_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Spring Wall"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "left_flank",
+        "stub": "third_world_lover",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Third World Lover",
+        "types": [
+            "sport"
+        ]
+    }
+}

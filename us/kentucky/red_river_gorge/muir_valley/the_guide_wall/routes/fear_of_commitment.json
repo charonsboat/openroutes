@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_guide_wall",
+        "stub": "fear_of_commitment",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Fear of Commitment",
+        "types": [
+            "sport"
+        ]
+    }
+}

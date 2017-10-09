@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "eastern_skybridge_ridge",
+        "stub": "war_emblem",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "War Emblem",
+        "types": [
+            "sport"
+        ]
+    }
+}

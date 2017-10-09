@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fortress_wall",
+        "stub": "blue_runner",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Blue Runner",
+        "types": [
+            "trad"
+        ]
+    }
+}

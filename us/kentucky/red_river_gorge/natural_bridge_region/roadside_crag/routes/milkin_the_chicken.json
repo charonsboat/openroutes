@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "milkin_the_chicken",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Milkin' the Chicken",
+        "types": [
+            "unknown"
+        ]
+    }
+}

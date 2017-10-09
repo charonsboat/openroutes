@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "on_the_prowl",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "On The Prowl",
+        "types": [
+            "sport"
+        ]
+    }
+}

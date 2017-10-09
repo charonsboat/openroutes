@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "courtesy_wall",
+        "stub": "the_climbing_corpse_cometh",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "The Climbing Corpse Cometh",
+        "types": [
+            "trad"
+        ]
+    }
+}

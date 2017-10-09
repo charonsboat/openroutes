@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_dome",
+        "stub": "eye_of_the_storm",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Eye of the Storm",
+        "types": [
+            "unknown"
+        ]
+    }
+}

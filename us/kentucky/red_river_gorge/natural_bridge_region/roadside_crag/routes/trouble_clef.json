@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "trouble_clef",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Trouble Clef",
+        "types": [
+            "sport"
+        ]
+    }
+}

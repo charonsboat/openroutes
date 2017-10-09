@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "the_andy_man_can",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "The Andy Man Can",
+        "types": [
+            "trad"
+        ]
+    }
+}

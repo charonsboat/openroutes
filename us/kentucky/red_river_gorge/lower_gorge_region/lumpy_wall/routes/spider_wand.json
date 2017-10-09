@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lumpy_wall",
+        "stub": "spider_wand",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Spider Wand",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "smoothie_nut",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Smoothie Nut",
+        "types": [
+            "trad"
+        ]
+    }
+}

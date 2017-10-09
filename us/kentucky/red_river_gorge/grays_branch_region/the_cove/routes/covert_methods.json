@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_cove",
+        "stub": "covert_methods",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v12",
+        "name": "Covert Methods",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "funk_rock_city",
+        "stub": "cascading_wind",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Cascading Wind",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "curbside",
+        "stub": "sudoku",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Sudoku",
+        "types": [
+            "sport"
+        ]
+    }
+}

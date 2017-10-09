@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fortress_wall",
+        "stub": "days_of_rage",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Days of Rage",
+        "types": [
+            "unknown"
+        ]
+    }
+}

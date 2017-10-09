@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roadside_crag",
+        "stub": "roadside_attraction",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Roadside Attraction",
+        "types": [
+            "trad"
+        ]
+    }
+}

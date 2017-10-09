@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "witness_the_citrus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Witness the Citrus",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "brighton_wall",
+        "stub": "brighton_rock",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Brighton Rock",
+        "types": [
+            "unknown"
+        ]
+    }
+}

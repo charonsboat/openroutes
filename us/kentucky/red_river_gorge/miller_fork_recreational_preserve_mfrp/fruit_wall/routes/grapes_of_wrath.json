@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fruit_wall",
+        "stub": "grapes_of_wrath",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13",
+        "name": "Grapes of Wrath",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "upper_gorge_region",
+        "stub": "doorish_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Doorish Wall"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "oil_crack_rock",
+        "stub": "uncle_jedds_revenge",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Uncle Jedd's Revenge",
+        "types": [
+            "sport"
+        ]
+    }
+}

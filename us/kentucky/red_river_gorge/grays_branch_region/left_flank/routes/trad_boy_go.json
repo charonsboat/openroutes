@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "left_flank",
+        "stub": "trad_boy_go",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Trad Boy Go",
+        "types": [
+            "trad"
+        ]
+    }
+}

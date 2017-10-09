@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solar_collector_gold_coast",
+        "stub": "hand_drills_and_hand_grenades",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Hand Drills and Hand Grenades",
+        "types": [
+            "trad"
+        ]
+    }
+}

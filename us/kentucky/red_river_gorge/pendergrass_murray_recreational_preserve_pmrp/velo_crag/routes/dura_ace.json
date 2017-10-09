@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "velo_crag",
+        "stub": "dura_ace",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Dura-Ace",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "funk_rock_city",
+        "stub": "snotrocket",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12+",
+        "name": "Snotrocket",
+        "types": [
+            "trad"
+        ]
+    }
+}

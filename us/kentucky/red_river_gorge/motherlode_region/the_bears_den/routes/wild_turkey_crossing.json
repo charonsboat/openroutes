@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_bears_den",
+        "stub": "wild_turkey_crossing",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Wild Turkey Crossing",
+        "types": [
+            "trad"
+        ]
+    }
+}

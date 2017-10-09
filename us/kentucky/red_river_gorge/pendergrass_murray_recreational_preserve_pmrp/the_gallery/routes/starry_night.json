@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "starry_night",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Starry Night",
+        "types": [
+            "sport"
+        ]
+    }
+}

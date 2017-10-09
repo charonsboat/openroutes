@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "indy_wall",
+        "stub": "posse_whipped",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Posse Whipped",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_gallery",
+        "stub": "murano",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Murano",
+        "types": [
+            "sport"
+        ]
+    }
+}

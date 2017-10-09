@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "purple_valley",
+        "stub": "come_in_your_lycra",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Come In Your Lycra",
+        "types": [
+            "unknown"
+        ]
+    }
+}

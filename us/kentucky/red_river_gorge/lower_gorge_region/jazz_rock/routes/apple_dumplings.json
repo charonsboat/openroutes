@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "jazz_rock",
+        "stub": "apple_dumplings",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "Apple Dumplings",
+        "types": [
+            "trad"
+        ]
+    }
+}

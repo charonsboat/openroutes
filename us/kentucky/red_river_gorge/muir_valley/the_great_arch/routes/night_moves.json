@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_great_arch",
+        "stub": "night_moves",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Night Moves",
+        "types": [
+            "sport"
+        ]
+    }
+}

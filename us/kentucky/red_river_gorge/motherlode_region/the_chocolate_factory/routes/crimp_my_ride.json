@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_chocolate_factory",
+        "stub": "crimp_my_ride",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Crimp my Ride",
+        "types": [
+            "sport"
+        ]
+    }
+}

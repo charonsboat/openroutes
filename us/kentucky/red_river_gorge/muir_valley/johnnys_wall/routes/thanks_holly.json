@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "johnnys_wall",
+        "stub": "thanks_holly",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Thanks Holly",
+        "types": [
+            "unknown"
+        ]
+    }
+}

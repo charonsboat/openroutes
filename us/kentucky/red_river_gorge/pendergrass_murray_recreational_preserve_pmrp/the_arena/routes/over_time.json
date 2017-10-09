@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_arena",
+        "stub": "over_time",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Over Time",
+        "types": [
+            "unknown"
+        ]
+    }
+}

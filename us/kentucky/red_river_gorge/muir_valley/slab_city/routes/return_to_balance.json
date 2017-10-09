@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "slab_city",
+        "stub": "return_to_balance",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Return to Balance",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_zoo",
+        "stub": "armadillo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11",
+        "name": "Armadillo",
+        "types": [
+            "sport"
+        ]
+    }
+}

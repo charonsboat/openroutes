@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_boneyard",
+        "stub": "gym_jones_approved",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Gym Jones Approved",
+        "types": [
+            "sport"
+        ]
+    }
+}

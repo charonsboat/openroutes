@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "solarium",
+        "stub": "manifest_destiny",
+        "type": "region"
+    },
+    "info": {
+        "grade": "{au} yds:5.12a",
+        "name": "Manifest Destiny",
+        "types": [
+            "unknown"
+        ]
+    }
+}
