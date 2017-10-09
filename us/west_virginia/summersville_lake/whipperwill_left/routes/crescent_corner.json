@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill_left",
+        "stub": "crescent_corner",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Crescent Corner",
+        "types": [
+            "trad"
+        ]
+    }
+}

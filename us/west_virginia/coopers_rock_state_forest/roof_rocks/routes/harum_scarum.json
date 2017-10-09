@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roof_rocks",
+        "stub": "harum_scarum",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Harum Scarum",
+        "types": [
+            "unknown"
+        ]
+    }
+}

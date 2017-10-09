@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_fourth_buttress",
+        "stub": "ich_bin_ein_auslander",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Ich Bin Ein Auslander",
+        "types": [
+            "unknown"
+        ]
+    }
+}

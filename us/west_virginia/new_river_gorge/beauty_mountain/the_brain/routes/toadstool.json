@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_brain",
+        "stub": "toadstool",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Toadstool",
+        "types": [
+            "trad"
+        ]
+    }
+}

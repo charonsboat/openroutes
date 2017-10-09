@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_creek_north_wall",
+        "stub": "poochie_gets_a_face_lift",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Poochie Gets A Face Lift",
+        "types": [
+            "unknown"
+        ]
+    }
+}

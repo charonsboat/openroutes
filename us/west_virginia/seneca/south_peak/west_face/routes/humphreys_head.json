@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "humphreys_head",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Humphrey's Head",
+        "types": [
+            "unknown"
+        ]
+    }
+}

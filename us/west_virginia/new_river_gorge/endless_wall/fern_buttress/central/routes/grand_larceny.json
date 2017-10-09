@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central",
+        "stub": "grand_larceny",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Grand Larceny",
+        "types": [
+            "unknown"
+        ]
+    }
+}

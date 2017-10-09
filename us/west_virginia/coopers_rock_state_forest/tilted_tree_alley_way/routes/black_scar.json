@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "black_scar",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Black Scar",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "contact_zone",
+        "stub": "dynosaurus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Dynosaurus",
+        "types": [
+            "sport"
+        ]
+    }
+}

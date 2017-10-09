@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "roll_the_dice",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Roll The Dice",
+        "types": [
+            "sport"
+        ]
+    }
+}

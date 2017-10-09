@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "first_buttress",
+        "stub": "the_pocket_petting_zoo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "The Pocket Petting Zoo",
+        "types": [
+            "sport"
+        ]
+    }
+}

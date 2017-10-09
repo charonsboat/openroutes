@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill",
+        "stub": "blaze_got_a_new_job",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Blaze got a new job",
+        "types": [
+            "unknown"
+        ]
+    }
+}

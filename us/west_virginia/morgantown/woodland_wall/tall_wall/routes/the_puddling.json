@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tall_wall",
+        "stub": "the_puddling",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "The Puddling",
+        "types": [
+            "unknown"
+        ]
+    }
+}

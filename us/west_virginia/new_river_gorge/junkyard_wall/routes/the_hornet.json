@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "the_hornet",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "The Hornet",
+        "types": [
+            "trad"
+        ]
+    }
+}

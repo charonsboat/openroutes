@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "total_malfunction",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c x",
+        "name": "Total Malfunction",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "west_fin_west_face",
+        "stub": "area_51_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Area 51 Wall"
+    }
+}

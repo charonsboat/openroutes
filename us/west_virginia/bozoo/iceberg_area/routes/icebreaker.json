@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "iceberg_area",
+        "stub": "icebreaker",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Icebreaker",
+        "types": [
+            "unknown"
+        ]
+    }
+}

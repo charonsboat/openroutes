@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "chineese_aritmetic",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Chineese Aritmetic",
+        "types": [
+            "sport"
+        ]
+    }
+}

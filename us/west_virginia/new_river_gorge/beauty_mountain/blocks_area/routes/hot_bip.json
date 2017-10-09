@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "blocks_area",
+        "stub": "hot_bip",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Hot Bip",
+        "types": [
+            "sport"
+        ]
+    }
+}

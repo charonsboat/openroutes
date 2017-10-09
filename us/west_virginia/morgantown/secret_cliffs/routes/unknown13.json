@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "secret_cliffs",
+        "stub": "unknown13",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "unknown#13",
+        "types": [
+            "mixed"
+        ]
+    }
+}

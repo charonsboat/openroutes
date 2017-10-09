@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "super_mario_boulder",
+        "stub": "rival",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Rival",
+        "types": [
+            "unknown"
+        ]
+    }
+}

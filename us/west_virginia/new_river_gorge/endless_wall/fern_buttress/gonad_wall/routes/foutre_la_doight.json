@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "gonad_wall",
+        "stub": "foutre_la_doight",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Foutre La Doight",
+        "types": [
+            "sport"
+        ]
+    }
+}

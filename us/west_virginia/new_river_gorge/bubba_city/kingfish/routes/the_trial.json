@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kingfish",
+        "stub": "the_trial",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "The Trial",
+        "types": [
+            "unknown"
+        ]
+    }
+}

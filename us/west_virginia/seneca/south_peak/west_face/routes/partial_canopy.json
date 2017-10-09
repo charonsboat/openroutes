@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "partial_canopy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d r",
+        "name": "Partial Canopy",
+        "types": [
+            "unknown"
+        ]
+    }
+}

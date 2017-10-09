@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orchard_wall",
+        "stub": "loki",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Loki",
+        "types": [
+            "unknown"
+        ]
+    }
+}

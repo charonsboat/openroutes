@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "gonad_wall",
+        "stub": "far_fletched",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Far Fletched",
+        "types": [
+            "trad"
+        ]
+    }
+}

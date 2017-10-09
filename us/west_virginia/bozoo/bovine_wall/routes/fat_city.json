@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bovine_wall",
+        "stub": "fat_city",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Fat City",
+        "types": [
+            "unknown"
+        ]
+    }
+}

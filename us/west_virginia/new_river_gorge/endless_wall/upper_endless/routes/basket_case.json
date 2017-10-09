@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "basket_case",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Basket Case",
+        "types": [
+            "unknown"
+        ]
+    }
+}

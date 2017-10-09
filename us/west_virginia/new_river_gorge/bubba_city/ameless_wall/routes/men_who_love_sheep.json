@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ameless_wall",
+        "stub": "men_who_love_sheep",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Men Who Love Sheep",
+        "types": [
+            "unknown"
+        ]
+    }
+}

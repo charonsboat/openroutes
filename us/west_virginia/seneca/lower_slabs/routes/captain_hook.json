@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_slabs",
+        "stub": "captain_hook",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9 r",
+        "name": "Captain Hook",
+        "types": [
+            "unknown"
+        ]
+    }
+}

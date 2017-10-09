@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "caffeine_free",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Caffeine Free",
+        "types": [
+            "unknown"
+        ]
+    }
+}

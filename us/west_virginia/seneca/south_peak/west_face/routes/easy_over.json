@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "easy_over",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Easy Over",
+        "types": [
+            "unknown"
+        ]
+    }
+}

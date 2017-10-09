@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "such_sunsets",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v9",
+        "name": "Such Sunsets",
+        "types": [
+            "boulder"
+        ]
+    }
+}

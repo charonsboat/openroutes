@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "ovine_seduction",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Ovine Seduction",
+        "types": [
+            "unknown"
+        ]
+    }
+}

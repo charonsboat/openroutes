@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "night_gallery",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Night Gallery",
+        "types": [
+            "unknown"
+        ]
+    }
+}

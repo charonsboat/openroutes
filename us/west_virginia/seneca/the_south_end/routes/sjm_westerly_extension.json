@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "sjm_westerly_extension",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "SJM Westerly Extension",
+        "types": [
+            "unknown"
+        ]
+    }
+}

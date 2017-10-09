@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "save_the_human_race",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Save The Human Race",
+        "types": [
+            "unknown"
+        ]
+    }
+}

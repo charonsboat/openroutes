@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "west_virginia",
+        "stub": "the_g_spot",
+        "type": "region"
+    },
+    "info": {
+        "name": "The G Spot"
+    }
+}

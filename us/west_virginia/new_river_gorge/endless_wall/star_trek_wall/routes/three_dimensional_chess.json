@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "star_trek_wall",
+        "stub": "three_dimensional_chess",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Three Dimensional Chess",
+        "types": [
+            "unknown"
+        ]
+    }
+}

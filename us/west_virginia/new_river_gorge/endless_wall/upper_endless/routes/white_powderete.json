@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "white_powderete",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "White Powderete",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kingfish",
+        "stub": "freeblast",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Freeblast",
+        "types": [
+            "sport"
+        ]
+    }
+}

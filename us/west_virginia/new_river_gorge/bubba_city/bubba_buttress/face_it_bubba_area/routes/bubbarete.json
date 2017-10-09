@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "face_it_bubba_area",
+        "stub": "bubbarete",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Bubbarete",
+        "types": [
+            "unknown"
+        ]
+    }
+}

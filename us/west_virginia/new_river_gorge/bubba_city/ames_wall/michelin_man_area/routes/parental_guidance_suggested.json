@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "michelin_man_area",
+        "stub": "parental_guidance_suggested",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Parental Guidance Suggested",
+        "types": [
+            "unknown"
+        ]
+    }
+}

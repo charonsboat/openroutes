@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_good_block",
+        "stub": "a_good_climb_direct_start",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "A Good Climb Direct Start",
+        "types": [
+            "unknown"
+        ]
+    }
+}

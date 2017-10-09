@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_pinnacle",
+        "stub": "afternoon_delight",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Afternoon Delight",
+        "types": [
+            "unknown"
+        ]
+    }
+}

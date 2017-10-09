@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "entrance_exit_boulders",
+        "stub": "teen_spirit",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Teen Spirit",
+        "types": [
+            "boulder"
+        ]
+    }
+}

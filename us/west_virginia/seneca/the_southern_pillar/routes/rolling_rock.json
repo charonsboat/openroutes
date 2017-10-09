@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "rolling_rock",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Rolling Rock",
+        "types": [
+            "unknown"
+        ]
+    }
+}

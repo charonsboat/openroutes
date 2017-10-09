@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "crack_sap",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Crack Sap",
+        "types": [
+            "trad"
+        ]
+    }
+}

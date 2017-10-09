@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "driven_to_the_edge",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c r",
+        "name": "Driven To The Edge",
+        "types": [
+            "unknown"
+        ]
+    }
+}

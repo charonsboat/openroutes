@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "black_noise",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Black Noise",
+        "types": [
+            "unknown"
+        ]
+    }
+}

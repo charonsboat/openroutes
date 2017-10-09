@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_roc",
+        "stub": "the_third_dimension",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "The Third Dimension",
+        "types": [
+            "unknown"
+        ]
+    }
+}

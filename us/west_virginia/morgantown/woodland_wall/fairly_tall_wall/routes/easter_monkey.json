@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fairly_tall_wall",
+        "stub": "easter_monkey",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Easter Monkey",
+        "types": [
+            "unknown"
+        ]
+    }
+}

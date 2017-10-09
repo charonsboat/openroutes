@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "entrance_boulders",
+        "stub": "bbw",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0+",
+        "name": "BBW",
+        "types": [
+            "boulder"
+        ]
+    }
+}

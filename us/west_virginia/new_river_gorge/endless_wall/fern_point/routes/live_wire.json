@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "live_wire",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Live Wire",
+        "types": [
+            "unknown"
+        ]
+    }
+}

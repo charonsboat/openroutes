@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "moonshine",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d x",
+        "name": "Moonshine",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "cresenta",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Cresenta",
+        "types": [
+            "unknown"
+        ]
+    }
+}

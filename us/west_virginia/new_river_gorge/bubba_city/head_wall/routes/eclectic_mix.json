@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "head_wall",
+        "stub": "eclectic_mix",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Eclectic Mix",
+        "types": [
+            "unknown"
+        ]
+    }
+}

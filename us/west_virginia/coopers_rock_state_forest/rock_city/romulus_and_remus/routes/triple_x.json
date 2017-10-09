@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "romulus_and_remus",
+        "stub": "triple_x",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Triple X",
+        "types": [
+            "boulder"
+        ]
+    }
+}

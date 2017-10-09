@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_mungolian_wall",
+        "stub": "pigtail",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Pigtail",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mr_clean_face_corridor",
+        "stub": "dinkus_brain",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10+",
+        "name": "Dinkus Brain",
+        "types": [
+            "unknown"
+        ]
+    }
+}

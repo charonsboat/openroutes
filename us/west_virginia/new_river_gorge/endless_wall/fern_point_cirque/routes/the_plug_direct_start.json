@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point_cirque",
+        "stub": "the_plug_direct_start",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "The Plug Direct Start",
+        "types": [
+            "sport"
+        ]
+    }
+}

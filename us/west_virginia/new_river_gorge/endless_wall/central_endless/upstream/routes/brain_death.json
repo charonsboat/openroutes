@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "brain_death",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Brain Death",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "michelin_man_area",
+        "stub": "camalot",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Camalot",
+        "types": [
+            "unknown"
+        ]
+    }
+}

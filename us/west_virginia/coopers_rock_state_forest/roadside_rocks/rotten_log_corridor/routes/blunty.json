@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rotten_log_corridor",
+        "stub": "blunty",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Blunty",
+        "types": [
+            "unknown"
+        ]
+    }
+}

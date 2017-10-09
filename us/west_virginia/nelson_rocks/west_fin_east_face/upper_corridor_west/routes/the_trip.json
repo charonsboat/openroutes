@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_corridor_west",
+        "stub": "the_trip",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "The Trip",
+        "types": [
+            "unknown"
+        ]
+    }
+}

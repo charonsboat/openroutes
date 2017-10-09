@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "overlook_buttress",
+        "stub": "barefoot_alley",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Barefoot Alley",
+        "types": [
+            "unknown"
+        ]
+    }
+}

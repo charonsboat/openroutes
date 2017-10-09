@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kaymoor_slab",
+        "stub": "paralleling",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d r",
+        "name": "Paralleling",
+        "types": [
+            "unknown"
+        ]
+    }
+}

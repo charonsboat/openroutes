@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "stim_ostam",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Stim-O-Stam",
+        "types": [
+            "sport"
+        ]
+    }
+}

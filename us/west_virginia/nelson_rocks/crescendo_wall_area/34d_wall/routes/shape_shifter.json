@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "34d_wall",
+        "stub": "shape_shifter",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Shape Shifter",
+        "types": [
+            "unknown"
+        ]
+    }
+}

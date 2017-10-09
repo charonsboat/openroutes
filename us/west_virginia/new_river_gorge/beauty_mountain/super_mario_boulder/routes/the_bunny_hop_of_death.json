@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "super_mario_boulder",
+        "stub": "the_bunny_hop_of_death",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "The Bunny Hop of Death",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "white_wall",
+        "stub": "chunks",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Chunks",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "bubba_has_balls",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Bubba Has Balls",
+        "types": [
+            "unknown"
+        ]
+    }
+}

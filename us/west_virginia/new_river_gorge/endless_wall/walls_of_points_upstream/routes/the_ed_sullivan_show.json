@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "walls_of_points_upstream",
+        "stub": "the_ed_sullivan_show",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "The Ed Sullivan Show",
+        "types": [
+            "sport"
+        ]
+    }
+}

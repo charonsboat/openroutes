@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central_bridge_wall",
+        "stub": "meth_isocyinate",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Meth-Iso-Cyinate",
+        "types": [
+            "unknown"
+        ]
+    }
+}

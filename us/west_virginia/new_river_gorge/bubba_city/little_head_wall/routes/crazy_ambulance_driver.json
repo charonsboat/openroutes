@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "little_head_wall",
+        "stub": "crazy_ambulance_driver",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b r",
+        "name": "Crazy Ambulance Driver",
+        "types": [
+            "unknown"
+        ]
+    }
+}

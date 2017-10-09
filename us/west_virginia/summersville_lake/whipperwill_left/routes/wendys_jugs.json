@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill_left",
+        "stub": "wendys_jugs",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Wendy's Jug's",
+        "types": [
+            "sport"
+        ]
+    }
+}

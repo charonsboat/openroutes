@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point_cirque",
+        "stub": "grin_reaper",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b x",
+        "name": "Grin Reaper",
+        "types": [
+            "unknown"
+        ]
+    }
+}

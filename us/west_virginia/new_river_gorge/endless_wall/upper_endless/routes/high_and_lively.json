@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "high_and_lively",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "High And Lively",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "gonad_wall",
+        "stub": "sportin_fool_gonad_the_barbarian",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Sportin' Fool (Gonad The Barbarian)",
+        "types": [
+            "sport"
+        ]
+    }
+}

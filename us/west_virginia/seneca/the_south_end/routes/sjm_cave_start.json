@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "sjm_cave_start",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8 r",
+        "name": "SJM Cave Start",
+        "types": [
+            "unknown"
+        ]
+    }
+}

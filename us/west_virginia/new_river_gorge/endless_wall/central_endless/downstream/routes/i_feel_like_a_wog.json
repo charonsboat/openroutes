@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "i_feel_like_a_wog",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "I Feel Like A Wog",
+        "types": [
+            "unknown"
+        ]
+    }
+}

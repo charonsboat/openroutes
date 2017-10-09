@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "birds_of_prey",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b r",
+        "name": "Birds of Prey",
+        "types": [
+            "trad"
+        ]
+    }
+}

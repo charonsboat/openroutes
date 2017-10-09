@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "french_wall",
+        "stub": "bubba_shitty",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Bubba Shitty",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "great_impostor",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Great Impostor",
+        "types": [
+            "unknown"
+        ]
+    }
+}

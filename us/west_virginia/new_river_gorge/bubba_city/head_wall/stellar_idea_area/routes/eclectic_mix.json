@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stellar_idea_area",
+        "stub": "eclectic_mix",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Eclectic Mix",
+        "types": [
+            "sport"
+        ]
+    }
+}

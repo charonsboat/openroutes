@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ames_wall",
+        "stub": "chuckles",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Chuckles",
+        "types": [
+            "unknown"
+        ]
+    }
+}

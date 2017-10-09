@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "rock_lobster",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Rock Lobster",
+        "types": [
+            "unknown"
+        ]
+    }
+}

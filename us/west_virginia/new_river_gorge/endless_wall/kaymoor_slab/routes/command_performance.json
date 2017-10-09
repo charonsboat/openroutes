@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kaymoor_slab",
+        "stub": "command_performance",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Command Performance",
+        "types": [
+            "unknown"
+        ]
+    }
+}

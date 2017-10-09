@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "wolery",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Wolery",
+        "types": [
+            "unknown"
+        ]
+    }
+}

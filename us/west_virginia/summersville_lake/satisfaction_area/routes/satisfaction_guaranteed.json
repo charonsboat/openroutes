@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "satisfaction_area",
+        "stub": "satisfaction_guaranteed",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Satisfaction Guaranteed",
+        "types": [
+            "sport"
+        ]
+    }
+}

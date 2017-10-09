@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "dirty_old_man",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Dirty Old Man",
+        "types": [
+            "unknown"
+        ]
+    }
+}

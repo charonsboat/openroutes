@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill_left",
+        "stub": "unholy_mackerel",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a r",
+        "name": "Unholy Mackerel",
+        "types": [
+            "top rope"
+        ]
+    }
+}

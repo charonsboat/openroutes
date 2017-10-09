@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "castle_rocks",
+        "stub": "trad_project",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "trad project",
+        "types": [
+            "trad"
+        ]
+    }
+}

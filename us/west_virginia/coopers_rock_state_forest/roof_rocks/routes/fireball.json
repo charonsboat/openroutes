@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roof_rocks",
+        "stub": "fireball",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10+",
+        "name": "Fireball",
+        "types": [
+            "unknown"
+        ]
+    }
+}

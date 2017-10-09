@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roof_rocks",
+        "stub": "artificial_cheese_puff",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Artificial Cheese Puff",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "right_side",
+        "stub": "welcome_to_beauty",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Welcome To Beauty",
+        "types": [
+            "unknown"
+        ]
+    }
+}

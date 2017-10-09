@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sanstonia",
+        "stub": "the_good_book",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "The Good Book",
+        "types": [
+            "unknown"
+        ]
+    }
+}

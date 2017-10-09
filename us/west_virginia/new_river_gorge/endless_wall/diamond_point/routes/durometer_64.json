@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "durometer_64",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Durometer 64",
+        "types": [
+            "trad"
+        ]
+    }
+}

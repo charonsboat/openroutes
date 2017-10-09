@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fire_and_ice_buttress",
+        "stub": "half_half",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Half & Half",
+        "types": [
+            "unknown"
+        ]
+    }
+}

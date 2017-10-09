@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "the_tomato_that_ate_cleveland",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "The Tomato That Ate Cleveland",
+        "types": [
+            "unknown"
+        ]
+    }
+}

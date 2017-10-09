@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "el_machina",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "El Machina",
+        "types": [
+            "sport"
+        ]
+    }
+}

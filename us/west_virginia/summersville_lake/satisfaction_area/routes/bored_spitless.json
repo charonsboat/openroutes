@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "satisfaction_area",
+        "stub": "bored_spitless",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Bored Spitless",
+        "types": [
+            "unknown"
+        ]
+    }
+}

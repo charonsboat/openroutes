@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "keeneys_buttress",
+        "stub": "its_a_honker",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "It's A Honker!",
+        "types": [
+            "unknown"
+        ]
+    }
+}

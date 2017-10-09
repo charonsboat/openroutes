@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill_left",
+        "stub": "holy_mackerel",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Holy Mackerel",
+        "types": [
+            "trad"
+        ]
+    }
+}

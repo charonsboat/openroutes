@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "somethin_fierce",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Somethin' Fierce",
+        "types": [
+            "sport"
+        ]
+    }
+}

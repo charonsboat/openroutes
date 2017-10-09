@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "maximum_overdrive",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Maximum Overdrive",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "bettys_boop",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Betty's Boop",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fairly_tall_wall",
+        "stub": "tower_of_babble",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "Tower of Babble",
+        "types": [
+            "unknown"
+        ]
+    }
+}

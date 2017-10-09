@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "romulus_and_remus",
+        "stub": "death_to_klingons",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12-",
+        "name": "Death to Klingons",
+        "types": [
+            "unknown"
+        ]
+    }
+}

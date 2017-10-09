@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "likme_area",
+        "stub": "space_truckn_bubbas_direct_finish",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Space Truck'n Bubbas - Direct Finish",
+        "types": [
+            "unknown"
+        ]
+    }
+}

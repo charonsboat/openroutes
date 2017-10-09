@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "first_buttress",
+        "stub": "oh_its_you_bob",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Oh, It's You Bob",
+        "types": [
+            "sport"
+        ]
+    }
+}

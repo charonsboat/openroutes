@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "boulder_p",
+        "stub": "pucker_face",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Pucker Face",
+        "types": [
+            "boulder"
+        ]
+    }
+}

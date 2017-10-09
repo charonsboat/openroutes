@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "lichen_or_leave_it",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8 r",
+        "name": "Lichen or Leave It",
+        "types": [
+            "unknown"
+        ]
+    }
+}

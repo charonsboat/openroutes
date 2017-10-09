@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bovine_wall",
+        "stub": "bovine_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Bovine Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

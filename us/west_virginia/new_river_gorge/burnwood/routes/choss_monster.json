@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "burnwood",
+        "stub": "choss_monster",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Choss Monster",
+        "types": [
+            "boulder"
+        ]
+    }
+}

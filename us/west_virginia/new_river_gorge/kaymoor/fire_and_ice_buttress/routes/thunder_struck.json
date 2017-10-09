@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fire_and_ice_buttress",
+        "stub": "thunder_struck",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Thunder Struck",
+        "types": [
+            "sport"
+        ]
+    }
+}

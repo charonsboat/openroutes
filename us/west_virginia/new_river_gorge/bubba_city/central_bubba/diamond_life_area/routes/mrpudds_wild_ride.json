@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_life_area",
+        "stub": "mrpudds_wild_ride",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Mr.Pudd's Wild Ride",
+        "types": [
+            "unknown"
+        ]
+    }
+}

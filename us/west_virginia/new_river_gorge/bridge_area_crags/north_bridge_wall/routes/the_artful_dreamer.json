@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "north_bridge_wall",
+        "stub": "the_artful_dreamer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "The Artful Dreamer",
+        "types": [
+            "unknown"
+        ]
+    }
+}

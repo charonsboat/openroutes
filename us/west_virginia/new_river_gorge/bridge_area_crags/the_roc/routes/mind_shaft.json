@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_roc",
+        "stub": "mind_shaft",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Mind Shaft",
+        "types": [
+            "sport"
+        ]
+    }
+}

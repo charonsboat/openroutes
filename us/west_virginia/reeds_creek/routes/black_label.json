@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "black_label",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11+",
+        "name": "Black Label",
+        "types": [
+            "sport"
+        ]
+    }
+}

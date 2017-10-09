@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "caustic_block",
+        "stub": "corrosion_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "Corrosion Direct",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_rostrum",
+        "stub": "race_amoung_the_ruins",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Race Amoung The Ruins",
+        "types": [
+            "unknown"
+        ]
+    }
+}

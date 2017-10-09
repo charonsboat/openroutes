@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "naked_potatoes",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Naked Potatoes",
+        "types": [
+            "unknown"
+        ]
+    }
+}

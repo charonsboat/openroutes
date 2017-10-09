@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bovine_wall",
+        "stub": "lime_house",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Lime House",
+        "types": [
+            "unknown"
+        ]
+    }
+}

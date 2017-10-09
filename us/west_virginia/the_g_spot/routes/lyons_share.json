@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_g_spot",
+        "stub": "lyons_share",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Lyon's Share",
+        "types": [
+            "unknown"
+        ]
+    }
+}

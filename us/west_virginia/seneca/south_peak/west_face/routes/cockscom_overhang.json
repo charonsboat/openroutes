@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "cockscom_overhang",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Cockscom Overhang",
+        "types": [
+            "unknown"
+        ]
+    }
+}

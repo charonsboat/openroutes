@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "entrance_exit_boulders",
+        "stub": "apples",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Apples",
+        "types": [
+            "boulder"
+        ]
+    }
+}

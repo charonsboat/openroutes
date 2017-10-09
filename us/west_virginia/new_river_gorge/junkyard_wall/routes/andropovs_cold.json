@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "andropovs_cold",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Andropov's Cold",
+        "types": [
+            "trad"
+        ]
+    }
+}

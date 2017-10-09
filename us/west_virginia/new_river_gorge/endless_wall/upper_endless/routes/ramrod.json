@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "ramrod",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Ramrod",
+        "types": [
+            "sport"
+        ]
+    }
+}

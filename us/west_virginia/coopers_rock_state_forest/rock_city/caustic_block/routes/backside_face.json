@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "caustic_block",
+        "stub": "backside_face",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "Backside Face",
+        "types": [
+            "unknown"
+        ]
+    }
+}

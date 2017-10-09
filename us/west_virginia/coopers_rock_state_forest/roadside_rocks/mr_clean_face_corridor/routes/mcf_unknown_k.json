@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mr_clean_face_corridor",
+        "stub": "mcf_unknown_k",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "MCF Unknown K",
+        "types": [
+            "unknown"
+        ]
+    }
+}

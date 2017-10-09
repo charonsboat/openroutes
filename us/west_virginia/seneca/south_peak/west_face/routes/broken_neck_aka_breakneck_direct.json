@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "broken_neck_aka_breakneck_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b r",
+        "name": "Broken Neck (aka Breakneck Direct)",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_sport_wall",
+        "stub": "franklins_tower",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Franklin's Tower",
+        "types": [
+            "unknown"
+        ]
+    }
+}

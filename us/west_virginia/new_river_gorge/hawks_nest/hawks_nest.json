@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "new_river_gorge",
+        "stub": "hawks_nest",
+        "type": "region"
+    },
+    "info": {
+        "name": "Hawk's Nest"
+    }
+}

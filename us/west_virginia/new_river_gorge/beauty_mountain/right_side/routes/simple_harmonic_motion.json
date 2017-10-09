@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "right_side",
+        "stub": "simple_harmonic_motion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Simple Harmonic Motion",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point_cirque",
+        "stub": "exoduster",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Exoduster",
+        "types": [
+            "sport"
+        ]
+    }
+}

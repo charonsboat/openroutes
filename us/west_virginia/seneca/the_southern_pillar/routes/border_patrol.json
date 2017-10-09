@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "border_patrol",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c x",
+        "name": "Border Patrol",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "west_fin_east_face",
+        "stub": "the_future_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Future Wall"
+    }
+}

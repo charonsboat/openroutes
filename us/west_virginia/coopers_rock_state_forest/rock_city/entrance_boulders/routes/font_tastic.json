@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "entrance_boulders",
+        "stub": "font_tastic",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Font-tastic",
+        "types": [
+            "boulder"
+        ]
+    }
+}

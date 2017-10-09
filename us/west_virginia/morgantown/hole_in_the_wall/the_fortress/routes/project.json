@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_fortress",
+        "stub": "project",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "project",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "south_bridge_wall",
+        "stub": "are_you_asparagus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Are You Asparagus?",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "ladybug",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Ladybug",
+        "types": [
+            "mixed"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "glass_onion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Glass Onion",
+        "types": [
+            "unknown"
+        ]
+    }
+}

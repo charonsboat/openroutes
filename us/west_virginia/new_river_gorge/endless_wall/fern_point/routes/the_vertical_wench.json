@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "the_vertical_wench",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "The Vertical Wench",
+        "types": [
+            "unknown"
+        ]
+    }
+}

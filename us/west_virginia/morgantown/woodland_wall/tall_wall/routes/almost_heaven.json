@@ -1,0 +1,15 @@
+{
+    "meta": {
+        "region": "tall_wall",
+        "stub": "almost_heaven",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11",
+        "name": "Almost Heaven",
+        "types": [
+            "unknown"
+        ]
+    }
+}
+}

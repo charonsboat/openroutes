@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "us",
+        "stub": "west_virginia",
+        "type": "region"
+    },
+    "info": {
+        "name": "West Virginia"
+    }
+}

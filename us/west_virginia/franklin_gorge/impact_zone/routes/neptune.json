@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "neptune",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Neptune",
+        "types": [
+            "sport"
+        ]
+    }
+}

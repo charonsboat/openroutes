@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pillar_notch_area",
+        "stub": "notch_up_another_one",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Notch Up Another One",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fire_and_ice_buttress",
+        "stub": "boss_cocky",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Boss Cocky",
+        "types": [
+            "sport"
+        ]
+    }
+}

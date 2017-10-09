@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "cosmic_thing",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "Cosmic Thing",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "dissonance",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Dissonance",
+        "types": [
+            "sport"
+        ]
+    }
+}

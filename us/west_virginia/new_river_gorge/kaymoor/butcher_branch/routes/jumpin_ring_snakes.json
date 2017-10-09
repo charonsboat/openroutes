@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "butcher_branch",
+        "stub": "jumpin_ring_snakes",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Jumpin' Ring Snakes",
+        "types": [
+            "unknown"
+        ]
+    }
+}

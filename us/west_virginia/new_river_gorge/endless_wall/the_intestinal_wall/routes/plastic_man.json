@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_intestinal_wall",
+        "stub": "plastic_man",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Plastic Man",
+        "types": [
+            "sport"
+        ]
+    }
+}

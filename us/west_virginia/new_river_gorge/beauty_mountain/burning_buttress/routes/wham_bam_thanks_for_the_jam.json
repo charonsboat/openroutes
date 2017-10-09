@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "burning_buttress",
+        "stub": "wham_bam_thanks_for_the_jam",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Wham, Bam, Thanks For The Jam",
+        "types": [
+            "trad"
+        ]
+    }
+}

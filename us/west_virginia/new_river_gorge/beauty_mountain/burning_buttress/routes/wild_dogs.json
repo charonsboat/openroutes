@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "burning_buttress",
+        "stub": "wild_dogs",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Wild Dogs",
+        "types": [
+            "unknown"
+        ]
+    }
+}

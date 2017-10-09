@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bridge_buttress",
+        "stub": "the_mayfly",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "The Mayfly",
+        "types": [
+            "unknown"
+        ]
+    }
+}

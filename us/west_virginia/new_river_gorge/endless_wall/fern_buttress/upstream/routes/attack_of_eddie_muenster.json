@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "attack_of_eddie_muenster",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Attack Of Eddie Muenster",
+        "types": [
+            "unknown"
+        ]
+    }
+}

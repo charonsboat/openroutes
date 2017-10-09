@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "north_bridge_wall",
+        "stub": "dr_rosenbuds_nose",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Dr. Rosenbud's Nose",
+        "types": [
+            "unknown"
+        ]
+    }
+}

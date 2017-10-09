@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kaymoor_slab",
+        "stub": "ques_jook_joint",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Que's Jook Joint",
+        "types": [
+            "sport"
+        ]
+    }
+}

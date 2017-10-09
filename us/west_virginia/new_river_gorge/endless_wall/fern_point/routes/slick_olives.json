@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "slick_olives",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d r",
+        "name": "Slick Olives",
+        "types": [
+            "unknown"
+        ]
+    }
+}

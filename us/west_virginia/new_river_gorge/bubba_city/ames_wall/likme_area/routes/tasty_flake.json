@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "likme_area",
+        "stub": "tasty_flake",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Tasty Flake",
+        "types": [
+            "unknown"
+        ]
+    }
+}

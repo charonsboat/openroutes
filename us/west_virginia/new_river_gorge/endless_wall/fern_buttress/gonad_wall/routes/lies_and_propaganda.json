@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "gonad_wall",
+        "stub": "lies_and_propaganda",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Lies And Propaganda",
+        "types": [
+            "trad"
+        ]
+    }
+}

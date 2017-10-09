@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "sneak_preview",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Sneak Preview",
+        "types": [
+            "unknown"
+        ]
+    }
+}

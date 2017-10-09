@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "poor_mans_critter",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Poor Man's Critter",
+        "types": [
+            "unknown"
+        ]
+    }
+}

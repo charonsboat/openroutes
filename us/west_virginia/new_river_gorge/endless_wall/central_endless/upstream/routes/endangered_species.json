@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "endangered_species",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Endangered Species",
+        "types": [
+            "unknown"
+        ]
+    }
+}

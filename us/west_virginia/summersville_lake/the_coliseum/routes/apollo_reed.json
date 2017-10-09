@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_coliseum",
+        "stub": "apollo_reed",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Apollo Reed",
+        "types": [
+            "sport"
+        ]
+    }
+}

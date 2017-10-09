@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "dust_bowl",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Dust Bowl",
+        "types": [
+            "unknown"
+        ]
+    }
+}

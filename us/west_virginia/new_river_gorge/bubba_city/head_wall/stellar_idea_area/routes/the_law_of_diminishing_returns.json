@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stellar_idea_area",
+        "stub": "the_law_of_diminishing_returns",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "The Law Of Diminishing Returns",
+        "types": [
+            "unknown"
+        ]
+    }
+}

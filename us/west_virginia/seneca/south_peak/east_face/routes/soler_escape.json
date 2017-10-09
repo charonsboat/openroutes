@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "soler_escape",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Soler Escape",
+        "types": [
+            "unknown"
+        ]
+    }
+}

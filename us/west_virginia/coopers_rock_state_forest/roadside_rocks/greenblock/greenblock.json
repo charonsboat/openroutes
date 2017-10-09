@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "roadside_rocks",
+        "stub": "greenblock",
+        "type": "region"
+    },
+    "info": {
+        "name": "Greenblock"
+    }
+}

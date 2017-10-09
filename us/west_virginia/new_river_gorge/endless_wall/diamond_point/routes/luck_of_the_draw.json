@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "luck_of_the_draw",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Luck Of The Draw",
+        "types": [
+            "sport"
+        ]
+    }
+}

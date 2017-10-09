@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cat_cliff",
+        "stub": "the_good_life",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "The Good Life",
+        "types": [
+            "unknown"
+        ]
+    }
+}

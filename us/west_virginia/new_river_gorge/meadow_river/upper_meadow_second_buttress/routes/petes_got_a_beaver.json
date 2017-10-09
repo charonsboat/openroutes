@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_second_buttress",
+        "stub": "petes_got_a_beaver",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Pete's got a Beaver",
+        "types": [
+            "unknown"
+        ]
+    }
+}

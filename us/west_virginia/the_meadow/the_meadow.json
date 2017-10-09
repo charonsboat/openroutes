@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "west_virginia",
+        "stub": "the_meadow",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Meadow"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "project_4_in_progress",
+        "type": "region"
+    },
+    "info": {
+        "grade": "project",
+        "name": "Project 4 (In Progress)",
+        "types": [
+            "unknown"
+        ]
+    }
+}

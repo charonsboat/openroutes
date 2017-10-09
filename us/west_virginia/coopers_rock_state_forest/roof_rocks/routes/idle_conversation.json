@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roof_rocks",
+        "stub": "idle_conversation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Idle Conversation",
+        "types": [
+            "unknown"
+        ]
+    }
+}

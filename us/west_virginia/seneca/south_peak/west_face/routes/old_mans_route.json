@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "old_mans_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.2",
+        "name": "Old Man's Route",
+        "types": [
+            "trad"
+        ]
+    }
+}

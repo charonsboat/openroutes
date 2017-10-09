@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roof_rocks",
+        "stub": "levitation_lame",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Levitation Lame ???",
+        "types": [
+            "unknown"
+        ]
+    }
+}

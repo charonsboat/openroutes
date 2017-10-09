@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "right_side",
+        "stub": "shortn_sweet",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Short'n Sweet",
+        "types": [
+            "unknown"
+        ]
+    }
+}

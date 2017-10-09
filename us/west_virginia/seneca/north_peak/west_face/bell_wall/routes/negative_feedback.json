@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bell_wall",
+        "stub": "negative_feedback",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Negative Feedback",
+        "types": [
+            "unknown"
+        ]
+    }
+}

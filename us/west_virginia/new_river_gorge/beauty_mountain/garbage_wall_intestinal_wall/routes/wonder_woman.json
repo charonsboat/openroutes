@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "garbage_wall_intestinal_wall",
+        "stub": "wonder_woman",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Wonder Woman",
+        "types": [
+            "unknown"
+        ]
+    }
+}

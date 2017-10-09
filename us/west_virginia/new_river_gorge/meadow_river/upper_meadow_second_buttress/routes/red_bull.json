@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_second_buttress",
+        "stub": "red_bull",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Red Bull",
+        "types": [
+            "unknown"
+        ]
+    }
+}

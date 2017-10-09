@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "michelin_man_area",
+        "stub": "fub",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "F.U.B.",
+        "types": [
+            "unknown"
+        ]
+    }
+}

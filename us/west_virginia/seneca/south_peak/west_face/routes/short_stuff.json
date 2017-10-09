@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "short_stuff",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Short Stuff",
+        "types": [
+            "unknown"
+        ]
+    }
+}

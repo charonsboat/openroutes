@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "greenblock",
+        "stub": "pee_green_splitter",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0+",
+        "name": "Pee Green Splitter",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "unrelenting_verticality",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9 r",
+        "name": "Unrelenting Verticality",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "time_flies",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a r",
+        "name": "Time Flies",
+        "types": [
+            "unknown"
+        ]
+    }
+}

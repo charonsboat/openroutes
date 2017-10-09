@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "likme_area",
+        "stub": "tongulation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Tongulation",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "lunge_or_plunge",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Lunge or Plunge",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "the_growing_hole",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "The Growing Hole",
+        "types": [
+            "sport"
+        ]
+    }
+}

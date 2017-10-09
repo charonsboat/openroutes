@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "rival",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Rival",
+        "types": [
+            "sport"
+        ]
+    }
+}

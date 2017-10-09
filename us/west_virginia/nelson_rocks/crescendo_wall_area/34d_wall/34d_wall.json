@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "crescendo_wall_area",
+        "stub": "34d_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "34D Wall"
+    }
+}

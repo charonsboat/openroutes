@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "the_scoop",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "The Scoop",
+        "types": [
+            "unknown"
+        ]
+    }
+}

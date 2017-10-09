@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "romulus_and_remus",
+        "stub": "the_green_slab",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "The Green Slab",
+        "types": [
+            "unknown"
+        ]
+    }
+}

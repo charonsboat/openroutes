@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rivers_bend",
+        "stub": "hell_fire",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13c",
+        "name": "Hell Fire",
+        "types": [
+            "sport"
+        ]
+    }
+}

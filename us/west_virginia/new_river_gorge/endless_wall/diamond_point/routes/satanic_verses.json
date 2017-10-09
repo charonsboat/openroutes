@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "satanic_verses",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13c",
+        "name": "Satanic Verses",
+        "types": [
+            "unknown"
+        ]
+    }
+}

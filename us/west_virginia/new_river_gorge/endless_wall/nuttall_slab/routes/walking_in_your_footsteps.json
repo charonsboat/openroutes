@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "nuttall_slab",
+        "stub": "walking_in_your_footsteps",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a r",
+        "name": "Walking In Your Footsteps",
+        "types": [
+            "unknown"
+        ]
+    }
+}

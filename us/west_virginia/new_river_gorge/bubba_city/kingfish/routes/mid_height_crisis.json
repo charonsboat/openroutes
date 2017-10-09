@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kingfish",
+        "stub": "mid_height_crisis",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Mid-Height Crisis",
+        "types": [
+            "unknown"
+        ]
+    }
+}

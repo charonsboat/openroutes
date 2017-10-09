@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bubba_buttress",
+        "stub": "spatenweiss",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Spatenweiss",
+        "types": [
+            "unknown"
+        ]
+    }
+}

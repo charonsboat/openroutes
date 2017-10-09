@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "mission_impossible_project",
+        "type": "region"
+    },
+    "info": {
+        "grade": "project",
+        "name": "Mission Impossible (Project)",
+        "types": [
+            "unknown"
+        ]
+    }
+}

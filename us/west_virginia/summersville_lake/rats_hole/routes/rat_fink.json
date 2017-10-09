@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rats_hole",
+        "stub": "rat_fink",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Rat Fink",
+        "types": [
+            "unknown"
+        ]
+    }
+}

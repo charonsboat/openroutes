@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "perot_wall_to_be_merged",
+        "stub": "trigger_happy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Trigger Happy",
+        "types": [
+            "unknown"
+        ]
+    }
+}

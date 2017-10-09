@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "fearful_symmetry",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Fearful Symmetry",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kingfish",
+        "stub": "face_value",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a r",
+        "name": "Face Value",
+        "types": [
+            "unknown"
+        ]
+    }
+}

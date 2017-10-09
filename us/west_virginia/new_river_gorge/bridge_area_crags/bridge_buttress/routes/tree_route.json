@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bridge_buttress",
+        "stub": "tree_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Tree Route",
+        "types": [
+            "trad"
+        ]
+    }
+}

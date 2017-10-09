@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "new_river_gorge",
+        "stub": "burnwood",
+        "type": "region"
+    },
+    "info": {
+        "name": "Burnwood"
+    }
+}

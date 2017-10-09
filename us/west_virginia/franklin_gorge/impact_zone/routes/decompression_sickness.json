@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "decompression_sickness",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Decompression Sickness",
+        "types": [
+            "sport"
+        ]
+    }
+}

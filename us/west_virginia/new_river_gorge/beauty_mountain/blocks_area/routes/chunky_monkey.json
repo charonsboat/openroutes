@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "blocks_area",
+        "stub": "chunky_monkey",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Chunky Monkey",
+        "types": [
+            "sport"
+        ]
+    }
+}

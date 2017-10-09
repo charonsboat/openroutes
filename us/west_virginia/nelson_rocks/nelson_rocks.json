@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "west_virginia",
+        "stub": "nelson_rocks",
+        "type": "region"
+    },
+    "info": {
+        "name": "Nelson Rocks"
+    }
+}

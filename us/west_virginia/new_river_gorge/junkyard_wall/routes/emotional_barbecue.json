@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "emotional_barbecue",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Emotional Barbecue",
+        "types": [
+            "unknown"
+        ]
+    }
+}

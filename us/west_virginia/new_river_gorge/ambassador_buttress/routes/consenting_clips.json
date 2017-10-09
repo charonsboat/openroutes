@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ambassador_buttress",
+        "stub": "consenting_clips",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Consenting Clips",
+        "types": [
+            "unknown"
+        ]
+    }
+}

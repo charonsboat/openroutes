@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "bozoo",
+        "stub": "bond_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Bond Wall"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "name_it_and_claim_it",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Name It And Claim It",
+        "types": [
+            "unknown"
+        ]
+    }
+}

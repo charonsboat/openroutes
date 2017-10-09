@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "standing_up_in_the_big_tent",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Standing Up In The Big Tent",
+        "types": [
+            "sport"
+        ]
+    }
+}

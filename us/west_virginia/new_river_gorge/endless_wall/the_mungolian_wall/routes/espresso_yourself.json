@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_mungolian_wall",
+        "stub": "espresso_yourself",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Espresso Yourself",
+        "types": [
+            "sport"
+        ]
+    }
+}

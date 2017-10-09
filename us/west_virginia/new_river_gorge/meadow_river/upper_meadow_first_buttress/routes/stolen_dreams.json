@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_first_buttress",
+        "stub": "stolen_dreams",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Stolen Dreams",
+        "types": [
+            "unknown"
+        ]
+    }
+}

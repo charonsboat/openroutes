@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_mungolian_wall",
+        "stub": "blue_angel_sport_climbing",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Blue Angel (Sport Climbing)",
+        "types": [
+            "sport"
+        ]
+    }
+}

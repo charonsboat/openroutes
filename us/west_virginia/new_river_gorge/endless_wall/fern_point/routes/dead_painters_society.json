@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "dead_painters_society",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Dead Painters Society",
+        "types": [
+            "sport"
+        ]
+    }
+}

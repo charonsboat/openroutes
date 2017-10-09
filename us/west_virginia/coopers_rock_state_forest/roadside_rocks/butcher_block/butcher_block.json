@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "roadside_rocks",
+        "stub": "butcher_block",
+        "type": "region"
+    },
+    "info": {
+        "name": "Butcher Block"
+    }
+}

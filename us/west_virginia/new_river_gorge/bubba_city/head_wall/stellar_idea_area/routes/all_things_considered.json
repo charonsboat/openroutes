@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stellar_idea_area",
+        "stub": "all_things_considered",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "All Things Considered",
+        "types": [
+            "sport"
+        ]
+    }
+}

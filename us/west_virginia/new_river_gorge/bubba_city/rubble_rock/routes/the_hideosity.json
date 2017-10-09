@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rubble_rock",
+        "stub": "the_hideosity",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "The Hideosity",
+        "types": [
+            "unknown"
+        ]
+    }
+}

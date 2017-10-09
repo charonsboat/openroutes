@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_slabs",
+        "stub": "for_slab_rats_only",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "For Slab Rats Only",
+        "types": [
+            "unknown"
+        ]
+    }
+}

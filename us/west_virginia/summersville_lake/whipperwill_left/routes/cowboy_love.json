@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill_left",
+        "stub": "cowboy_love",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Cowboy Love",
+        "types": [
+            "trad"
+        ]
+    }
+}

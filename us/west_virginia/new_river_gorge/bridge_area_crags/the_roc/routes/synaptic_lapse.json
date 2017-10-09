@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_roc",
+        "stub": "synaptic_lapse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Synaptic Lapse",
+        "types": [
+            "unknown"
+        ]
+    }
+}

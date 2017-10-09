@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "south_bridge_wall",
+        "stub": "pipe_dreams",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Pipe Dreams",
+        "types": [
+            "unknown"
+        ]
+    }
+}

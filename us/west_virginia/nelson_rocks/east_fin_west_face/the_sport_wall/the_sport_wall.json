@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "east_fin_west_face",
+        "stub": "the_sport_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Sport Wall"
+    }
+}

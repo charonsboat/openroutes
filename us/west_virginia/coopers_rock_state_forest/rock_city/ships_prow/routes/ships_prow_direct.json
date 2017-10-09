@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ships_prow",
+        "stub": "ships_prow_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Ship's Prow Direct",
+        "types": [
+            "unknown"
+        ]
+    }
+}

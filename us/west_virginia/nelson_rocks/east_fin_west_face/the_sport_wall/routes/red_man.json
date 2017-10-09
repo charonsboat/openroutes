@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_sport_wall",
+        "stub": "red_man",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Red Man",
+        "types": [
+            "unknown"
+        ]
+    }
+}

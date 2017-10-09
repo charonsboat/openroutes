@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "skiggle_von_wiggle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Skiggle Von Wiggle",
+        "types": [
+            "unknown"
+        ]
+    }
+}

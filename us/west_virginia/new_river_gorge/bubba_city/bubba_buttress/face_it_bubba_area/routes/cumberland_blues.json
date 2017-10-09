@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "face_it_bubba_area",
+        "stub": "cumberland_blues",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Cumberland Blues",
+        "types": [
+            "unknown"
+        ]
+    }
+}

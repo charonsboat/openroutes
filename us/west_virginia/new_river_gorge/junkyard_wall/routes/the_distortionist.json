@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "the_distortionist",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "The Distortionist",
+        "types": [
+            "trad"
+        ]
+    }
+}

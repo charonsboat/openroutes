@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orange_oswald_wall",
+        "stub": "barfing_butterfiles",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Barfing Butterfiles",
+        "types": [
+            "unknown"
+        ]
+    }
+}

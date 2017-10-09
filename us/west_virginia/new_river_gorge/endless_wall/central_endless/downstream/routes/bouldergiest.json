@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "bouldergiest",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Bouldergiest",
+        "types": [
+            "sport"
+        ]
+    }
+}

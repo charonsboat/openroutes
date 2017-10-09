@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "puddsucker",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a r",
+        "name": "Puddsucker",
+        "types": [
+            "unknown"
+        ]
+    }
+}

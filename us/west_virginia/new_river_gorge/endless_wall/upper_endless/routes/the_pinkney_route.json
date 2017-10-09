@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "the_pinkney_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "The Pinkney Route",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bell_wall",
+        "stub": "the_bell",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a r",
+        "name": "The Bell",
+        "types": [
+            "unknown"
+        ]
+    }
+}

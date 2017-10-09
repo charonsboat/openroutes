@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "east_fin_west_face",
+        "stub": "stone_gallows_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Stone Gallows Wall"
+    }
+}

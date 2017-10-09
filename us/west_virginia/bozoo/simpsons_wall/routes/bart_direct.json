@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "simpsons_wall",
+        "stub": "bart_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Bart Direct",
+        "types": [
+            "unknown"
+        ]
+    }
+}

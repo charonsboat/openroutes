@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pillar_notch_area",
+        "stub": "tommy_t",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Tommy T",
+        "types": [
+            "unknown"
+        ]
+    }
+}

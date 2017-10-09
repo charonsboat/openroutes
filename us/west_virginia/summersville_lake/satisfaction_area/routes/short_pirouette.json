@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "satisfaction_area",
+        "stub": "short_pirouette",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Short Pirouette",
+        "types": [
+            "unknown"
+        ]
+    }
+}

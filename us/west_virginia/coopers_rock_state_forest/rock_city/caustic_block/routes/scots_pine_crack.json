@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "caustic_block",
+        "stub": "scots_pine_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.2",
+        "name": "Scots Pine Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

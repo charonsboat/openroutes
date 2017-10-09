@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_slabs",
+        "stub": "angry_angles",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d r",
+        "name": "Angry Angles",
+        "types": [
+            "unknown"
+        ]
+    }
+}

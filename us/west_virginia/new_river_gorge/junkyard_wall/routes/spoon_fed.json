@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "spoon_fed",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9 r",
+        "name": "Spoon Fed",
+        "types": [
+            "trad"
+        ]
+    }
+}

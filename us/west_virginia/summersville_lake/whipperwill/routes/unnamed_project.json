@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill",
+        "stub": "unnamed_project",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12",
+        "name": "Unnamed project",
+        "types": [
+            "unknown"
+        ]
+    }
+}

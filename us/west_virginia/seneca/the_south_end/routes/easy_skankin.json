@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "easy_skankin",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Easy Skankin'",
+        "types": [
+            "unknown"
+        ]
+    }
+}

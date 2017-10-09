@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "spocks_brain",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Spock's Brain",
+        "types": [
+            "unknown"
+        ]
+    }
+}

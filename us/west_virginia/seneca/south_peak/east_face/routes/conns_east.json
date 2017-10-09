@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "conns_east",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Conn's East",
+        "types": [
+            "unknown"
+        ]
+    }
+}

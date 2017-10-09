@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "cockscomb_pine_tree_traverse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "Cockscomb Pine Tree Traverse",
+        "types": [
+            "unknown"
+        ]
+    }
+}

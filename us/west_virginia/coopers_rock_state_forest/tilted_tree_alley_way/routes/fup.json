@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "fup",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "FUP",
+        "types": [
+            "boulder"
+        ]
+    }
+}

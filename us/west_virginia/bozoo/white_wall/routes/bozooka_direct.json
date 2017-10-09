@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "white_wall",
+        "stub": "bozooka_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Bozooka Direct",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "keep_it_tight_but_dont_give_me_aids",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Keep It Tight But Don't Give Me Aids",
+        "types": [
+            "trad"
+        ]
+    }
+}

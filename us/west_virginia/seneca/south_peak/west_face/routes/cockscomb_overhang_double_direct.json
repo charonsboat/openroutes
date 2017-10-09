@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "cockscomb_overhang_double_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d r",
+        "name": "Cockscomb Overhang Double Direct",
+        "types": [
+            "unknown"
+        ]
+    }
+}

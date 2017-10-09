@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "entrance_boulders",
+        "stub": "severe_underbite",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "Severe Underbite",
+        "types": [
+            "boulder"
+        ]
+    }
+}

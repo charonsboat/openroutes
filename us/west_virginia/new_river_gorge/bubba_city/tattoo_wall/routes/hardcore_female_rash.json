@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tattoo_wall",
+        "stub": "hardcore_female_rash",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Hardcore Female Rash",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rivers_bend",
+        "stub": "wish_i_were_a_golfer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Wish I Were a Golfer",
+        "types": [
+            "sport"
+        ]
+    }
+}

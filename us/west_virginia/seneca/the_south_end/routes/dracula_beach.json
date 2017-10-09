@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "dracula_beach",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Dracula Beach",
+        "types": [
+            "sport"
+        ]
+    }
+}

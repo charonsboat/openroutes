@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_future_wall",
+        "stub": "shorty",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Shorty",
+        "types": [
+            "unknown"
+        ]
+    }
+}

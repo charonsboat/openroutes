@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "the_burn",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "The Burn",
+        "types": [
+            "trad"
+        ]
+    }
+}

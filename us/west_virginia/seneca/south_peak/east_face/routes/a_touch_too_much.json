@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "a_touch_too_much",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "A Touch Too Much",
+        "types": [
+            "mixed"
+        ]
+    }
+}

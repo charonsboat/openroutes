@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ameless_wall",
+        "stub": "face_lift",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Face Lift",
+        "types": [
+            "unknown"
+        ]
+    }
+}

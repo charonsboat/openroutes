@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "pleasure_and_pain",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Pleasure And Pain",
+        "types": [
+            "unknown"
+        ]
+    }
+}

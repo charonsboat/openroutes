@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "likme_area",
+        "stub": "lavender_chockstone",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Lavender Chockstone",
+        "types": [
+            "unknown"
+        ]
+    }
+}

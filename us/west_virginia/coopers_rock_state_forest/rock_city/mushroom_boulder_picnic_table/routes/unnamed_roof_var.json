@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mushroom_boulder_picnic_table",
+        "stub": "unnamed_roof_var",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "Unnamed Roof Var.",
+        "types": [
+            "boulder"
+        ]
+    }
+}

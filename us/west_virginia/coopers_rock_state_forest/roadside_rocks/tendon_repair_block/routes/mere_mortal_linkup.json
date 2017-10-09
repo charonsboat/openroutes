@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tendon_repair_block",
+        "stub": "mere_mortal_linkup",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "Mere Mortal Linkup",
+        "types": [
+            "unknown"
+        ]
+    }
+}

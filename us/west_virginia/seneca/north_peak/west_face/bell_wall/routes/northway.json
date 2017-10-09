@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bell_wall",
+        "stub": "northway",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.0",
+        "name": "Northway",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "a_bitter_end",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "A Bitter End",
+        "types": [
+            "unknown"
+        ]
+    }
+}

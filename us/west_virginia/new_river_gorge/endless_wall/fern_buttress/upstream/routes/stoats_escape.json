@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "stoats_escape",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Stoats Escape",
+        "types": [
+            "unknown"
+        ]
+    }
+}

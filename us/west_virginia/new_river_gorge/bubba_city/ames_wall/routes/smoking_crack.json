@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ames_wall",
+        "stub": "smoking_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Smoking Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

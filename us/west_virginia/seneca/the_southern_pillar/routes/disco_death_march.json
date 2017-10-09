@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "disco_death_march",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Disco Death March",
+        "types": [
+            "unknown"
+        ]
+    }
+}

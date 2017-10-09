@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roof_rocks",
+        "stub": "dual_delusion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Dual Delusion",
+        "types": [
+            "unknown"
+        ]
+    }
+}

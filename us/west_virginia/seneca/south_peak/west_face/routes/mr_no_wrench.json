@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "mr_no_wrench",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Mr. No Wrench",
+        "types": [
+            "unknown"
+        ]
+    }
+}

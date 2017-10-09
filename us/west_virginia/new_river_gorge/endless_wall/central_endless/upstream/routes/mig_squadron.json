@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "mig_squadron",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Mig Squadron",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "bosch_this",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "bosch this",
+        "types": [
+            "boulder"
+        ]
+    }
+}

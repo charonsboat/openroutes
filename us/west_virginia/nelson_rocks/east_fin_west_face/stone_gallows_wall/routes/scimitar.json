@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stone_gallows_wall",
+        "stub": "scimitar",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Scimitar",
+        "types": [
+            "unknown"
+        ]
+    }
+}

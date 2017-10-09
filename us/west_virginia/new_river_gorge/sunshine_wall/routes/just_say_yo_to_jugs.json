@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunshine_wall",
+        "stub": "just_say_yo_to_jugs",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Just Say Yo To Jugs",
+        "types": [
+            "unknown"
+        ]
+    }
+}

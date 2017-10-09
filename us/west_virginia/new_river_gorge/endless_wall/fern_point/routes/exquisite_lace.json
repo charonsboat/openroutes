@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "exquisite_lace",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Exquisite Lace",
+        "types": [
+            "unknown"
+        ]
+    }
+}

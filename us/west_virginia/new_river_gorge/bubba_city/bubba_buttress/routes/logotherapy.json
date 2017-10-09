@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bubba_buttress",
+        "stub": "logotherapy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Logotherapy",
+        "types": [
+            "unknown"
+        ]
+    }
+}

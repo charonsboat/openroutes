@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "disorientation_101",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Disorientation 101",
+        "types": [
+            "sport"
+        ]
+    }
+}

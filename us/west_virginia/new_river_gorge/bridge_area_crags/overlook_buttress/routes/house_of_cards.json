@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "overlook_buttress",
+        "stub": "house_of_cards",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "House Of Cards",
+        "types": [
+            "unknown"
+        ]
+    }
+}

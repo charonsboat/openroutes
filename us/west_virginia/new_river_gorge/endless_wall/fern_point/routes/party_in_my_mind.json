@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "party_in_my_mind",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Party In My Mind",
+        "types": [
+            "unknown"
+        ]
+    }
+}

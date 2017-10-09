@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "head_wall",
+        "stub": "lamour_des_toits",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "L'Amour des Toits",
+        "types": [
+            "unknown"
+        ]
+    }
+}

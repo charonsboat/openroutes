@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "south_bridge_wall",
+        "stub": "square_pegs",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11",
+        "name": "Square Pegs",
+        "types": [
+            "unknown"
+        ]
+    }
+}

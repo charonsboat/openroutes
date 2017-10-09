@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bubba_buttress",
+        "stub": "bubbaweiser",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Bubbaweiser",
+        "types": [
+            "sport"
+        ]
+    }
+}

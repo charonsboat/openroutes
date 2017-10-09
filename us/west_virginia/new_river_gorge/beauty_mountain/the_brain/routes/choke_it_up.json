@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_brain",
+        "stub": "choke_it_up",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Choke It Up",
+        "types": [
+            "sport"
+        ]
+    }
+}

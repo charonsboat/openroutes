@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "zygomatic",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Zygomatic",
+        "types": [
+            "unknown"
+        ]
+    }
+}

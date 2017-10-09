@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mushroom_boulder_picnic_table",
+        "stub": "mushrooms",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Mushrooms",
+        "types": [
+            "boulder"
+        ]
+    }
+}

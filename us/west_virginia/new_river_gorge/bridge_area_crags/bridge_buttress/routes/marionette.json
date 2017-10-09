@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bridge_buttress",
+        "stub": "marionette",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Marionette",
+        "types": [
+            "trad"
+        ]
+    }
+}

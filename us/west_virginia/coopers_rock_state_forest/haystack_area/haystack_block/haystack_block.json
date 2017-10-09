@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "haystack_area",
+        "stub": "haystack_block",
+        "type": "region"
+    },
+    "info": {
+        "name": "Haystack Block"
+    }
+}

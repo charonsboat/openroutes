@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dog_wall",
+        "stub": "black_dog",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Black Dog",
+        "types": [
+            "unknown"
+        ]
+    }
+}

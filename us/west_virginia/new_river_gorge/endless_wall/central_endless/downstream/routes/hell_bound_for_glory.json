@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "hell_bound_for_glory",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Hell Bound For Glory",
+        "types": [
+            "sport"
+        ]
+    }
+}

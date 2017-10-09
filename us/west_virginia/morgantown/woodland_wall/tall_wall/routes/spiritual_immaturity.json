@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tall_wall",
+        "stub": "spiritual_immaturity",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Spiritual Immaturity",
+        "types": [
+            "unknown"
+        ]
+    }
+}

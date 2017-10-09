@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "terra_firma_homesick_blues",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c r",
+        "name": "Terra Firma Homesick Blues",
+        "types": [
+            "top rope"
+        ]
+    }
+}

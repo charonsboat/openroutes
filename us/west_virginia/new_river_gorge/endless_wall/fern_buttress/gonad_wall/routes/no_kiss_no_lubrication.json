@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "gonad_wall",
+        "stub": "no_kiss_no_lubrication",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "No Kiss, No Lubrication",
+        "types": [
+            "unknown"
+        ]
+    }
+}

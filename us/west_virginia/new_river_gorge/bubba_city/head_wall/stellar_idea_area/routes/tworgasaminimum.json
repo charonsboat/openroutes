@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stellar_idea_area",
+        "stub": "tworgasaminimum",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Tworgasaminimum",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central",
+        "stub": "start_thor",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Start-Thor",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "right_el_danno",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v6",
+        "name": "Right El Danno",
+        "types": [
+            "boulder"
+        ]
+    }
+}

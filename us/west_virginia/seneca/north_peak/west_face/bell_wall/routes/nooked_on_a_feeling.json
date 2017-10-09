@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bell_wall",
+        "stub": "nooked_on_a_feeling",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Nooked On a Feeling",
+        "types": [
+            "unknown"
+        ]
+    }
+}

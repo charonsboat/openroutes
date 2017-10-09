@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "garbage_wall_intestinal_wall",
+        "stub": "tols_for_mutant_women",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Tols for Mutant Women",
+        "types": [
+            "unknown"
+        ]
+    }
+}

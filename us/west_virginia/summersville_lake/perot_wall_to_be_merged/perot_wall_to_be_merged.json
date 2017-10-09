@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "summersville_lake",
+        "stub": "perot_wall_to_be_merged",
+        "type": "region"
+    },
+    "info": {
+        "name": "Perot Wall (to be merged)"
+    }
+}

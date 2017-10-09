@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "picnic_block",
+        "stub": "drizzle_wall",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Drizzle Wall",
+        "types": [
+            "unknown"
+        ]
+    }
+}

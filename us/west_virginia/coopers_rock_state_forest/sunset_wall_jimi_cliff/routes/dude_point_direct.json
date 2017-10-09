@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunset_wall_jimi_cliff",
+        "stub": "dude_point_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Dude Point Direct",
+        "types": [
+            "unknown"
+        ]
+    }
+}

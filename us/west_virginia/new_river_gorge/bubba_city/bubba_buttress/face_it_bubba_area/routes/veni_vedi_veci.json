@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "face_it_bubba_area",
+        "stub": "veni_vedi_veci",
+        "type": "region"
+    },
+    "info": {
+        "grade": "{au} yds:5.12a",
+        "name": "Veni, Vedi, Veci",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_slabs",
+        "stub": "guillotine",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Guillotine",
+        "types": [
+            "unknown"
+        ]
+    }
+}

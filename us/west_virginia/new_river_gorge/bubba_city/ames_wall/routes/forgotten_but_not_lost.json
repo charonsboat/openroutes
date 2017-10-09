@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ames_wall",
+        "stub": "forgotten_but_not_lost",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Forgotten But Not Lost",
+        "types": [
+            "unknown"
+        ]
+    }
+}

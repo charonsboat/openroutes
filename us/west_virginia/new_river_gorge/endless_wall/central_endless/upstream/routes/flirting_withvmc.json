@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "flirting_withvmc",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Flirting Withvmc",
+        "types": [
+            "unknown"
+        ]
+    }
+}

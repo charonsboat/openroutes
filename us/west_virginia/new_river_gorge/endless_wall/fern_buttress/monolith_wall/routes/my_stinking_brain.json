@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "monolith_wall",
+        "stub": "my_stinking_brain",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "My Stinking Brain",
+        "types": [
+            "sport"
+        ]
+    }
+}

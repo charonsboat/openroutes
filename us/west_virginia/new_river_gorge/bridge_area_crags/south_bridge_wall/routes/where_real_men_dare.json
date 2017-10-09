@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "south_bridge_wall",
+        "stub": "where_real_men_dare",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Where Real Men Dare",
+        "types": [
+            "unknown"
+        ]
+    }
+}

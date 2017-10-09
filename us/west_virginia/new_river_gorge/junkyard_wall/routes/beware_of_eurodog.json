@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "beware_of_eurodog",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Beware Of Eurodog",
+        "types": [
+            "trad"
+        ]
+    }
+}

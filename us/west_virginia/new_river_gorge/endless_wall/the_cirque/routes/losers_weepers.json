@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_cirque",
+        "stub": "losers_weepers",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13c",
+        "name": "Losers Weepers",
+        "types": [
+            "unknown"
+        ]
+    }
+}

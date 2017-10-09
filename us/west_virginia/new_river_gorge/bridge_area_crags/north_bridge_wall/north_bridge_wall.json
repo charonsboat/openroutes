@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "bridge_area_crags",
+        "stub": "north_bridge_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "North Bridge Wall"
+    }
+}

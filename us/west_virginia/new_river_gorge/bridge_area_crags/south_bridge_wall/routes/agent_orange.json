@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "south_bridge_wall",
+        "stub": "agent_orange",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Agent Orange",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_ogre",
+        "stub": "leechate",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Leechate",
+        "types": [
+            "sport"
+        ]
+    }
+}

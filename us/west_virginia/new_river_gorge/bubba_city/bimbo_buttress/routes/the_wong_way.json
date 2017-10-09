@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bimbo_buttress",
+        "stub": "the_wong_way",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "The Wong Way",
+        "types": [
+            "unknown"
+        ]
+    }
+}

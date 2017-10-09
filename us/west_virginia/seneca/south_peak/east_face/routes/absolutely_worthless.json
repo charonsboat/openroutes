@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "absolutely_worthless",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8 x",
+        "name": "Absolutely Worthless",
+        "types": [
+            "unknown"
+        ]
+    }
+}

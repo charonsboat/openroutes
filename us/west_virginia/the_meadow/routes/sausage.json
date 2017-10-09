@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_meadow",
+        "stub": "sausage",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Sausage",
+        "types": [
+            "unknown"
+        ]
+    }
+}

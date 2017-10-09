@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bell_wall",
+        "stub": "irrelevance",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Irrelevance",
+        "types": [
+            "unknown"
+        ]
+    }
+}

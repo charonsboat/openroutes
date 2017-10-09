@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "highway_to_hell",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a r",
+        "name": "Highway to Hell",
+        "types": [
+            "unknown"
+        ]
+    }
+}

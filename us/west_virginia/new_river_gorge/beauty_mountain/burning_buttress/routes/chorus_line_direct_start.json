@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "burning_buttress",
+        "stub": "chorus_line_direct_start",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Chorus Line Direct Start",
+        "types": [
+            "unknown"
+        ]
+    }
+}

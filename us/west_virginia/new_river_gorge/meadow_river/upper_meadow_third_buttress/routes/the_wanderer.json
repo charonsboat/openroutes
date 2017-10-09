@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_third_buttress",
+        "stub": "the_wanderer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "The Wanderer",
+        "types": [
+            "unknown"
+        ]
+    }
+}

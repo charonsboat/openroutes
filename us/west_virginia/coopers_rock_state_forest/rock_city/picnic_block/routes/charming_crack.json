@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "picnic_block",
+        "stub": "charming_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Charming Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

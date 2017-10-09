@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "themetime",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Themetime",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "jump_start",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Jump Start",
+        "types": [
+            "sport"
+        ]
+    }
+}

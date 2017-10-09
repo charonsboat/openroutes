@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_brain",
+        "stub": "butta",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Butta",
+        "types": [
+            "sport"
+        ]
+    }
+}

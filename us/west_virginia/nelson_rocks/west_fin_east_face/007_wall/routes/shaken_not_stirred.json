@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "007_wall",
+        "stub": "shaken_not_stirred",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Shaken, Not Stirred",
+        "types": [
+            "unknown"
+        ]
+    }
+}

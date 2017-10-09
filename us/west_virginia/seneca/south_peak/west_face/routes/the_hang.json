@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "the_hang",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "The Hang",
+        "types": [
+            "unknown"
+        ]
+    }
+}

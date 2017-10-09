@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "wings_and_a_prayer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Wings And A Prayer",
+        "types": [
+            "unknown"
+        ]
+    }
+}

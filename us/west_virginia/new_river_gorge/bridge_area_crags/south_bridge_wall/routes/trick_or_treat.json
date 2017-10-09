@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "south_bridge_wall",
+        "stub": "trick_or_treat",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Trick Or Treat",
+        "types": [
+            "unknown"
+        ]
+    }
+}

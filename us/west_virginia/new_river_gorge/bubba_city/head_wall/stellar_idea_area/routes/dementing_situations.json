@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stellar_idea_area",
+        "stub": "dementing_situations",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Dementing Situations",
+        "types": [
+            "unknown"
+        ]
+    }
+}

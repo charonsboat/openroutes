@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_corridor_west",
+        "stub": "sorry_howard",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Sorry Howard",
+        "types": [
+            "unknown"
+        ]
+    }
+}

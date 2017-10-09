@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "contact_zone",
+        "stub": "raised_by_sasquatch",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Raised by Sasquatch",
+        "types": [
+            "sport"
+        ]
+    }
+}

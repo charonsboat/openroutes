@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central_bridge_wall",
+        "stub": "midnight_moonlight",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Midnight Moonlight",
+        "types": [
+            "unknown"
+        ]
+    }
+}

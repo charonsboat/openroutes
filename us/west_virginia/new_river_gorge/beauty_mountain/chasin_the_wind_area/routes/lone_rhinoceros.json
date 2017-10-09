@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chasin_the_wind_area",
+        "stub": "lone_rhinoceros",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Lone Rhinoceros",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_slabs",
+        "stub": "fire_on_the_mountain",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Fire On the Mountain",
+        "types": [
+            "unknown"
+        ]
+    }
+}

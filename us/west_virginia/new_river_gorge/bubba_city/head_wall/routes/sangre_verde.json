@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "head_wall",
+        "stub": "sangre_verde",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Sangre Verde",
+        "types": [
+            "unknown"
+        ]
+    }
+}

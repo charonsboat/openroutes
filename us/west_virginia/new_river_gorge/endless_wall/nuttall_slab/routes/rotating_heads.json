@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "nuttall_slab",
+        "stub": "rotating_heads",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a r",
+        "name": "Rotating Heads",
+        "types": [
+            "unknown"
+        ]
+    }
+}

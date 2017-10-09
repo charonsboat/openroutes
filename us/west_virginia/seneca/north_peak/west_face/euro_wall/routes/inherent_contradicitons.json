@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "euro_wall",
+        "stub": "inherent_contradicitons",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a r",
+        "name": "Inherent Contradicitons",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "parking_area_wall",
+        "stub": "fat_boys_pork_palace",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Fat Boy's Pork Palace",
+        "types": [
+            "trad"
+        ]
+    }
+}

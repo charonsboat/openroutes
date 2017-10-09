@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bosnian_buttress",
+        "stub": "graceland",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Graceland",
+        "types": [
+            "unknown"
+        ]
+    }
+}

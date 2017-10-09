@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "icing_on_the_cake",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Icing on the Cake",
+        "types": [
+            "unknown"
+        ]
+    }
+}

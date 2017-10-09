@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "monolith_wall",
+        "stub": "dixie_chicken",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Dixie Chicken",
+        "types": [
+            "unknown"
+        ]
+    }
+}

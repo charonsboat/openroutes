@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "first_buttress",
+        "stub": "wienie_from_the_past",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Wienie From the Past",
+        "types": [
+            "unknown"
+        ]
+    }
+}

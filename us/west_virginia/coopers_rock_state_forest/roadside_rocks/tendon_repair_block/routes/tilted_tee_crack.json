@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tendon_repair_block",
+        "stub": "tilted_tee_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Tilted Tee Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

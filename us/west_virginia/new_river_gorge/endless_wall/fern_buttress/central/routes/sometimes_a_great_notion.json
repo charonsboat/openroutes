@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central",
+        "stub": "sometimes_a_great_notion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Sometimes A Great Notion",
+        "types": [
+            "unknown"
+        ]
+    }
+}

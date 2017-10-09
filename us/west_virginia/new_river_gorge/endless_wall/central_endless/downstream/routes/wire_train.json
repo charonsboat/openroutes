@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "wire_train",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Wire Train",
+        "types": [
+            "unknown"
+        ]
+    }
+}

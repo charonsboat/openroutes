@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "unknown_9",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "unknown #9",
+        "types": [
+            "trad"
+        ]
+    }
+}

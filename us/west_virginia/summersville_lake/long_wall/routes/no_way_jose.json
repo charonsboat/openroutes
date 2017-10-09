@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "no_way_jose",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "No Way, Jose",
+        "types": [
+            "unknown"
+        ]
+    }
+}

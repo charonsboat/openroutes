@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_block",
+        "stub": "ghost",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0-",
+        "name": "Ghost",
+        "types": [
+            "boulder"
+        ]
+    }
+}

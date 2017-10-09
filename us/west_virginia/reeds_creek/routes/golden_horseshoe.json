@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "golden_horseshoe",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Golden Horseshoe",
+        "types": [
+            "sport"
+        ]
+    }
+}

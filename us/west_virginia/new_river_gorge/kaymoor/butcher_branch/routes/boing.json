@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "butcher_branch",
+        "stub": "boing",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Boing",
+        "types": [
+            "sport"
+        ]
+    }
+}

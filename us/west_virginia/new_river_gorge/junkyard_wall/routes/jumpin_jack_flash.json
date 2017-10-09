@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "jumpin_jack_flash",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Jumpin' Jack Flash",
+        "types": [
+            "trad"
+        ]
+    }
+}

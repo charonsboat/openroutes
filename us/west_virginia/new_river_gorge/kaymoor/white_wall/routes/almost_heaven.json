@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "white_wall",
+        "stub": "almost_heaven",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Almost Heaven",
+        "types": [
+            "sport"
+        ]
+    }
+}

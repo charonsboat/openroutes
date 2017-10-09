@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "34d_wall",
+        "stub": "missing_ramsey",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Missing Ramsey",
+        "types": [
+            "unknown"
+        ]
+    }
+}

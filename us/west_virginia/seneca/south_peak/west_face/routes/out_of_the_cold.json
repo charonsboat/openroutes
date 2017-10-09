@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "out_of_the_cold",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Out of the Cold",
+        "types": [
+            "unknown"
+        ]
+    }
+}

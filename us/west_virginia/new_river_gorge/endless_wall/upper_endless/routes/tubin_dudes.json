@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "tubin_dudes",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "Tubin' Dudes",
+        "types": [
+            "sport"
+        ]
+    }
+}

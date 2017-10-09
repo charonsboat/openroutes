@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "michelin_man_area",
+        "stub": "bubba_the_vampire_slayer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Bubba the Vampire Slayer",
+        "types": [
+            "sport"
+        ]
+    }
+}

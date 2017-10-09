@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kaymoor_slab",
+        "stub": "fool_effect",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Fool Effect",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_slabs",
+        "stub": "good_morning",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Good Morning",
+        "types": [
+            "unknown"
+        ]
+    }
+}

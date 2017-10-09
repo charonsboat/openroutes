@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "commuter_flight",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Commuter Flight",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "euro_wall",
+        "stub": "2nd_time",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "2nd Time",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "recondite",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Recondite",
+        "types": [
+            "unknown"
+        ]
+    }
+}

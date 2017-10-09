@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "contact_zone",
+        "stub": "the_grey_matter",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "The Grey Matter",
+        "types": [
+            "unknown"
+        ]
+    }
+}

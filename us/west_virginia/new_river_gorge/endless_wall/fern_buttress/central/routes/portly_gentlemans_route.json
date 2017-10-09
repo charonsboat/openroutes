@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central",
+        "stub": "portly_gentlemans_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Portly Gentleman's Route",
+        "types": [
+            "trad"
+        ]
+    }
+}

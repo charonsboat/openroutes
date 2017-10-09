@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "monolith_wall",
+        "stub": "mcstumpys_sandwich_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Mcstumpy's Sandwich Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "summersville_lake",
+        "stub": "rats_hole",
+        "type": "region"
+    },
+    "info": {
+        "name": "Rats Hole"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "star_trek_wall",
+        "stub": "the_wrath_of_khan",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "The Wrath Of Khan",
+        "types": [
+            "unknown"
+        ]
+    }
+}

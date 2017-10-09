@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "ray_hauls_redemption_round",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9 r",
+        "name": "Ray-Hauls Redemption Round",
+        "types": [
+            "unknown"
+        ]
+    }
+}

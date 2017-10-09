@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ships_prow",
+        "stub": "ships_mantel",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Ship's Mantel",
+        "types": [
+            "boulder"
+        ]
+    }
+}

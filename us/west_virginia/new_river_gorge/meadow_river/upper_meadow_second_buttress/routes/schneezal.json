@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_second_buttress",
+        "stub": "schneezal",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Schneezal",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "cockscomb_chimney",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Cockscomb Chimney",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "wu_wei",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Wu Wei",
+        "types": [
+            "sport"
+        ]
+    }
+}

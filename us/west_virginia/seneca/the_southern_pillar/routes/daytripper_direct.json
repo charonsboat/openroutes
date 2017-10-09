@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "daytripper_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Daytripper Direct",
+        "types": [
+            "unknown"
+        ]
+    }
+}

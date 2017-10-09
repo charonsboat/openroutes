@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beer_wall_to_be_merged",
+        "stub": "beer_wench",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Beer Wench",
+        "types": [
+            "sport"
+        ]
+    }
+}

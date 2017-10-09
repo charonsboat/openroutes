@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_life_area",
+        "stub": "where_fools_rush_in",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Where Fools Rush In",
+        "types": [
+            "sport"
+        ]
+    }
+}

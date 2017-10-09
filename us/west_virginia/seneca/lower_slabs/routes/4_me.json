@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_slabs",
+        "stub": "4_me",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "4 Me",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "franklin_gorge",
+        "stub": "parking_area_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Parking Area Wall"
+    }
+}

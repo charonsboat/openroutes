@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "nightmare_project",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "Nightmare (Project)",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "south_bridge_wall",
+        "stub": "in_tribute_to_skid",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "In Tribute To Skid",
+        "types": [
+            "unknown"
+        ]
+    }
+}

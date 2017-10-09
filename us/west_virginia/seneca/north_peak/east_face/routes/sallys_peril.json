@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "sallys_peril",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Sally's Peril",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "butcher_branch",
+        "stub": "low_voltage",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Low Voltage",
+        "types": [
+            "sport"
+        ]
+    }
+}

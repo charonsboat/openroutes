@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunshine_wall",
+        "stub": "south_rimjbob",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "South Rimjbob",
+        "types": [
+            "sport"
+        ]
+    }
+}

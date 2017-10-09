@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central_bridge_wall",
+        "stub": "throw_in_the_rack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Throw In The Rack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

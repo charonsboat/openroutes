@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "hole_in_the_wall",
+        "stub": "amphibian_block",
+        "type": "region"
+    },
+    "info": {
+        "name": "Amphibian Block"
+    }
+}

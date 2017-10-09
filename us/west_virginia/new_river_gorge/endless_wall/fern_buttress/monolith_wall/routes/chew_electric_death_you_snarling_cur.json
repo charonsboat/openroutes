@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "monolith_wall",
+        "stub": "chew_electric_death_you_snarling_cur",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Chew Electric Death You Snarling Cur",
+        "types": [
+            "unknown"
+        ]
+    }
+}

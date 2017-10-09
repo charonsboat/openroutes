@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central_right",
+        "stub": "goofers_retreat",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Goofer's Retreat",
+        "types": [
+            "trad"
+        ]
+    }
+}

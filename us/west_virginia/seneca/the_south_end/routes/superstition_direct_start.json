@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "superstition_direct_start",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Superstition Direct Start",
+        "types": [
+            "unknown"
+        ]
+    }
+}

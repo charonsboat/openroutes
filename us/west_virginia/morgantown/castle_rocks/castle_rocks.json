@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "morgantown",
+        "stub": "castle_rocks",
+        "type": "region"
+    },
+    "info": {
+        "name": "castle rocks"
+    }
+}

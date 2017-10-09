@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill",
+        "stub": "hat_change",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Hat Change",
+        "types": [
+            "sport"
+        ]
+    }
+}

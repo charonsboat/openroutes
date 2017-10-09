@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "beauty_mountain",
+        "stub": "super_mario_boulder",
+        "type": "region"
+    },
+    "info": {
+        "name": "Super Mario Boulder"
+    }
+}

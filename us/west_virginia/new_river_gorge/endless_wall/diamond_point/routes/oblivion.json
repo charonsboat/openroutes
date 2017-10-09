@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "oblivion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Oblivion",
+        "types": [
+            "unknown"
+        ]
+    }
+}

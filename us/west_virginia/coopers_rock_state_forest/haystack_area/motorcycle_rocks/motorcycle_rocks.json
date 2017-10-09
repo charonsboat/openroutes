@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "haystack_area",
+        "stub": "motorcycle_rocks",
+        "type": "region"
+    },
+    "info": {
+        "name": "Motorcycle Rocks"
+    }
+}

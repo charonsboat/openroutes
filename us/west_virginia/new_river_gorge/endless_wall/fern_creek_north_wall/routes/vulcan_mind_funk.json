@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_creek_north_wall",
+        "stub": "vulcan_mind_funk",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Vulcan Mind Funk",
+        "types": [
+            "unknown"
+        ]
+    }
+}

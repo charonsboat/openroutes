@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_fourth_buttress",
+        "stub": "the_excuse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "The Excuse",
+        "types": [
+            "unknown"
+        ]
+    }
+}

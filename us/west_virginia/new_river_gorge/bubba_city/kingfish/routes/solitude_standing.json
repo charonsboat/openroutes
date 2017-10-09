@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kingfish",
+        "stub": "solitude_standing",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Solitude Standing",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_creek_falls",
+        "stub": "fall_line",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Fall Line",
+        "types": [
+            "sport"
+        ]
+    }
+}

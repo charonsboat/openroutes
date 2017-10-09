@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_life_area",
+        "stub": "happy_campers",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Happy Campers",
+        "types": [
+            "unknown"
+        ]
+    }
+}

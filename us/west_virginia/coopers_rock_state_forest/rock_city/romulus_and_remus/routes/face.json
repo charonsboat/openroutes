@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "romulus_and_remus",
+        "stub": "face",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Face",
+        "types": [
+            "boulder"
+        ]
+    }
+}

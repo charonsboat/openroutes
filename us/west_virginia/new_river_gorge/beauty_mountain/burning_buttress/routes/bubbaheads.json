@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "burning_buttress",
+        "stub": "bubbaheads",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Bubbaheads",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "blocks_area",
+        "stub": "wheres_gus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Where's Gus?",
+        "types": [
+            "sport"
+        ]
+    }
+}

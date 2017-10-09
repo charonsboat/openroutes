@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "burning_buttress",
+        "stub": "exposing_the_pink",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Exposing The Pink",
+        "types": [
+            "unknown"
+        ]
+    }
+}

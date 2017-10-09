@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orange_oswald_wall",
+        "stub": "chunko_goes_bowling",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Chunko Goes Bowling",
+        "types": [
+            "unknown"
+        ]
+    }
+}

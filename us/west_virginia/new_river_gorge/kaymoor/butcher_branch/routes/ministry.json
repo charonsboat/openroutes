@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "butcher_branch",
+        "stub": "ministry",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Ministry",
+        "types": [
+            "sport"
+        ]
+    }
+}

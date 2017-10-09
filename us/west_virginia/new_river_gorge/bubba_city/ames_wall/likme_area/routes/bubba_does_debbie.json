@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "likme_area",
+        "stub": "bubba_does_debbie",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Bubba Does Debbie",
+        "types": [
+            "unknown"
+        ]
+    }
+}

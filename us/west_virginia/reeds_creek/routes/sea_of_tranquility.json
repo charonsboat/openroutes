@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "sea_of_tranquility",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10-",
+        "name": "Sea of Tranquility",
+        "types": [
+            "sport"
+        ]
+    }
+}

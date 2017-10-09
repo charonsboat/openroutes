@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "bozoo",
+        "stub": "iceberg_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Iceberg Area"
+    }
+}

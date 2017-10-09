@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "almost_tall_wall",
+        "stub": "great_barrier_reef",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Great Barrier Reef",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_corridor_west",
+        "stub": "annihilator",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Annihilator",
+        "types": [
+            "unknown"
+        ]
+    }
+}

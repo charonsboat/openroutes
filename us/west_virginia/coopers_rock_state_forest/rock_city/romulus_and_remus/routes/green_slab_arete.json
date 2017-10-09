@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "romulus_and_remus",
+        "stub": "green_slab_arete",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Green Slab Arete",
+        "types": [
+            "unknown"
+        ]
+    }
+}

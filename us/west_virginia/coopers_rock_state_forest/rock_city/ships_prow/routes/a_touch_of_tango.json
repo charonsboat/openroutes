@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ships_prow",
+        "stub": "a_touch_of_tango",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "A Touch of Tango",
+        "types": [
+            "boulder"
+        ]
+    }
+}

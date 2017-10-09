@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "cow_in_a_china_shop",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Cow In A China Shop",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "nestle_krunch_roof",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Nestle Krunch Roof",
+        "types": [
+            "unknown"
+        ]
+    }
+}

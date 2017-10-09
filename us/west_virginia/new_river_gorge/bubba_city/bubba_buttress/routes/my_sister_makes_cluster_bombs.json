@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bubba_buttress",
+        "stub": "my_sister_makes_cluster_bombs",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "My Sister Makes Cluster Bombs",
+        "types": [
+            "unknown"
+        ]
+    }
+}

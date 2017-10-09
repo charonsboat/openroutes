@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "endless_wall",
+        "stub": "the_intestinal_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Intestinal Wall"
+    }
+}

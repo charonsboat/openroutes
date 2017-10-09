@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "octave_doctor",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Octave Doctor",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "winter_harvest",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Winter Harvest",
+        "types": [
+            "sport"
+        ]
+    }
+}

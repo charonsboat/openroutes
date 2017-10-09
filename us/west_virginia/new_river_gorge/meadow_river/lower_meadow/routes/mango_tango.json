@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_meadow",
+        "stub": "mango_tango",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.14a",
+        "name": "Mango Tango",
+        "types": [
+            "unknown"
+        ]
+    }
+}

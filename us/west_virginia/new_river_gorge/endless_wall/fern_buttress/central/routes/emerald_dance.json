@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central",
+        "stub": "emerald_dance",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Emerald Dance",
+        "types": [
+            "unknown"
+        ]
+    }
+}

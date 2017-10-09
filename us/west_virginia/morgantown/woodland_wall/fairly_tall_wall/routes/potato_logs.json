@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fairly_tall_wall",
+        "stub": "potato_logs",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Potato Logs",
+        "types": [
+            "unknown"
+        ]
+    }
+}

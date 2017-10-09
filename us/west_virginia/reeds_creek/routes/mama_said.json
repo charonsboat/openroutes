@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "mama_said",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5 r",
+        "name": "Mama Said",
+        "types": [
+            "trad"
+        ]
+    }
+}

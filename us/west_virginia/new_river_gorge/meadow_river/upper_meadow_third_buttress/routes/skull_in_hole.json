@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_third_buttress",
+        "stub": "skull_in_hole",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Skull in Hole",
+        "types": [
+            "sport"
+        ]
+    }
+}

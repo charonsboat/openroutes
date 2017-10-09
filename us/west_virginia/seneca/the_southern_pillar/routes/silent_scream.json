@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "silent_scream",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Silent Scream",
+        "types": [
+            "unknown"
+        ]
+    }
+}

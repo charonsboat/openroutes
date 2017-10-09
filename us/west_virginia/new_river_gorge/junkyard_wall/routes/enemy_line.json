@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "enemy_line",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c x",
+        "name": "Enemy Line",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "powers_of_ten",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a r",
+        "name": "Powers of Ten",
+        "types": [
+            "unknown"
+        ]
+    }
+}

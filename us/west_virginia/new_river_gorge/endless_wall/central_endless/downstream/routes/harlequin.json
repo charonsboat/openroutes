@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "harlequin",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Harlequin",
+        "types": [
+            "sport"
+        ]
+    }
+}

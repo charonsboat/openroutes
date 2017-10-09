@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "ingrate",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Ingrate",
+        "types": [
+            "sport"
+        ]
+    }
+}

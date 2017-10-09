@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_mungolian_wall",
+        "stub": "welcome_to_mungolia",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b s",
+        "name": "Welcome To Mungolia",
+        "types": [
+            "unknown"
+        ]
+    }
+}

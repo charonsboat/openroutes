@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_g_spot",
+        "stub": "connies_roof",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Connie's Roof",
+        "types": [
+            "unknown"
+        ]
+    }
+}

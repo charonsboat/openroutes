@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bubba_buttress",
+        "stub": "daisy_cutter",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Daisy Cutter",
+        "types": [
+            "sport"
+        ]
+    }
+}

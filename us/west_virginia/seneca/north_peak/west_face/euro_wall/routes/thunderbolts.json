@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "euro_wall",
+        "stub": "thunderbolts",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Thunderbolts",
+        "types": [
+            "unknown"
+        ]
+    }
+}

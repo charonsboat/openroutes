@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fairly_tall_wall",
+        "stub": "bolt_em_up",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Bolt 'em Up",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "hero_pendulum",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5 r",
+        "name": "Hero Pendulum",
+        "types": [
+            "unknown"
+        ]
+    }
+}

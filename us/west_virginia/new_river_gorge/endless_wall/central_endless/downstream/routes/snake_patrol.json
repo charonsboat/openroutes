@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "snake_patrol",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Snake Patrol",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "seneca",
+        "stub": "north_peak",
+        "type": "region"
+    },
+    "info": {
+        "name": "North Peak"
+    }
+}

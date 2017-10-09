@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "almost_tall_wall",
+        "stub": "weiner_leaner",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Weiner Leaner",
+        "types": [
+            "unknown"
+        ]
+    }
+}

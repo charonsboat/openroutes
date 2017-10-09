@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "look_me_awesome",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Look, Me Awesome!",
+        "types": [
+            "unknown"
+        ]
+    }
+}

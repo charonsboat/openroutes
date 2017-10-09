@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "bubbas_at_arapiles",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Bubbas At Arapiles",
+        "types": [
+            "sport"
+        ]
+    }
+}

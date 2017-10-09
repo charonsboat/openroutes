@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bosnian_buttress",
+        "stub": "workmans_comp",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Workman's Comp",
+        "types": [
+            "sport"
+        ]
+    }
+}

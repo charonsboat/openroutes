@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "second_rule",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Second Rule",
+        "types": [
+            "sport"
+        ]
+    }
+}

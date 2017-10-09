@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_slabs",
+        "stub": "grass_snake",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Grass Snake",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "caustic_block",
+        "stub": "the_bat_eliminate",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11",
+        "name": "The Bat Eliminate",
+        "types": [
+            "unknown"
+        ]
+    }
+}

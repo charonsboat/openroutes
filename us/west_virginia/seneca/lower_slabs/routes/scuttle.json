@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_slabs",
+        "stub": "scuttle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Scuttle",
+        "types": [
+            "unknown"
+        ]
+    }
+}

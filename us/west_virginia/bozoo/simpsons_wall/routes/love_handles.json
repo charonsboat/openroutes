@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "simpsons_wall",
+        "stub": "love_handles",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Love Handles",
+        "types": [
+            "unknown"
+        ]
+    }
+}

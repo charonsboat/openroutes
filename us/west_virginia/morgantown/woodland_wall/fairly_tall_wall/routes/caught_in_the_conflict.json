@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fairly_tall_wall",
+        "stub": "caught_in_the_conflict",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Caught in the Conflict",
+        "types": [
+            "unknown"
+        ]
+    }
+}

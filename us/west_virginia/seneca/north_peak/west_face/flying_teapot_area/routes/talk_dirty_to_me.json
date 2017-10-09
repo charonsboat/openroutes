@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "flying_teapot_area",
+        "stub": "talk_dirty_to_me",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Talk Dirty To Me",
+        "types": [
+            "unknown"
+        ]
+    }
+}

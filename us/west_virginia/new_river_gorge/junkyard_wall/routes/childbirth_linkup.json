@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "childbirth_linkup",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b r",
+        "name": "Childbirth Linkup",
+        "types": [
+            "unknown"
+        ]
+    }
+}

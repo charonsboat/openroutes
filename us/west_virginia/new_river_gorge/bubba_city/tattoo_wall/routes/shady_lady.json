@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tattoo_wall",
+        "stub": "shady_lady",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Shady Lady",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "wad_cutter",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Wad Cutter",
+        "types": [
+            "unknown"
+        ]
+    }
+}

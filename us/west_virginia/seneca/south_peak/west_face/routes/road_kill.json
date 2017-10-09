@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "road_kill",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Road Kill",
+        "types": [
+            "unknown"
+        ]
+    }
+}

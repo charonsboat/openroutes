@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kingfish",
+        "stub": "bubbas_big_adventure",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Bubba's Big Adventure",
+        "types": [
+            "unknown"
+        ]
+    }
+}

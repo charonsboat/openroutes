@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "almost_heaven",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Almost Heaven",
+        "types": [
+            "sport"
+        ]
+    }
+}

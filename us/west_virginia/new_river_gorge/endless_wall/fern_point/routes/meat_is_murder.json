@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "meat_is_murder",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Meat Is Murder",
+        "types": [
+            "sport"
+        ]
+    }
+}

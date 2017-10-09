@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "cal_n_hobbes",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Cal N' Hobbes",
+        "types": [
+            "trad"
+        ]
+    }
+}

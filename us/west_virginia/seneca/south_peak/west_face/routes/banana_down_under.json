@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "banana_down_under",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Banana Down Under",
+        "types": [
+            "unknown"
+        ]
+    }
+}

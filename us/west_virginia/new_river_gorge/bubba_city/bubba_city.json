@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "new_river_gorge",
+        "stub": "bubba_city",
+        "type": "region"
+    },
+    "info": {
+        "name": "Bubba City"
+    }
+}

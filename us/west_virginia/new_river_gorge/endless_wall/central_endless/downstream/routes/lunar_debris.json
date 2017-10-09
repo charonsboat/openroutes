@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "lunar_debris",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Lunar Debris",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "rock_city",
+        "stub": "corrosion_block",
+        "type": "region"
+    },
+    "info": {
+        "name": "Corrosion Block"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "the_viper",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "The Viper",
+        "types": [
+            "unknown"
+        ]
+    }
+}

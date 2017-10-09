@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "wild_men_only",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Wild Men Only",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_meadow",
+        "stub": "gato",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Gato",
+        "types": [
+            "unknown"
+        ]
+    }
+}

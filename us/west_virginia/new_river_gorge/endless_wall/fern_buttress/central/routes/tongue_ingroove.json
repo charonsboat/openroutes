@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central",
+        "stub": "tongue_ingroove",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Tongue-In-Groove",
+        "types": [
+            "sport"
+        ]
+    }
+}

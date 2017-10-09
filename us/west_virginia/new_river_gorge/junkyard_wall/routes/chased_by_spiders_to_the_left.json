@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "chased_by_spiders_to_the_left",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9 r",
+        "name": "Chased By Spiders To The Left",
+        "types": [
+            "trad"
+        ]
+    }
+}

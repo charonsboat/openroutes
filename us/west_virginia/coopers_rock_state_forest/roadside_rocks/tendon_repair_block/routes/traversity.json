@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tendon_repair_block",
+        "stub": "traversity",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0+",
+        "name": "Traversity",
+        "types": [
+            "boulder"
+        ]
+    }
+}

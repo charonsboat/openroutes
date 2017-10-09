@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "walls_of_points_upstream",
+        "stub": "the_stratowienie",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a r",
+        "name": "The Stratowienie",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "perot_wall",
+        "stub": "talk_about_it_aka_stick_em_up",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Talk About It (aka Stick 'em Up)",
+        "types": [
+            "unknown"
+        ]
+    }
+}

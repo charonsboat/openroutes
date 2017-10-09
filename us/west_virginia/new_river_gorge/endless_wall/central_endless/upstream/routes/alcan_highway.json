@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "alcan_highway",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6 r",
+        "name": "Alcan Highway",
+        "types": [
+            "unknown"
+        ]
+    }
+}

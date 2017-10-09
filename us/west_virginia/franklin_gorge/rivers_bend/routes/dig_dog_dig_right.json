@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rivers_bend",
+        "stub": "dig_dog_dig_right",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Dig Dog Dig (Right)",
+        "types": [
+            "sport"
+        ]
+    }
+}

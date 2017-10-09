@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "flying_nut_muncher",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v6",
+        "name": "Flying Nut Muncher",
+        "types": [
+            "boulder"
+        ]
+    }
+}

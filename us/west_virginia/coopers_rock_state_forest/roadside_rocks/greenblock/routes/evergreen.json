@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "greenblock",
+        "stub": "evergreen",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Evergreen",
+        "types": [
+            "boulder"
+        ]
+    }
+}

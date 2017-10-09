@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_g_spot",
+        "stub": "the_hindu_spot",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "The Hindu Spot",
+        "types": [
+            "unknown"
+        ]
+    }
+}

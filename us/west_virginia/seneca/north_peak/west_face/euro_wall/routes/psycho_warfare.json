@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "euro_wall",
+        "stub": "psycho_warfare",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c x",
+        "name": "Psycho Warfare",
+        "types": [
+            "unknown"
+        ]
+    }
+}

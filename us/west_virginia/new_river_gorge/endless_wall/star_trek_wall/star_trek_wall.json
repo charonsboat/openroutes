@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "endless_wall",
+        "stub": "star_trek_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Star Trek Wall"
+    }
+}

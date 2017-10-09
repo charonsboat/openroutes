@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stellar_idea_area",
+        "stub": "take_me_to_the_river",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Take Me To The River",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "nuttall_slab",
+        "stub": "wimpy_wimpy_wimpy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Wimpy, Wimpy, Wimpy",
+        "types": [
+            "unknown"
+        ]
+    }
+}

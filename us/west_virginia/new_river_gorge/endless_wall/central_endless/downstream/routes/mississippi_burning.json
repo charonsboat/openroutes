@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "mississippi_burning",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Mississippi Burning",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "butcher_branch",
+        "stub": "flight_of_the_gumbie",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Flight of the Gumbie",
+        "types": [
+            "sport"
+        ]
+    }
+}

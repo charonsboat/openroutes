@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "tonys_nightmare",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Tony's Nightmare",
+        "types": [
+            "unknown"
+        ]
+    }
+}

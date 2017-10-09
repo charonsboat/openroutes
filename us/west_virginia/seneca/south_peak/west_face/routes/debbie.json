@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "debbie",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Debbie",
+        "types": [
+            "unknown"
+        ]
+    }
+}

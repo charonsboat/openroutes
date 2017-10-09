@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "rock_city",
+        "stub": "hemlock_grove",
+        "type": "region"
+    },
+    "info": {
+        "name": "Hemlock Grove"
+    }
+}

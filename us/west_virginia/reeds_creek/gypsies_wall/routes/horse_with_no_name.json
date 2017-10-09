@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "gypsies_wall",
+        "stub": "horse_with_no_name",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Horse With No Name",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "adam_ant",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Adam Ant",
+        "types": [
+            "unknown"
+        ]
+    }
+}

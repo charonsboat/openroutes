@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "brown_dirt_cowboy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Brown Dirt Cowboy",
+        "types": [
+            "unknown"
+        ]
+    }
+}

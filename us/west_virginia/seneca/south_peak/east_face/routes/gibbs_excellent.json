@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "gibbs_excellent",
+        "type": "region"
+    },
+    "info": {
+        "grade": "??",
+        "name": "Gibbs Excellent",
+        "types": [
+            "unknown"
+        ]
+    }
+}

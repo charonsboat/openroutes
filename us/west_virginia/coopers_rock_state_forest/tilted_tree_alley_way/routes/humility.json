@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "humility",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "Humility",
+        "types": [
+            "boulder"
+        ]
+    }
+}

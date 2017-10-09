@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "back_with_my_kind",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Back With My Kind",
+        "types": [
+            "unknown"
+        ]
+    }
+}

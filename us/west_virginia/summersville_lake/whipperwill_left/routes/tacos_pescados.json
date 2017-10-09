@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill_left",
+        "stub": "tacos_pescados",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Tacos Pescados",
+        "types": [
+            "sport"
+        ]
+    }
+}

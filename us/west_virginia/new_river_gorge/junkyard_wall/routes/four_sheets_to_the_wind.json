@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "four_sheets_to_the_wind",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Four Sheets To The Wind",
+        "types": [
+            "trad"
+        ]
+    }
+}

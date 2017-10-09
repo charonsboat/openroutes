@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "central_endless",
+        "stub": "downstream",
+        "type": "region"
+    },
+    "info": {
+        "name": "Downstream"
+    }
+}

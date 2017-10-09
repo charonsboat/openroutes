@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stellar_idea_area",
+        "stub": "china_crisis",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "China Crisis",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "kaymoor",
+        "stub": "fire_and_ice_buttress",
+        "type": "region"
+    },
+    "info": {
+        "name": "Fire and Ice Buttress"
+    }
+}

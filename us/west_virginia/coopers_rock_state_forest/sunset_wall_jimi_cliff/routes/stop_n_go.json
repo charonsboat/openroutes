@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunset_wall_jimi_cliff",
+        "stub": "stop_n_go",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Stop N' Go",
+        "types": [
+            "unknown"
+        ]
+    }
+}

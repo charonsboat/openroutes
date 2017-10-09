@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_cirque",
+        "stub": "live_and_let_live",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Live And Let Live",
+        "types": [
+            "sport"
+        ]
+    }
+}

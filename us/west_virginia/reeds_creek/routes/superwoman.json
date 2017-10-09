@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "superwoman",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Superwoman",
+        "types": [
+            "sport"
+        ]
+    }
+}

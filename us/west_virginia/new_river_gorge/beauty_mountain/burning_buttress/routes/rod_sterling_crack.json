@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "burning_buttress",
+        "stub": "rod_sterling_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Rod Sterling Crack",
+        "types": [
+            "trad"
+        ]
+    }
+}

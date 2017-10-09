@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pinnacle_wall",
+        "stub": "porcupine_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Porcupine Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

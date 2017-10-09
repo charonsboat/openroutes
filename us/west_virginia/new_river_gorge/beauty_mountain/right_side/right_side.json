@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "beauty_mountain",
+        "stub": "right_side",
+        "type": "region"
+    },
+    "info": {
+        "name": "Right Side"
+    }
+}

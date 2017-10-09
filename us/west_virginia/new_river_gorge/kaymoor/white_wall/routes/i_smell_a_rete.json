@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "white_wall",
+        "stub": "i_smell_a_rete",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "I Smell A-rete",
+        "types": [
+            "sport"
+        ]
+    }
+}

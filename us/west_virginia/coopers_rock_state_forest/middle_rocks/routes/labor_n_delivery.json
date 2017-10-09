@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "middle_rocks",
+        "stub": "labor_n_delivery",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Labor N Delivery",
+        "types": [
+            "boulder"
+        ]
+    }
+}

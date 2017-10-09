@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "narcissus_cave",
+        "stub": "that_eight",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "That Eight",
+        "types": [
+            "sport"
+        ]
+    }
+}

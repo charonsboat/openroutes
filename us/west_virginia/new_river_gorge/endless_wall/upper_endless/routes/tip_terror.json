@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "tip_terror",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Tip Terror",
+        "types": [
+            "unknown"
+        ]
+    }
+}

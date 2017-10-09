@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orchard_wall",
+        "stub": "lewd_operator",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Lewd Operator",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "virgin_thing",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Virgin Thing",
+        "types": [
+            "sport"
+        ]
+    }
+}

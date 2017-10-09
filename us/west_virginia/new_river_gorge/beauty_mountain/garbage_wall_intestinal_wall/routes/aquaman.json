@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "garbage_wall_intestinal_wall",
+        "stub": "aquaman",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Aquaman",
+        "types": [
+            "unknown"
+        ]
+    }
+}

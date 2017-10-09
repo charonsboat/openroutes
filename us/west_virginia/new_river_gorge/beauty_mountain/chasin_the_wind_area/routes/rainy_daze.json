@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chasin_the_wind_area",
+        "stub": "rainy_daze",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Rainy Daze",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ames_wall",
+        "stub": "bubbaduster",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Bubbaduster",
+        "types": [
+            "unknown"
+        ]
+    }
+}

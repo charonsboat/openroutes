@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "heel_cracker",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v10",
+        "name": "Heel Cracker",
+        "types": [
+            "boulder"
+        ]
+    }
+}

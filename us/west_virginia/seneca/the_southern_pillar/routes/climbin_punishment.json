@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "climbin_punishment",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Climbin' Punishment",
+        "types": [
+            "unknown"
+        ]
+    }
+}

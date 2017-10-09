@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "lady_elaine",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Lady Elaine",
+        "types": [
+            "unknown"
+        ]
+    }
+}

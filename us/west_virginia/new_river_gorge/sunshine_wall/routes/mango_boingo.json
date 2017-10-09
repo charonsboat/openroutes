@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunshine_wall",
+        "stub": "mango_boingo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Mango Boingo",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pillar_notch_area",
+        "stub": "polar_sexes",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Polar Sexes",
+        "types": [
+            "unknown"
+        ]
+    }
+}

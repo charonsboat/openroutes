@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "euro_wall",
+        "stub": "thats_reality",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a x",
+        "name": "That's Reality",
+        "types": [
+            "unknown"
+        ]
+    }
+}

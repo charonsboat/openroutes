@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "face_it_bubba_area",
+        "stub": "a_pound_of_prevention",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "A Pound Of Prevention",
+        "types": [
+            "unknown"
+        ]
+    }
+}

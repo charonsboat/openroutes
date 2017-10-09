@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "nelson_rockafella_wall",
+        "stub": "full_nelson",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Full Nelson",
+        "types": [
+            "unknown"
+        ]
+    }
+}

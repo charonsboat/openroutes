@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central",
+        "stub": "rolling_rock",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Rolling Rock",
+        "types": [
+            "trad"
+        ]
+    }
+}

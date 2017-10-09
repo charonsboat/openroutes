@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "roadside_rocks",
+        "stub": "rotten_log_corridor",
+        "type": "region"
+    },
+    "info": {
+        "name": "Rotten Log Corridor"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_life_area",
+        "stub": "the_raging_tiger",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "The Raging Tiger",
+        "types": [
+            "unknown"
+        ]
+    }
+}

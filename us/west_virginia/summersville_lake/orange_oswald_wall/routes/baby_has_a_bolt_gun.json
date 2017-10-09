@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orange_oswald_wall",
+        "stub": "baby_has_a_bolt_gun",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Baby Has a Bolt Gun",
+        "types": [
+            "unknown"
+        ]
+    }
+}

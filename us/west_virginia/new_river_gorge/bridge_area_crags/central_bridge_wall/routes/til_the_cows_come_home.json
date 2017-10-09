@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central_bridge_wall",
+        "stub": "til_the_cows_come_home",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Til The Cows Come Home",
+        "types": [
+            "unknown"
+        ]
+    }
+}

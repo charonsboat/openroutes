@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "monolith_wall",
+        "stub": "the_puddy_system",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "The Puddy System",
+        "types": [
+            "unknown"
+        ]
+    }
+}

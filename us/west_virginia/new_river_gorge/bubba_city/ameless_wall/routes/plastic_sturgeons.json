@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ameless_wall",
+        "stub": "plastic_sturgeons",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Plastic Sturgeons",
+        "types": [
+            "unknown"
+        ]
+    }
+}

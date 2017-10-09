@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "roys_lament_direct_start",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Roy's Lament Direct Start",
+        "types": [
+            "unknown"
+        ]
+    }
+}

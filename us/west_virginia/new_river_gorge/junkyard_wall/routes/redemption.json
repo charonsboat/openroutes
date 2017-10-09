@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "redemption",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Redemption",
+        "types": [
+            "unknown"
+        ]
+    }
+}

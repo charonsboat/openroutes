@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "mack_the_knife",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Mack The Knife",
+        "types": [
+            "sport"
+        ]
+    }
+}

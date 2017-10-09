@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fairly_tall_wall",
+        "stub": "climb_of_passion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Climb of Passion",
+        "types": [
+            "unknown"
+        ]
+    }
+}

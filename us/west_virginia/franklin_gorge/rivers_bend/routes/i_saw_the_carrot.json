@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rivers_bend",
+        "stub": "i_saw_the_carrot",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "I Saw the Carrot",
+        "types": [
+            "sport"
+        ]
+    }
+}

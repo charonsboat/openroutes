@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orange_oswald_wall",
+        "stub": "unnamed",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Unnamed",
+        "types": [
+            "unknown"
+        ]
+    }
+}

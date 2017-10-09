@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ames_wall",
+        "stub": "cynarete",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Cynarete",
+        "types": [
+            "unknown"
+        ]
+    }
+}

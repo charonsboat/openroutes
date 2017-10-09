@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "long_john_jam",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Long John Jam",
+        "types": [
+            "unknown"
+        ]
+    }
+}

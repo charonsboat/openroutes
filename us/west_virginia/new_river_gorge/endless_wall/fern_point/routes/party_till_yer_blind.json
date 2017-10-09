@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "party_till_yer_blind",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Party Till Yer Blind",
+        "types": [
+            "unknown"
+        ]
+    }
+}

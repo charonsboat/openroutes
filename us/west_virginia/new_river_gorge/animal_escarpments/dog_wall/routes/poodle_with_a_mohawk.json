@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dog_wall",
+        "stub": "poodle_with_a_mohawk",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.1",
+        "name": "Poodle With A Mohawk",
+        "types": [
+            "unknown"
+        ]
+    }
+}

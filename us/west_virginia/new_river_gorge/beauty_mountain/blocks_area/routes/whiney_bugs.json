@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "blocks_area",
+        "stub": "whiney_bugs",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Whiney Bugs",
+        "types": [
+            "sport"
+        ]
+    }
+}

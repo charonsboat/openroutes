@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "the_bonemaster_gear_fling",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "The Bonemaster Gear Fling",
+        "types": [
+            "unknown"
+        ]
+    }
+}

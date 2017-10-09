@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "conditioning_wall",
+        "stub": "stab_me_i_dont_matter",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "Stab Me, I Don't Matter",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "guides_route_right",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Guides Route Right",
+        "types": [
+            "unknown"
+        ]
+    }
+}

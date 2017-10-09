@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "super_mario_boulder",
+        "stub": "unnamed_bm2",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Unnamed BM#2",
+        "types": [
+            "unknown"
+        ]
+    }
+}

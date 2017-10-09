@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "buttercup",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Buttercup",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_creek_falls",
+        "stub": "roar_or_the_crowd",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Roar Or The Crowd",
+        "types": [
+            "unknown"
+        ]
+    }
+}

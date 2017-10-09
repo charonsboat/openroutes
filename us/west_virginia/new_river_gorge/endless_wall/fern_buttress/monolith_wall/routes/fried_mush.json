@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "monolith_wall",
+        "stub": "fried_mush",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Fried Mush",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bovine_wall",
+        "stub": "thru_mortise",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Thru-Mortise",
+        "types": [
+            "unknown"
+        ]
+    }
+}

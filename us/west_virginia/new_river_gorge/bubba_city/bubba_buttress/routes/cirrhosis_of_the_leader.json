@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bubba_buttress",
+        "stub": "cirrhosis_of_the_leader",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Cirrhosis of the Leader",
+        "types": [
+            "unknown"
+        ]
+    }
+}

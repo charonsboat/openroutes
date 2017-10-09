@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chasin_the_wind_area",
+        "stub": "chasin_the_wind_indirect_start",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9 x",
+        "name": "Chasin' The Wind Indirect Start",
+        "types": [
+            "unknown"
+        ]
+    }
+}

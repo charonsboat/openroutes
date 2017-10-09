@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "cresent_moon",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Cresent Moon",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "new_river_gunks",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "New River Gunks",
+        "types": [
+            "trad"
+        ]
+    }
+}

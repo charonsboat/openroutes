@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orange_oswald_wall",
+        "stub": "souled_out",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Souled Out",
+        "types": [
+            "sport"
+        ]
+    }
+}

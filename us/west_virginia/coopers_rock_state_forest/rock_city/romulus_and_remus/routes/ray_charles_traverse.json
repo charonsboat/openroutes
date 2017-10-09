@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "romulus_and_remus",
+        "stub": "ray_charles_traverse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Ray Charles Traverse",
+        "types": [
+            "boulder"
+        ]
+    }
+}

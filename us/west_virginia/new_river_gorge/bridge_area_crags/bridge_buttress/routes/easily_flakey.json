@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bridge_buttress",
+        "stub": "easily_flakey",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7 r",
+        "name": "Easily Flakey",
+        "types": [
+            "trad"
+        ]
+    }
+}

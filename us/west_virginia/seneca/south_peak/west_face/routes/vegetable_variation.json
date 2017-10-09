@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "vegetable_variation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Vegetable Variation",
+        "types": [
+            "unknown"
+        ]
+    }
+}

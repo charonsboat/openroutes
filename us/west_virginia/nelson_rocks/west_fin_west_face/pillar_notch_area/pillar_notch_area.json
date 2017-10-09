@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "west_fin_west_face",
+        "stub": "pillar_notch_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Pillar Notch Area"
+    }
+}

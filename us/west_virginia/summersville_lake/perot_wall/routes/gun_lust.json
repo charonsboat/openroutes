@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "perot_wall",
+        "stub": "gun_lust",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Gun Lust",
+        "types": [
+            "unknown"
+        ]
+    }
+}

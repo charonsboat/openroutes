@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_big_blocks",
+        "stub": "full_moon_afternoon",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Full Moon Afternoon",
+        "types": [
+            "unknown"
+        ]
+    }
+}

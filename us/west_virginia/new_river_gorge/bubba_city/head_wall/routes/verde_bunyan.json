@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "head_wall",
+        "stub": "verde_bunyan",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Verde Bunyan",
+        "types": [
+            "unknown"
+        ]
+    }
+}

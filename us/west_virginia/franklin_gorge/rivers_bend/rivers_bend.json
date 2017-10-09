@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "franklin_gorge",
+        "stub": "rivers_bend",
+        "type": "region"
+    },
+    "info": {
+        "name": "River's Bend"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "gonad_wall",
+        "stub": "chameleon",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Chameleon",
+        "types": [
+            "sport"
+        ]
+    }
+}

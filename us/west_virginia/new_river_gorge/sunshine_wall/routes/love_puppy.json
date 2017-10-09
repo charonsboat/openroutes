@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunshine_wall",
+        "stub": "love_puppy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Love Puppy",
+        "types": [
+            "unknown"
+        ]
+    }
+}

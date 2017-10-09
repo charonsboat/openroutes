@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bridge_buttress",
+        "stub": "macho_man",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Macho Man",
+        "types": [
+            "unknown"
+        ]
+    }
+}

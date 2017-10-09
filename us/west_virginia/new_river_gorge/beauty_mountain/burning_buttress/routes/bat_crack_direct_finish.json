@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "burning_buttress",
+        "stub": "bat_crack_direct_finish",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b r",
+        "name": "Bat Crack Direct Finish",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sanstonia",
+        "stub": "to_bubba_or_not_to_be",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "To Bubba Or Not To Be",
+        "types": [
+            "trad"
+        ]
+    }
+}

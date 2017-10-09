@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_third_buttress",
+        "stub": "deans_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Dean's Route",
+        "types": [
+            "unknown"
+        ]
+    }
+}

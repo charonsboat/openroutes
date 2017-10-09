@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bell_wall",
+        "stub": "psycho_driller",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Psycho Driller",
+        "types": [
+            "unknown"
+        ]
+    }
+}

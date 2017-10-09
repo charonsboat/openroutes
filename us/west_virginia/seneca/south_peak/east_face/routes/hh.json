@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "hh",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7 r",
+        "name": "H&H",
+        "types": [
+            "unknown"
+        ]
+    }
+}

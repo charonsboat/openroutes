@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stellar_idea_area",
+        "stub": "hubba_bubba",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Hubba Bubba",
+        "types": [
+            "sport"
+        ]
+    }
+}

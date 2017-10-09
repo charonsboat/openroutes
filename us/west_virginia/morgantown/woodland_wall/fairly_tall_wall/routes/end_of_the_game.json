@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fairly_tall_wall",
+        "stub": "end_of_the_game",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "End of the Game",
+        "types": [
+            "unknown"
+        ]
+    }
+}

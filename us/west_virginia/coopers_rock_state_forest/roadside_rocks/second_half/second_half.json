@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "roadside_rocks",
+        "stub": "second_half",
+        "type": "region"
+    },
+    "info": {
+        "name": "Second Half"
+    }
+}

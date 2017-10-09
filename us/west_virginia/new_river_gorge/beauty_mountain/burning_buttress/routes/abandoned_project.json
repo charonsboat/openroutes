@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "burning_buttress",
+        "stub": "abandoned_project",
+        "type": "region"
+    },
+    "info": {
+        "grade": "project",
+        "name": "Abandoned Project",
+        "types": [
+            "unknown"
+        ]
+    }
+}

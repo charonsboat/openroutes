@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "prune",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Prune",
+        "types": [
+            "unknown"
+        ]
+    }
+}

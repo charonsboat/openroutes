@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_meadow",
+        "stub": "puppy_cow",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Puppy Cow",
+        "types": [
+            "unknown"
+        ]
+    }
+}

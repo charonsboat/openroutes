@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "south_bridge_wall",
+        "stub": "sundowner",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Sundowner",
+        "types": [
+            "unknown"
+        ]
+    }
+}

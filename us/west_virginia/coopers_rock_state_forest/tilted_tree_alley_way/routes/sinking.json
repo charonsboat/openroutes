@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "sinking",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v6",
+        "name": "Sinking",
+        "types": [
+            "boulder"
+        ]
+    }
+}

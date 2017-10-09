@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pirates_cove",
+        "stub": "walk_the_plank",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Walk the Plank",
+        "types": [
+            "sport"
+        ]
+    }
+}

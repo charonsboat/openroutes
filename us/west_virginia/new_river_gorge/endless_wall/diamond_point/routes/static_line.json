@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "static_line",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Static Line",
+        "types": [
+            "unknown"
+        ]
+    }
+}

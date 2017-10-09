@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "reverse_c",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.1",
+        "name": "Reverse C",
+        "types": [
+            "unknown"
+        ]
+    }
+}

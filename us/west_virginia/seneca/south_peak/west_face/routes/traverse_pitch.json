@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "traverse_pitch",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Traverse Pitch",
+        "types": [
+            "unknown"
+        ]
+    }
+}

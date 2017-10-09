@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "butcher_branch",
+        "stub": "lost_souls",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Lost Souls",
+        "types": [
+            "sport"
+        ]
+    }
+}

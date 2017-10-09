@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_cirque",
+        "stub": "spurtal_reality",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Spurtal Reality",
+        "types": [
+            "sport"
+        ]
+    }
+}

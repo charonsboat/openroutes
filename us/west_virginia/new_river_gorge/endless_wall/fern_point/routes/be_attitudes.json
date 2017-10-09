@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "be_attitudes",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Be-Attitudes",
+        "types": [
+            "sport"
+        ]
+    }
+}

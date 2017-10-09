@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_brain",
+        "stub": "journey_to_the_center_of_the_brain",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Journey To The Center Of The Brain",
+        "types": [
+            "trad"
+        ]
+    }
+}

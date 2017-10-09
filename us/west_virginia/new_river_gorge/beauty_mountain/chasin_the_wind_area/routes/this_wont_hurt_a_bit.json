@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chasin_the_wind_area",
+        "stub": "this_wont_hurt_a_bit",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10 a2",
+        "name": "This Won't Hurt A Bit",
+        "types": [
+            "aid"
+        ]
+    }
+}

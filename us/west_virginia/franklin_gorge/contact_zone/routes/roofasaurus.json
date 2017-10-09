@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "contact_zone",
+        "stub": "roofasaurus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Roofasaurus",
+        "types": [
+            "sport"
+        ]
+    }
+}

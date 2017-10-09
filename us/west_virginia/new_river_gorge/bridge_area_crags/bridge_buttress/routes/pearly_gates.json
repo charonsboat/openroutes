@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bridge_buttress",
+        "stub": "pearly_gates",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b r",
+        "name": "Pearly Gates",
+        "types": [
+            "trad"
+        ]
+    }
+}

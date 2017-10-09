@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "seven_eleven_wall",
+        "stub": "broken_foot",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Broken Foot",
+        "types": [
+            "unknown"
+        ]
+    }
+}

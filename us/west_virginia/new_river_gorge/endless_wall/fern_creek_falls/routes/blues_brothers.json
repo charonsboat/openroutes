@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_creek_falls",
+        "stub": "blues_brothers",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9 r",
+        "name": "Blues Brothers",
+        "types": [
+            "unknown"
+        ]
+    }
+}

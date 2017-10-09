@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "south_bridge_wall",
+        "stub": "your_mother",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Your Mother...",
+        "types": [
+            "unknown"
+        ]
+    }
+}

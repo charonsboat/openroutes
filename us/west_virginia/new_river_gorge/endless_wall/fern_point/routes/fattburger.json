@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "fattburger",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Fattburger",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "super_mario_boulder",
+        "stub": "tubin_dudes",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "Tubin' Dudes",
+        "types": [
+            "unknown"
+        ]
+    }
+}

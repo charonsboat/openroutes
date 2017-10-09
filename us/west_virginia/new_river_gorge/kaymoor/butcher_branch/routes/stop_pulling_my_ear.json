@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "butcher_branch",
+        "stub": "stop_pulling_my_ear",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Stop Pulling My Ear",
+        "types": [
+            "sport"
+        ]
+    }
+}

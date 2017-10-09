@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_sport_wall",
+        "stub": "stone_boy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Stone Boy",
+        "types": [
+            "unknown"
+        ]
+    }
+}

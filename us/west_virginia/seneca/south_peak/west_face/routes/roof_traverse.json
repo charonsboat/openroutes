@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "roof_traverse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Roof Traverse",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "curly_critter",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Curly Critter",
+        "types": [
+            "unknown"
+        ]
+    }
+}

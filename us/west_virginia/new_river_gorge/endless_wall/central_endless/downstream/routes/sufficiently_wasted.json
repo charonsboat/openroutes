@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "sufficiently_wasted",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Sufficiently Wasted",
+        "types": [
+            "unknown"
+        ]
+    }
+}

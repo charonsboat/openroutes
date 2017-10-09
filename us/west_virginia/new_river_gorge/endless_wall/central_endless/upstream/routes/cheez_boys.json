@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "cheez_boys",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Cheez Boys",
+        "types": [
+            "sport"
+        ]
+    }
+}

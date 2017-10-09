@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "golden_years",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Golden Years",
+        "types": [
+            "unknown"
+        ]
+    }
+}

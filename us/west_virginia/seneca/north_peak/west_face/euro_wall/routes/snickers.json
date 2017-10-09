@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "euro_wall",
+        "stub": "snickers",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Snickers",
+        "types": [
+            "unknown"
+        ]
+    }
+}

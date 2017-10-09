@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "head_wall",
+        "stub": "verde_sauve",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Verde Sauve",
+        "types": [
+            "unknown"
+        ]
+    }
+}

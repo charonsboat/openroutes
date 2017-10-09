@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "contact_zone",
+        "stub": "potential_energy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Potential Energy",
+        "types": [
+            "sport"
+        ]
+    }
+}

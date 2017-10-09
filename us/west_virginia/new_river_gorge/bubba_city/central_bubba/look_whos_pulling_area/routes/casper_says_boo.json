@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "casper_says_boo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Casper Says Boo!",
+        "types": [
+            "sport"
+        ]
+    }
+}

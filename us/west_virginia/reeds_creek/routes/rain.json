@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "rain",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Rain",
+        "types": [
+            "sport"
+        ]
+    }
+}

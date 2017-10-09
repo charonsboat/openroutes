@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_crescendo_wall",
+        "stub": "morning_glory",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Morning Glory",
+        "types": [
+            "unknown"
+        ]
+    }
+}

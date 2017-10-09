@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "a_wild_hair",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "A Wild Hair",
+        "types": [
+            "unknown"
+        ]
+    }
+}

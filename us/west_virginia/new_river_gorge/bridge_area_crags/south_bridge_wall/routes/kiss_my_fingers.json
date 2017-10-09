@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "south_bridge_wall",
+        "stub": "kiss_my_fingers",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Kiss My Fingers",
+        "types": [
+            "sport"
+        ]
+    }
+}

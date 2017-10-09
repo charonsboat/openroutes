@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stone_gallows_wall",
+        "stub": "fist_chicken",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Fist Chicken",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_first_buttress",
+        "stub": "lamda",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Lamda",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunset_wall_jimi_cliff",
+        "stub": "arch_roof",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Arch Roof",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "exit_from_the_victim",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Exit From the Victim",
+        "types": [
+            "unknown"
+        ]
+    }
+}

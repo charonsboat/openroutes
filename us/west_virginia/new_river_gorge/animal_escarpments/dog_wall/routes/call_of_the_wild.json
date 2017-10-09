@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dog_wall",
+        "stub": "call_of_the_wild",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Call Of The Wild",
+        "types": [
+            "unknown"
+        ]
+    }
+}

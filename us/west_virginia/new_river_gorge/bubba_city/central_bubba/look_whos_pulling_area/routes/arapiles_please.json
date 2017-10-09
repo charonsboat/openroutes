@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "arapiles_please",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Arapiles Please",
+        "types": [
+            "sport"
+        ]
+    }
+}

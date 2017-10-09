@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "animal_escarpments",
+        "stub": "dog_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Dog Wall"
+    }
+}

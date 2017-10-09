@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rivers_bend",
+        "stub": "blowing_mud",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Blowing Mud",
+        "types": [
+            "sport"
+        ]
+    }
+}

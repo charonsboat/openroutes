@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "hole_in_the_wall",
+        "stub": "the_fortress",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Fortress"
+    }
+}

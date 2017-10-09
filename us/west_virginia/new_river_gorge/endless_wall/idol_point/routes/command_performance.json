@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "idol_point",
+        "stub": "command_performance",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Command Performance",
+        "types": [
+            "unknown"
+        ]
+    }
+}

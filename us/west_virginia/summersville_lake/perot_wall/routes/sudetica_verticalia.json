@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "perot_wall",
+        "stub": "sudetica_verticalia",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Sudetica Verticalia",
+        "types": [
+            "sport"
+        ]
+    }
+}

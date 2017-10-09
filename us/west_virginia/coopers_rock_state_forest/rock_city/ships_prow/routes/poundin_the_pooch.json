@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ships_prow",
+        "stub": "poundin_the_pooch",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Poundin' the Pooch",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_big_blocks",
+        "stub": "riverside_face",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Riverside Face",
+        "types": [
+            "unknown"
+        ]
+    }
+}

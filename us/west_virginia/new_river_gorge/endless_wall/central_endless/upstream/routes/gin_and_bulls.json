@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "gin_and_bulls",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Gin And Bulls",
+        "types": [
+            "sport"
+        ]
+    }
+}

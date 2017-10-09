@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "head_wall",
+        "stub": "french_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "French Wall"
+    }
+}

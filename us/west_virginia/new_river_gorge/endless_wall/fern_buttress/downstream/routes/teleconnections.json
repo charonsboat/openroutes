@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "teleconnections",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Teleconnections",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bubba_buttress",
+        "stub": "cerveza_verde",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Cerveza Verde",
+        "types": [
+            "sport"
+        ]
+    }
+}

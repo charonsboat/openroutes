@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "shovel_jerk",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "Shovel Jerk",
+        "types": [
+            "sport"
+        ]
+    }
+}

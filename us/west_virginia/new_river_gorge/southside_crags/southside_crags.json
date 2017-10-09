@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "new_river_gorge",
+        "stub": "southside_crags",
+        "type": "region"
+    },
+    "info": {
+        "name": "Southside Crags"
+    }
+}

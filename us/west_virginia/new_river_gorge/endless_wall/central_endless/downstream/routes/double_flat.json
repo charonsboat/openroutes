@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "double_flat",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Double Flat",
+        "types": [
+            "sport"
+        ]
+    }
+}

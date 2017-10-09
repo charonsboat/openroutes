@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "supersymmetry",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Supersymmetry",
+        "types": [
+            "unknown"
+        ]
+    }
+}

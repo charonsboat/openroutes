@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "007_wall",
+        "stub": "never_say_never",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Never Say Never",
+        "types": [
+            "unknown"
+        ]
+    }
+}

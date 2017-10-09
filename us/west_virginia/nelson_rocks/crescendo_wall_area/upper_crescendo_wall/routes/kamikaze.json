@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_crescendo_wall",
+        "stub": "kamikaze",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10 r",
+        "name": "Kamikaze",
+        "types": [
+            "unknown"
+        ]
+    }
+}

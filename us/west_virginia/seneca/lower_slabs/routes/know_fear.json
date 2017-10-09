@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_slabs",
+        "stub": "know_fear",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c r",
+        "name": "Know Fear",
+        "types": [
+            "unknown"
+        ]
+    }
+}

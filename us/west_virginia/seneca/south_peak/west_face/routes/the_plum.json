@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "the_plum",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9 x",
+        "name": "The Plum",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central",
+        "stub": "wounded_in_action",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Wounded In Action",
+        "types": [
+            "unknown"
+        ]
+    }
+}

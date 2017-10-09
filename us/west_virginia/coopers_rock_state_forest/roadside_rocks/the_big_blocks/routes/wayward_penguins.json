@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_big_blocks",
+        "stub": "wayward_penguins",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Wayward Penguins",
+        "types": [
+            "unknown"
+        ]
+    }
+}

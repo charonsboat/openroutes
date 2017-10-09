@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_fourth_buttress",
+        "stub": "anchors_away",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Anchors Away",
+        "types": [
+            "unknown"
+        ]
+    }
+}

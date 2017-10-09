@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kaymoor_slab",
+        "stub": "what_will_people_think",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "What Will People Think?",
+        "types": [
+            "sport"
+        ]
+    }
+}

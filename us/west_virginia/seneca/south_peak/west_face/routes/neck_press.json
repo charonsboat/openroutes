@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "neck_press",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Neck Press",
+        "types": [
+            "trad"
+        ]
+    }
+}

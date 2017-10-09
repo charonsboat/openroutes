@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "vidassana",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Vidassana",
+        "types": [
+            "sport"
+        ]
+    }
+}

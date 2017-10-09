@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "veil_of_addiction",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Veil Of Addiction",
+        "types": [
+            "unknown"
+        ]
+    }
+}

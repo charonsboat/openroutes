@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fairly_tall_wall",
+        "stub": "smelling_good_aboutme",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Smelling Good AboutMe",
+        "types": [
+            "unknown"
+        ]
+    }
+}

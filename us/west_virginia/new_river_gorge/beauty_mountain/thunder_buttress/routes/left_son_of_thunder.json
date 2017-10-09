@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "thunder_buttress",
+        "stub": "left_son_of_thunder",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Left Son Of Thunder",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "east_face_to_gunsight_notch",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.0",
+        "name": "East Face to Gunsight Notch",
+        "types": [
+            "unknown"
+        ]
+    }
+}

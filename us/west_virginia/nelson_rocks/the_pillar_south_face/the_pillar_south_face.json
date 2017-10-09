@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "nelson_rocks",
+        "stub": "the_pillar_south_face",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Pillar, South Face"
+    }
+}

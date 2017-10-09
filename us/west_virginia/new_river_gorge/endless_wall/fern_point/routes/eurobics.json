@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "eurobics",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Eurobics",
+        "types": [
+            "sport"
+        ]
+    }
+}

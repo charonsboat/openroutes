@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "strike_a_scowl",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Strike A Scowl",
+        "types": [
+            "sport"
+        ]
+    }
+}

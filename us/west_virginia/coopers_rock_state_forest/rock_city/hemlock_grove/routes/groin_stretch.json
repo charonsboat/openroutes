@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hemlock_grove",
+        "stub": "groin_stretch",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Groin Stretch",
+        "types": [
+            "unknown"
+        ]
+    }
+}

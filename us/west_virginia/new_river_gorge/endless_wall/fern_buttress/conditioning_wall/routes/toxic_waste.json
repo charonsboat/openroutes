@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "conditioning_wall",
+        "stub": "toxic_waste",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Toxic Waste",
+        "types": [
+            "unknown"
+        ]
+    }
+}

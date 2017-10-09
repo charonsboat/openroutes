@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_g_spot",
+        "stub": "dave_spartin",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Dave Spartin",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_mungolian_wall",
+        "stub": "weenie_roast",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Weenie Roast",
+        "types": [
+            "unknown"
+        ]
+    }
+}

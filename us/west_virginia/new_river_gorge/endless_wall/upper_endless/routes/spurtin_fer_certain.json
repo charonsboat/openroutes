@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "spurtin_fer_certain",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Spurtin' Fer Certain",
+        "types": [
+            "unknown"
+        ]
+    }
+}

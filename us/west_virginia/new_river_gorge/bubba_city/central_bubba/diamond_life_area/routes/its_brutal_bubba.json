@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_life_area",
+        "stub": "its_brutal_bubba",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "It's Brutal Bubba",
+        "types": [
+            "unknown"
+        ]
+    }
+}

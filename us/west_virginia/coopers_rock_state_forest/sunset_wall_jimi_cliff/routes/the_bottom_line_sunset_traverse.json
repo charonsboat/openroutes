@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunset_wall_jimi_cliff",
+        "stub": "the_bottom_line_sunset_traverse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "The Bottom Line (Sunset Traverse)",
+        "types": [
+            "unknown"
+        ]
+    }
+}

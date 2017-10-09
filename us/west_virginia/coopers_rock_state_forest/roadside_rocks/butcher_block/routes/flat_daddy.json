@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "butcher_block",
+        "stub": "flat_daddy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "flat daddy",
+        "types": [
+            "boulder"
+        ]
+    }
+}

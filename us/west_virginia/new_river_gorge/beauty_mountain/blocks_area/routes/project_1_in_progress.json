@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "blocks_area",
+        "stub": "project_1_in_progress",
+        "type": "region"
+    },
+    "info": {
+        "grade": "project",
+        "name": "Project 1 (In Progress)",
+        "types": [
+            "unknown"
+        ]
+    }
+}

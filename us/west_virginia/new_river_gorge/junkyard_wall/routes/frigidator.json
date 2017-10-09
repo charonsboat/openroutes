@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "frigidator",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Frigidator",
+        "types": [
+            "trad"
+        ]
+    }
+}

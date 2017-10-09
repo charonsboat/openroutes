@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stellar_idea_area",
+        "stub": "burnin_down_the_house",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Burnin' Down The House",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "gang_bang",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Gang Bang",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "burning_tendons",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Burning Tendons",
+        "types": [
+            "trad"
+        ]
+    }
+}

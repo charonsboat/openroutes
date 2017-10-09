@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill",
+        "stub": "sunny_daze",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Sunny Daze",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "michelin_man_area",
+        "stub": "kick_ass_and_ask_questions_later",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Kick Ass and Ask Questions Later",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "bubba_city",
+        "stub": "tattoo_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Tattoo Wall"
+    }
+}

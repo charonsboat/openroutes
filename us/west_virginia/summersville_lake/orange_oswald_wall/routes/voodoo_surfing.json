@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orange_oswald_wall",
+        "stub": "voodoo_surfing",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Voodoo Surfing",
+        "types": [
+            "sport"
+        ]
+    }
+}

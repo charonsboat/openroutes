@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "jesus_and_tequila",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Jesus And Tequila",
+        "types": [
+            "sport"
+        ]
+    }
+}

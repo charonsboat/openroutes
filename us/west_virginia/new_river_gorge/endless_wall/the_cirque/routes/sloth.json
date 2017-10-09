@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_cirque",
+        "stub": "sloth",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Sloth",
+        "types": [
+            "sport"
+        ]
+    }
+}

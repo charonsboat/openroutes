@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "the_threat",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "The Threat",
+        "types": [
+            "unknown"
+        ]
+    }
+}

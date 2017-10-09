@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ambassador_buttress",
+        "stub": "success_through_deception",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Success Through Deception",
+        "types": [
+            "unknown"
+        ]
+    }
+}

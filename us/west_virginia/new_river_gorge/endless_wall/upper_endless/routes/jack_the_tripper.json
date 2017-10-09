@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "jack_the_tripper",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Jack The Tripper",
+        "types": [
+            "unknown"
+        ]
+    }
+}

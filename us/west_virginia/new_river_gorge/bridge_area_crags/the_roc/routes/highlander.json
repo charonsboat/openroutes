@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_roc",
+        "stub": "highlander",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Highlander",
+        "types": [
+            "unknown"
+        ]
+    }
+}

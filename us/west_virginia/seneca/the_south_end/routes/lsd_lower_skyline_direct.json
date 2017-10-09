@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "lsd_lower_skyline_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "LSD (Lower Skyline Direct)",
+        "types": [
+            "unknown"
+        ]
+    }
+}

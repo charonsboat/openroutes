@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rivers_bend",
+        "stub": "hell_cat",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Hell Cat",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fire_and_ice_buttress",
+        "stub": "raiders_of_the_lost_crag",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Raiders of the Lost Crag",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_rostrum",
+        "stub": "crack_n_clutch",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Crack 'N Clutch",
+        "types": [
+            "unknown"
+        ]
+    }
+}

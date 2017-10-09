@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "poison_ivy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c r",
+        "name": "Poison Ivy",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "how_hard_is_that_thang",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "How Hard Is That Thang?",
+        "types": [
+            "sport"
+        ]
+    }
+}

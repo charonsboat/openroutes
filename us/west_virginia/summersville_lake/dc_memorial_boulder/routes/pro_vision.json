@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dc_memorial_boulder",
+        "stub": "pro_vision",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "Pro-Vision",
+        "types": [
+            "unknown"
+        ]
+    }
+}

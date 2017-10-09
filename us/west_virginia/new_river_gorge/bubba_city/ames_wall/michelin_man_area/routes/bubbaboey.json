@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "michelin_man_area",
+        "stub": "bubbaboey",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Bubbaboey",
+        "types": [
+            "sport"
+        ]
+    }
+}

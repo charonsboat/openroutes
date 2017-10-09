@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "sparks",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Sparks",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central_bridge_wall",
+        "stub": "impaled",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Impaled",
+        "types": [
+            "unknown"
+        ]
+    }
+}

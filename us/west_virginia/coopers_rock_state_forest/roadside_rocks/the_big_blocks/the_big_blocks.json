@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "roadside_rocks",
+        "stub": "the_big_blocks",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Big Blocks"
+    }
+}

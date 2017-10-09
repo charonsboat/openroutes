@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point_cirque",
+        "stub": "harbinger_scarab",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Harbinger Scarab",
+        "types": [
+            "unknown"
+        ]
+    }
+}

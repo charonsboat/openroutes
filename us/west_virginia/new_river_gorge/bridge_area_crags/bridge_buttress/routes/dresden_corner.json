@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bridge_buttress",
+        "stub": "dresden_corner",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d r",
+        "name": "Dresden Corner",
+        "types": [
+            "trad"
+        ]
+    }
+}

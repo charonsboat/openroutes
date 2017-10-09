@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central",
+        "stub": "eye_of_zen",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Eye Of Zen",
+        "types": [
+            "unknown"
+        ]
+    }
+}

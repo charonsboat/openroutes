@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "persephone",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Persephone",
+        "types": [
+            "sport"
+        ]
+    }
+}

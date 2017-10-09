@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hourglass_block",
+        "stub": "world_traveler",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "World Traveler",
+        "types": [
+            "trad"
+        ]
+    }
+}

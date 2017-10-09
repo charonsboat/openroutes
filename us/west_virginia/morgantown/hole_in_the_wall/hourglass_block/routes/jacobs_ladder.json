@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hourglass_block",
+        "stub": "jacobs_ladder",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Jacobs Ladder",
+        "types": [
+            "sport"
+        ]
+    }
+}

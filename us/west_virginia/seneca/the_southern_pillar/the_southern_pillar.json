@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "seneca",
+        "stub": "the_southern_pillar",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Southern Pillar"
+    }
+}

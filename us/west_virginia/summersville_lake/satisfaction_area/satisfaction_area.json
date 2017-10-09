@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "summersville_lake",
+        "stub": "satisfaction_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Satisfaction Area"
+    }
+}

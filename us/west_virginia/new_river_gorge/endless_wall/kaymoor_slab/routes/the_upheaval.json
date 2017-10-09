@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kaymoor_slab",
+        "stub": "the_upheaval",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "The Upheaval",
+        "types": [
+            "sport"
+        ]
+    }
+}

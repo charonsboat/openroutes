@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stellar_idea_area",
+        "stub": "head_with_no_hands",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Head With No Hands",
+        "types": [
+            "unknown"
+        ]
+    }
+}

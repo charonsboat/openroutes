@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "black_mamba",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Black Mamba",
+        "types": [
+            "unknown"
+        ]
+    }
+}

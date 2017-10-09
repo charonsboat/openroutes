@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "anchors_aweigh",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Anchors Aweigh",
+        "types": [
+            "sport"
+        ]
+    }
+}

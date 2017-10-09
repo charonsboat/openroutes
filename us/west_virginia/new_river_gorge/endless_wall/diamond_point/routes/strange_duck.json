@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "strange_duck",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Strange Duck",
+        "types": [
+            "unknown"
+        ]
+    }
+}

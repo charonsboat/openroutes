@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "simpsons_wall",
+        "stub": "homer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Homer",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bridge_buttress",
+        "stub": "gayes_gaze",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Gaye's Gaze",
+        "types": [
+            "trad"
+        ]
+    }
+}

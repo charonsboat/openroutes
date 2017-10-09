@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pillar_notch_area",
+        "stub": "millennium",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Millennium",
+        "types": [
+            "unknown"
+        ]
+    }
+}

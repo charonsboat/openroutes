@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "cottonmouth",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Cottonmouth",
+        "types": [
+            "trad"
+        ]
+    }
+}

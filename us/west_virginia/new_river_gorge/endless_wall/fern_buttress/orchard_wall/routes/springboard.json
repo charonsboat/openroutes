@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orchard_wall",
+        "stub": "springboard",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Springboard",
+        "types": [
+            "trad"
+        ]
+    }
+}

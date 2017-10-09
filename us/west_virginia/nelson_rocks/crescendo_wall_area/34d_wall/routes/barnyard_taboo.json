@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "34d_wall",
+        "stub": "barnyard_taboo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Barnyard Taboo",
+        "types": [
+            "unknown"
+        ]
+    }
+}

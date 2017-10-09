@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bridge_buttress",
+        "stub": "gag_reflex",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Gag Reflex",
+        "types": [
+            "sport"
+        ]
+    }
+}

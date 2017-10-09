@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "burning_buttress",
+        "stub": "chorus_line",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Chorus Line",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ladders_area",
+        "stub": "night_train",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Night Train",
+        "types": [
+            "unknown"
+        ]
+    }
+}

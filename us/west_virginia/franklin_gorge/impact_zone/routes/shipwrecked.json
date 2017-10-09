@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "shipwrecked",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Shipwrecked",
+        "types": [
+            "sport"
+        ]
+    }
+}

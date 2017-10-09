@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "long_leggedy_beasties",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Long Leggedy Beasties",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_slabs",
+        "stub": "wap_suck_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Wap Suck Direct",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "garbage_wall_intestinal_wall",
+        "stub": "rubbish",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11",
+        "name": "Rubbish",
+        "types": [
+            "unknown"
+        ]
+    }
+}

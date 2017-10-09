@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "keeneys_buttress",
+        "stub": "honker_heaven",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Honker Heaven",
+        "types": [
+            "unknown"
+        ]
+    }
+}

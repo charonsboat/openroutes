@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fire_and_ice_buttress",
+        "stub": "bovine_seduction",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Bovine Seduction",
+        "types": [
+            "unknown"
+        ]
+    }
+}

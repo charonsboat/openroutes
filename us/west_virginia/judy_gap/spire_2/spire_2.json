@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "judy_gap",
+        "stub": "spire_2",
+        "type": "region"
+    },
+    "info": {
+        "name": "Spire 2"
+    }
+}

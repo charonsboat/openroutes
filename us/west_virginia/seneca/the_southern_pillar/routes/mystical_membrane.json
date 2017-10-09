@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "mystical_membrane",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Mystical Membrane",
+        "types": [
+            "unknown"
+        ]
+    }
+}

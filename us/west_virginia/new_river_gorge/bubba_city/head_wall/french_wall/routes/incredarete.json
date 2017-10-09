@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "french_wall",
+        "stub": "incredarete",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Incredarete",
+        "types": [
+            "sport"
+        ]
+    }
+}

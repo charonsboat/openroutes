@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "face_it_bubba_area",
+        "stub": "el_routo_de_los_contrivadores",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "El Routo De Los Contrivadores",
+        "types": [
+            "unknown"
+        ]
+    }
+}

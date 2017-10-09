@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cotton_top",
+        "stub": "q_tip",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Q-Tip",
+        "types": [
+            "sport"
+        ]
+    }
+}

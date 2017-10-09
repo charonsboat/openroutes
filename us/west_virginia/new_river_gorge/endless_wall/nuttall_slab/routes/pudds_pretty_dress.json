@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "nuttall_slab",
+        "stub": "pudds_pretty_dress",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Pudd's Pretty Dress",
+        "types": [
+            "sport"
+        ]
+    }
+}

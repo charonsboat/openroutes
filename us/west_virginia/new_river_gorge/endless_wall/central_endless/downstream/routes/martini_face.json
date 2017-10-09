@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "martini_face",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Martini Face",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sanstonia",
+        "stub": "geisha_girl",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Geisha Girl",
+        "types": [
+            "sport"
+        ]
+    }
+}

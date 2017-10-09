@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_meadow",
+        "stub": "golden_age",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Golden Age",
+        "types": [
+            "unknown"
+        ]
+    }
+}

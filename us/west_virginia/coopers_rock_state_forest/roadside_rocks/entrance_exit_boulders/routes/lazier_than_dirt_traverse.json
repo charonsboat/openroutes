@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "entrance_exit_boulders",
+        "stub": "lazier_than_dirt_traverse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0-",
+        "name": "Lazier Than Dirt Traverse",
+        "types": [
+            "boulder"
+        ]
+    }
+}

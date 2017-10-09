@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "some_things_never_change",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Some Things Never Change",
+        "types": [
+            "unknown"
+        ]
+    }
+}

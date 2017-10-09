@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "area_51",
+        "stub": "instant_gratification",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Instant Gratification",
+        "types": [
+            "sport"
+        ]
+    }
+}

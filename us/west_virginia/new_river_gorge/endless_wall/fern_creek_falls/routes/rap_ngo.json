@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_creek_falls",
+        "stub": "rap_ngo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Rap-N-Go",
+        "types": [
+            "unknown"
+        ]
+    }
+}

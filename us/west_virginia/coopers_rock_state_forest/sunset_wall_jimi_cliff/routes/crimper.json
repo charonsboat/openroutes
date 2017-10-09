@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunset_wall_jimi_cliff",
+        "stub": "crimper",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Crimper",
+        "types": [
+            "unknown"
+        ]
+    }
+}

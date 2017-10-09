@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "springtime",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Springtime",
+        "types": [
+            "unknown"
+        ]
+    }
+}

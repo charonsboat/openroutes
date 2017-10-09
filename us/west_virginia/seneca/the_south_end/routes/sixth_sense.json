@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "sixth_sense",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Sixth Sense",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "nestle_crunch_roof",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Nestle Crunch Roof",
+        "types": [
+            "unknown"
+        ]
+    }
+}

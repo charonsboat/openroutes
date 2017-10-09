@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_third_buttress",
+        "stub": "tsunami_bob",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Tsunami Bob",
+        "types": [
+            "unknown"
+        ]
+    }
+}

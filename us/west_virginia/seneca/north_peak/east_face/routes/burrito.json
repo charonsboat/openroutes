@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "burrito",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Burrito",
+        "types": [
+            "unknown"
+        ]
+    }
+}

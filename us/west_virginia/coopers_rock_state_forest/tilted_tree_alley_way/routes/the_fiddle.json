@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "the_fiddle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "The Fiddle",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "low_octane",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Low Octane",
+        "types": [
+            "unknown"
+        ]
+    }
+}

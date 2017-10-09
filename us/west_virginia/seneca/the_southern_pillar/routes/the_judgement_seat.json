@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "the_judgement_seat",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "The Judgement Seat",
+        "types": [
+            "unknown"
+        ]
+    }
+}

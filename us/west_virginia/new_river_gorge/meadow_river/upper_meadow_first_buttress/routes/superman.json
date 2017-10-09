@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_first_buttress",
+        "stub": "superman",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Superman",
+        "types": [
+            "unknown"
+        ]
+    }
+}

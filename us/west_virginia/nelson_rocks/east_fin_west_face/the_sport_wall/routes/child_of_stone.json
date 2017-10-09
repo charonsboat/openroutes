@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_sport_wall",
+        "stub": "child_of_stone",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Child of Stone",
+        "types": [
+            "unknown"
+        ]
+    }
+}

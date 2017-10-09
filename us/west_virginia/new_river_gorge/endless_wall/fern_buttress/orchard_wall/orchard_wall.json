@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "fern_buttress",
+        "stub": "orchard_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Orchard Wall"
+    }
+}

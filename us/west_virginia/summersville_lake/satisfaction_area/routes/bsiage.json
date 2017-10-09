@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "satisfaction_area",
+        "stub": "bsiage",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "BSIAGE",
+        "types": [
+            "unknown"
+        ]
+    }
+}

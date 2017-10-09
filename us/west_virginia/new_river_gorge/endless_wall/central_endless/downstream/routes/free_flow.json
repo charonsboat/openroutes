@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "free_flow",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Free Flow",
+        "types": [
+            "sport"
+        ]
+    }
+}

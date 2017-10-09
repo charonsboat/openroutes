@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "block_magic",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Block Magic",
+        "types": [
+            "sport"
+        ]
+    }
+}

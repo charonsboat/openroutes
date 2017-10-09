@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rivers_bend",
+        "stub": "southside",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Southside",
+        "types": [
+            "sport"
+        ]
+    }
+}

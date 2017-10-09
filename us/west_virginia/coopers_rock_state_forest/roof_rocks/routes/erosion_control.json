@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roof_rocks",
+        "stub": "erosion_control",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Erosion Control",
+        "types": [
+            "unknown"
+        ]
+    }
+}

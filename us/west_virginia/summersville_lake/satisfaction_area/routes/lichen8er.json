@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "satisfaction_area",
+        "stub": "lichen8er",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Lichen8er",
+        "types": [
+            "unknown"
+        ]
+    }
+}

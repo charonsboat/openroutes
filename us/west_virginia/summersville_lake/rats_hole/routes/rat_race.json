@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rats_hole",
+        "stub": "rat_race",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Rat Race",
+        "types": [
+            "unknown"
+        ]
+    }
+}

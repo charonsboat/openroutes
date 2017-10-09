@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "marshalls_madness",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Marshall's Madness",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "michelin_man_area",
+        "stub": "wheres_bohemia",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Where's Bohemia?",
+        "types": [
+            "unknown"
+        ]
+    }
+}

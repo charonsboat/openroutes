@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mr_clean_face_corridor",
+        "stub": "scar",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Scar",
+        "types": [
+            "boulder"
+        ]
+    }
+}

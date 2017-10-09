@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cat_cliff",
+        "stub": "amarillo_dawn",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Amarillo Dawn",
+        "types": [
+            "unknown"
+        ]
+    }
+}

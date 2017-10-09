@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "terminal_velocity",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b r",
+        "name": "Terminal Velocity",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "keelhauled",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Keelhauled",
+        "types": [
+            "sport"
+        ]
+    }
+}

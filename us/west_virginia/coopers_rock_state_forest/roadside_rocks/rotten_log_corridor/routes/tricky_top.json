@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rotten_log_corridor",
+        "stub": "tricky_top",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Tricky Top",
+        "types": [
+            "unknown"
+        ]
+    }
+}

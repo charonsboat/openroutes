@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "surge_complex",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Surge Complex",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roundhouse_boulder",
+        "stub": "pure_power",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Pure Power",
+        "types": [
+            "boulder"
+        ]
+    }
+}

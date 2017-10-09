@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunset_wall_jimi_cliff",
+        "stub": "dew_point_arete",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Dew Point Arete",
+        "types": [
+            "unknown"
+        ]
+    }
+}

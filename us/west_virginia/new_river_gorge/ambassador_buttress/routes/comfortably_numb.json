@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ambassador_buttress",
+        "stub": "comfortably_numb",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d r",
+        "name": "Comfortably Numb",
+        "types": [
+            "unknown"
+        ]
+    }
+}

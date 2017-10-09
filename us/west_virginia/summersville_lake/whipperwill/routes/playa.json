@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill",
+        "stub": "playa",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Playa",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "french_wall",
+        "stub": "crankenstein",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Crankenstein",
+        "types": [
+            "unknown"
+        ]
+    }
+}

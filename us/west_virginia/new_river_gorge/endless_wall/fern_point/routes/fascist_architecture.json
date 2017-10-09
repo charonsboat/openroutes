@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "fascist_architecture",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Fascist Architecture",
+        "types": [
+            "sport"
+        ]
+    }
+}

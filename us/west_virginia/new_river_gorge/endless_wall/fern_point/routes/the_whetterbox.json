@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "the_whetterbox",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "The Whetterbox",
+        "types": [
+            "unknown"
+        ]
+    }
+}

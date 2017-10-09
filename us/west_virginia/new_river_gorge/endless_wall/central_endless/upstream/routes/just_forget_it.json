@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "just_forget_it",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Just Forget It",
+        "types": [
+            "sport"
+        ]
+    }
+}

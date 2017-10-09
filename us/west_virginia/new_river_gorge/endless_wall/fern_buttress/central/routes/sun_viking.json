@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central",
+        "stub": "sun_viking",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d r",
+        "name": "Sun Viking",
+        "types": [
+            "unknown"
+        ]
+    }
+}

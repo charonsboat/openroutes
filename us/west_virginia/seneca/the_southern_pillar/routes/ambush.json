@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "ambush",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Ambush",
+        "types": [
+            "unknown"
+        ]
+    }
+}

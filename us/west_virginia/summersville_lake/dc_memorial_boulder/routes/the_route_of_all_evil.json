@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dc_memorial_boulder",
+        "stub": "the_route_of_all_evil",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "The Route of All Evil",
+        "types": [
+            "unknown"
+        ]
+    }
+}

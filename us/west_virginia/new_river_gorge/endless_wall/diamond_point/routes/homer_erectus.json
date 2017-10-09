@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "homer_erectus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Homer Erectus",
+        "types": [
+            "sport"
+        ]
+    }
+}

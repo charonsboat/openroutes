@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_mungolian_wall",
+        "stub": "future_proof",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Future Proof",
+        "types": [
+            "sport"
+        ]
+    }
+}

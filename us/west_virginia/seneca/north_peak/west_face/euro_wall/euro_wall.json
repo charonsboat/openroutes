@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "west_face",
+        "stub": "euro_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Euro Wall"
+    }
+}

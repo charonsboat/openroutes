@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_big_blocks",
+        "stub": "access_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.2",
+        "name": "Access Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

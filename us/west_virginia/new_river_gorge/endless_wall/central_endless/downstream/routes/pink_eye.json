@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "pink_eye",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Pink Eye",
+        "types": [
+            "unknown"
+        ]
+    }
+}

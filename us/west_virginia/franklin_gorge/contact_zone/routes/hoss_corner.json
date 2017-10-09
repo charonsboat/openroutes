@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "contact_zone",
+        "stub": "hoss_corner",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Hoss Corner",
+        "types": [
+            "trad"
+        ]
+    }
+}

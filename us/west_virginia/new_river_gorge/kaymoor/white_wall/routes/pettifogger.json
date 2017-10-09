@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "white_wall",
+        "stub": "pettifogger",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Pettifogger",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "kaymoor",
+        "stub": "butcher_branch",
+        "type": "region"
+    },
+    "info": {
+        "name": "Butcher Branch"
+    }
+}

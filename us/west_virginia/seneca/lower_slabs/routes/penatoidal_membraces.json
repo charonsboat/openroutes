@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_slabs",
+        "stub": "penatoidal_membraces",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Penatoidal Membraces",
+        "types": [
+            "unknown"
+        ]
+    }
+}

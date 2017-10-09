@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "face_it_bubba_area",
+        "stub": "reason_over_might",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Reason Over Might",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "cant_find_my_guernsey_cow",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Can't Find My Guernsey Cow",
+        "types": [
+            "unknown"
+        ]
+    }
+}

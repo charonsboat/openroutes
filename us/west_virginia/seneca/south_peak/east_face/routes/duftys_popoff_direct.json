@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "duftys_popoff_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9 r",
+        "name": "Dufty's Popoff Direct",
+        "types": [
+            "unknown"
+        ]
+    }
+}

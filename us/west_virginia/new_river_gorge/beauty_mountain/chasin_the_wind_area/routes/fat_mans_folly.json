@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chasin_the_wind_area",
+        "stub": "fat_mans_folly",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Fat Man's Folly",
+        "types": [
+            "unknown"
+        ]
+    }
+}

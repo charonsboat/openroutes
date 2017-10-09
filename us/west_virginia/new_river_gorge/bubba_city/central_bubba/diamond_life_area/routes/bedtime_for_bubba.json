@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_life_area",
+        "stub": "bedtime_for_bubba",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Bedtime For Bubba",
+        "types": [
+            "unknown"
+        ]
+    }
+}

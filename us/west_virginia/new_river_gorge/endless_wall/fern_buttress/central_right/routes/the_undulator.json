@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central_right",
+        "stub": "the_undulator",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "The Undulator",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_ivory_tower",
+        "stub": "tusk",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Tusk",
+        "types": [
+            "sport"
+        ]
+    }
+}

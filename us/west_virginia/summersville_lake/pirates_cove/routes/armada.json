@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pirates_cove",
+        "stub": "armada",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Armada",
+        "types": [
+            "sport"
+        ]
+    }
+}

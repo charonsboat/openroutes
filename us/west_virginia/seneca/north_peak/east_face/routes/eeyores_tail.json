@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "eeyores_tail",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "Eeyore's Tail",
+        "types": [
+            "unknown"
+        ]
+    }
+}

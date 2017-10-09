@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_fortress",
+        "stub": "dead_breed",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Dead Breed",
+        "types": [
+            "unknown"
+        ]
+    }
+}

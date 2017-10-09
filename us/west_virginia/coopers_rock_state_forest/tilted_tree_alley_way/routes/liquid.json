@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "liquid",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "liquid",
+        "types": [
+            "boulder"
+        ]
+    }
+}

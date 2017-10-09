@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bridge_buttress",
+        "stub": "raptured",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Raptured",
+        "types": [
+            "unknown"
+        ]
+    }
+}

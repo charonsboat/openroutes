@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "cotton_hill",
+        "stub": "bottom",
+        "type": "region"
+    },
+    "info": {
+        "name": "Bottom"
+    }
+}

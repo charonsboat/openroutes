@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "party_all_the_time_party_all_the_time",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Party All The Time, Party All The Time",
+        "types": [
+            "unknown"
+        ]
+    }
+}

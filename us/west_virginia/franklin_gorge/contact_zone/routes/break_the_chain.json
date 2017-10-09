@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "contact_zone",
+        "stub": "break_the_chain",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Break the Chain",
+        "types": [
+            "sport"
+        ]
+    }
+}

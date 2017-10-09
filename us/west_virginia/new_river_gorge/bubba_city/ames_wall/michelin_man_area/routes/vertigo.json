@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "michelin_man_area",
+        "stub": "vertigo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Vertigo",
+        "types": [
+            "sport"
+        ]
+    }
+}

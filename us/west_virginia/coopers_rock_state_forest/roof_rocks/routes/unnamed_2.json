@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roof_rocks",
+        "stub": "unnamed_2",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Unnamed 2",
+        "types": [
+            "unknown"
+        ]
+    }
+}

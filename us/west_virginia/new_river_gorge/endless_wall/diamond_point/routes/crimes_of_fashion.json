@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "crimes_of_fashion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Crimes Of Fashion",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "final_fantasy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v7",
+        "name": "Final Fantasy",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "coopers_rock_state_forest",
+        "stub": "the_good_block",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Good Block"
+    }
+}

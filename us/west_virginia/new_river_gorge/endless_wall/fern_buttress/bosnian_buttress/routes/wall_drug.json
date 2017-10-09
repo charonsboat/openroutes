@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bosnian_buttress",
+        "stub": "wall_drug",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Wall Drug",
+        "types": [
+            "sport"
+        ]
+    }
+}

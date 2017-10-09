@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_big_blocks",
+        "stub": "high_carbon",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "High Carbon",
+        "types": [
+            "unknown"
+        ]
+    }
+}

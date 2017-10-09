@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "south_bridge_wall",
+        "stub": "two_edged_sword",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b r",
+        "name": "Two-Edged Sword",
+        "types": [
+            "unknown"
+        ]
+    }
+}

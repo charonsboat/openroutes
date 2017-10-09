@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "flood",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "flood",
+        "types": [
+            "boulder"
+        ]
+    }
+}

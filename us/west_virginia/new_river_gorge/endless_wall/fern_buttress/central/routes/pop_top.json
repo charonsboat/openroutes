@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central",
+        "stub": "pop_top",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Pop Top",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bridge_buttress",
+        "stub": "mean_old_mr_gravity",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Mean Old Mr. Gravity",
+        "types": [
+            "sport"
+        ]
+    }
+}

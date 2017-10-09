@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "totem",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Totem",
+        "types": [
+            "unknown"
+        ]
+    }
+}

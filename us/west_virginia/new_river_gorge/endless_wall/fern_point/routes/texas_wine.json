@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "texas_wine",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c r",
+        "name": "Texas Wine",
+        "types": [
+            "unknown"
+        ]
+    }
+}

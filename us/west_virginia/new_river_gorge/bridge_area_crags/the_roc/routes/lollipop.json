@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_roc",
+        "stub": "lollipop",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Lollipop",
+        "types": [
+            "unknown"
+        ]
+    }
+}

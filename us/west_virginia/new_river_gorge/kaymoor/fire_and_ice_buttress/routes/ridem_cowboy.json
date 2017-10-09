@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fire_and_ice_buttress",
+        "stub": "ridem_cowboy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Ride'm Cowboy",
+        "types": [
+            "sport"
+        ]
+    }
+}

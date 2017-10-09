@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point_cirque",
+        "stub": "guns_of_sassoun",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Guns Of Sassoun",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ceiling_block",
+        "stub": "bastards_edge",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Bastard's Edge",
+        "types": [
+            "boulder"
+        ]
+    }
+}

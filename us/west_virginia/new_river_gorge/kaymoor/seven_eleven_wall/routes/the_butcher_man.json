@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "seven_eleven_wall",
+        "stub": "the_butcher_man",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "The Butcher Man",
+        "types": [
+            "sport"
+        ]
+    }
+}

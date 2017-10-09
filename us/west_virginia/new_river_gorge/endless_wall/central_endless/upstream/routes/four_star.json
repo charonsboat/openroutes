@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "four_star",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Four Star",
+        "types": [
+            "unknown"
+        ]
+    }
+}

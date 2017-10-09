@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "haystack_block",
+        "stub": "cheat_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Cheat Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

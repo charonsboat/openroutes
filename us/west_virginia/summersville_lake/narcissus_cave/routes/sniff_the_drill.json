@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "narcissus_cave",
+        "stub": "sniff_the_drill",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Sniff the Drill",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "face_it_bubba_area",
+        "stub": "perpendiculus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Perpendiculus",
+        "types": [
+            "unknown"
+        ]
+    }
+}

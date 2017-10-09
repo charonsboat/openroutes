@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "new_fangled_dangle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "New Fangled Dangle",
+        "types": [
+            "unknown"
+        ]
+    }
+}

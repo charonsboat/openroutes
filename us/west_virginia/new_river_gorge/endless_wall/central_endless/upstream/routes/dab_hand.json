@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "dab_hand",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Dab Hand",
+        "types": [
+            "unknown"
+        ]
+    }
+}

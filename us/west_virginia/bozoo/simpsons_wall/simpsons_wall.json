@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "bozoo",
+        "stub": "simpsons_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Simpson's Wall"
+    }
+}

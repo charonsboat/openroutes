@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "conns_west_stupids_corner_start",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Conn's West \"Stupid's Corner\" Start",
+        "types": [
+            "unknown"
+        ]
+    }
+}

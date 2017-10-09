@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stellar_idea_area",
+        "stub": "regatta_de_blank",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Regatta De Blank",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bubba_buttress",
+        "stub": "gilded_otter",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Gilded Otter",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "wire_train_variation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Wire Train Variation",
+        "types": [
+            "unknown"
+        ]
+    }
+}

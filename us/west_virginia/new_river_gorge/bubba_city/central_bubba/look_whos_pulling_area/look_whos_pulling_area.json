@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "central_bubba",
+        "stub": "look_whos_pulling_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Look Who's Pulling Area"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pirates_cove",
+        "stub": "vertical_plains_drifter",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Vertical Plains Drifter",
+        "types": [
+            "trad"
+        ]
+    }
+}

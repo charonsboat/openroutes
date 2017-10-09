@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "west_face",
+        "stub": "flying_teapot_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Flying Teapot Area"
+    }
+}

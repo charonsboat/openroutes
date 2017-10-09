@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "face_it_bubba_area",
+        "stub": "creamy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8 r",
+        "name": "Creamy",
+        "types": [
+            "unknown"
+        ]
+    }
+}

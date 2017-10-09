@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "south_bridge_wall",
+        "stub": "junk_food",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b x",
+        "name": "Junk Food",
+        "types": [
+            "unknown"
+        ]
+    }
+}

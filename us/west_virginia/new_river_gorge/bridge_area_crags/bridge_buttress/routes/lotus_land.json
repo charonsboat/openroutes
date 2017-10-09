@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bridge_buttress",
+        "stub": "lotus_land",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Lotus Land",
+        "types": [
+            "unknown"
+        ]
+    }
+}

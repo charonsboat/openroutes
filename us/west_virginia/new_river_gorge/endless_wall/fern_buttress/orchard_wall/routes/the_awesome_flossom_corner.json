@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orchard_wall",
+        "stub": "the_awesome_flossom_corner",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "The Awesome Flossom Corner",
+        "types": [
+            "unknown"
+        ]
+    }
+}

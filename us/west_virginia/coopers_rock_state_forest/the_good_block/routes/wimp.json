@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_good_block",
+        "stub": "wimp",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Wimp",
+        "types": [
+            "unknown"
+        ]
+    }
+}

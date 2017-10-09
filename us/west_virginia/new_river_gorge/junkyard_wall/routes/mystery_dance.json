@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "mystery_dance",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Mystery Dance",
+        "types": [
+            "sport"
+        ]
+    }
+}

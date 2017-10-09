@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "channel_zero",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Channel Zero",
+        "types": [
+            "sport"
+        ]
+    }
+}

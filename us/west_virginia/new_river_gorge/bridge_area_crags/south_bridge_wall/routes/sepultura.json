@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "south_bridge_wall",
+        "stub": "sepultura",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Sepultura",
+        "types": [
+            "sport"
+        ]
+    }
+}

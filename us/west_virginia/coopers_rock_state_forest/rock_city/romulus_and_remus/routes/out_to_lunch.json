@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "romulus_and_remus",
+        "stub": "out_to_lunch",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Out to lunch",
+        "types": [
+            "boulder"
+        ]
+    }
+}

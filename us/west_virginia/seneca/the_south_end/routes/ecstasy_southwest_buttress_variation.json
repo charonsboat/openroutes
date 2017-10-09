@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "ecstasy_southwest_buttress_variation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Ecstasy Southwest Buttress Variation",
+        "types": [
+            "unknown"
+        ]
+    }
+}

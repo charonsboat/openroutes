@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "morning_dew",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Morning Dew",
+        "types": [
+            "sport"
+        ]
+    }
+}

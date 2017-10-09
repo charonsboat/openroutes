@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "parking_area_wall",
+        "stub": "squeal_like_a_pig",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Squeal Like A Pig",
+        "types": [
+            "sport"
+        ]
+    }
+}

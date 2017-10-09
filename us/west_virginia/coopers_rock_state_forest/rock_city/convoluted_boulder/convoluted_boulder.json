@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "rock_city",
+        "stub": "convoluted_boulder",
+        "type": "region"
+    },
+    "info": {
+        "name": "Convoluted Boulder"
+    }
+}

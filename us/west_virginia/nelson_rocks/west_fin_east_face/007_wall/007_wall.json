@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "west_fin_east_face",
+        "stub": "007_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "007 Wall"
+    }
+}

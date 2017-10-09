@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "initiation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Initiation",
+        "types": [
+            "unknown"
+        ]
+    }
+}

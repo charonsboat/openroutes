@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "kansas_shitty",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Kansas Shitty",
+        "types": [
+            "unknown"
+        ]
+    }
+}

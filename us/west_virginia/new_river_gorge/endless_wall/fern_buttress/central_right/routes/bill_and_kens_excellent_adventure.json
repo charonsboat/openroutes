@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central_right",
+        "stub": "bill_and_kens_excellent_adventure",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Bill And Ken's Excellent Adventure",
+        "types": [
+            "unknown"
+        ]
+    }
+}

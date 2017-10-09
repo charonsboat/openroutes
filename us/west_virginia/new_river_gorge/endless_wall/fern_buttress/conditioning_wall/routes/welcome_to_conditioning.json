@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "conditioning_wall",
+        "stub": "welcome_to_conditioning",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Welcome To Conditioning",
+        "types": [
+            "sport"
+        ]
+    }
+}

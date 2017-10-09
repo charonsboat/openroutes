@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "doctor_taco",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Doctor Taco",
+        "types": [
+            "sport"
+        ]
+    }
+}

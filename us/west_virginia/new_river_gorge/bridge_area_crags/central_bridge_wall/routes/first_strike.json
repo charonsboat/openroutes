@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central_bridge_wall",
+        "stub": "first_strike",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "First Strike",
+        "types": [
+            "unknown"
+        ]
+    }
+}

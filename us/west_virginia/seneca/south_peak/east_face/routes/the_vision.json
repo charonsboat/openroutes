@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "the_vision",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "The Vision",
+        "types": [
+            "unknown"
+        ]
+    }
+}

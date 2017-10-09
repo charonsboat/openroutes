@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "butcher_branch",
+        "stub": "sancho_belige",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Sancho Belige",
+        "types": [
+            "sport"
+        ]
+    }
+}

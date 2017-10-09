@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bubba_buttress",
+        "stub": "micro_brew",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Micro Brew",
+        "types": [
+            "sport"
+        ]
+    }
+}

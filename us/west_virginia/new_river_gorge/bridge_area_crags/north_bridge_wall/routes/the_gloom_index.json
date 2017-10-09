@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "north_bridge_wall",
+        "stub": "the_gloom_index",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "The Gloom Index",
+        "types": [
+            "unknown"
+        ]
+    }
+}

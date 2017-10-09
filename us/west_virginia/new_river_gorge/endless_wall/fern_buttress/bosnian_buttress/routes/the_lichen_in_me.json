@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bosnian_buttress",
+        "stub": "the_lichen_in_me",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "The Lichen In Me",
+        "types": [
+            "unknown"
+        ]
+    }
+}

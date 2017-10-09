@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sanstonia",
+        "stub": "butterfly_flake",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Butterfly Flake",
+        "types": [
+            "unknown"
+        ]
+    }
+}

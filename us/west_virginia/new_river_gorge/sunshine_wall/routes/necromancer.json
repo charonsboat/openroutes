@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunshine_wall",
+        "stub": "necromancer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Necromancer",
+        "types": [
+            "sport"
+        ]
+    }
+}

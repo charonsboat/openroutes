@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "contact_zone",
+        "stub": "barney_rubble",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Barney Rubble",
+        "types": [
+            "sport"
+        ]
+    }
+}

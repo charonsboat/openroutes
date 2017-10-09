@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "praying_to_the_aliens",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8 r",
+        "name": "Praying to the Aliens",
+        "types": [
+            "unknown"
+        ]
+    }
+}

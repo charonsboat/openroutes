@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "burning_buttress",
+        "stub": "broken_sling",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a r",
+        "name": "Broken Sling",
+        "types": [
+            "trad"
+        ]
+    }
+}

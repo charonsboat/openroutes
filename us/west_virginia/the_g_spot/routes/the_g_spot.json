@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_g_spot",
+        "stub": "the_g_spot",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "The G-Spot",
+        "types": [
+            "unknown"
+        ]
+    }
+}

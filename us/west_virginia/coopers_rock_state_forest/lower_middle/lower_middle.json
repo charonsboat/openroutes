@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "coopers_rock_state_forest",
+        "stub": "lower_middle",
+        "type": "region"
+    },
+    "info": {
+        "name": "Lower Middle"
+    }
+}

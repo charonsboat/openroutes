@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "axis_bold_as_bubba",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Axis Bold As Bubba",
+        "types": [
+            "unknown"
+        ]
+    }
+}

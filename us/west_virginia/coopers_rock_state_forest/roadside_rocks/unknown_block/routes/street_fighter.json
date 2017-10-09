@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "unknown_block",
+        "stub": "street_fighter",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Street Fighter",
+        "types": [
+            "boulder"
+        ]
+    }
+}

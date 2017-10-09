@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "idol_point",
+        "stub": "the_saint",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "The Saint",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "34d_wall",
+        "stub": "prime_directive",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Prime Directive",
+        "types": [
+            "unknown"
+        ]
+    }
+}

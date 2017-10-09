@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_second_buttress",
+        "stub": "bullocks",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Bullocks",
+        "types": [
+            "unknown"
+        ]
+    }
+}

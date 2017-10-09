@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "sloper_dyno_nexty_to_mobys_mantel",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v6",
+        "name": "Sloper Dyno (nexty to Moby's mantel)",
+        "types": [
+            "boulder"
+        ]
+    }
+}

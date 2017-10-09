@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "star_trek_wall",
+        "stub": "tractor_beam",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8 r",
+        "name": "Tractor Beam",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "keine_kraft_area",
+        "stub": "til_tuesday",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Til' Tuesday",
+        "types": [
+            "unknown"
+        ]
+    }
+}

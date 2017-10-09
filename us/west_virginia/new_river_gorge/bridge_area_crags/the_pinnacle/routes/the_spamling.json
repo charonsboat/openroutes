@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_pinnacle",
+        "stub": "the_spamling",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "The Spamling",
+        "types": [
+            "unknown"
+        ]
+    }
+}

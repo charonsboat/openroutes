@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill",
+        "stub": "rehab",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Rehab",
+        "types": [
+            "unknown"
+        ]
+    }
+}

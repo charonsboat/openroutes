@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_coliseum",
+        "stub": "still_life",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.14a",
+        "name": "Still Life",
+        "types": [
+            "unknown"
+        ]
+    }
+}

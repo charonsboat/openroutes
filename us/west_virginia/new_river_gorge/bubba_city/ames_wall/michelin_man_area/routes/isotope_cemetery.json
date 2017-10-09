@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "michelin_man_area",
+        "stub": "isotope_cemetery",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Isotope Cemetery",
+        "types": [
+            "unknown"
+        ]
+    }
+}

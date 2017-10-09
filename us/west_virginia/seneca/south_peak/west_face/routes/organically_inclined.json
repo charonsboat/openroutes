@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "organically_inclined",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Organically Inclined",
+        "types": [
+            "unknown"
+        ]
+    }
+}

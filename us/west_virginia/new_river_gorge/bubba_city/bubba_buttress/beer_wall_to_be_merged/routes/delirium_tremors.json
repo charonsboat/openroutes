@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beer_wall_to_be_merged",
+        "stub": "delirium_tremors",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Delirium Tremors",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "little_head_wall",
+        "stub": "helmeted_warrior_of_love",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Helmeted Warrior Of Love",
+        "types": [
+            "unknown"
+        ]
+    }
+}

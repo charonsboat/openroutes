@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point_cirque",
+        "stub": "crimes_of_flashin",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Crimes Of Flashin'",
+        "types": [
+            "sport"
+        ]
+    }
+}

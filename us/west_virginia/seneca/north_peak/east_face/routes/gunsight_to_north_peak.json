@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "gunsight_to_north_peak",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.0",
+        "name": "Gunsight to North Peak",
+        "types": [
+            "unknown"
+        ]
+    }
+}

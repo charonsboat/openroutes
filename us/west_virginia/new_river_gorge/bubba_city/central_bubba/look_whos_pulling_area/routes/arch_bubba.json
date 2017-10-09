@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "arch_bubba",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9 r",
+        "name": "Arch Bubba",
+        "types": [
+            "unknown"
+        ]
+    }
+}

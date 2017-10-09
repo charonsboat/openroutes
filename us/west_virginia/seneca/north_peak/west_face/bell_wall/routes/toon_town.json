@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bell_wall",
+        "stub": "toon_town",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12",
+        "name": "Toon Town",
+        "types": [
+            "unknown"
+        ]
+    }
+}

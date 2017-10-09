@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "suck_face",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Suck Face",
+        "types": [
+            "unknown"
+        ]
+    }
+}

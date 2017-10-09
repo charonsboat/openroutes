@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central",
+        "stub": "cold_turkey",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Cold Turkey",
+        "types": [
+            "unknown"
+        ]
+    }
+}

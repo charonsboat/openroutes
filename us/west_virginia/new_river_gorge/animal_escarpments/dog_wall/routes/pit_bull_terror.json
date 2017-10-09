@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dog_wall",
+        "stub": "pit_bull_terror",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Pit Bull Terror",
+        "types": [
+            "unknown"
+        ]
+    }
+}

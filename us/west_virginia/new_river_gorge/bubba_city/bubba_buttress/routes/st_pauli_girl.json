@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bubba_buttress",
+        "stub": "st_pauli_girl",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "St. Pauli Girl",
+        "types": [
+            "sport"
+        ]
+    }
+}

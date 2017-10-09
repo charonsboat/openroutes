@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "fine_motor_control",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Fine Motor Control",
+        "types": [
+            "sport"
+        ]
+    }
+}

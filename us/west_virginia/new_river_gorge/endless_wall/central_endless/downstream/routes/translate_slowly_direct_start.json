@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "translate_slowly_direct_start",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a r",
+        "name": "Translate Slowly Direct Start",
+        "types": [
+            "unknown"
+        ]
+    }
+}

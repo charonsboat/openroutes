@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_brain",
+        "stub": "you_want_it_you_got_it",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "You Want It, You Got It",
+        "types": [
+            "sport"
+        ]
+    }
+}

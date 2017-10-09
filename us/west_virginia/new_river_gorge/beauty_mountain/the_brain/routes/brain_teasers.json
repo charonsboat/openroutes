@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_brain",
+        "stub": "brain_teasers",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Brain Teasers",
+        "types": [
+            "trad"
+        ]
+    }
+}

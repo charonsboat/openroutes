@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "likme_area",
+        "stub": "slip_of_the_tongue",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Slip Of The Tongue",
+        "types": [
+            "unknown"
+        ]
+    }
+}

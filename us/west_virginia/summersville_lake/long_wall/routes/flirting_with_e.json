@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "flirting_with_e",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Flirting with E",
+        "types": [
+            "unknown"
+        ]
+    }
+}

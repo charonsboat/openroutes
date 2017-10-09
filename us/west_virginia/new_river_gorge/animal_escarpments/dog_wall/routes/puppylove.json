@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dog_wall",
+        "stub": "puppylove",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Puppylove",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "le_gourmet_traverse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "class 4",
+        "name": "Le Gourmet Traverse",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central_right",
+        "stub": "ritz_cracker",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Ritz Cracker",
+        "types": [
+            "trad"
+        ]
+    }
+}

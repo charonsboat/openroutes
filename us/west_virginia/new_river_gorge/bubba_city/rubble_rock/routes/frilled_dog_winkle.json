@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rubble_rock",
+        "stub": "frilled_dog_winkle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Frilled Dog Winkle",
+        "types": [
+            "unknown"
+        ]
+    }
+}

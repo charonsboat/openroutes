@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chasin_the_wind_area",
+        "stub": "sleeping_beauty",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Sleeping Beauty",
+        "types": [
+            "sport"
+        ]
+    }
+}

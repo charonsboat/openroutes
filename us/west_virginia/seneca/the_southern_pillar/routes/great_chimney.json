@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "great_chimney",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.1",
+        "name": "Great Chimney",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tendon_repair_block",
+        "stub": "lightening_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Lightening Crack",
+        "types": [
+            "boulder"
+        ]
+    }
+}

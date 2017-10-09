@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "walls_of_points_upstream",
+        "stub": "flash_point",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Flash Point",
+        "types": [
+            "sport"
+        ]
+    }
+}

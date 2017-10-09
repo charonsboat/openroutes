@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "whamawete",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d r",
+        "name": "Whamawete",
+        "types": [
+            "unknown"
+        ]
+    }
+}

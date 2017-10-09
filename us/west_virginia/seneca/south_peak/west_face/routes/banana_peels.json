@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "banana_peels",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b r",
+        "name": "Banana Peels",
+        "types": [
+            "unknown"
+        ]
+    }
+}

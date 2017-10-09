@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "south_bridge_wall",
+        "stub": "bye_bye_bow_bow",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Bye Bye Bow Bow",
+        "types": [
+            "unknown"
+        ]
+    }
+}

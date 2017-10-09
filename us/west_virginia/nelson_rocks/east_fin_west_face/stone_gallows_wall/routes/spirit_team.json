@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stone_gallows_wall",
+        "stub": "spirit_team",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Spirit Team",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bimbo_buttress",
+        "stub": "direct_aretection",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Direct Aretection",
+        "types": [
+            "sport"
+        ]
+    }
+}

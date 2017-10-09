@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_slabs",
+        "stub": "dark_star",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c r",
+        "name": "Dark Star",
+        "types": [
+            "unknown"
+        ]
+    }
+}

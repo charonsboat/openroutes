@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tattoo_wall",
+        "stub": "zeitgeist",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Zeitgeist",
+        "types": [
+            "unknown"
+        ]
+    }
+}

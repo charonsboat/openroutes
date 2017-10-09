@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "qaid",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Qaid",
+        "types": [
+            "boulder"
+        ]
+    }
+}

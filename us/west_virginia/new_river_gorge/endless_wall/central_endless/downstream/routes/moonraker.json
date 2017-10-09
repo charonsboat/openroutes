@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "moonraker",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Moonraker",
+        "types": [
+            "unknown"
+        ]
+    }
+}

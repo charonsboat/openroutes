@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "crystal_vision",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a r",
+        "name": "Crystal Vision",
+        "types": [
+            "unknown"
+        ]
+    }
+}

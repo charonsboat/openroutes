@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "brothers_in_arms",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Brothers In Arms",
+        "types": [
+            "unknown"
+        ]
+    }
+}

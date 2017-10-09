@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "mobys_mantel",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Moby's Mantel",
+        "types": [
+            "boulder"
+        ]
+    }
+}

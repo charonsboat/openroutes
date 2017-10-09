@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "coral",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v7",
+        "name": "Coral",
+        "types": [
+            "boulder"
+        ]
+    }
+}

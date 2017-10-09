@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "first_buttress",
+        "stub": "magnitude",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Magnitude",
+        "types": [
+            "sport"
+        ]
+    }
+}

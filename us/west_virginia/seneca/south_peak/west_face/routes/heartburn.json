@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "heartburn",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Heartburn",
+        "types": [
+            "unknown"
+        ]
+    }
+}

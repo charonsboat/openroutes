@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_future_wall",
+        "stub": "one_world",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "One World",
+        "types": [
+            "unknown"
+        ]
+    }
+}

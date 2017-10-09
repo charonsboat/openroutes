@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "never_alone",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Never Alone",
+        "types": [
+            "unknown"
+        ]
+    }
+}

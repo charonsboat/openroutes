@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill",
+        "stub": "sin",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "SIN",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "hit_the_silk",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a x",
+        "name": "Hit the Silk",
+        "types": [
+            "unknown"
+        ]
+    }
+}

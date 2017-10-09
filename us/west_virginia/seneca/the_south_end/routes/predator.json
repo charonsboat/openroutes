@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "predator",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Predator",
+        "types": [
+            "sport"
+        ]
+    }
+}

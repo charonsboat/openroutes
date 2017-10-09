@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "boulder_x",
+        "stub": "puncture",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Puncture",
+        "types": [
+            "boulder"
+        ]
+    }
+}

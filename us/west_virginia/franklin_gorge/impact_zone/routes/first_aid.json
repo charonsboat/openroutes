@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "first_aid",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "First Aid",
+        "types": [
+            "sport"
+        ]
+    }
+}

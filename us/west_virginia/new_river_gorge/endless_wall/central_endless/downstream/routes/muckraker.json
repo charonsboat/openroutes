@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "muckraker",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Muckraker",
+        "types": [
+            "sport"
+        ]
+    }
+}

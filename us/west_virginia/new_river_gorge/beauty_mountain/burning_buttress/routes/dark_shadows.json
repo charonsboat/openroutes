@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "burning_buttress",
+        "stub": "dark_shadows",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Dark Shadows",
+        "types": [
+            "sport"
+        ]
+    }
+}

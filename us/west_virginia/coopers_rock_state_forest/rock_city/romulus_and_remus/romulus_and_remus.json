@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "rock_city",
+        "stub": "romulus_and_remus",
+        "type": "region"
+    },
+    "info": {
+        "name": "Romulus and Remus"
+    }
+}

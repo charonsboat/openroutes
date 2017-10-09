@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "burning_buttress",
+        "stub": "burning_calves",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Burning Calves",
+        "types": [
+            "trad"
+        ]
+    }
+}

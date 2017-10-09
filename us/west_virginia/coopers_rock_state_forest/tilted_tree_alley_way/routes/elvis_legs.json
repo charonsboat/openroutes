@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "elvis_legs",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Elvis Legs",
+        "types": [
+            "boulder"
+        ]
+    }
+}

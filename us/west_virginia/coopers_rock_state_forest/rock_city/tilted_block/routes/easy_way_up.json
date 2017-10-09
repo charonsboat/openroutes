@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_block",
+        "stub": "easy_way_up",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0-",
+        "name": "Easy way Up",
+        "types": [
+            "boulder"
+        ]
+    }
+}

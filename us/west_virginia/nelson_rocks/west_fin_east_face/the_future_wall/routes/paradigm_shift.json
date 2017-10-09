@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_future_wall",
+        "stub": "paradigm_shift",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Paradigm Shift",
+        "types": [
+            "unknown"
+        ]
+    }
+}

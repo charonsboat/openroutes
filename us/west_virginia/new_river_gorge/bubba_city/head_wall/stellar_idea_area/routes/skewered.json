@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stellar_idea_area",
+        "stub": "skewered",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Skewered",
+        "types": [
+            "sport"
+        ]
+    }
+}

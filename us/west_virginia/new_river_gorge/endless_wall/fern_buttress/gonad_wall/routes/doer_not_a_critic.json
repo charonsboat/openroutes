@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "gonad_wall",
+        "stub": "doer_not_a_critic",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Doer, Not A Critic",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "contact_zone",
+        "stub": "moment_of_clarity",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Moment Of Clarity",
+        "types": [
+            "sport"
+        ]
+    }
+}

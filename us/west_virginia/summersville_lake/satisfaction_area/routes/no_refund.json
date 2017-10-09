@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "satisfaction_area",
+        "stub": "no_refund",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "No Refund",
+        "types": [
+            "unknown"
+        ]
+    }
+}

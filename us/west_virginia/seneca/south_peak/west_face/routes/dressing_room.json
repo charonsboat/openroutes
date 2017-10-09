@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "dressing_room",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Dressing Room",
+        "types": [
+            "unknown"
+        ]
+    }
+}

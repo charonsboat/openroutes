@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_kaymoor",
+        "stub": "ooops_its_a_trad_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Ooops, It's a Trad Route",
+        "types": [
+            "sport"
+        ]
+    }
+}

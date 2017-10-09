@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "hah",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Hah!",
+        "types": [
+            "unknown"
+        ]
+    }
+}

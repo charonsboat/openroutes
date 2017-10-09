@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "bubba_city",
+        "stub": "bubba_buttress",
+        "type": "region"
+    },
+    "info": {
+        "name": "Bubba Buttress"
+    }
+}

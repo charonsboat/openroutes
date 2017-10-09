@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "seneca",
+        "stub": "the_south_end",
+        "type": "region"
+    },
+    "info": {
+        "name": "The South End"
+    }
+}

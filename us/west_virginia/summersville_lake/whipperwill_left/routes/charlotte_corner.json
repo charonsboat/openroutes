@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill_left",
+        "stub": "charlotte_corner",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "charlotte corner",
+        "types": [
+            "trad"
+        ]
+    }
+}

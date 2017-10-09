@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sanstonia",
+        "stub": "kinesthetica",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Kinesthetica",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "hawks_nest",
+        "stub": "boulder_x",
+        "type": "region"
+    },
+    "info": {
+        "name": "Boulder X"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "walls_of_points_upstream",
+        "stub": "lisas_lunge_time",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Lisa's Lunge Time",
+        "types": [
+            "sport"
+        ]
+    }
+}

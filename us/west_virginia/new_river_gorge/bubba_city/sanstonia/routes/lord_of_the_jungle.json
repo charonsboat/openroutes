@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sanstonia",
+        "stub": "lord_of_the_jungle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Lord Of The Jungle",
+        "types": [
+            "unknown"
+        ]
+    }
+}

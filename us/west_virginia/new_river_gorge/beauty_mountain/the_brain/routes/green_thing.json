@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_brain",
+        "stub": "green_thing",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Green Thing",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "seneca",
+        "stub": "lower_slabs",
+        "type": "region"
+    },
+    "info": {
+        "name": "Lower Slabs"
+    }
+}

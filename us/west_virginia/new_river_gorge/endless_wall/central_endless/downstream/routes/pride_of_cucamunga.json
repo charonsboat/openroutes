@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "pride_of_cucamunga",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d r",
+        "name": "Pride Of Cucamunga",
+        "types": [
+            "unknown"
+        ]
+    }
+}

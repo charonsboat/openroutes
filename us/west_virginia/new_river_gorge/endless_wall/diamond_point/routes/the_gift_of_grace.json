@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "the_gift_of_grace",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "The Gift Of Grace",
+        "types": [
+            "sport"
+        ]
+    }
+}

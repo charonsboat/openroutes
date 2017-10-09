@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_roc",
+        "stub": "my_wife_is_a_dog",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "My Wife Is A Dog",
+        "types": [
+            "unknown"
+        ]
+    }
+}

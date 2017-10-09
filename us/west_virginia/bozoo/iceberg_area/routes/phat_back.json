@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "iceberg_area",
+        "stub": "phat_back",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Phat Back",
+        "types": [
+            "unknown"
+        ]
+    }
+}

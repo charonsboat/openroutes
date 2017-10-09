@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_crescendo_wall",
+        "stub": "crescendo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Crescendo",
+        "types": [
+            "unknown"
+        ]
+    }
+}

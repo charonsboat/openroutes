@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ames_wall",
+        "stub": "chuckles_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Chuckles Direct",
+        "types": [
+            "unknown"
+        ]
+    }
+}

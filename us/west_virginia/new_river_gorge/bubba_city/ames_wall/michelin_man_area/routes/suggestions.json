@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "michelin_man_area",
+        "stub": "suggestions",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Suggestions",
+        "types": [
+            "unknown"
+        ]
+    }
+}

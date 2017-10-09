@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "summersville_lake",
+        "stub": "whipperwill",
+        "type": "region"
+    },
+    "info": {
+        "name": "Whipperwill"
+    }
+}

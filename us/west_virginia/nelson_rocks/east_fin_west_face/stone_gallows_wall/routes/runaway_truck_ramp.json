@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stone_gallows_wall",
+        "stub": "runaway_truck_ramp",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Runaway Truck Ramp",
+        "types": [
+            "unknown"
+        ]
+    }
+}

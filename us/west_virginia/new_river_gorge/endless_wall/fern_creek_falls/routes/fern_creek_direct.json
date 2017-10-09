@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_creek_falls",
+        "stub": "fern_creek_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Fern Creek Direct",
+        "types": [
+            "unknown"
+        ]
+    }
+}

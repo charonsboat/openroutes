@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "keine_kraft_area",
+        "stub": "smoking_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Smoking Crack",
+        "types": [
+            "sport"
+        ]
+    }
+}

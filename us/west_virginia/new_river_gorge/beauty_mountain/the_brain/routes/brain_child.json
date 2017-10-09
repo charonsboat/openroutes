@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_brain",
+        "stub": "brain_child",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Brain Child",
+        "types": [
+            "trad"
+        ]
+    }
+}

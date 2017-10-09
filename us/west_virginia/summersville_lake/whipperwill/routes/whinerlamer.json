@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill",
+        "stub": "whinerlamer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Whinerlamer",
+        "types": [
+            "unknown"
+        ]
+    }
+}

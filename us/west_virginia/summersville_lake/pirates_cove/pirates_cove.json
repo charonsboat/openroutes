@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "summersville_lake",
+        "stub": "pirates_cove",
+        "type": "region"
+    },
+    "info": {
+        "name": "Pirates Cove"
+    }
+}

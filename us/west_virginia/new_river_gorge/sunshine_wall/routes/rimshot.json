@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunshine_wall",
+        "stub": "rimshot",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Rimshot",
+        "types": [
+            "sport"
+        ]
+    }
+}

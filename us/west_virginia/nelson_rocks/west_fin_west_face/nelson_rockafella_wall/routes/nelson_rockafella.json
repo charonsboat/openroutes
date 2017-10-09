@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "nelson_rockafella_wall",
+        "stub": "nelson_rockafella",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Nelson Rockafella",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "harvest",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Harvest",
+        "types": [
+            "sport"
+        ]
+    }
+}

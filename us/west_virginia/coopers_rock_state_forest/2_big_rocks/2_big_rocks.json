@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "coopers_rock_state_forest",
+        "stub": "2_big_rocks",
+        "type": "region"
+    },
+    "info": {
+        "name": "2 Big Rocks"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_kaymoor",
+        "stub": "flat_motorn",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Flat Motor'n",
+        "types": [
+            "sport"
+        ]
+    }
+}

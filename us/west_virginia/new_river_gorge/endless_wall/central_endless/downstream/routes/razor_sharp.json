@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "razor_sharp",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Razor Sharp",
+        "types": [
+            "unknown"
+        ]
+    }
+}

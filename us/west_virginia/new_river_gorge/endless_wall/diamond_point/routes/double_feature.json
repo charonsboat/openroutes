@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "double_feature",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Double Feature",
+        "types": [
+            "unknown"
+        ]
+    }
+}

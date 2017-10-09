@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bosnian_buttress",
+        "stub": "mrs_workmans_corner",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Mrs Workman's Corner",
+        "types": [
+            "unknown"
+        ]
+    }
+}

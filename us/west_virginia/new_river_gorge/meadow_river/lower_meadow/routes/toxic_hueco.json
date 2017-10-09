@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_meadow",
+        "stub": "toxic_hueco",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Toxic Hueco",
+        "types": [
+            "sport"
+        ]
+    }
+}

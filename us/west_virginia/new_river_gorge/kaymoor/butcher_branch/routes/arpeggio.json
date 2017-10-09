@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "butcher_branch",
+        "stub": "arpeggio",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Arpeggio",
+        "types": [
+            "unknown"
+        ]
+    }
+}

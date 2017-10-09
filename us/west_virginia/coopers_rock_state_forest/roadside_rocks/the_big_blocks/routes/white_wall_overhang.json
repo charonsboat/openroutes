@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_big_blocks",
+        "stub": "white_wall_overhang",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "White Wall Overhang",
+        "types": [
+            "unknown"
+        ]
+    }
+}

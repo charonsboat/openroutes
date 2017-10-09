@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "guides_route_far_left",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Guides Route Far Left",
+        "types": [
+            "unknown"
+        ]
+    }
+}

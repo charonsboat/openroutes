@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rivers_bend",
+        "stub": "reflections",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Reflections",
+        "types": [
+            "sport"
+        ]
+    }
+}

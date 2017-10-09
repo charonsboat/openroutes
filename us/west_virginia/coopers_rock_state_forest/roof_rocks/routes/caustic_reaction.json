@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roof_rocks",
+        "stub": "caustic_reaction",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Caustic Reaction",
+        "types": [
+            "unknown"
+        ]
+    }
+}

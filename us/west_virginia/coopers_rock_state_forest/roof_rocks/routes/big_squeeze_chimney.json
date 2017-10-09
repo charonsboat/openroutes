@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roof_rocks",
+        "stub": "big_squeeze_chimney",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "Big Squeeze Chimney",
+        "types": [
+            "unknown"
+        ]
+    }
+}

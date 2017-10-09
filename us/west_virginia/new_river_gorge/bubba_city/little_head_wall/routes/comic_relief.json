@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "little_head_wall",
+        "stub": "comic_relief",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Comic Relief",
+        "types": [
+            "unknown"
+        ]
+    }
+}

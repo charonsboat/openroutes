@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "spice",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Spice",
+        "types": [
+            "unknown"
+        ]
+    }
+}

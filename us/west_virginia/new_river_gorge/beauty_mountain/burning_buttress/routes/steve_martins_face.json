@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "burning_buttress",
+        "stub": "steve_martins_face",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Steve Martin's Face",
+        "types": [
+            "trad"
+        ]
+    }
+}

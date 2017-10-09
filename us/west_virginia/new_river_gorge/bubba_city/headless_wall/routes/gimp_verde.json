@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "headless_wall",
+        "stub": "gimp_verde",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Gimp Verde",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "simpsons_wall",
+        "stub": "gold_fist",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Gold Fist",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "blocks_area",
+        "stub": "screams_in_the_woods",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Screams In The Woods",
+        "types": [
+            "unknown"
+        ]
+    }
+}

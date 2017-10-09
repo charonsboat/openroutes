@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "stop_the_presses_rico_suave",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Stop The Presses Rico Suave!",
+        "types": [
+            "sport"
+        ]
+    }
+}

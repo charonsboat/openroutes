@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "gonad_wall",
+        "stub": "old_and_in_the_way",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Old And In The Way",
+        "types": [
+            "unknown"
+        ]
+    }
+}

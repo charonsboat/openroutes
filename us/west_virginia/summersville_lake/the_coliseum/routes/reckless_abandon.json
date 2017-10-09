@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_coliseum",
+        "stub": "reckless_abandon",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Reckless Abandon",
+        "types": [
+            "unknown"
+        ]
+    }
+}

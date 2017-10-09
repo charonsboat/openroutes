@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fire_and_ice_buttress",
+        "stub": "swinging_udders",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Swinging Udders",
+        "types": [
+            "sport"
+        ]
+    }
+}

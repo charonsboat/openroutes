@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "wampus_cat_blues",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Wampus Cat Blues",
+        "types": [
+            "unknown"
+        ]
+    }
+}

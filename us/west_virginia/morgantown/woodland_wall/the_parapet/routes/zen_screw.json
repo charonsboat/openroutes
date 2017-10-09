@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_parapet",
+        "stub": "zen_screw",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Zen Screw",
+        "types": [
+            "unknown"
+        ]
+    }
+}

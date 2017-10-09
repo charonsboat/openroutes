@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stellar_idea_area",
+        "stub": "nasty_body_odour",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Nasty Body O'dour",
+        "types": [
+            "unknown"
+        ]
+    }
+}

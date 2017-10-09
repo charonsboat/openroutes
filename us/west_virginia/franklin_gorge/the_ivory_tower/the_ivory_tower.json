@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "franklin_gorge",
+        "stub": "the_ivory_tower",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Ivory Tower"
+    }
+}

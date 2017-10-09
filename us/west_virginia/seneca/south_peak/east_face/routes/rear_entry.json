@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "rear_entry",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Rear Entry",
+        "types": [
+            "trad"
+        ]
+    }
+}

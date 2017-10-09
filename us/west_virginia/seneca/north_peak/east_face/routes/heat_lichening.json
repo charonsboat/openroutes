@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "heat_lichening",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Heat Lichening",
+        "types": [
+            "mixed"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "amigo_bandito",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Amigo Bandito",
+        "types": [
+            "unknown"
+        ]
+    }
+}

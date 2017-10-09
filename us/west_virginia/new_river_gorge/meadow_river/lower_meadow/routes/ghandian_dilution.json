@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_meadow",
+        "stub": "ghandian_dilution",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Ghandian Dilution",
+        "types": [
+            "unknown"
+        ]
+    }
+}

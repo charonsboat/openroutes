@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "bubba_buttress",
+        "stub": "face_it_bubba_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Face It Bubba Area"
+    }
+}

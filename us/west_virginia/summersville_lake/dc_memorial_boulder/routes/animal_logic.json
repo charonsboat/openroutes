@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dc_memorial_boulder",
+        "stub": "animal_logic",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Animal Logic",
+        "types": [
+            "unknown"
+        ]
+    }
+}

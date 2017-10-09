@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roof_rocks",
+        "stub": "the_adventures_of_gumby_pokey",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "The Adventures of Gumby & Pokey",
+        "types": [
+            "unknown"
+        ]
+    }
+}

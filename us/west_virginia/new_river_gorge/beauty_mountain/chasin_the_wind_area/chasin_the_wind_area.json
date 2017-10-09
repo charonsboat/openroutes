@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "beauty_mountain",
+        "stub": "chasin_the_wind_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Chasin' the Wind Area"
+    }
+}

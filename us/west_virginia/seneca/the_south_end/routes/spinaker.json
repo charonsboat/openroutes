@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "spinaker",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Spinaker",
+        "types": [
+            "unknown"
+        ]
+    }
+}

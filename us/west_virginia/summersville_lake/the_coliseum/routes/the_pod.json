@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_coliseum",
+        "stub": "the_pod",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "The Pod",
+        "types": [
+            "unknown"
+        ]
+    }
+}

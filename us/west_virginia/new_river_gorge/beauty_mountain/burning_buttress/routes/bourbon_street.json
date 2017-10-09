@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "burning_buttress",
+        "stub": "bourbon_street",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Bourbon Street",
+        "types": [
+            "unknown"
+        ]
+    }
+}

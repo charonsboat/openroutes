@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "second_fiddle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Second Fiddle",
+        "types": [
+            "sport"
+        ]
+    }
+}

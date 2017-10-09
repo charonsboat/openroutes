@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "michelin_man_area",
+        "stub": "bubba_black_sheep",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Bubba Black Sheep",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "star_trek_wall",
+        "stub": "night_moves",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Night Moves",
+        "types": [
+            "unknown"
+        ]
+    }
+}

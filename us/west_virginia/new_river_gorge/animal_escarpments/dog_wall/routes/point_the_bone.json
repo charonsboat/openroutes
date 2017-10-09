@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dog_wall",
+        "stub": "point_the_bone",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Point The Bone",
+        "types": [
+            "unknown"
+        ]
+    }
+}

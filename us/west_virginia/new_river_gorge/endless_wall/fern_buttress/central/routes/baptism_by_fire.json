@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central",
+        "stub": "baptism_by_fire",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Baptism By Fire",
+        "types": [
+            "unknown"
+        ]
+    }
+}

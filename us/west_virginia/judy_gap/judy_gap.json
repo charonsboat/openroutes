@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "west_virginia",
+        "stub": "judy_gap",
+        "type": "region"
+    },
+    "info": {
+        "name": "Judy Gap"
+    }
+}

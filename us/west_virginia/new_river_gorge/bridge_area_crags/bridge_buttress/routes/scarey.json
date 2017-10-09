@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bridge_buttress",
+        "stub": "scarey",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Scarey",
+        "types": [
+            "trad"
+        ]
+    }
+}

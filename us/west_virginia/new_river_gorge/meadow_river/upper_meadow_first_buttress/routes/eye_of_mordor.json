@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_first_buttress",
+        "stub": "eye_of_mordor",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "Eye of Mordor",
+        "types": [
+            "unknown"
+        ]
+    }
+}

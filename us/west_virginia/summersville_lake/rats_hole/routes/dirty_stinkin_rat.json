@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rats_hole",
+        "stub": "dirty_stinkin_rat",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Dirty Stinkin' Rat",
+        "types": [
+            "unknown"
+        ]
+    }
+}

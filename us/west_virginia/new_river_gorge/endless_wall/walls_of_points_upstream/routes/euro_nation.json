@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "walls_of_points_upstream",
+        "stub": "euro_nation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Euro Nation",
+        "types": [
+            "sport"
+        ]
+    }
+}

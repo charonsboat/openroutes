@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ceiling_block",
+        "stub": "unnamed_traverse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0+",
+        "name": "Unnamed Traverse",
+        "types": [
+            "boulder"
+        ]
+    }
+}

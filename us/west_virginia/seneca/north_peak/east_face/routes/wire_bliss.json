@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "wire_bliss",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d r",
+        "name": "Wire Bliss",
+        "types": [
+            "unknown"
+        ]
+    }
+}

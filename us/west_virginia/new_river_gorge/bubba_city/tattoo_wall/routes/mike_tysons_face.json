@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tattoo_wall",
+        "stub": "mike_tysons_face",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Mike Tyson's Face",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "flirting_with_apollo_reed",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Flirting With Apollo Reed",
+        "types": [
+            "sport"
+        ]
+    }
+}

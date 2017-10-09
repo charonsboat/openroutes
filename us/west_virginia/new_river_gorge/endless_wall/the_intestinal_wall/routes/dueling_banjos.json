@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_intestinal_wall",
+        "stub": "dueling_banjos",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Dueling Banjos",
+        "types": [
+            "sport"
+        ]
+    }
+}

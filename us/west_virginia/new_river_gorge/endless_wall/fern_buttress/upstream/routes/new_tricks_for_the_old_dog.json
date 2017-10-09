@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "new_tricks_for_the_old_dog",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "New Tricks For The Old Dog",
+        "types": [
+            "sport"
+        ]
+    }
+}

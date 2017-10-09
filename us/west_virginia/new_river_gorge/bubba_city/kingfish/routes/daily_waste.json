@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kingfish",
+        "stub": "daily_waste",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Daily Waste",
+        "types": [
+            "unknown"
+        ]
+    }
+}

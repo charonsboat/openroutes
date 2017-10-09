@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "the_flyn_hawaiian",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "The Fly'n Hawaiian",
+        "types": [
+            "unknown"
+        ]
+    }
+}

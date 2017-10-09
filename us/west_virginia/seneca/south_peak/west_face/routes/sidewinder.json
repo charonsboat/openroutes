@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "sidewinder",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Sidewinder",
+        "types": [
+            "unknown"
+        ]
+    }
+}

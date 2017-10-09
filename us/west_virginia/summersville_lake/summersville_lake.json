@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "west_virginia",
+        "stub": "summersville_lake",
+        "type": "region"
+    },
+    "info": {
+        "name": "Summersville Lake"
+    }
+}

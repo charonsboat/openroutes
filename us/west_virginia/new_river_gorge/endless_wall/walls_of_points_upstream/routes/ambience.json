@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "walls_of_points_upstream",
+        "stub": "ambience",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Ambience",
+        "types": [
+            "unknown"
+        ]
+    }
+}

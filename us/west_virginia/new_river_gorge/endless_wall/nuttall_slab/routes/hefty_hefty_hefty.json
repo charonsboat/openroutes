@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "nuttall_slab",
+        "stub": "hefty_hefty_hefty",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Hefty, Hefty, Hefty",
+        "types": [
+            "unknown"
+        ]
+    }
+}

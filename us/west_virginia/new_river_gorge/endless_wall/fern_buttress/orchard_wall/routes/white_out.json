@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orchard_wall",
+        "stub": "white_out",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "White Out",
+        "types": [
+            "sport"
+        ]
+    }
+}

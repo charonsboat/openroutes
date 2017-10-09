@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bell_wall",
+        "stub": "the_ma_bell_connection",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "The Ma Bell Connection",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kingfish",
+        "stub": "bubbas_big_adventure_direct_start",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Bubba's Big Adventure Direct Start",
+        "types": [
+            "unknown"
+        ]
+    }
+}

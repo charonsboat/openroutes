@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ames_wall",
+        "stub": "kick_ass_and_ask_questions_later",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Kick Ass and Ask Questions Later",
+        "types": [
+            "unknown"
+        ]
+    }
+}

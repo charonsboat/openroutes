@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "sacrilege",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Sacrilege",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "stanc",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "S.T.A.N.C.",
+        "types": [
+            "unknown"
+        ]
+    }
+}

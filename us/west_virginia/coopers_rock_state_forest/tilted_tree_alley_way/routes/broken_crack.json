@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "broken_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "broken crack",
+        "types": [
+            "boulder"
+        ]
+    }
+}

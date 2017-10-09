@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "vulcan_block",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Vulcan Block",
+        "types": [
+            "sport"
+        ]
+    }
+}

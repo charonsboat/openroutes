@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_cirque",
+        "stub": "satanic_traverses",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Satanic Traverses",
+        "types": [
+            "unknown"
+        ]
+    }
+}

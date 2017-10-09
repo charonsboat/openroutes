@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "head_wall",
+        "stub": "stellar_idea_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Stellar Idea Area"
+    }
+}

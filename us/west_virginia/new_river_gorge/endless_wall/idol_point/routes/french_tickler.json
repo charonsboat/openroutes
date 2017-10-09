@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "idol_point",
+        "stub": "french_tickler",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "French Tickler",
+        "types": [
+            "sport"
+        ]
+    }
+}

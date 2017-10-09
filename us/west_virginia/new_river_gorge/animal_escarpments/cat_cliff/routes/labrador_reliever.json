@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cat_cliff",
+        "stub": "labrador_reliever",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Labrador Reliever",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "squids_in_bondage",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Squids In Bondage",
+        "types": [
+            "unknown"
+        ]
+    }
+}

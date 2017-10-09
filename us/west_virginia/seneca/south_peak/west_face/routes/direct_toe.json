@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "direct_toe",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b r",
+        "name": "Direct-Toe",
+        "types": [
+            "unknown"
+        ]
+    }
+}

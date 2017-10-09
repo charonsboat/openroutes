@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_crescendo_wall",
+        "stub": "presto",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Presto",
+        "types": [
+            "unknown"
+        ]
+    }
+}

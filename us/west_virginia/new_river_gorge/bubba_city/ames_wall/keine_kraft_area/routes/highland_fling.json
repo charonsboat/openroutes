@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "keine_kraft_area",
+        "stub": "highland_fling",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Highland Fling",
+        "types": [
+            "sport"
+        ]
+    }
+}

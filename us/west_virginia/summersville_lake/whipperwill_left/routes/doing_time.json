@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill_left",
+        "stub": "doing_time",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Doing Time",
+        "types": [
+            "sport"
+        ]
+    }
+}

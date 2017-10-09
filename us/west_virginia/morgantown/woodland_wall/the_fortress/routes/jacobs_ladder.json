@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_fortress",
+        "stub": "jacobs_ladder",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Jacob's Ladder",
+        "types": [
+            "unknown"
+        ]
+    }
+}

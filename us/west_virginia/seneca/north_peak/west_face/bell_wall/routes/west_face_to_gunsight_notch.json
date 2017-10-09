@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bell_wall",
+        "stub": "west_face_to_gunsight_notch",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.0",
+        "name": "West Face To Gunsight Notch",
+        "types": [
+            "unknown"
+        ]
+    }
+}

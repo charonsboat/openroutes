@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stellar_idea_area",
+        "stub": "inventing_situations",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Inventing Situations",
+        "types": [
+            "unknown"
+        ]
+    }
+}

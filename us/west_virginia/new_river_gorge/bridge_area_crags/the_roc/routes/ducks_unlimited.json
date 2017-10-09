@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_roc",
+        "stub": "ducks_unlimited",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Ducks Unlimited",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "monster_in_my_pants",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Monster In My Pants",
+        "types": [
+            "unknown"
+        ]
+    }
+}

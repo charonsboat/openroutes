@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "tomato",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Tomato",
+        "types": [
+            "unknown"
+        ]
+    }
+}

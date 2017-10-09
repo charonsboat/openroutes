@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_pillar_south_face",
+        "stub": "the_petting_zoo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "The Petting Zoo",
+        "types": [
+            "unknown"
+        ]
+    }
+}

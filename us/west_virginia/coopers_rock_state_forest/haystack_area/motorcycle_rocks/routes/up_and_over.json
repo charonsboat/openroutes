@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "motorcycle_rocks",
+        "stub": "up_and_over",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Up and Over",
+        "types": [
+            "boulder"
+        ]
+    }
+}

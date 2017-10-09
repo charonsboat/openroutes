@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "kaymoor",
+        "stub": "seven_eleven_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Seven-Eleven Wall"
+    }
+}

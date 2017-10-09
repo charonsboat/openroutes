@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "churning_in_the_huecos",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Churning In The Huecos",
+        "types": [
+            "trad"
+        ]
+    }
+}

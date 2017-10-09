@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill",
+        "stub": "davies_hill",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Davies/Hill",
+        "types": [
+            "sport"
+        ]
+    }
+}

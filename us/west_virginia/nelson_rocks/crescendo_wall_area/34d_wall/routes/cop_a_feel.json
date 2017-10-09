@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "34d_wall",
+        "stub": "cop_a_feel",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Cop a Feel",
+        "types": [
+            "unknown"
+        ]
+    }
+}

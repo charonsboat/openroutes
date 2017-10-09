@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "giant_steps",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Giant Steps",
+        "types": [
+            "unknown"
+        ]
+    }
+}

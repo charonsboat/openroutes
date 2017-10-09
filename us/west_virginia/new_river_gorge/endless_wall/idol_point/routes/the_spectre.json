@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "idol_point",
+        "stub": "the_spectre",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "The Spectre",
+        "types": [
+            "unknown"
+        ]
+    }
+}

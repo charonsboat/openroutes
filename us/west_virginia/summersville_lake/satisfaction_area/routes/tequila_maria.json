@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "satisfaction_area",
+        "stub": "tequila_maria",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Tequila Maria",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sanstonia",
+        "stub": "pay_it_forward",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Pay it Forward",
+        "types": [
+            "unknown"
+        ]
+    }
+}

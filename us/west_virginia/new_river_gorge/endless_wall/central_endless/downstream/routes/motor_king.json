@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "motor_king",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Motor King",
+        "types": [
+            "sport"
+        ]
+    }
+}

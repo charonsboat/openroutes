@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_crescendo_wall",
+        "stub": "merlin",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Merlin",
+        "types": [
+            "unknown"
+        ]
+    }
+}

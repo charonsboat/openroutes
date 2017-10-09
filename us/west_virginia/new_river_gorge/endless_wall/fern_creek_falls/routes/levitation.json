@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_creek_falls",
+        "stub": "levitation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Levitation",
+        "types": [
+            "unknown"
+        ]
+    }
+}

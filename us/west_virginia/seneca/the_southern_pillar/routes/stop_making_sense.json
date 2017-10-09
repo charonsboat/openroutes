@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "stop_making_sense",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Stop Making Sense",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rotten_log_corridor",
+        "stub": "fallen_angel",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Fallen Angel",
+        "types": [
+            "unknown"
+        ]
+    }
+}

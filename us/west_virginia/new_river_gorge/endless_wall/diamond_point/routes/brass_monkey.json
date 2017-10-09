@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "brass_monkey",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Brass Monkey",
+        "types": [
+            "unknown"
+        ]
+    }
+}

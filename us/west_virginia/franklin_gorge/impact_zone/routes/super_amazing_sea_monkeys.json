@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "super_amazing_sea_monkeys",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Super Amazing Sea Monkeys",
+        "types": [
+            "sport"
+        ]
+    }
+}

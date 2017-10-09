@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "look_whos_crimping",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Look Who's Crimping",
+        "types": [
+            "sport"
+        ]
+    }
+}

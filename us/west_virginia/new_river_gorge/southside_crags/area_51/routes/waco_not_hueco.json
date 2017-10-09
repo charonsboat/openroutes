@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "area_51",
+        "stub": "waco_not_hueco",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Waco not Hueco",
+        "types": [
+            "sport"
+        ]
+    }
+}

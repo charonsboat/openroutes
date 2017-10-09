@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "personal_pronoun",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Personal Pronoun",
+        "types": [
+            "sport"
+        ]
+    }
+}

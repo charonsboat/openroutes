@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bridge_buttress",
+        "stub": "tentative_decision",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Tentative Decision",
+        "types": [
+            "trad"
+        ]
+    }
+}

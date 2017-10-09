@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "southern_hospitality",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Southern Hospitality",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "straight_up_and_stiff",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Straight Up And Stiff",
+        "types": [
+            "trad"
+        ]
+    }
+}

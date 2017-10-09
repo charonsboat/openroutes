@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "gimme_some_tongue",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Gimme Some Tongue",
+        "types": [
+            "unknown"
+        ]
+    }
+}

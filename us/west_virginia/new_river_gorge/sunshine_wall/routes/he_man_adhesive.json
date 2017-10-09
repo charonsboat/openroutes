@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunshine_wall",
+        "stub": "he_man_adhesive",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "He Man Adhesive",
+        "types": [
+            "sport"
+        ]
+    }
+}

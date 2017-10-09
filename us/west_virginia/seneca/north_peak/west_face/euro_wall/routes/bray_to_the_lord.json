@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "euro_wall",
+        "stub": "bray_to_the_lord",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Bray To The Lord",
+        "types": [
+            "unknown"
+        ]
+    }
+}

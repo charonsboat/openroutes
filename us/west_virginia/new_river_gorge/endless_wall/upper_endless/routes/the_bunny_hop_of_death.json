@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "the_bunny_hop_of_death",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b r",
+        "name": "The Bunny Hop Of Death",
+        "types": [
+            "unknown"
+        ]
+    }
+}

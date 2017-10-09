@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bridge_buttress",
+        "stub": "west_virginia_highway_coal_miners_daughter",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "West Virginia Highway (Coal Miner's Daughter)",
+        "types": [
+            "sport"
+        ]
+    }
+}

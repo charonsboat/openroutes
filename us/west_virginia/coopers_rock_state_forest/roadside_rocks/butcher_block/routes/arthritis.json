@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "butcher_block",
+        "stub": "arthritis",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Arthritis",
+        "types": [
+            "boulder"
+        ]
+    }
+}

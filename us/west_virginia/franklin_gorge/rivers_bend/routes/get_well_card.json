@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rivers_bend",
+        "stub": "get_well_card",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Get Well Card",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "no_weld",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "No Weld",
+        "types": [
+            "sport"
+        ]
+    }
+}

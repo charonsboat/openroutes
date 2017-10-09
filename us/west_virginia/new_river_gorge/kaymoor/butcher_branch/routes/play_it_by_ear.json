@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "butcher_branch",
+        "stub": "play_it_by_ear",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Play it by Ear",
+        "types": [
+            "sport"
+        ]
+    }
+}

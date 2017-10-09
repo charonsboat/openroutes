@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "what_a_jamb",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "What A Jamb",
+        "types": [
+            "unknown"
+        ]
+    }
+}

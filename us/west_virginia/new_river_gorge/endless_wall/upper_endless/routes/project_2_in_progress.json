@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "project_2_in_progress",
+        "type": "region"
+    },
+    "info": {
+        "grade": "project",
+        "name": "Project 2 (In Progress)",
+        "types": [
+            "unknown"
+        ]
+    }
+}

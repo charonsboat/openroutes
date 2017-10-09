@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "bridge_area_crags",
+        "stub": "pinnacle_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Pinnacle Wall"
+    }
+}

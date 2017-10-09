@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dog_wall",
+        "stub": "mongrels",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Mongrels",
+        "types": [
+            "unknown"
+        ]
+    }
+}

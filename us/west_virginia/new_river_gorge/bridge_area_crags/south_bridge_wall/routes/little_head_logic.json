@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "south_bridge_wall",
+        "stub": "little_head_logic",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Little Head Logic",
+        "types": [
+            "unknown"
+        ]
+    }
+}

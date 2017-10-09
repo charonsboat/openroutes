@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fire_and_ice_buttress",
+        "stub": "malfunction_junction",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Malfunction Junction",
+        "types": [
+            "unknown"
+        ]
+    }
+}

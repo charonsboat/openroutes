@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_block",
+        "stub": "pocketsock",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Pocketsock",
+        "types": [
+            "boulder"
+        ]
+    }
+}

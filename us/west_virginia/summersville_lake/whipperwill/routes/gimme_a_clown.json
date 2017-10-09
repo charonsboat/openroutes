@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill",
+        "stub": "gimme_a_clown",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Gimme A Clown",
+        "types": [
+            "unknown"
+        ]
+    }
+}

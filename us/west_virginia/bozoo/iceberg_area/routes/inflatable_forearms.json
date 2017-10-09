@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "iceberg_area",
+        "stub": "inflatable_forearms",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Inflatable Forearms",
+        "types": [
+            "unknown"
+        ]
+    }
+}

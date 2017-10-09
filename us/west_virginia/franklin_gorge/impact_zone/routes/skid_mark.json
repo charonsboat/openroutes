@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "skid_mark",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Skid Mark",
+        "types": [
+            "trad"
+        ]
+    }
+}

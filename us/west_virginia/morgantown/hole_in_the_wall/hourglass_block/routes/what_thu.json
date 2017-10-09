@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hourglass_block",
+        "stub": "what_thu",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "What Thu",
+        "types": [
+            "sport"
+        ]
+    }
+}

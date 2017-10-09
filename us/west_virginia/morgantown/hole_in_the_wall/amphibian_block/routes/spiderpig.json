@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "amphibian_block",
+        "stub": "spiderpig",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Spiderpig",
+        "types": [
+            "trad"
+        ]
+    }
+}

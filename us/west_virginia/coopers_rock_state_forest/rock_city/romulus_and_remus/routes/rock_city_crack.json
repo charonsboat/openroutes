@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "romulus_and_remus",
+        "stub": "rock_city_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Rock City Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

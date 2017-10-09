@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "narcissus_cave",
+        "stub": "narcissus_direct_start",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Narcissus Direct Start",
+        "types": [
+            "sport"
+        ]
+    }
+}

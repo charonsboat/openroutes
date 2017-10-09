@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "the_rabbit_almost_died",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "The Rabbit Almost Died",
+        "types": [
+            "unknown"
+        ]
+    }
+}

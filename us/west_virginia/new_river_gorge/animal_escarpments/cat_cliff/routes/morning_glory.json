@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cat_cliff",
+        "stub": "morning_glory",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Morning Glory",
+        "types": [
+            "unknown"
+        ]
+    }
+}

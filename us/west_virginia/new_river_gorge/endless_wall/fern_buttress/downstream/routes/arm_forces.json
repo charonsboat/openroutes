@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "arm_forces",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Arm Forces",
+        "types": [
+            "sport"
+        ]
+    }
+}

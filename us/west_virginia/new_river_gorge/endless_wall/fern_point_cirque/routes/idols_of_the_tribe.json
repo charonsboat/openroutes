@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point_cirque",
+        "stub": "idols_of_the_tribe",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Idols Of The Tribe",
+        "types": [
+            "sport"
+        ]
+    }
+}

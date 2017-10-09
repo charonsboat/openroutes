@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "bubba_city",
+        "stub": "ames_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Ames Wall"
+    }
+}

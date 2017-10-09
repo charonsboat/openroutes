@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "exposition",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.2",
+        "name": "Exposition",
+        "types": [
+            "unknown"
+        ]
+    }
+}

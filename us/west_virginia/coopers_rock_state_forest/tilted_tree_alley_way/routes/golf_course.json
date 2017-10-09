@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "golf_course",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0-",
+        "name": "Golf Course",
+        "types": [
+            "boulder"
+        ]
+    }
+}

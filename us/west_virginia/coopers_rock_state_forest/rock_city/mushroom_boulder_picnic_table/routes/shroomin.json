@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mushroom_boulder_picnic_table",
+        "stub": "shroomin",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Shroomin'",
+        "types": [
+            "boulder"
+        ]
+    }
+}

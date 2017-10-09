@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "into_the_mystic",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Into The Mystic",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bell_wall",
+        "stub": "bansai",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Bansai",
+        "types": [
+            "unknown"
+        ]
+    }
+}

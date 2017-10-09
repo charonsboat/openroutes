@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "romulus_and_remus",
+        "stub": "knife_fink",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11",
+        "name": "Knife Fink",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "seven_eleven_wall",
+        "stub": "first_steps",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "First Steps",
+        "types": [
+            "sport"
+        ]
+    }
+}

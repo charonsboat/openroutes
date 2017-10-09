@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tendon_repair_block",
+        "stub": "trf_unnamed_a",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "TRF Unnamed A",
+        "types": [
+            "boulder"
+        ]
+    }
+}

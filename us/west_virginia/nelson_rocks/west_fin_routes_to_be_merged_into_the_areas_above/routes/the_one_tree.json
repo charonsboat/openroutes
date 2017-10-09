@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_fin_routes_to_be_merged_into_the_areas_above",
+        "stub": "the_one_tree",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b s",
+        "name": "The One Tree",
+        "types": [
+            "unknown"
+        ]
+    }
+}

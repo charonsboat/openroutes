@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "fern_buttress",
+        "stub": "monolith_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Monolith Wall"
+    }
+}

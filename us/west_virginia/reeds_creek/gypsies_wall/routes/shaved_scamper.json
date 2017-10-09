@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "gypsies_wall",
+        "stub": "shaved_scamper",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Shaved Scamper",
+        "types": [
+            "sport"
+        ]
+    }
+}

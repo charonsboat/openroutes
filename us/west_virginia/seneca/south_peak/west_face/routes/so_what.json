@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "so_what",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "So What",
+        "types": [
+            "unknown"
+        ]
+    }
+}

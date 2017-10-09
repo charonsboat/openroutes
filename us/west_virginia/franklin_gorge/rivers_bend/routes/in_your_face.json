@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rivers_bend",
+        "stub": "in_your_face",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "In Your Face",
+        "types": [
+            "sport"
+        ]
+    }
+}

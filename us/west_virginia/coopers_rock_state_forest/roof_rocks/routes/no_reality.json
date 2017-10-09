@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roof_rocks",
+        "stub": "no_reality",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11",
+        "name": "No Reality",
+        "types": [
+            "unknown"
+        ]
+    }
+}

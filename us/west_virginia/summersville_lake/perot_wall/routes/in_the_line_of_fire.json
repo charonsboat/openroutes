@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "perot_wall",
+        "stub": "in_the_line_of_fire",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "In the Line of Fire",
+        "types": [
+            "unknown"
+        ]
+    }
+}

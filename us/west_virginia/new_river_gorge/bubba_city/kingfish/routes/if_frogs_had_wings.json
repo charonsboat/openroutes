@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kingfish",
+        "stub": "if_frogs_had_wings",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "If Frogs Had Wings",
+        "types": [
+            "unknown"
+        ]
+    }
+}

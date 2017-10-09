@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_roc",
+        "stub": "salvation_salesam",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Salvation Salesam",
+        "types": [
+            "unknown"
+        ]
+    }
+}

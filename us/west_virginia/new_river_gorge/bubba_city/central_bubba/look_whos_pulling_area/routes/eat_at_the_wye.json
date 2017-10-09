@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "eat_at_the_wye",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Eat At The Wye",
+        "types": [
+            "unknown"
+        ]
+    }
+}

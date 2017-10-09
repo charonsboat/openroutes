@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "overlook_buttress",
+        "stub": "the_incredible_overhanging_wall",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "The Incredible Overhanging Wall",
+        "types": [
+            "unknown"
+        ]
+    }
+}

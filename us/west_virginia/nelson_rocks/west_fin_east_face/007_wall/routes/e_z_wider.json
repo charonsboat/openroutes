@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "007_wall",
+        "stub": "e_z_wider",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "E-Z Wider",
+        "types": [
+            "unknown"
+        ]
+    }
+}

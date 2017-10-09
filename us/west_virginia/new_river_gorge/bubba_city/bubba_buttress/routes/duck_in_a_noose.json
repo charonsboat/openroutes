@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bubba_buttress",
+        "stub": "duck_in_a_noose",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Duck in a Noose",
+        "types": [
+            "unknown"
+        ]
+    }
+}

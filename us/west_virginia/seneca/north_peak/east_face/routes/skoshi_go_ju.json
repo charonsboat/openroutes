@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "skoshi_go_ju",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c x",
+        "name": "Skoshi Go Ju",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "is_it_safe",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Is It Safe?",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "the_magnificent_puddcasso",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "The Magnificent Puddcasso",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point_cirque",
+        "stub": "soft_torture",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Soft Torture",
+        "types": [
+            "unknown"
+        ]
+    }
+}

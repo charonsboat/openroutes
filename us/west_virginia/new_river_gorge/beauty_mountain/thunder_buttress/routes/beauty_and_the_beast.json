@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "thunder_buttress",
+        "stub": "beauty_and_the_beast",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Beauty And The Beast",
+        "types": [
+            "unknown"
+        ]
+    }
+}

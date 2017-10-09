@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "bubba_city",
+        "stub": "kingfish",
+        "type": "region"
+    },
+    "info": {
+        "name": "Kingfish"
+    }
+}

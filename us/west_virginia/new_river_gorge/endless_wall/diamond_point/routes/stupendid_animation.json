@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "stupendid_animation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Stupendid Animation",
+        "types": [
+            "unknown"
+        ]
+    }
+}

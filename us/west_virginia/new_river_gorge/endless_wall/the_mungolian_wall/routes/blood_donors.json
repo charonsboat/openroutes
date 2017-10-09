@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_mungolian_wall",
+        "stub": "blood_donors",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Blood Donors",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "necro_wall",
+        "stub": "necromancer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Necromancer",
+        "types": [
+            "unknown"
+        ]
+    }
+}

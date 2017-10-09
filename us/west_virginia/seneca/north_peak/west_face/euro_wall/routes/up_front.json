@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "euro_wall",
+        "stub": "up_front",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "Up Front",
+        "types": [
+            "unknown"
+        ]
+    }
+}

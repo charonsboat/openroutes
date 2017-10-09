@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "butcher_block",
+        "stub": "local_color",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Local Color",
+        "types": [
+            "boulder"
+        ]
+    }
+}

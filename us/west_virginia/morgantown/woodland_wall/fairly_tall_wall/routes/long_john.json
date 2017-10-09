@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fairly_tall_wall",
+        "stub": "long_john",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "Long John",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dog_wall",
+        "stub": "dog_day_afternoon",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Dog Day Afternoon",
+        "types": [
+            "unknown"
+        ]
+    }
+}

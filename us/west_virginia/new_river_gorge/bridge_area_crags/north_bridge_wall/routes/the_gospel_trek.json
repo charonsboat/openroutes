@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "north_bridge_wall",
+        "stub": "the_gospel_trek",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "The Gospel Trek",
+        "types": [
+            "unknown"
+        ]
+    }
+}

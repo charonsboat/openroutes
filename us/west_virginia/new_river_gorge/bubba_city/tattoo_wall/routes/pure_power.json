@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tattoo_wall",
+        "stub": "pure_power",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Pure Power",
+        "types": [
+            "unknown"
+        ]
+    }
+}

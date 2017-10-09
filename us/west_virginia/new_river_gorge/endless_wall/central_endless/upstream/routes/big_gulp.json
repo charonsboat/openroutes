@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "big_gulp",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Big Gulp",
+        "types": [
+            "unknown"
+        ]
+    }
+}

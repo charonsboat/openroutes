@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "chasing_spiders_to_the_right",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7 r",
+        "name": "Chasing Spiders To The Right",
+        "types": [
+            "trad"
+        ]
+    }
+}

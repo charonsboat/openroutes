@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_cirque",
+        "stub": "norse_code",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Norse Code",
+        "types": [
+            "unknown"
+        ]
+    }
+}

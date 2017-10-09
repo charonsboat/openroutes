@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "cockscomb_overhang_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Cockscomb Overhang Direct",
+        "types": [
+            "unknown"
+        ]
+    }
+}

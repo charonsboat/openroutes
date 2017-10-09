@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "amazing_grace",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7 r",
+        "name": "Amazing Grace",
+        "types": [
+            "unknown"
+        ]
+    }
+}

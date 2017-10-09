@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "two_fish_limit",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Two Fish Limit",
+        "types": [
+            "sport"
+        ]
+    }
+}

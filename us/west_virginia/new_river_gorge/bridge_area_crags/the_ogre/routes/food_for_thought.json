@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_ogre",
+        "stub": "food_for_thought",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Food For Thought",
+        "types": [
+            "unknown"
+        ]
+    }
+}

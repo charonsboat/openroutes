@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central_bubba",
+        "stub": "casper_says_boo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Casper Says Boo!",
+        "types": [
+            "unknown"
+        ]
+    }
+}

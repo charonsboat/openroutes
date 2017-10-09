@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "face_it_bubba_area",
+        "stub": "doo_wah_woof",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Doo-Wah Woof",
+        "types": [
+            "unknown"
+        ]
+    }
+}

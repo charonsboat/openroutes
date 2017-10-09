@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "nova",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Nova",
+        "types": [
+            "unknown"
+        ]
+    }
+}

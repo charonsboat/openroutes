@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central",
+        "stub": "beowulf",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Beowulf",
+        "types": [
+            "unknown"
+        ]
+    }
+}

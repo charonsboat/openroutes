@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "face_it_bubba_area",
+        "stub": "beginners_face",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Beginner's Face",
+        "types": [
+            "unknown"
+        ]
+    }
+}

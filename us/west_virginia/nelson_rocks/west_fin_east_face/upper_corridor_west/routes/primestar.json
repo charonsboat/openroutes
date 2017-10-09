@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_corridor_west",
+        "stub": "primestar",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Primestar",
+        "types": [
+            "unknown"
+        ]
+    }
+}

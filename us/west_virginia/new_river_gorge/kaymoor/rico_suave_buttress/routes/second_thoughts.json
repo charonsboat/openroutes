@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rico_suave_buttress",
+        "stub": "second_thoughts",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Second Thoughts",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bimbo_buttress",
+        "stub": "crank_to_power",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Crank To Power",
+        "types": [
+            "sport"
+        ]
+    }
+}

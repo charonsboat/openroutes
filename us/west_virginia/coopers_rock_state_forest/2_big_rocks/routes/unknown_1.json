@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "2_big_rocks",
+        "stub": "unknown_1",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "unknown 1",
+        "types": [
+            "mixed"
+        ]
+    }
+}

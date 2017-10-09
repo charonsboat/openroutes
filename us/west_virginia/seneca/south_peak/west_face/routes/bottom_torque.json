@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "bottom_torque",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Bottom Torque",
+        "types": [
+            "unknown"
+        ]
+    }
+}

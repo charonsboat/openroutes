@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_fortress",
+        "stub": "extremities",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Extremities",
+        "types": [
+            "unknown"
+        ]
+    }
+}

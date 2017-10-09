@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "iceberg_area",
+        "stub": "tip_of_the_iceberg",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Tip of the Iceberg",
+        "types": [
+            "unknown"
+        ]
+    }
+}

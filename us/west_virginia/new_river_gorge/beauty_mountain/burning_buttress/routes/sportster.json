@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "burning_buttress",
+        "stub": "sportster",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "Sportster",
+        "types": [
+            "sport"
+        ]
+    }
+}

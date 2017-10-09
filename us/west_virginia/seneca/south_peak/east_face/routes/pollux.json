@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "pollux",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Pollux",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_slabs",
+        "stub": "sunny_down_bulow",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Sunny Down Bulow",
+        "types": [
+            "unknown"
+        ]
+    }
+}

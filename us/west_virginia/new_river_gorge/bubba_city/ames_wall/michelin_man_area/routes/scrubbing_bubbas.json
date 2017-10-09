@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "michelin_man_area",
+        "stub": "scrubbing_bubbas",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Scrubbing Bubbas",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_corridor_east",
+        "stub": "mikes_hike",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Mike's Hike",
+        "types": [
+            "unknown"
+        ]
+    }
+}

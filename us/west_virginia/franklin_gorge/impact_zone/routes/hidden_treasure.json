@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "hidden_treasure",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Hidden Treasure",
+        "types": [
+            "sport"
+        ]
+    }
+}

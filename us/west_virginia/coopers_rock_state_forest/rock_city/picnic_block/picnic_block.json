@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "rock_city",
+        "stub": "picnic_block",
+        "type": "region"
+    },
+    "info": {
+        "name": "Picnic Block"
+    }
+}

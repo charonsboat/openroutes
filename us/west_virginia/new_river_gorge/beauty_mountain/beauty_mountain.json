@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "new_river_gorge",
+        "stub": "beauty_mountain",
+        "type": "region"
+    },
+    "info": {
+        "name": "Beauty Mountain"
+    }
+}

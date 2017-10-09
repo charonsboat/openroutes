@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "west_face",
+        "stub": "bell_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Bell Wall"
+    }
+}

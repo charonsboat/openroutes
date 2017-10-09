@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "007_wall",
+        "stub": "mr_bigglesworth_disney_channel",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Mr. Bigglesworth (Disney Channel)",
+        "types": [
+            "unknown"
+        ]
+    }
+}

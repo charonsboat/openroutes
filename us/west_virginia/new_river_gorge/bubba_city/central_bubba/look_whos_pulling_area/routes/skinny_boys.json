@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "skinny_boys",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Skinny Boys",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "dinah_moe_hum",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Dinah Moe Hum",
+        "types": [
+            "unknown"
+        ]
+    }
+}

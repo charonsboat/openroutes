@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "rock_city",
+        "stub": "caustic_block",
+        "type": "region"
+    },
+    "info": {
+        "name": "Caustic Block"
+    }
+}

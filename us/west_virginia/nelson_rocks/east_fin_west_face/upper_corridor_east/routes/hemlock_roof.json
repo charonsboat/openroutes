@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_corridor_east",
+        "stub": "hemlock_roof",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Hemlock Roof",
+        "types": [
+            "unknown"
+        ]
+    }
+}

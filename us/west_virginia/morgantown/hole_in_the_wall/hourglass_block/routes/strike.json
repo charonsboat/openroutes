@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hourglass_block",
+        "stub": "strike",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Strike",
+        "types": [
+            "sport"
+        ]
+    }
+}

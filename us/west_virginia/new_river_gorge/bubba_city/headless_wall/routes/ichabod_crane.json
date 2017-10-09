@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "headless_wall",
+        "stub": "ichabod_crane",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Ichabod Crane",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ambassador_buttress",
+        "stub": "the_geneva_convention",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d r",
+        "name": "The Geneva Convention",
+        "types": [
+            "unknown"
+        ]
+    }
+}

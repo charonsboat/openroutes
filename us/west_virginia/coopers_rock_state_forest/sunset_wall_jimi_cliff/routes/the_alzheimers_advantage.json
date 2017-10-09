@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunset_wall_jimi_cliff",
+        "stub": "the_alzheimers_advantage",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "The Alzheimer's Advantage",
+        "types": [
+            "unknown"
+        ]
+    }
+}

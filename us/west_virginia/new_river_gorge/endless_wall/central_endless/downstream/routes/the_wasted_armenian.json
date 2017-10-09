@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "the_wasted_armenian",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c r",
+        "name": "The Wasted Armenian",
+        "types": [
+            "unknown"
+        ]
+    }
+}

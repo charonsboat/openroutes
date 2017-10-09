@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "sandys_sweet_bottom",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Sandy's Sweet Bottom",
+        "types": [
+            "unknown"
+        ]
+    }
+}

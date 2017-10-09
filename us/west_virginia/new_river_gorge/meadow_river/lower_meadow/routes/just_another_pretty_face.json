@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_meadow",
+        "stub": "just_another_pretty_face",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Just Another Pretty Face",
+        "types": [
+            "unknown"
+        ]
+    }
+}

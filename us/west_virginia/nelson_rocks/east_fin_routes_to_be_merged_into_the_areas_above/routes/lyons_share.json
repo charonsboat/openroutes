@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_fin_routes_to_be_merged_into_the_areas_above",
+        "stub": "lyons_share",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d s",
+        "name": "Lyons' Share",
+        "types": [
+            "unknown"
+        ]
+    }
+}

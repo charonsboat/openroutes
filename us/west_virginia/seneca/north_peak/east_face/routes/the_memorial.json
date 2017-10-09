@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "the_memorial",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a x",
+        "name": "The Memorial",
+        "types": [
+            "unknown"
+        ]
+    }
+}

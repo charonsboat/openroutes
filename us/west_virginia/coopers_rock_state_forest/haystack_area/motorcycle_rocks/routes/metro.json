@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "motorcycle_rocks",
+        "stub": "metro",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Metro",
+        "types": [
+            "boulder"
+        ]
+    }
+}

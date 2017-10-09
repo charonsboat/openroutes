@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "the_rock",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "The Rock",
+        "types": [
+            "unknown"
+        ]
+    }
+}

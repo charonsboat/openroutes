@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "picnic_block",
+        "stub": "dangler",
+        "type": "region"
+    },
+    "info": {
+        "grade": "2.10",
+        "name": "Dangler",
+        "types": [
+            "unknown"
+        ]
+    }
+}

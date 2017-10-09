@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bosnian_buttress",
+        "stub": "hole_in_the_wall",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Hole In The Wall",
+        "types": [
+            "unknown"
+        ]
+    }
+}

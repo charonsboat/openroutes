@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "the_separator",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "The Separator",
+        "types": [
+            "unknown"
+        ]
+    }
+}

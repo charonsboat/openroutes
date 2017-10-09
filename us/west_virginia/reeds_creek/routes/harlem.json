@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "harlem",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Harlem",
+        "types": [
+            "sport"
+        ]
+    }
+}

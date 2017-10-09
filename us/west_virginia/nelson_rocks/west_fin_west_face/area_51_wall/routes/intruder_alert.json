@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "area_51_wall",
+        "stub": "intruder_alert",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Intruder Alert",
+        "types": [
+            "unknown"
+        ]
+    }
+}

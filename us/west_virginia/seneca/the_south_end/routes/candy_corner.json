@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "candy_corner",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Candy Corner",
+        "types": [
+            "unknown"
+        ]
+    }
+}

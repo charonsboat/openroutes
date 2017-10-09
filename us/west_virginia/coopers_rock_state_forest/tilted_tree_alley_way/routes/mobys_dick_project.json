@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "mobys_dick_project",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v12",
+        "name": "Moby's Dick Project",
+        "types": [
+            "boulder"
+        ]
+    }
+}

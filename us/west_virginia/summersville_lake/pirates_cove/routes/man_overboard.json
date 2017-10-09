@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pirates_cove",
+        "stub": "man_overboard",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Man Overboard",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "keine_kraft_area",
+        "stub": "czech_vacation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Czech Vacation",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "caption",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Caption",
+        "types": [
+            "unknown"
+        ]
+    }
+}

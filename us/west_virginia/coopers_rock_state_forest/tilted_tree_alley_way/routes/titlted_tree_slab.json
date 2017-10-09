@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "titlted_tree_slab",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1 to v3",
+        "name": "titlted tree slab",
+        "types": [
+            "boulder"
+        ]
+    }
+}

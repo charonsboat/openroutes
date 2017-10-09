@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "traffic_jam",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Traffic Jam",
+        "types": [
+            "trad"
+        ]
+    }
+}

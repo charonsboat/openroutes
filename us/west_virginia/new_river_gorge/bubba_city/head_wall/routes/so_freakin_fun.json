@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "head_wall",
+        "stub": "so_freakin_fun",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "So Freakin' Fun",
+        "types": [
+            "unknown"
+        ]
+    }
+}

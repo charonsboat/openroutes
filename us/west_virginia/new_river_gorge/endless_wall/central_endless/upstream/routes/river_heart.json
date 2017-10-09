@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "river_heart",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "River Heart",
+        "types": [
+            "sport"
+        ]
+    }
+}

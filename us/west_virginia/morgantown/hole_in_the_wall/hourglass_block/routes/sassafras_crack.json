@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hourglass_block",
+        "stub": "sassafras_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Sassafras Crack",
+        "types": [
+            "trad"
+        ]
+    }
+}

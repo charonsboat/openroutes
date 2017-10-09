@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roof_rocks",
+        "stub": "variation_yellow_belly_escape",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Variation: Yellow Belly Escape",
+        "types": [
+            "unknown"
+        ]
+    }
+}

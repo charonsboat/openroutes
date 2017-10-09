@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_cirque",
+        "stub": "hasta_la_vista",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Hasta la Vista",
+        "types": [
+            "unknown"
+        ]
+    }
+}

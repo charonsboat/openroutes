@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_pinnacle",
+        "stub": "destination_unknown",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Destination Unknown",
+        "types": [
+            "unknown"
+        ]
+    }
+}

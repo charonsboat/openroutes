@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pinnacle_wall",
+        "stub": "fat_cat",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Fat Cat",
+        "types": [
+            "sport"
+        ]
+    }
+}

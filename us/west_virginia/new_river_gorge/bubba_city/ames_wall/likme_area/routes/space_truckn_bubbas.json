@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "likme_area",
+        "stub": "space_truckn_bubbas",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Space Truck'n Bubbas",
+        "types": [
+            "unknown"
+        ]
+    }
+}

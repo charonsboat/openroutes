@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "son_of_frankenstein",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Son Of Frankenstein",
+        "types": [
+            "unknown"
+        ]
+    }
+}

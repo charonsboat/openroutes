@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "iceberg_area",
+        "stub": "chucks_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Chuck's Route",
+        "types": [
+            "unknown"
+        ]
+    }
+}

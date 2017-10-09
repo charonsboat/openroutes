@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rivers_bend",
+        "stub": "lizzie_bordens_axe",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Lizzie Borden's Axe",
+        "types": [
+            "sport"
+        ]
+    }
+}

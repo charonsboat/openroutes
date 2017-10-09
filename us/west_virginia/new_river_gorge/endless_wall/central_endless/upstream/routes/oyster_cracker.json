@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "oyster_cracker",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Oyster Cracker",
+        "types": [
+            "unknown"
+        ]
+    }
+}

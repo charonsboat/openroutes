@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "007_wall",
+        "stub": "never_say_never_continuation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Never Say Never Continuation",
+        "types": [
+            "unknown"
+        ]
+    }
+}

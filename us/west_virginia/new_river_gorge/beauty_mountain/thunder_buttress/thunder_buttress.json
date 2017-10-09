@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "beauty_mountain",
+        "stub": "thunder_buttress",
+        "type": "region"
+    },
+    "info": {
+        "name": "Thunder Buttress"
+    }
+}

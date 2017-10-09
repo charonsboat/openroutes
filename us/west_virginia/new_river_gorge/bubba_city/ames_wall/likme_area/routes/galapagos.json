@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "likme_area",
+        "stub": "galapagos",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Galapagos",
+        "types": [
+            "sport"
+        ]
+    }
+}

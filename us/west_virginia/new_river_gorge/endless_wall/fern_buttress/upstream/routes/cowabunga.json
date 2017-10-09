@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "cowabunga",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Cowabunga",
+        "types": [
+            "unknown"
+        ]
+    }
+}

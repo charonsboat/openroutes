@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "bridge_area_crags",
+        "stub": "overlook_buttress",
+        "type": "region"
+    },
+    "info": {
+        "name": "Overlook Buttress"
+    }
+}

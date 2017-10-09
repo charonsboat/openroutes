@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunshine_wall",
+        "stub": "head_like_a_hole",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Head Like A Hole",
+        "types": [
+            "sport"
+        ]
+    }
+}

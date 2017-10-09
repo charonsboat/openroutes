@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "bridge_area_crags",
+        "stub": "the_rostrum",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Rostrum"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "new_world_order_masoko_tango",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "New World Order (Masoko Tango)",
+        "types": [
+            "sport"
+        ]
+    }
+}

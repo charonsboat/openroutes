@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "face_it_bubba_area",
+        "stub": "fired_for_sandbagging",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Fired for Sandbagging",
+        "types": [
+            "unknown"
+        ]
+    }
+}

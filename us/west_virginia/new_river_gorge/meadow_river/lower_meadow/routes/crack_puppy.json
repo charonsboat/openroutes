@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_meadow",
+        "stub": "crack_puppy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Crack Puppy",
+        "types": [
+            "unknown"
+        ]
+    }
+}

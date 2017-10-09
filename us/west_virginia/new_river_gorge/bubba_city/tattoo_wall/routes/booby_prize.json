@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tattoo_wall",
+        "stub": "booby_prize",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Booby Prize",
+        "types": [
+            "unknown"
+        ]
+    }
+}

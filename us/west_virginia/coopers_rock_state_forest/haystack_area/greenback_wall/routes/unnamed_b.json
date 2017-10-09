@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "greenback_wall",
+        "stub": "unnamed_b",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Unnamed B",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "keine_kraft_area",
+        "stub": "fiesta_verde",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Fiesta Verde",
+        "types": [
+            "sport"
+        ]
+    }
+}

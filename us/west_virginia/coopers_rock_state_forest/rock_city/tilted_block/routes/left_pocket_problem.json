@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_block",
+        "stub": "left_pocket_problem",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v7",
+        "name": "Left Pocket Problem",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "southern_exposure",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Southern Exposure",
+        "types": [
+            "unknown"
+        ]
+    }
+}

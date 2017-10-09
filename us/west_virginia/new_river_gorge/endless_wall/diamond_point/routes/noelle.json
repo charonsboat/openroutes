@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "noelle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Noelle",
+        "types": [
+            "unknown"
+        ]
+    }
+}

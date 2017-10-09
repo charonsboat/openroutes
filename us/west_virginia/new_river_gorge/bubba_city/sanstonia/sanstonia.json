@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "bubba_city",
+        "stub": "sanstonia",
+        "type": "region"
+    },
+    "info": {
+        "name": "Sanstonia"
+    }
+}

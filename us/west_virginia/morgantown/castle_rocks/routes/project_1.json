@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "castle_rocks",
+        "stub": "project_1",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12",
+        "name": "project 1",
+        "types": [
+            "sport"
+        ]
+    }
+}

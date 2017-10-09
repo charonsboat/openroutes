@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bimbo_buttress",
+        "stub": "gunpowder",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Gunpowder",
+        "types": [
+            "unknown"
+        ]
+    }
+}

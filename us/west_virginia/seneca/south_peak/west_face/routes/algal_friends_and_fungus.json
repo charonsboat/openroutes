@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "algal_friends_and_fungus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9 r",
+        "name": "Algal Friends and Fungus",
+        "types": [
+            "unknown"
+        ]
+    }
+}

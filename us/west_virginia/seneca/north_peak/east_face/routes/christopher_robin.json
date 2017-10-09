@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "christopher_robin",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.2",
+        "name": "Christopher Robin",
+        "types": [
+            "unknown"
+        ]
+    }
+}

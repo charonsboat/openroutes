@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "the_peach",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8 r",
+        "name": "The Peach",
+        "types": [
+            "unknown"
+        ]
+    }
+}

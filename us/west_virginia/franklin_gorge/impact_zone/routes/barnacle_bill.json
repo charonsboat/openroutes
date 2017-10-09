@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "barnacle_bill",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Barnacle Bill",
+        "types": [
+            "sport"
+        ]
+    }
+}

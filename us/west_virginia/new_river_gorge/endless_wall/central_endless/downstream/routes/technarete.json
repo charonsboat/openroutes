@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "technarete",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Technarete",
+        "types": [
+            "unknown"
+        ]
+    }
+}

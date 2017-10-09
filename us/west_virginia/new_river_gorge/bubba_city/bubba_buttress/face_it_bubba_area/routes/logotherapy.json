@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "face_it_bubba_area",
+        "stub": "logotherapy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "Logotherapy",
+        "types": [
+            "sport"
+        ]
+    }
+}

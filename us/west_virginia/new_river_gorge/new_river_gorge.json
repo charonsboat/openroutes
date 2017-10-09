@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "west_virginia",
+        "stub": "new_river_gorge",
+        "type": "region"
+    },
+    "info": {
+        "name": "New River Gorge"
+    }
+}

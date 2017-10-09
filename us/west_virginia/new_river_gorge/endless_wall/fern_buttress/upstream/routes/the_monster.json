@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "the_monster",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "The Monster",
+        "types": [
+            "unknown"
+        ]
+    }
+}

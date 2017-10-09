@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "the_pocket_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "The Pocket Route",
+        "types": [
+            "sport"
+        ]
+    }
+}

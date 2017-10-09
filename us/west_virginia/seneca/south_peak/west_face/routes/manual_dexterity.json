@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "manual_dexterity",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Manual Dexterity",
+        "types": [
+            "unknown"
+        ]
+    }
+}

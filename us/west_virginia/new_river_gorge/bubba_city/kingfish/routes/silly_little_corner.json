@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kingfish",
+        "stub": "silly_little_corner",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Silly Little Corner",
+        "types": [
+            "unknown"
+        ]
+    }
+}

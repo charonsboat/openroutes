@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "the_entertainer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "The Entertainer",
+        "types": [
+            "trad"
+        ]
+    }
+}

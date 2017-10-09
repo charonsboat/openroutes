@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central_bridge_wall",
+        "stub": "rockin_robyn",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Rockin' Robyn",
+        "types": [
+            "unknown"
+        ]
+    }
+}

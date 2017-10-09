@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "one_bagger",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "One Bagger",
+        "types": [
+            "boulder"
+        ]
+    }
+}

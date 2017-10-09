@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_good_block",
+        "stub": "blockage",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13+",
+        "name": "Blockage",
+        "types": [
+            "unknown"
+        ]
+    }
+}

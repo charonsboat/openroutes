@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_kaymoor",
+        "stub": "smell_the_glove",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Smell the Glove",
+        "types": [
+            "sport"
+        ]
+    }
+}

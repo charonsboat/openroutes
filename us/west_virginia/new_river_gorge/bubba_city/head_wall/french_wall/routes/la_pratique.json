@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "french_wall",
+        "stub": "la_pratique",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "La Pratique",
+        "types": [
+            "sport"
+        ]
+    }
+}

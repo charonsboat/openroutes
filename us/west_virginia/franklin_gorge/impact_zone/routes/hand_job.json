@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "hand_job",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Hand Job",
+        "types": [
+            "unknown"
+        ]
+    }
+}

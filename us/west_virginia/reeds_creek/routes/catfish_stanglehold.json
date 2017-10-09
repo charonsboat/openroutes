@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "catfish_stanglehold",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Catfish Stanglehold",
+        "types": [
+            "sport"
+        ]
+    }
+}

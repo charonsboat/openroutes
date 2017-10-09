@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "hot_tuna",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Hot Tuna",
+        "types": [
+            "unknown"
+        ]
+    }
+}

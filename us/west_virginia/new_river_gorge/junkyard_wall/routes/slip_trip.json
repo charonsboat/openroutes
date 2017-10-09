@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "slip_trip",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c r",
+        "name": "Slip Trip",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "drug_virgin",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Drug Virgin",
+        "types": [
+            "sport"
+        ]
+    }
+}

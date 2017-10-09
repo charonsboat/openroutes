@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_pillar_south_face",
+        "stub": "pillar_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Pillar Direct",
+        "types": [
+            "unknown"
+        ]
+    }
+}

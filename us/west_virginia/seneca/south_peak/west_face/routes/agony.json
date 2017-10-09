@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "agony",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Agony",
+        "types": [
+            "trad"
+        ]
+    }
+}

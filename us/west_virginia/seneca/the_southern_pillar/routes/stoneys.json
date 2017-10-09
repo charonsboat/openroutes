@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "stoneys",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Stoneys",
+        "types": [
+            "unknown"
+        ]
+    }
+}

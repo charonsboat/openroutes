@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "bears_delight",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Bear's Delight",
+        "types": [
+            "unknown"
+        ]
+    }
+}

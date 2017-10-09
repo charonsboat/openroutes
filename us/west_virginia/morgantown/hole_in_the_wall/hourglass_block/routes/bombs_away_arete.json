@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hourglass_block",
+        "stub": "bombs_away_arete",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Bombs Away Arete",
+        "types": [
+            "top rope"
+        ]
+    }
+}

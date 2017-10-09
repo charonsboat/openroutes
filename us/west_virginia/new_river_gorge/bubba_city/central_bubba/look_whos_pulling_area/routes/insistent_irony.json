@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "insistent_irony",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Insistent Irony",
+        "types": [
+            "sport"
+        ]
+    }
+}

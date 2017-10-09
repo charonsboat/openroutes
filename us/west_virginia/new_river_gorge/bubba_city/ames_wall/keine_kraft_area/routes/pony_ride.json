@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "keine_kraft_area",
+        "stub": "pony_ride",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "Pony Ride",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ames_wall",
+        "stub": "discogenic",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Discogenic",
+        "types": [
+            "unknown"
+        ]
+    }
+}

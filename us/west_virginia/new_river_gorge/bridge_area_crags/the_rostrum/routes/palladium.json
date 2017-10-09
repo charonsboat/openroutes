@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_rostrum",
+        "stub": "palladium",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Palladium",
+        "types": [
+            "unknown"
+        ]
+    }
+}

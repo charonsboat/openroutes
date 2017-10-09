@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "romulus_and_remus",
+        "stub": "raindrop",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Raindrop",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ladders_area",
+        "stub": "up_up_and_away",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Up, Up, and Away",
+        "types": [
+            "unknown"
+        ]
+    }
+}

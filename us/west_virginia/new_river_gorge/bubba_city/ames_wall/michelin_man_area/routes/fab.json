@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "michelin_man_area",
+        "stub": "fab",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "F.A.B.",
+        "types": [
+            "unknown"
+        ]
+    }
+}

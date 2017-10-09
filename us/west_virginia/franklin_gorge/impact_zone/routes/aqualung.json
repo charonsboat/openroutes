@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "aqualung",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Aqualung",
+        "types": [
+            "sport"
+        ]
+    }
+}

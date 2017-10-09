@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "razor_arete_sit",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v9",
+        "name": "Razor Arete - sit",
+        "types": [
+            "boulder"
+        ]
+    }
+}

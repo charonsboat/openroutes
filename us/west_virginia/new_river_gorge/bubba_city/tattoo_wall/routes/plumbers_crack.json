@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tattoo_wall",
+        "stub": "plumbers_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Plumber's Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

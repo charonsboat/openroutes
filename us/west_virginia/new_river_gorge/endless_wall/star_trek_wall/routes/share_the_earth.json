@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "star_trek_wall",
+        "stub": "share_the_earth",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Share The Earth",
+        "types": [
+            "unknown"
+        ]
+    }
+}

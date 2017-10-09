@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rico_suave_buttress",
+        "stub": "consumer_liability",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Consumer Liability",
+        "types": [
+            "unknown"
+        ]
+    }
+}

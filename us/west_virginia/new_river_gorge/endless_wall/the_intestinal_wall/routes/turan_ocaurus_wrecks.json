@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_intestinal_wall",
+        "stub": "turan_ocaurus_wrecks",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Turan-Ocaurus Wrecks",
+        "types": [
+            "sport"
+        ]
+    }
+}

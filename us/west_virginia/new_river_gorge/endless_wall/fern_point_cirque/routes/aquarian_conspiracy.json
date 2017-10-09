@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point_cirque",
+        "stub": "aquarian_conspiracy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Aquarian Conspiracy",
+        "types": [
+            "unknown"
+        ]
+    }
+}

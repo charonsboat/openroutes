@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "rappel_downs_horserace",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7 r",
+        "name": "Rappel Downs Horserace",
+        "types": [
+            "unknown"
+        ]
+    }
+}

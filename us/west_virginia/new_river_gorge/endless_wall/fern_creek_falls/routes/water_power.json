@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_creek_falls",
+        "stub": "water_power",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Water Power",
+        "types": [
+            "unknown"
+        ]
+    }
+}

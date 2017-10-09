@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central",
+        "stub": "two_tone_arrete",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Two Tone Arrete",
+        "types": [
+            "sport"
+        ]
+    }
+}

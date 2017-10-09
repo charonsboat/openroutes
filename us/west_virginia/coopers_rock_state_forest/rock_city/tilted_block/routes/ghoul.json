@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_block",
+        "stub": "ghoul",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9 v0-",
+        "name": "Ghoul",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "entrance_boulders",
+        "stub": "sucrose",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Sucrose",
+        "types": [
+            "boulder"
+        ]
+    }
+}

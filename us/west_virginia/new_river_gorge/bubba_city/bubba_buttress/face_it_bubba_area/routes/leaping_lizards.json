@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "face_it_bubba_area",
+        "stub": "leaping_lizards",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Leaping Lizards",
+        "types": [
+            "sport"
+        ]
+    }
+}

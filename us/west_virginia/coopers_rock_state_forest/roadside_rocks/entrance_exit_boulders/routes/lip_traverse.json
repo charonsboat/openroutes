@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "entrance_exit_boulders",
+        "stub": "lip_traverse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0+",
+        "name": "Lip Traverse",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central_bridge_wall",
+        "stub": "akron_motor_speedway",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Akron Motor Speedway",
+        "types": [
+            "sport"
+        ]
+    }
+}

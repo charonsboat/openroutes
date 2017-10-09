@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bell_wall",
+        "stub": "summers_eve",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d x",
+        "name": "Summers Eve",
+        "types": [
+            "unknown"
+        ]
+    }
+}

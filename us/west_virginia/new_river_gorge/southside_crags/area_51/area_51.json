@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "southside_crags",
+        "stub": "area_51",
+        "type": "region"
+    },
+    "info": {
+        "name": "Area 51"
+    }
+}

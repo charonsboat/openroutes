@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "rock_n_roll_hours",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Rock 'N Roll Hours",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "franklin_gorge",
+        "stub": "contact_zone",
+        "type": "region"
+    },
+    "info": {
+        "name": "Contact Zone"
+    }
+}

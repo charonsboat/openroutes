@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "nelson_rocks",
+        "stub": "west_fin_east_face",
+        "type": "region"
+    },
+    "info": {
+        "name": "West Fin, East Face"
+    }
+}

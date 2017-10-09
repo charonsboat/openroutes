@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "fern_buttress",
+        "stub": "bosnian_buttress",
+        "type": "region"
+    },
+    "info": {
+        "name": "Bosnian Buttress"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "nestle_krunch_roof_direct_start",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Nestle Krunch Roof Direct Start",
+        "types": [
+            "unknown"
+        ]
+    }
+}

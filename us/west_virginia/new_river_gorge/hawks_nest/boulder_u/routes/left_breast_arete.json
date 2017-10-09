@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "boulder_u",
+        "stub": "left_breast_arete",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Left Breast Arete",
+        "types": [
+            "boulder"
+        ]
+    }
+}

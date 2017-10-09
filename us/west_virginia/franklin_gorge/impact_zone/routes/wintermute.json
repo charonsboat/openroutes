@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "wintermute",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Wintermute",
+        "types": [
+            "sport"
+        ]
+    }
+}

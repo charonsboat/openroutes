@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kaymoor_slab",
+        "stub": "riding_the_crest_of_a_wave",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Riding The Crest Of A Wave",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "blocks_area",
+        "stub": "chicks_roof",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Chick's Roof",
+        "types": [
+            "unknown"
+        ]
+    }
+}

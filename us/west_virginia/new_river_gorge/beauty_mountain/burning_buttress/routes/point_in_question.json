@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "burning_buttress",
+        "stub": "point_in_question",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Point In Question",
+        "types": [
+            "unknown"
+        ]
+    }
+}

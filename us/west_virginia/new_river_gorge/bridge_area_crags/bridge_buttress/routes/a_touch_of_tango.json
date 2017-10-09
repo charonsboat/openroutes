@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bridge_buttress",
+        "stub": "a_touch_of_tango",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "A Touch Of Tango",
+        "types": [
+            "trad"
+        ]
+    }
+}

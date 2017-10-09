@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_coliseum",
+        "stub": "mercy_seat",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "Mercy Seat",
+        "types": [
+            "unknown"
+        ]
+    }
+}

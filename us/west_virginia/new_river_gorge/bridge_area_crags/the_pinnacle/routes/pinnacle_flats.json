@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_pinnacle",
+        "stub": "pinnacle_flats",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Pinnacle Flats",
+        "types": [
+            "unknown"
+        ]
+    }
+}

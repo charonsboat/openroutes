@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cat_cliff",
+        "stub": "neuva_vida",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Neuva Vida",
+        "types": [
+            "unknown"
+        ]
+    }
+}

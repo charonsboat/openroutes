@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "coopers_rock_state_forest",
+        "stub": "roadside_rocks",
+        "type": "region"
+    },
+    "info": {
+        "name": "Roadside Rocks"
+    }
+}

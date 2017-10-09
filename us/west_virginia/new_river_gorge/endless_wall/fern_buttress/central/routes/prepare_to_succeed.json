@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central",
+        "stub": "prepare_to_succeed",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Prepare To Succeed",
+        "types": [
+            "unknown"
+        ]
+    }
+}

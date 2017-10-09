@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "unlimited_sky",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c r",
+        "name": "Unlimited Sky",
+        "types": [
+            "unknown"
+        ]
+    }
+}

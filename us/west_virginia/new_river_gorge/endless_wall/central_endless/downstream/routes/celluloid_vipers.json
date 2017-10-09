@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "celluloid_vipers",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Celluloid Vipers",
+        "types": [
+            "unknown"
+        ]
+    }
+}

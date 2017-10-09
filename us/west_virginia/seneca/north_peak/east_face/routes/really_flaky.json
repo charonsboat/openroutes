@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "really_flaky",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7 r",
+        "name": "Really Flaky",
+        "types": [
+            "unknown"
+        ]
+    }
+}

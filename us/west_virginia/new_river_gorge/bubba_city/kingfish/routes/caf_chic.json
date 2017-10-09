@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kingfish",
+        "stub": "caf_chic",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Café Chic",
+        "types": [
+            "sport"
+        ]
+    }
+}

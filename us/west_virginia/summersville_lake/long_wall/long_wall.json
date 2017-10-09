@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "summersville_lake",
+        "stub": "long_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Long Wall"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "south_bridge_wall",
+        "stub": "desperados_under_the_eaves",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Desperados Under The Eaves",
+        "types": [
+            "sport"
+        ]
+    }
+}

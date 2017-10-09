@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "shes_too_fat_for_me",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "She's Too Fat For Me",
+        "types": [
+            "unknown"
+        ]
+    }
+}

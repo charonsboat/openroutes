@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "permission_granted",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Permission Granted",
+        "types": [
+            "unknown"
+        ]
+    }
+}

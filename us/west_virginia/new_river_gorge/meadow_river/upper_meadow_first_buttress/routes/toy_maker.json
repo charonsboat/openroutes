@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_first_buttress",
+        "stub": "toy_maker",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Toy Maker",
+        "types": [
+            "unknown"
+        ]
+    }
+}

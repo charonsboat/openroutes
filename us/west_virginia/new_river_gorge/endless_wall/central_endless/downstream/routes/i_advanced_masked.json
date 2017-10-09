@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "i_advanced_masked",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "I Advanced Masked",
+        "types": [
+            "sport"
+        ]
+    }
+}

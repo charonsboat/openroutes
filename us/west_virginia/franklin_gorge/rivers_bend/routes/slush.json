@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rivers_bend",
+        "stub": "slush",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Slush",
+        "types": [
+            "sport"
+        ]
+    }
+}

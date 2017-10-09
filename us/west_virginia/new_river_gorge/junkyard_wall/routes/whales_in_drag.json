@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "whales_in_drag",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Whales In Drag",
+        "types": [
+            "trad"
+        ]
+    }
+}

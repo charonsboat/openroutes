@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "boulder_aa",
+        "stub": "c_section",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "C-Section",
+        "types": [
+            "boulder"
+        ]
+    }
+}

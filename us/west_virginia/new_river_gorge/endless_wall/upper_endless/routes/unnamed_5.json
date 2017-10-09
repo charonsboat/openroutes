@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "unnamed_5",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Unnamed 5",
+        "types": [
+            "unknown"
+        ]
+    }
+}

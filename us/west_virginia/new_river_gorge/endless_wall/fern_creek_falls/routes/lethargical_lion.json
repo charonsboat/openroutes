@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_creek_falls",
+        "stub": "lethargical_lion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Lethargical Lion",
+        "types": [
+            "unknown"
+        ]
+    }
+}

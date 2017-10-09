@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "bad_head_of_lettuce",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Bad Head Of Lettuce",
+        "types": [
+            "unknown"
+        ]
+    }
+}

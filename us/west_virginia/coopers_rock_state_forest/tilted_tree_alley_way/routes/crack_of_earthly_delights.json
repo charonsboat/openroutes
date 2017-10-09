@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "crack_of_earthly_delights",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "crack of earthly delights",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_big_blocks",
+        "stub": "zig_zag_wanderer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Zig-Zag Wanderer",
+        "types": [
+            "unknown"
+        ]
+    }
+}

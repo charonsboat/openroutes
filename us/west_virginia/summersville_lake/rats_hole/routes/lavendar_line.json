@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rats_hole",
+        "stub": "lavendar_line",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Lavendar Line",
+        "types": [
+            "unknown"
+        ]
+    }
+}

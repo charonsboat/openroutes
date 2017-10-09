@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bosnian_buttress",
+        "stub": "mr_workmans_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Mr Workman's Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

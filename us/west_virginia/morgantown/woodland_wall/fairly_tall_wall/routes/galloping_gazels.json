@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fairly_tall_wall",
+        "stub": "galloping_gazels",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Galloping Gazels",
+        "types": [
+            "unknown"
+        ]
+    }
+}

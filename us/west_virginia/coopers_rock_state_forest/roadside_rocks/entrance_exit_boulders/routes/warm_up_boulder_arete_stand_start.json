@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "entrance_exit_boulders",
+        "stub": "warm_up_boulder_arete_stand_start",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Warm-up Boulder Arete (stand start)",
+        "types": [
+            "boulder"
+        ]
+    }
+}

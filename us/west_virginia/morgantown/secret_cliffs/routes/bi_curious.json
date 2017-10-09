@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "secret_cliffs",
+        "stub": "bi_curious",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Bi-curious",
+        "types": [
+            "sport"
+        ]
+    }
+}

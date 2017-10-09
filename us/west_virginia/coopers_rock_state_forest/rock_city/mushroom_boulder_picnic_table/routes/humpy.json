@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mushroom_boulder_picnic_table",
+        "stub": "humpy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Humpy",
+        "types": [
+            "boulder"
+        ]
+    }
+}

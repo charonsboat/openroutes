@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "picnic_block",
+        "stub": "snakes_flake",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Snake's Flake",
+        "types": [
+            "unknown"
+        ]
+    }
+}

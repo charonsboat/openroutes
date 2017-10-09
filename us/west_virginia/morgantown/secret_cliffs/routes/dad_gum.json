@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "secret_cliffs",
+        "stub": "dad_gum",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Dad Gum",
+        "types": [
+            "sport"
+        ]
+    }
+}

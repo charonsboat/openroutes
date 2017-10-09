@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "thunder_buttress",
+        "stub": "right_son_of_thunder",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Right Son Of Thunder",
+        "types": [
+            "unknown"
+        ]
+    }
+}

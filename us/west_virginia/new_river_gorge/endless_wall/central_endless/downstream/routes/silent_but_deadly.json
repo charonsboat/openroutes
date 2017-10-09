@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "silent_but_deadly",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Silent But Deadly",
+        "types": [
+            "sport"
+        ]
+    }
+}

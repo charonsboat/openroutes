@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "blocks_area",
+        "stub": "warp_factor_iii",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Warp Factor III",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "super_mario_boulder",
+        "stub": "guides_route_right",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Guides Route, Right",
+        "types": [
+            "unknown"
+        ]
+    }
+}

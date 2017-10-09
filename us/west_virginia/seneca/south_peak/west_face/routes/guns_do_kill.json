@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "guns_do_kill",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Guns Do Kill",
+        "types": [
+            "unknown"
+        ]
+    }
+}

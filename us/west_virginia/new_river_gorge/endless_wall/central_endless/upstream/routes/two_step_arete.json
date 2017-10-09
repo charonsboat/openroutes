@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "two_step_arete",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Two Step Arete",
+        "types": [
+            "unknown"
+        ]
+    }
+}

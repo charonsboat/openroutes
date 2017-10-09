@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_pillar_south_face",
+        "stub": "sidewell",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Sidewell",
+        "types": [
+            "unknown"
+        ]
+    }
+}

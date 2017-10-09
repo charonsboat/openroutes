@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "parking_area_wall",
+        "stub": "odysseus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Odysseus",
+        "types": [
+            "sport"
+        ]
+    }
+}

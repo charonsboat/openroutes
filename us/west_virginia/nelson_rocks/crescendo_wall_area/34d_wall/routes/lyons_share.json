@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "34d_wall",
+        "stub": "lyons_share",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Lyons Share",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "keine_kraft_area",
+        "stub": "she_rides",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "She Rides",
+        "types": [
+            "sport"
+        ]
+    }
+}

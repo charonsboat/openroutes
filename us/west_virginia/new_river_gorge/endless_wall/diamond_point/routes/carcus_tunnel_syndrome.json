@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "carcus_tunnel_syndrome",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Carcus Tunnel Syndrome",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "modern_lovers",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Modern Lovers",
+        "types": [
+            "unknown"
+        ]
+    }
+}

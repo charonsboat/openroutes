@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bosnian_buttress",
+        "stub": "two_bag_face",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9 r",
+        "name": "Two Bag Face",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "face_it_bubba_area",
+        "stub": "just_plain_dirty",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Just Plain Dirty",
+        "types": [
+            "unknown"
+        ]
+    }
+}

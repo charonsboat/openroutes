@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunshine_wall",
+        "stub": "disco_apocalypse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Disco Apocalypse",
+        "types": [
+            "unknown"
+        ]
+    }
+}

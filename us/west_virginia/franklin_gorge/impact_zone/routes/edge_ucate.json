@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "edge_ucate",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Edge-U-Cate",
+        "types": [
+            "sport"
+        ]
+    }
+}

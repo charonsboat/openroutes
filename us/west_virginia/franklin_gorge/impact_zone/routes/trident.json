@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "trident",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Trident",
+        "types": [
+            "sport"
+        ]
+    }
+}

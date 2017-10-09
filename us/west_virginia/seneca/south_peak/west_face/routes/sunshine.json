@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "sunshine",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a r",
+        "name": "Sunshine",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "double_feature",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Double Feature",
+        "types": [
+            "sport"
+        ]
+    }
+}

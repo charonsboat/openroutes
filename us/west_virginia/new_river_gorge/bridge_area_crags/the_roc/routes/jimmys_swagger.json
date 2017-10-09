@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_roc",
+        "stub": "jimmys_swagger",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Jimmy's Swagger",
+        "types": [
+            "unknown"
+        ]
+    }
+}

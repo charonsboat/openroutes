@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_roc",
+        "stub": "promised_direct_start",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Promised Direct Start",
+        "types": [
+            "unknown"
+        ]
+    }
+}

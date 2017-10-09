@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_intestinal_wall",
+        "stub": "unnamed_2",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Unnamed 2",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "kaymoor",
+        "stub": "upper_kaymoor",
+        "type": "region"
+    },
+    "info": {
+        "name": "Upper Kaymoor"
+    }
+}

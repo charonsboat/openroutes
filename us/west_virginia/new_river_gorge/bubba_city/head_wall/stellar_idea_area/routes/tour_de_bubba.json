@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stellar_idea_area",
+        "stub": "tour_de_bubba",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Tour De Bubba",
+        "types": [
+            "unknown"
+        ]
+    }
+}

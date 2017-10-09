@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "walk_the_plank",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Walk The Plank",
+        "types": [
+            "sport"
+        ]
+    }
+}

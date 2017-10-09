@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_brain",
+        "stub": "mensa",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "M.E.N.S.A.",
+        "types": [
+            "sport"
+        ]
+    }
+}

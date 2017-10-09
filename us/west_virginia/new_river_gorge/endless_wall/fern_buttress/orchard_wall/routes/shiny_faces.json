@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orchard_wall",
+        "stub": "shiny_faces",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Shiny Faces",
+        "types": [
+            "unknown"
+        ]
+    }
+}

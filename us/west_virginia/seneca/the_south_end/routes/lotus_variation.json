@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "lotus_variation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "Lotus Variation",
+        "types": [
+            "unknown"
+        ]
+    }
+}

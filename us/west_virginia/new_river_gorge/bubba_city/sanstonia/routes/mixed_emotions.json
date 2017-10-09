@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sanstonia",
+        "stub": "mixed_emotions",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Mixed Emotions",
+        "types": [
+            "unknown"
+        ]
+    }
+}

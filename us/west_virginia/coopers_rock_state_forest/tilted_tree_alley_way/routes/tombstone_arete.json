@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "tombstone_arete",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "tombstone arete",
+        "types": [
+            "boulder"
+        ]
+    }
+}

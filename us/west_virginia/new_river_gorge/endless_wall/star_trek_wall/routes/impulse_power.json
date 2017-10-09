@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "star_trek_wall",
+        "stub": "impulse_power",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "Impulse Power",
+        "types": [
+            "unknown"
+        ]
+    }
+}

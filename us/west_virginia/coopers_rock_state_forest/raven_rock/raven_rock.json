@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "coopers_rock_state_forest",
+        "stub": "raven_rock",
+        "type": "region"
+    },
+    "info": {
+        "name": "Raven Rock"
+    }
+}

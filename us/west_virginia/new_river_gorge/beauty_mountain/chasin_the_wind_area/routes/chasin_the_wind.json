@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chasin_the_wind_area",
+        "stub": "chasin_the_wind",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Chasin' The Wind",
+        "types": [
+            "unknown"
+        ]
+    }
+}

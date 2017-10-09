@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "angelfire",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Angelfire",
+        "types": [
+            "sport"
+        ]
+    }
+}

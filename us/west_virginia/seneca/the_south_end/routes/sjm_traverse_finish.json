@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "sjm_traverse_finish",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "SJM Traverse Finish",
+        "types": [
+            "unknown"
+        ]
+    }
+}

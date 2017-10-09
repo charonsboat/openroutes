@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dc_memorial_boulder",
+        "stub": "spider_needs_a_thesaurus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Spider Needs a Thesaurus",
+        "types": [
+            "unknown"
+        ]
+    }
+}

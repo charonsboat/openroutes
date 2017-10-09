@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "nuttall_slab",
+        "stub": "fatn_happy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Fat'n Happy",
+        "types": [
+            "unknown"
+        ]
+    }
+}

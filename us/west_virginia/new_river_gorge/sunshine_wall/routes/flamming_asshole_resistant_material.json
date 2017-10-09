@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunshine_wall",
+        "stub": "flamming_asshole_resistant_material",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Flamming Asshole Resistant Material",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "star_trek_wall",
+        "stub": "no_sign_of_intelligent_life",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "No Sign Of Intelligent Life",
+        "types": [
+            "unknown"
+        ]
+    }
+}

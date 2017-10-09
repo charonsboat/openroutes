@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bimbo_buttress",
+        "stub": "airwaves",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Airwaves",
+        "types": [
+            "sport"
+        ]
+    }
+}

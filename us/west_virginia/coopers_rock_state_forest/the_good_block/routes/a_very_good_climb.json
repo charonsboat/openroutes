@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_good_block",
+        "stub": "a_very_good_climb",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "A Very Good Climb",
+        "types": [
+            "unknown"
+        ]
+    }
+}

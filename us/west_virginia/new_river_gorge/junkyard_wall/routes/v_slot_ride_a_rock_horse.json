@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "v_slot_ride_a_rock_horse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "V-Slot (Ride A Rock Horse)",
+        "types": [
+            "trad"
+        ]
+    }
+}

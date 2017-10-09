@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "celibate_mallard",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Celibate Mallard",
+        "types": [
+            "unknown"
+        ]
+    }
+}

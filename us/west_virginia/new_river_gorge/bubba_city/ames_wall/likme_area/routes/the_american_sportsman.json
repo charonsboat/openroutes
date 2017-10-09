@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "likme_area",
+        "stub": "the_american_sportsman",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "The American Sportsman",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "big_boss_man",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Big Boss Man",
+        "types": [
+            "sport"
+        ]
+    }
+}

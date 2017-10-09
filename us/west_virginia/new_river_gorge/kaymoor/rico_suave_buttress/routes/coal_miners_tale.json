@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rico_suave_buttress",
+        "stub": "coal_miners_tale",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Coal Miner's Tale",
+        "types": [
+            "sport"
+        ]
+    }
+}

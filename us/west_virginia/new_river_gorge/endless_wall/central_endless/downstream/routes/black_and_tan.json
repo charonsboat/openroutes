@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "black_and_tan",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Black And Tan",
+        "types": [
+            "trad"
+        ]
+    }
+}

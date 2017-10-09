@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_mungolian_wall",
+        "stub": "sunshine_daydream",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Sunshine Daydream",
+        "types": [
+            "unknown"
+        ]
+    }
+}

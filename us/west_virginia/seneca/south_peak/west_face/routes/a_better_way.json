@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "a_better_way",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "A Better Way",
+        "types": [
+            "unknown"
+        ]
+    }
+}

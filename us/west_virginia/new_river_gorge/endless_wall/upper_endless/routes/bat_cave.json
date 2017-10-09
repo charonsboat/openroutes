@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "bat_cave",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Bat Cave",
+        "types": [
+            "unknown"
+        ]
+    }
+}

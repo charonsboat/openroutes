@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_creek_falls",
+        "stub": "stop_the_presses_mr_thompson",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Stop The Presses, Mr. Thompson",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central_bridge_wall",
+        "stub": "big_als",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Big Al's",
+        "types": [
+            "unknown"
+        ]
+    }
+}

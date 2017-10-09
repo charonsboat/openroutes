@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_brain",
+        "stub": "brain_tweezers",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Brain Tweezers",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "shudder_bugger",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Shudder Bugger",
+        "types": [
+            "sport"
+        ]
+    }
+}

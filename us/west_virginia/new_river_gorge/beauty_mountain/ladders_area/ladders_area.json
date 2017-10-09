@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "beauty_mountain",
+        "stub": "ladders_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Ladders Area"
+    }
+}

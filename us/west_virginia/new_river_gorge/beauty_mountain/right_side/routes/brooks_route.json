@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "right_side",
+        "stub": "brooks_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Brooks Route",
+        "types": [
+            "sport"
+        ]
+    }
+}

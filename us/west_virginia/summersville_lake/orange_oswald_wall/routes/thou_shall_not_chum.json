@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orange_oswald_wall",
+        "stub": "thou_shall_not_chum",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Thou Shall Not Chum",
+        "types": [
+            "unknown"
+        ]
+    }
+}

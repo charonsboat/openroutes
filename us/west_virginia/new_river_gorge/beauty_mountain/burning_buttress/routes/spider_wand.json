@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "burning_buttress",
+        "stub": "spider_wand",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Spider Wand",
+        "types": [
+            "trad"
+        ]
+    }
+}

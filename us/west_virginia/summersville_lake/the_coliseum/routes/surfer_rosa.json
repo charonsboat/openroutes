@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_coliseum",
+        "stub": "surfer_rosa",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Surfer Rosa",
+        "types": [
+            "unknown"
+        ]
+    }
+}

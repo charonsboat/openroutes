@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "west_virginia",
+        "stub": "charleston",
+        "type": "region"
+    },
+    "info": {
+        "name": "Charleston"
+    }
+}

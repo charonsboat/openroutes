@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fairly_tall_wall",
+        "stub": "spider_walk",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Spider Walk",
+        "types": [
+            "unknown"
+        ]
+    }
+}

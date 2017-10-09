@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central",
+        "stub": "presto",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Presto",
+        "types": [
+            "unknown"
+        ]
+    }
+}

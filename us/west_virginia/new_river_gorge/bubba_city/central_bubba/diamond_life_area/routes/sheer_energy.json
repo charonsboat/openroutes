@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_life_area",
+        "stub": "sheer_energy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Sheer Energy",
+        "types": [
+            "sport"
+        ]
+    }
+}

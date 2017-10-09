@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_crescendo_wall",
+        "stub": "exalibur",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Exalibur",
+        "types": [
+            "unknown"
+        ]
+    }
+}

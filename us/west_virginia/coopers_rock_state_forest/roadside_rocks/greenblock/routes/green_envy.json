@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "greenblock",
+        "stub": "green_envy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Green Envy",
+        "types": [
+            "boulder"
+        ]
+    }
+}

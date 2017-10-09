@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "french_wall",
+        "stub": "bubba_down_under",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c r",
+        "name": "Bubba Down Under",
+        "types": [
+            "unknown"
+        ]
+    }
+}

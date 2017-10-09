@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point_cirque",
+        "stub": "hooked_on_bionics",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Hooked On Bionics",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hourglass_block",
+        "stub": "heavens_gate",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Heavens Gate",
+        "types": [
+            "sport"
+        ]
+    }
+}

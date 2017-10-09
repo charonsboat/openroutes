@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "castaways",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Castaways",
+        "types": [
+            "sport"
+        ]
+    }
+}

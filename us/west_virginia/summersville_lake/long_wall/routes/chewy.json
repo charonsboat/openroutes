@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "chewy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Chewy",
+        "types": [
+            "sport"
+        ]
+    }
+}

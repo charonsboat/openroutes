@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ameless_wall",
+        "stub": "bloodtest",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Bloodtest",
+        "types": [
+            "unknown"
+        ]
+    }
+}

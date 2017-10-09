@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bubba_buttress",
+        "stub": "celebration_ale",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Celebration Ale",
+        "types": [
+            "unknown"
+        ]
+    }
+}

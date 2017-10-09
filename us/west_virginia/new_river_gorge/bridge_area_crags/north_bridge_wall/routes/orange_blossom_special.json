@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "north_bridge_wall",
+        "stub": "orange_blossom_special",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Orange Blossom Special",
+        "types": [
+            "unknown"
+        ]
+    }
+}

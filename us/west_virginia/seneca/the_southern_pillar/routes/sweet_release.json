@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "sweet_release",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Sweet Release",
+        "types": [
+            "unknown"
+        ]
+    }
+}

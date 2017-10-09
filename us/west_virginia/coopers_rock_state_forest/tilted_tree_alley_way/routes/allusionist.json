@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "allusionist",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v7",
+        "name": "Allusionist",
+        "types": [
+            "boulder"
+        ]
+    }
+}

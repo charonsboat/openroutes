@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "sloping_rail",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Sloping Rail",
+        "types": [
+            "boulder"
+        ]
+    }
+}

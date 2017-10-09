@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "rox_salt",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Rox Salt",
+        "types": [
+            "unknown"
+        ]
+    }
+}

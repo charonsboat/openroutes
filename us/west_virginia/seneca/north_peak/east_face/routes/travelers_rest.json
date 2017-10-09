@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "travelers_rest",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Traveler's Rest",
+        "types": [
+            "unknown"
+        ]
+    }
+}

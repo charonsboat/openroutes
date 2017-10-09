@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "even_cowgirls_get_the_blues",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Even Cowgirls Get The Blues",
+        "types": [
+            "unknown"
+        ]
+    }
+}

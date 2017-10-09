@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ames_wall",
+        "stub": "powerful_opposition",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Powerful Opposition",
+        "types": [
+            "unknown"
+        ]
+    }
+}

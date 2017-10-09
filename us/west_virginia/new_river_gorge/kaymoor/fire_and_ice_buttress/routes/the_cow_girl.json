@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fire_and_ice_buttress",
+        "stub": "the_cow_girl",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "The Cow Girl",
+        "types": [
+            "sport"
+        ]
+    }
+}

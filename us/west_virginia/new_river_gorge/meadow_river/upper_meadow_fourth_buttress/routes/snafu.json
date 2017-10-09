@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_fourth_buttress",
+        "stub": "snafu",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "S.N.A.F.U.",
+        "types": [
+            "unknown"
+        ]
+    }
+}

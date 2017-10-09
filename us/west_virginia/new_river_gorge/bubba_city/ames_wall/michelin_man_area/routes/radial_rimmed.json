@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "michelin_man_area",
+        "stub": "radial_rimmed",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Radial Rimmed",
+        "types": [
+            "sport"
+        ]
+    }
+}

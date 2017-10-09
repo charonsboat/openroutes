@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_pinnacle",
+        "stub": "spams_across_america",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Spams Across America",
+        "types": [
+            "unknown"
+        ]
+    }
+}

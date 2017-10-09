@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill",
+        "stub": "masuko",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Masuko",
+        "types": [
+            "sport"
+        ]
+    }
+}

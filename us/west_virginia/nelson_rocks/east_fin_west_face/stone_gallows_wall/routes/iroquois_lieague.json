@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stone_gallows_wall",
+        "stub": "iroquois_lieague",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Iroquois Lieague",
+        "types": [
+            "unknown"
+        ]
+    }
+}

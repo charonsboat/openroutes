@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "thunder_buttress",
+        "stub": "stabat_mater",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "Stabat Mater",
+        "types": [
+            "sport"
+        ]
+    }
+}

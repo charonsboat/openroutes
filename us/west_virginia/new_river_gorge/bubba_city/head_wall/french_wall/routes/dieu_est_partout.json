@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "french_wall",
+        "stub": "dieu_est_partout",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Dieu est Partout",
+        "types": [
+            "sport"
+        ]
+    }
+}

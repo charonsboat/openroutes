@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "new_river_gorge",
+        "stub": "bridge_area_crags",
+        "type": "region"
+    },
+    "info": {
+        "name": "Bridge Area Crags"
+    }
+}

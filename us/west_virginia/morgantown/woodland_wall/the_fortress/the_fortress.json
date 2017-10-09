@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "woodland_wall",
+        "stub": "the_fortress",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Fortress"
+    }
+}

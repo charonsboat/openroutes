@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orange_oswald_wall",
+        "stub": "scoot_your_muffin",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Scoot Your Muffin",
+        "types": [
+            "unknown"
+        ]
+    }
+}

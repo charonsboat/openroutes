@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "bottom",
+        "stub": "boulder_g",
+        "type": "region"
+    },
+    "info": {
+        "name": "Boulder G"
+    }
+}

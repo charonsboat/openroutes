@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "belly_of_the_whale",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Belly of The Whale",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "roadside_rocks",
+        "stub": "unknown_block",
+        "type": "region"
+    },
+    "info": {
+        "name": "Unknown Block"
+    }
+}

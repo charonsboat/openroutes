@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point_cirque",
+        "stub": "smore_energy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Smore Energy",
+        "types": [
+            "sport"
+        ]
+    }
+}

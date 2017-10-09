@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point_cirque",
+        "stub": "back_in_the_saddle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Back In The Saddle",
+        "types": [
+            "unknown"
+        ]
+    }
+}

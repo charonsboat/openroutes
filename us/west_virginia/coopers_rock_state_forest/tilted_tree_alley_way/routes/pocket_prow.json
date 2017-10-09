@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "pocket_prow",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v6",
+        "name": "Pocket Prow",
+        "types": [
+            "boulder"
+        ]
+    }
+}

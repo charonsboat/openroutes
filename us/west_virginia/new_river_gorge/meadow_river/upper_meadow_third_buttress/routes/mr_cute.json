@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_third_buttress",
+        "stub": "mr_cute",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Mr Cute",
+        "types": [
+            "sport"
+        ]
+    }
+}

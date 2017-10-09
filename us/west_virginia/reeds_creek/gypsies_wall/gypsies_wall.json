@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "reeds_creek",
+        "stub": "gypsies_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Gypsies Wall"
+    }
+}

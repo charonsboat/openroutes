@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orange_oswald_wall",
+        "stub": "unknown_face_to_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Unknown face to crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

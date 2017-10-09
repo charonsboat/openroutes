@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_fin_routes_to_be_merged_into_the_areas_above",
+        "stub": "pillar_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Pillar Direct",
+        "types": [
+            "unknown"
+        ]
+    }
+}

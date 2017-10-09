@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "bridge_area_crags",
+        "stub": "the_roc",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Roc"
+    }
+}

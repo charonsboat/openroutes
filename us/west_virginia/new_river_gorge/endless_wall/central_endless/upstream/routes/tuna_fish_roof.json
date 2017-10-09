@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "tuna_fish_roof",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Tuna Fish Roof",
+        "types": [
+            "unknown"
+        ]
+    }
+}

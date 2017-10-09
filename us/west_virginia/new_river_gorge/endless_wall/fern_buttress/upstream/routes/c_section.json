@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "c_section",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "C-Section",
+        "types": [
+            "sport"
+        ]
+    }
+}

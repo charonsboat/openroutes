@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "before_the_fall",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Before the Fall",
+        "types": [
+            "trad"
+        ]
+    }
+}

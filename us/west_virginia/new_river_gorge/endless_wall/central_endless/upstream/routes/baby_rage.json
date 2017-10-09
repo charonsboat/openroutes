@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "baby_rage",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Baby Rage",
+        "types": [
+            "sport"
+        ]
+    }
+}

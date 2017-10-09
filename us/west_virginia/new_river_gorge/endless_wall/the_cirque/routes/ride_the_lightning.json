@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_cirque",
+        "stub": "ride_the_lightning",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "Ride The Lightning",
+        "types": [
+            "sport"
+        ]
+    }
+}

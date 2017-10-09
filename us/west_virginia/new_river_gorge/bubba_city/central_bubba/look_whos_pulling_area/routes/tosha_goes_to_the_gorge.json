@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "tosha_goes_to_the_gorge",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Tosha Goes To The Gorge",
+        "types": [
+            "unknown"
+        ]
+    }
+}

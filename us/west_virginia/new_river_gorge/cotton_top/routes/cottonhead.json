@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cotton_top",
+        "stub": "cottonhead",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Cottonhead",
+        "types": [
+            "sport"
+        ]
+    }
+}

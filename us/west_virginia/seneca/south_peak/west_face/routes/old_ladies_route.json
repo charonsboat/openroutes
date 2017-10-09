@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "old_ladies_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.2",
+        "name": "Old Ladies' Route",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "shaolin_mantis",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b to 5.11c",
+        "name": "Shaolin Mantis",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_slabs",
+        "stub": "death_by_abunga",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9 r",
+        "name": "Death By Abunga",
+        "types": [
+            "unknown"
+        ]
+    }
+}

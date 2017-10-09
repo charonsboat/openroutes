@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_mungolian_wall",
+        "stub": "slide_rule",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Slide Rule",
+        "types": [
+            "sport"
+        ]
+    }
+}

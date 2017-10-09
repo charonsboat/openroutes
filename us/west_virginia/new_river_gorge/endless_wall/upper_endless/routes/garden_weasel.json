@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "garden_weasel",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Garden Weasel",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "lapping_the_sap",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Lapping The Sap",
+        "types": [
+            "trad"
+        ]
+    }
+}

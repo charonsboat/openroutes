@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "thais",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Thais",
+        "types": [
+            "unknown"
+        ]
+    }
+}

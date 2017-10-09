@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cat_cliff",
+        "stub": "more_bum_more_fun",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "More Bum, More Fun",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "sweet_potatoe",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Sweet Potatoe",
+        "types": [
+            "unknown"
+        ]
+    }
+}

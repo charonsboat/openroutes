@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill_left",
+        "stub": "aimees_jugs",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Aimee's Jugs",
+        "types": [
+            "sport"
+        ]
+    }
+}

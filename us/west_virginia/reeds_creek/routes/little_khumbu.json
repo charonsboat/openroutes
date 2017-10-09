@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "little_khumbu",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Little Khumbu",
+        "types": [
+            "sport"
+        ]
+    }
+}

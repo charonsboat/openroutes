@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "bubbas_lament",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Bubba's Lament",
+        "types": [
+            "unknown"
+        ]
+    }
+}

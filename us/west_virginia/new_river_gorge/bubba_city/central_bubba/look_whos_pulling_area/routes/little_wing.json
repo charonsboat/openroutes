@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "little_wing",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Little Wing",
+        "types": [
+            "sport"
+        ]
+    }
+}

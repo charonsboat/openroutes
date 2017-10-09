@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "doce_doe",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Doce Doe",
+        "types": [
+            "unknown"
+        ]
+    }
+}

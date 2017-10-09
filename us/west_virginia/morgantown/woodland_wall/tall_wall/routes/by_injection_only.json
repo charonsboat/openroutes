@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tall_wall",
+        "stub": "by_injection_only",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "By Injection Only",
+        "types": [
+            "unknown"
+        ]
+    }
+}

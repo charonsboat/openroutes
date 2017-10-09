@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_slabs",
+        "stub": "it_aint_the_meat_its_the_motion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "It Ain't the Meat, It's the Motion",
+        "types": [
+            "unknown"
+        ]
+    }
+}

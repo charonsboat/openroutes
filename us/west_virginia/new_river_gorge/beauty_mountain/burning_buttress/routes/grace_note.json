@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "burning_buttress",
+        "stub": "grace_note",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Grace Note",
+        "types": [
+            "sport"
+        ]
+    }
+}

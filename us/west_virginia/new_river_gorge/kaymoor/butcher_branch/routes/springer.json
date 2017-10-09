@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "butcher_branch",
+        "stub": "springer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Springer",
+        "types": [
+            "sport"
+        ]
+    }
+}

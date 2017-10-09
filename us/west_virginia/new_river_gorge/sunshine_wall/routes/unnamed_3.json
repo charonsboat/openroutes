@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunshine_wall",
+        "stub": "unnamed_3",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Unnamed 3",
+        "types": [
+            "unknown"
+        ]
+    }
+}

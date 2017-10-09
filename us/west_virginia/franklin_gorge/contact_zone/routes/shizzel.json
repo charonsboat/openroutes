@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "contact_zone",
+        "stub": "shizzel",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Shizzel",
+        "types": [
+            "sport"
+        ]
+    }
+}

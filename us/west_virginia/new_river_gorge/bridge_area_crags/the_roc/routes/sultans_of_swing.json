@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_roc",
+        "stub": "sultans_of_swing",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Sultans Of Swing",
+        "types": [
+            "unknown"
+        ]
+    }
+}

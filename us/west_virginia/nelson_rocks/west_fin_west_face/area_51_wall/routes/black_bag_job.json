@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "area_51_wall",
+        "stub": "black_bag_job",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "Black Bag Job",
+        "types": [
+            "unknown"
+        ]
+    }
+}

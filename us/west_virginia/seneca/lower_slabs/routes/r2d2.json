@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_slabs",
+        "stub": "r2d2",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "R2D2",
+        "types": [
+            "unknown"
+        ]
+    }
+}

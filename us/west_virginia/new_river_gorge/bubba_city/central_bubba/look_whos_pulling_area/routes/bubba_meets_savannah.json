@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "bubba_meets_savannah",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Bubba Meets Savannah",
+        "types": [
+            "sport"
+        ]
+    }
+}

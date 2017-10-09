@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunset_wall_jimi_cliff",
+        "stub": "tweaker",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11-",
+        "name": "Tweaker",
+        "types": [
+            "unknown"
+        ]
+    }
+}

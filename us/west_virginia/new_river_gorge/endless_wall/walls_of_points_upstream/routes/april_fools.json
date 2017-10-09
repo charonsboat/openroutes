@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "walls_of_points_upstream",
+        "stub": "april_fools",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "April Fools",
+        "types": [
+            "unknown"
+        ]
+    }
+}

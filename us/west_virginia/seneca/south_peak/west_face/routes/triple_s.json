@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "triple_s",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Triple S",
+        "types": [
+            "trad"
+        ]
+    }
+}

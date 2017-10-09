@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "overlook_buttress",
+        "stub": "the_butler",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "The Butler",
+        "types": [
+            "unknown"
+        ]
+    }
+}

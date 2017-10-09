@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "burning_buttress",
+        "stub": "the_will_to_power",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c r",
+        "name": "The Will To Power",
+        "types": [
+            "unknown"
+        ]
+    }
+}

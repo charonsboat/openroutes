@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "west_virginia",
+        "stub": "bozoo",
+        "type": "region"
+    },
+    "info": {
+        "name": "Bozoo"
+    }
+}

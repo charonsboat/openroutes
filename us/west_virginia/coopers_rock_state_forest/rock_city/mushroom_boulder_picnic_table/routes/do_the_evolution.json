@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mushroom_boulder_picnic_table",
+        "stub": "do_the_evolution",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "Do the Evolution",
+        "types": [
+            "boulder"
+        ]
+    }
+}

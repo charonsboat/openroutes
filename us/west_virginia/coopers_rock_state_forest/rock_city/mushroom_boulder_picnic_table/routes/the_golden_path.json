@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mushroom_boulder_picnic_table",
+        "stub": "the_golden_path",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "The Golden Path",
+        "types": [
+            "boulder"
+        ]
+    }
+}

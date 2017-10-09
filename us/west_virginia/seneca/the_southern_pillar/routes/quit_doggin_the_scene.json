@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "quit_doggin_the_scene",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Quit Doggin' the Scene",
+        "types": [
+            "unknown"
+        ]
+    }
+}

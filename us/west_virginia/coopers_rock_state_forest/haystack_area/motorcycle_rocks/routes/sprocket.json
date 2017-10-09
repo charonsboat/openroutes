@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "motorcycle_rocks",
+        "stub": "sprocket",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Sprocket",
+        "types": [
+            "boulder"
+        ]
+    }
+}

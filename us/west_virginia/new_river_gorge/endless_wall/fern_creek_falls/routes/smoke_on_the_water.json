@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_creek_falls",
+        "stub": "smoke_on_the_water",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Smoke On The Water",
+        "types": [
+            "unknown"
+        ]
+    }
+}

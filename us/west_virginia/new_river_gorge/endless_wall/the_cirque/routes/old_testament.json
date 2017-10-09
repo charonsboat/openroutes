@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_cirque",
+        "stub": "old_testament",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Old Testament",
+        "types": [
+            "unknown"
+        ]
+    }
+}

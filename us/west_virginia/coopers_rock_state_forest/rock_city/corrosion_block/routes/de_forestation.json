@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "corrosion_block",
+        "stub": "de_forestation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0+",
+        "name": "De-Forestation",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "the_sorcerer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "The Sorcerer",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_coliseum",
+        "stub": "lobbying_in_the_crumble",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Lobbying in the Crumble",
+        "types": [
+            "unknown"
+        ]
+    }
+}

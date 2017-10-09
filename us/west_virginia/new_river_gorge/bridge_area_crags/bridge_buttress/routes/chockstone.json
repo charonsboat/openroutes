@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bridge_buttress",
+        "stub": "chockstone",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Chockstone",
+        "types": [
+            "trad"
+        ]
+    }
+}

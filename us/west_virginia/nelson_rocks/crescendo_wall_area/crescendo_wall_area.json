@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "nelson_rocks",
+        "stub": "crescendo_wall_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Crescendo Wall Area"
+    }
+}

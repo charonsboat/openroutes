@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bell_wall",
+        "stub": "madmen_only",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Madmen Only",
+        "types": [
+            "unknown"
+        ]
+    }
+}

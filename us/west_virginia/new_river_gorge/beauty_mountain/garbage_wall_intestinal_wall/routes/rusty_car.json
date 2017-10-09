@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "garbage_wall_intestinal_wall",
+        "stub": "rusty_car",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Rusty Car",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "right_side",
+        "stub": "sharkeys_day",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Sharkey's Day",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chasin_the_wind_area",
+        "stub": "the_zoomin_human",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "The Zoomin' Human",
+        "types": [
+            "unknown"
+        ]
+    }
+}

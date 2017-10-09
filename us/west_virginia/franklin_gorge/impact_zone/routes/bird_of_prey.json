@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "bird_of_prey",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Bird of Prey",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "the_acid_atomizer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "The Acid Atomizer",
+        "types": [
+            "unknown"
+        ]
+    }
+}

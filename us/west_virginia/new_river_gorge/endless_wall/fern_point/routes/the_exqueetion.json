@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "the_exqueetion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "The Exqueetion",
+        "types": [
+            "sport"
+        ]
+    }
+}

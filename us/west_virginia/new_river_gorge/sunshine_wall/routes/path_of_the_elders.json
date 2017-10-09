@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunshine_wall",
+        "stub": "path_of_the_elders",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Path Of The Elders",
+        "types": [
+            "unknown"
+        ]
+    }
+}

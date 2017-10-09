@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orchard_wall",
+        "stub": "bisect",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Bisect",
+        "types": [
+            "trad"
+        ]
+    }
+}

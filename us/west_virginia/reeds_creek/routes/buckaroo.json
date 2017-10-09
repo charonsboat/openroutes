@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "buckaroo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Buckaroo",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roundhouse_boulder",
+        "stub": "roundhouse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "Roundhouse",
+        "types": [
+            "boulder"
+        ]
+    }
+}

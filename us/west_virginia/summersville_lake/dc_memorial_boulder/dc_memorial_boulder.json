@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "summersville_lake",
+        "stub": "dc_memorial_boulder",
+        "type": "region"
+    },
+    "info": {
+        "name": "D.C. Memorial Boulder"
+    }
+}

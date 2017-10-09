@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tattoo_wall",
+        "stub": "assman",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Assman",
+        "types": [
+            "unknown"
+        ]
+    }
+}

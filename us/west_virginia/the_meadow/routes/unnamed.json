@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_meadow",
+        "stub": "unnamed",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Unnamed",
+        "types": [
+            "unknown"
+        ]
+    }
+}

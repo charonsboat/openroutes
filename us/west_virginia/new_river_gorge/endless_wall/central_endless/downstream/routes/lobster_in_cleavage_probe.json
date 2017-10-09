@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "lobster_in_cleavage_probe",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Lobster In Cleavage Probe",
+        "types": [
+            "unknown"
+        ]
+    }
+}

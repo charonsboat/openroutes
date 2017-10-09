@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rubble_rock",
+        "stub": "mercenary_territory",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Mercenary Territory",
+        "types": [
+            "unknown"
+        ]
+    }
+}

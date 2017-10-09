@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "gunsight_notch_east",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Gunsight Notch East",
+        "types": [
+            "unknown"
+        ]
+    }
+}

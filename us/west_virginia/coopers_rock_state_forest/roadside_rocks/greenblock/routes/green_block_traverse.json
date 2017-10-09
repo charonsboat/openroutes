@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "greenblock",
+        "stub": "green_block_traverse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Green Block Traverse",
+        "types": [
+            "boulder"
+        ]
+    }
+}

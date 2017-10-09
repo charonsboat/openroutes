@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roof_rocks",
+        "stub": "rastafarian_roof",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11-",
+        "name": "Rastafarian Roof",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ceiling_block",
+        "stub": "roses_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Roses Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

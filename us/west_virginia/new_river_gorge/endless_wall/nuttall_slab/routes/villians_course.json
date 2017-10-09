@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "nuttall_slab",
+        "stub": "villians_course",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "Villian's Course",
+        "types": [
+            "sport"
+        ]
+    }
+}

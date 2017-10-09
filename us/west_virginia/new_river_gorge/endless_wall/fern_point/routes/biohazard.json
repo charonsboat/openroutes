@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "biohazard",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Biohazard",
+        "types": [
+            "unknown"
+        ]
+    }
+}

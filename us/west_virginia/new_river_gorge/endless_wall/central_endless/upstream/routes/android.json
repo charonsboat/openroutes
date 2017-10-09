@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "android",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Android",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "ames_wall",
+        "stub": "likme_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Likme Area"
+    }
+}

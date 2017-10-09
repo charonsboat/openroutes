@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fairly_tall_wall",
+        "stub": "lumber_jack_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Lumber Jack Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

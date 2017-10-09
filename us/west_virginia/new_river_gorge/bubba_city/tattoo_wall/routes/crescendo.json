@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tattoo_wall",
+        "stub": "crescendo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Crescendo",
+        "types": [
+            "unknown"
+        ]
+    }
+}

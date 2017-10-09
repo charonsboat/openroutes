@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "conditioning_wall",
+        "stub": "quickie_in_the_molars",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Quickie In The Molars",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_big_blocks",
+        "stub": "organic_matter",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Organic Matter",
+        "types": [
+            "unknown"
+        ]
+    }
+}

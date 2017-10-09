@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bimbo_buttress",
+        "stub": "learning_curve",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Learning Curve",
+        "types": [
+            "sport"
+        ]
+    }
+}

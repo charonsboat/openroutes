@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "super_mario_boulder",
+        "stub": "in_the_palm_of_his_hand",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "In The Palm of His Hand",
+        "types": [
+            "unknown"
+        ]
+    }
+}

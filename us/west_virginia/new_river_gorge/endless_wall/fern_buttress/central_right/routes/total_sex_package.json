@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central_right",
+        "stub": "total_sex_package",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Total Sex Package",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "fantasy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Fantasy",
+        "types": [
+            "unknown"
+        ]
+    }
+}

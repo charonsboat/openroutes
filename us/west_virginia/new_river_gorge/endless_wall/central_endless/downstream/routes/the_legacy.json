@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "the_legacy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "The Legacy",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "nuttall_slab",
+        "stub": "the_meaty_urologist",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "The Meaty-Urologist",
+        "types": [
+            "sport"
+        ]
+    }
+}

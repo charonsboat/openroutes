@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "burning_buttress",
+        "stub": "ad_lib",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Ad Lib",
+        "types": [
+            "sport"
+        ]
+    }
+}

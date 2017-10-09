@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "endless_wall",
+        "stub": "upper_endless",
+        "type": "region"
+    },
+    "info": {
+        "name": "Upper Endless"
+    }
+}

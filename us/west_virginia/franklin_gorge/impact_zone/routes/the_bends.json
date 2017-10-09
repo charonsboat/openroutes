@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "the_bends",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "The Bends",
+        "types": [
+            "sport"
+        ]
+    }
+}

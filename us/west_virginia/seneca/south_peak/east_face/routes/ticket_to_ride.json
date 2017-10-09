@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "ticket_to_ride",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Ticket To Ride",
+        "types": [
+            "unknown"
+        ]
+    }
+}

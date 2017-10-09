@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point_cirque",
+        "stub": "radford_rockers",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Radford Rockers",
+        "types": [
+            "unknown"
+        ]
+    }
+}

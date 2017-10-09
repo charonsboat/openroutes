@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "october_surprise",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "October Surprise",
+        "types": [
+            "sport"
+        ]
+    }
+}

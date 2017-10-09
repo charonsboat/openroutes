@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "flying_sideways",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Flying Sideways",
+        "types": [
+            "trad"
+        ]
+    }
+}

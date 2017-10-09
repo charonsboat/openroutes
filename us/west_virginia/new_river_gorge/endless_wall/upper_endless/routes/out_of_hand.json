@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "out_of_hand",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Out Of Hand",
+        "types": [
+            "unknown"
+        ]
+    }
+}

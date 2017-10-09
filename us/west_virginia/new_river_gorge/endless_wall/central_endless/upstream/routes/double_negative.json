@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "double_negative",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9 x",
+        "name": "Double Negative",
+        "types": [
+            "unknown"
+        ]
+    }
+}

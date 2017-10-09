@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_slabs",
+        "stub": "the_warlock",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "The Warlock",
+        "types": [
+            "unknown"
+        ]
+    }
+}

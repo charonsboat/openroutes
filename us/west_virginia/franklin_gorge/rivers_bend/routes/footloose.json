@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rivers_bend",
+        "stub": "footloose",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Footloose",
+        "types": [
+            "sport"
+        ]
+    }
+}

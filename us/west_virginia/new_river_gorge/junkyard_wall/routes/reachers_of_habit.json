@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "reachers_of_habit",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Reachers Of Habit",
+        "types": [
+            "sport"
+        ]
+    }
+}

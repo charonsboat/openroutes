@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fairly_tall_wall",
+        "stub": "load_warriors",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Load Warriors",
+        "types": [
+            "unknown"
+        ]
+    }
+}

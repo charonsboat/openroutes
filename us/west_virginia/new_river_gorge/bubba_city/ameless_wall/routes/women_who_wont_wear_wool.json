@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ameless_wall",
+        "stub": "women_who_wont_wear_wool",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Women Who Won't Wear Wool",
+        "types": [
+            "unknown"
+        ]
+    }
+}

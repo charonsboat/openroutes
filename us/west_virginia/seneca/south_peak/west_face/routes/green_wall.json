@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "green_wall",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Green Wall",
+        "types": [
+            "trad"
+        ]
+    }
+}

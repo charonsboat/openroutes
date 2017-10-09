@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_meadow",
+        "stub": "winter_harvest",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Winter Harvest",
+        "types": [
+            "sport"
+        ]
+    }
+}

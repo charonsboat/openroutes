@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_coliseum",
+        "stub": "tobacco_road",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Tobacco Road",
+        "types": [
+            "unknown"
+        ]
+    }
+}

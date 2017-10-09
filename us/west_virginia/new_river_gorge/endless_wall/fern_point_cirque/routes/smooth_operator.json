@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point_cirque",
+        "stub": "smooth_operator",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Smooth Operator",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "linear_encounters",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Linear Encounters",
+        "types": [
+            "unknown"
+        ]
+    }
+}

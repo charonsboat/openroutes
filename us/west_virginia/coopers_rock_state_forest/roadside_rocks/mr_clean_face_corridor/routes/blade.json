@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mr_clean_face_corridor",
+        "stub": "blade",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Blade",
+        "types": [
+            "boulder"
+        ]
+    }
+}

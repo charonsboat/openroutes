@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "greenblock",
+        "stub": "green_block_arete_sit",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Green Block Arete (sit)",
+        "types": [
+            "boulder"
+        ]
+    }
+}

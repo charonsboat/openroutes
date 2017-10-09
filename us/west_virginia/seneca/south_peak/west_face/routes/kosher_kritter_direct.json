@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "kosher_kritter_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Kosher Kritter Direct",
+        "types": [
+            "unknown"
+        ]
+    }
+}

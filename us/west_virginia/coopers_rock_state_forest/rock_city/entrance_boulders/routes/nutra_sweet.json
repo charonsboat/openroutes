@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "entrance_boulders",
+        "stub": "nutra_sweet",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Nutra-Sweet",
+        "types": [
+            "boulder"
+        ]
+    }
+}

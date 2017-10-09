@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "overlook_buttress",
+        "stub": "the_sandman",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "The Sandman",
+        "types": [
+            "unknown"
+        ]
+    }
+}

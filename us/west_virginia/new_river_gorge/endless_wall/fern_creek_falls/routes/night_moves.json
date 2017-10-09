@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_creek_falls",
+        "stub": "night_moves",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Night Moves",
+        "types": [
+            "unknown"
+        ]
+    }
+}

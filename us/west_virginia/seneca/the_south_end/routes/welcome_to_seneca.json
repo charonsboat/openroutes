@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "welcome_to_seneca",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Welcome to Seneca",
+        "types": [
+            "unknown"
+        ]
+    }
+}

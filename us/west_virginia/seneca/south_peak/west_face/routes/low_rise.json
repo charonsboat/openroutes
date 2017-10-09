@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "low_rise",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Low Rise",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "hunters_moon",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Hunter's Moon",
+        "types": [
+            "sport"
+        ]
+    }
+}

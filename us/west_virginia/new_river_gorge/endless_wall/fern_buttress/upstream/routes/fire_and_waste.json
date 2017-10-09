@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "fire_and_waste",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Fire And Waste",
+        "types": [
+            "unknown"
+        ]
+    }
+}

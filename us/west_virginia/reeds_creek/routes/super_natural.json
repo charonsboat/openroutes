@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "super_natural",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8 r",
+        "name": "Super Natural",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fairly_tall_wall",
+        "stub": "renaissance_woman",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Renaissance Woman",
+        "types": [
+            "unknown"
+        ]
+    }
+}

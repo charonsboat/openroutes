@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mushroom_boulder_picnic_table",
+        "stub": "dr_topout",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Dr. Topout",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "upper_crust",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Upper Crust",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rotten_log_corridor",
+        "stub": "easy_slab",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Easy Slab",
+        "types": [
+            "unknown"
+        ]
+    }
+}

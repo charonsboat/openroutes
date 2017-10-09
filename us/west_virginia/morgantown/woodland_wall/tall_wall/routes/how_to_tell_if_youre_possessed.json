@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tall_wall",
+        "stub": "how_to_tell_if_youre_possessed",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "How to Tell if You're Possessed",
+        "types": [
+            "unknown"
+        ]
+    }
+}

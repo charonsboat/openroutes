@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sanstonia",
+        "stub": "beef_boy_field_day",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Beef Boy Field Day",
+        "types": [
+            "unknown"
+        ]
+    }
+}

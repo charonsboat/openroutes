@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "dr_ruths_variation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Dr. Ruth's Variation",
+        "types": [
+            "unknown"
+        ]
+    }
+}

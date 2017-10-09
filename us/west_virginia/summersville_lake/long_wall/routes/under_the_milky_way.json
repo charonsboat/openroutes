@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "under_the_milky_way",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Under the Milky Way",
+        "types": [
+            "sport"
+        ]
+    }
+}

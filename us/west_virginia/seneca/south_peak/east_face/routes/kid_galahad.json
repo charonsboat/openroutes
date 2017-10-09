@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "kid_galahad",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Kid Galahad",
+        "types": [
+            "unknown"
+        ]
+    }
+}

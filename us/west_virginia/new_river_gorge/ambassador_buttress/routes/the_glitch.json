@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ambassador_buttress",
+        "stub": "the_glitch",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "The Glitch",
+        "types": [
+            "unknown"
+        ]
+    }
+}

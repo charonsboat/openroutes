@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "blocks_area",
+        "stub": "komatose",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Komatose",
+        "types": [
+            "sport"
+        ]
+    }
+}

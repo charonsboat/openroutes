@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "express_yourself",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Express Yourself",
+        "types": [
+            "sport"
+        ]
+    }
+}

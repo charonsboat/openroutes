@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "conditioning_wall",
+        "stub": "mud_and_guts",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Mud And Guts",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "bellybuttons",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Bellybuttons",
+        "types": [
+            "unknown"
+        ]
+    }
+}

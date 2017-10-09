@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rico_suave_buttress",
+        "stub": "preparation_h",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Preparation H",
+        "types": [
+            "sport"
+        ]
+    }
+}

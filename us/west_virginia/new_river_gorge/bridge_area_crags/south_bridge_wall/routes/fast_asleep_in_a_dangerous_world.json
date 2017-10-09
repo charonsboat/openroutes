@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "south_bridge_wall",
+        "stub": "fast_asleep_in_a_dangerous_world",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Fast Asleep In A Dangerous World",
+        "types": [
+            "unknown"
+        ]
+    }
+}

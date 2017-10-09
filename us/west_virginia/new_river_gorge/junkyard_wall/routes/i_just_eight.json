@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "i_just_eight",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "I Just Eight",
+        "types": [
+            "unknown"
+        ]
+    }
+}

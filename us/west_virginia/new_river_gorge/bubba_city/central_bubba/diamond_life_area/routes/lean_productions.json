@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_life_area",
+        "stub": "lean_productions",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Lean Productions",
+        "types": [
+            "sport"
+        ]
+    }
+}

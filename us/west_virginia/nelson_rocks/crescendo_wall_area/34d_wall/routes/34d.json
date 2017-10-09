@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "34d_wall",
+        "stub": "34d",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "34D",
+        "types": [
+            "unknown"
+        ]
+    }
+}

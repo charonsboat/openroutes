@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "north_bridge_wall",
+        "stub": "chattasuga_choo_choo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Chattasuga Choo-Choo",
+        "types": [
+            "unknown"
+        ]
+    }
+}

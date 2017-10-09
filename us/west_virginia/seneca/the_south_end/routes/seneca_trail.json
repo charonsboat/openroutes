@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "seneca_trail",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Seneca Trail",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central_right",
+        "stub": "optical_illusion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Optical Illusion",
+        "types": [
+            "unknown"
+        ]
+    }
+}

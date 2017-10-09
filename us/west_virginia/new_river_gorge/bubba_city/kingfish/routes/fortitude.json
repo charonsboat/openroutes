@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kingfish",
+        "stub": "fortitude",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c r",
+        "name": "Fortitude",
+        "types": [
+            "unknown"
+        ]
+    }
+}

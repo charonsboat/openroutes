@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_mungolian_wall",
+        "stub": "high_octane",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "High Octane",
+        "types": [
+            "unknown"
+        ]
+    }
+}

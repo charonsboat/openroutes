@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_crescendo_wall",
+        "stub": "bottom_line",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Bottom Line",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "roys_lament",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Roy's Lament",
+        "types": [
+            "unknown"
+        ]
+    }
+}

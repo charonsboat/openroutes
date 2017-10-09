@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_second_buttress",
+        "stub": "pistol_whip",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Pistol Whip",
+        "types": [
+            "unknown"
+        ]
+    }
+}

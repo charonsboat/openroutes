@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "new_river_gorge",
+        "stub": "sunshine_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Sunshine Wall"
+    }
+}

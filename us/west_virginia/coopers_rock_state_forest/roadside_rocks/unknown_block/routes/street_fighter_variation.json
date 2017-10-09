@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "unknown_block",
+        "stub": "street_fighter_variation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "Street Fighter Variation",
+        "types": [
+            "unknown"
+        ]
+    }
+}

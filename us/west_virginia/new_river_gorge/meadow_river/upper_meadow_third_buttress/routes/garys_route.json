@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_third_buttress",
+        "stub": "garys_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Gary's Route",
+        "types": [
+            "unknown"
+        ]
+    }
+}

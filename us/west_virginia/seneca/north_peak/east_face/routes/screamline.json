@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "screamline",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b x",
+        "name": "Screamline",
+        "types": [
+            "unknown"
+        ]
+    }
+}

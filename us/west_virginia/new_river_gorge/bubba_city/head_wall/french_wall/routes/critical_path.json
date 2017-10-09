@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "french_wall",
+        "stub": "critical_path",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Critical Path",
+        "types": [
+            "sport"
+        ]
+    }
+}

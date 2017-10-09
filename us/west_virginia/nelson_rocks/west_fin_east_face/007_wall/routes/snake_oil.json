@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "007_wall",
+        "stub": "snake_oil",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Snake Oil",
+        "types": [
+            "unknown"
+        ]
+    }
+}

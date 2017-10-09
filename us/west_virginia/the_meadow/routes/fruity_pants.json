@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_meadow",
+        "stub": "fruity_pants",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Fruity Pants",
+        "types": [
+            "unknown"
+        ]
+    }
+}

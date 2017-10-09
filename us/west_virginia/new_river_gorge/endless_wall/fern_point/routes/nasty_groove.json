@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "nasty_groove",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Nasty Groove",
+        "types": [
+            "unknown"
+        ]
+    }
+}

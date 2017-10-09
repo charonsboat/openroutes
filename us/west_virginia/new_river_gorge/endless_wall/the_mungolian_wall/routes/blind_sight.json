@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_mungolian_wall",
+        "stub": "blind_sight",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Blind Sight",
+        "types": [
+            "unknown"
+        ]
+    }
+}

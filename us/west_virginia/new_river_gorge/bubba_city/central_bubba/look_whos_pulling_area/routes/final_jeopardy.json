@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "final_jeopardy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Final Jeopardy",
+        "types": [
+            "sport"
+        ]
+    }
+}

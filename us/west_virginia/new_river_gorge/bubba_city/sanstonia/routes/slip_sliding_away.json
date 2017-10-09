@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sanstonia",
+        "stub": "slip_sliding_away",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Slip Sliding Away",
+        "types": [
+            "trad"
+        ]
+    }
+}

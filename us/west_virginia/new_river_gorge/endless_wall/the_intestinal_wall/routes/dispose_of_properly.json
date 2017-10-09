@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_intestinal_wall",
+        "stub": "dispose_of_properly",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Dispose Of Properly",
+        "types": [
+            "sport"
+        ]
+    }
+}

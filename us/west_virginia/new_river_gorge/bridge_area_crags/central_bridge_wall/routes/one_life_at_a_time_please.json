@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central_bridge_wall",
+        "stub": "one_life_at_a_time_please",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d r",
+        "name": "One Life At A Time, Please",
+        "types": [
+            "unknown"
+        ]
+    }
+}

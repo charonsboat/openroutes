@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "ames_wall",
+        "stub": "michelin_man_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Michelin Man Area"
+    }
+}

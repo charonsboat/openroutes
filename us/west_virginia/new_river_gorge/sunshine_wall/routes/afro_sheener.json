@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunshine_wall",
+        "stub": "afro_sheener",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Afro-Sheener",
+        "types": [
+            "unknown"
+        ]
+    }
+}

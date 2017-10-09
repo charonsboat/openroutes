@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "gut_feeling",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Gut Feeling",
+        "types": [
+            "unknown"
+        ]
+    }
+}

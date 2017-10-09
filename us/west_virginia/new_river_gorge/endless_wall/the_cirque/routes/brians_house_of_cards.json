@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_cirque",
+        "stub": "brians_house_of_cards",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13d",
+        "name": "Brian's House Of Cards",
+        "types": [
+            "unknown"
+        ]
+    }
+}

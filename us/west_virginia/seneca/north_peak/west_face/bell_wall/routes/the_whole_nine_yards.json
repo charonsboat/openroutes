@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bell_wall",
+        "stub": "the_whole_nine_yards",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "The Whole Nine Yards",
+        "types": [
+            "unknown"
+        ]
+    }
+}

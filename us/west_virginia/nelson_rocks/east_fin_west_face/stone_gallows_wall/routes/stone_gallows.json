@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stone_gallows_wall",
+        "stub": "stone_gallows",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Stone Gallows",
+        "types": [
+            "unknown"
+        ]
+    }
+}

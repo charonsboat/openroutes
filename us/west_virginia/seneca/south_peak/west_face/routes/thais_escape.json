@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "thais_escape",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.2",
+        "name": "Thais Escape",
+        "types": [
+            "unknown"
+        ]
+    }
+}

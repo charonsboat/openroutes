@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "the_grafenberg_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "The Grafenberg Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

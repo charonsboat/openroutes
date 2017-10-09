@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_pillar_south_face",
+        "stub": "eds_fudge_shop",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Ed's Fudge Shop",
+        "types": [
+            "unknown"
+        ]
+    }
+}

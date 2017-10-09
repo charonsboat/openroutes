@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sanstonia",
+        "stub": "risky_business",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Risky Business",
+        "types": [
+            "unknown"
+        ]
+    }
+}

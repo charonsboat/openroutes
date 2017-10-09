@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "new_river_gorge",
+        "stub": "keeneys_buttress",
+        "type": "region"
+    },
+    "info": {
+        "name": "Keeneys Buttress"
+    }
+}

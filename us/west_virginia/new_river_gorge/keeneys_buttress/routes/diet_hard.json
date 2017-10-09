@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "keeneys_buttress",
+        "stub": "diet_hard",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Diet Hard",
+        "types": [
+            "unknown"
+        ]
+    }
+}

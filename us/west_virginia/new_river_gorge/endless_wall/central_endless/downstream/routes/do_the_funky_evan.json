@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "do_the_funky_evan",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10 r",
+        "name": "Do The Funky Evan",
+        "types": [
+            "unknown"
+        ]
+    }
+}

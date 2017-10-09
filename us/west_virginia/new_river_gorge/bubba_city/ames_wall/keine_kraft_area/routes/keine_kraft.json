@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "keine_kraft_area",
+        "stub": "keine_kraft",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Keine Kraft",
+        "types": [
+            "sport"
+        ]
+    }
+}

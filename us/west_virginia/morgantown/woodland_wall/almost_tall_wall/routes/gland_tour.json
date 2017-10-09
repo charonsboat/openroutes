@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "almost_tall_wall",
+        "stub": "gland_tour",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Gland Tour",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "west_virginia",
+        "stub": "franklin_gorge",
+        "type": "region"
+    },
+    "info": {
+        "name": "Franklin Gorge"
+    }
+}

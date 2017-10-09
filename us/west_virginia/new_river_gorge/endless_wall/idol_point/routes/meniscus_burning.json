@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "idol_point",
+        "stub": "meniscus_burning",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Meniscus Burning",
+        "types": [
+            "unknown"
+        ]
+    }
+}

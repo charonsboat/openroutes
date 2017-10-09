@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_roc",
+        "stub": "gemini_crack_right",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Gemini Crack, Right",
+        "types": [
+            "unknown"
+        ]
+    }
+}

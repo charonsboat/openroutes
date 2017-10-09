@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ships_prow",
+        "stub": "unknown_low_roof",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "Unknown Low Roof",
+        "types": [
+            "boulder"
+        ]
+    }
+}

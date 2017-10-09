@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "secret_cliffs",
+        "stub": "calf_attack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Calf Attack",
+        "types": [
+            "sport"
+        ]
+    }
+}

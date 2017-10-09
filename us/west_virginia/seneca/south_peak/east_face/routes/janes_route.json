@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "janes_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.2",
+        "name": "Jane's Route",
+        "types": [
+            "unknown"
+        ]
+    }
+}

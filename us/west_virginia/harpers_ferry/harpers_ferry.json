@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "west_virginia",
+        "stub": "harpers_ferry",
+        "type": "region"
+    },
+    "info": {
+        "name": "Harper's Ferry"
+    }
+}

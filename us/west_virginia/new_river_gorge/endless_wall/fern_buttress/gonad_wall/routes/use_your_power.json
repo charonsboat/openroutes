@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "gonad_wall",
+        "stub": "use_your_power",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Use Your Power",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "one_for_one",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "One For One",
+        "types": [
+            "sport"
+        ]
+    }
+}

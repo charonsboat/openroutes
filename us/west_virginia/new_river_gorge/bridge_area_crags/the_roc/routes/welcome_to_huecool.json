@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_roc",
+        "stub": "welcome_to_huecool",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d r",
+        "name": "Welcome To Huecool",
+        "types": [
+            "unknown"
+        ]
+    }
+}

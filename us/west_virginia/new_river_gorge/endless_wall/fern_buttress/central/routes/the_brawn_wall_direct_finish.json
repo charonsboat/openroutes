@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central",
+        "stub": "the_brawn_wall_direct_finish",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "The Brawn Wall Direct Finish",
+        "types": [
+            "unknown"
+        ]
+    }
+}

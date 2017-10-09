@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orange_oswald_wall",
+        "stub": "orange_dihedral",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Orange Dihedral",
+        "types": [
+            "sport"
+        ]
+    }
+}

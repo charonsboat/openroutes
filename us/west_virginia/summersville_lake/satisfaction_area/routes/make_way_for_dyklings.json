@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "satisfaction_area",
+        "stub": "make_way_for_dyklings",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Make Way for Dyklings",
+        "types": [
+            "unknown"
+        ]
+    }
+}

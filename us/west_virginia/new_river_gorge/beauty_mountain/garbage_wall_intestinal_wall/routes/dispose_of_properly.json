@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "garbage_wall_intestinal_wall",
+        "stub": "dispose_of_properly",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Dispose of Properly",
+        "types": [
+            "unknown"
+        ]
+    }
+}

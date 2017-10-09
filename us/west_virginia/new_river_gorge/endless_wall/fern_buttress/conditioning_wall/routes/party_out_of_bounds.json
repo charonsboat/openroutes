@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "conditioning_wall",
+        "stub": "party_out_of_bounds",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Party Out Of Bounds",
+        "types": [
+            "unknown"
+        ]
+    }
+}

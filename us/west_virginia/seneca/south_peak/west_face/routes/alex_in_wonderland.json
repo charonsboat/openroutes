@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "alex_in_wonderland",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Alex in Wonderland",
+        "types": [
+            "trad"
+        ]
+    }
+}

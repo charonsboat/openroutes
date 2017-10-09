@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "white_wall",
+        "stub": "bozooka",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Bozooka",
+        "types": [
+            "unknown"
+        ]
+    }
+}

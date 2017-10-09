@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "motorcycle_rocks",
+        "stub": "zygot",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Zygot",
+        "types": [
+            "boulder"
+        ]
+    }
+}

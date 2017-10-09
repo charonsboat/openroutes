@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "struck_by_lichening",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Struck By Lichening",
+        "types": [
+            "unknown"
+        ]
+    }
+}

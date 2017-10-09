@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "la_bella_vista",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "La Bella Vista",
+        "types": [
+            "trad"
+        ]
+    }
+}

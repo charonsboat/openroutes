@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "trashed_again",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Trashed Again",
+        "types": [
+            "unknown"
+        ]
+    }
+}

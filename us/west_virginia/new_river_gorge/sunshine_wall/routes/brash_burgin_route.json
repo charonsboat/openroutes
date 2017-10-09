@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunshine_wall",
+        "stub": "brash_burgin_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Brash-Burgin Route",
+        "types": [
+            "unknown"
+        ]
+    }
+}

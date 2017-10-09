@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill_left",
+        "stub": "flounder",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Flounder",
+        "types": [
+            "sport"
+        ]
+    }
+}

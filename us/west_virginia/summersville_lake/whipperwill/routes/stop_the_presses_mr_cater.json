@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill",
+        "stub": "stop_the_presses_mr_cater",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Stop the Presses, Mr. Cater",
+        "types": [
+            "unknown"
+        ]
+    }
+}

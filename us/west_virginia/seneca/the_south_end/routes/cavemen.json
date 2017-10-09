@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "cavemen",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Cavemen",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "vietnam_veterans_against_the_wall",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Vietnam Veterans Against The Wall",
+        "types": [
+            "unknown"
+        ]
+    }
+}

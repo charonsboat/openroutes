@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_life_area",
+        "stub": "pig_pen",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Pig Pen",
+        "types": [
+            "unknown"
+        ]
+    }
+}

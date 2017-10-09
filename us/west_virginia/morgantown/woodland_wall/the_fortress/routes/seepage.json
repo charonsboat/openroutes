@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_fortress",
+        "stub": "seepage",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Seepage",
+        "types": [
+            "unknown"
+        ]
+    }
+}

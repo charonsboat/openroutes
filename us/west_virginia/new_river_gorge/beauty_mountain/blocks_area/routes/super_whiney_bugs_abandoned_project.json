@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "blocks_area",
+        "stub": "super_whiney_bugs_abandoned_project",
+        "type": "region"
+    },
+    "info": {
+        "grade": "project",
+        "name": "Super Whiney Bugs (Abandoned Project)",
+        "types": [
+            "unknown"
+        ]
+    }
+}

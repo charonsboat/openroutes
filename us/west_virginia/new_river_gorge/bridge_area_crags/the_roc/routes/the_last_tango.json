@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_roc",
+        "stub": "the_last_tango",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "The Last Tango",
+        "types": [
+            "sport"
+        ]
+    }
+}

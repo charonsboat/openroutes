@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "likme_area",
+        "stub": "chicks_in_the_woods",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Chicks In The Woods",
+        "types": [
+            "sport"
+        ]
+    }
+}

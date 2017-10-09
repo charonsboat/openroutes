@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "area_51",
+        "stub": "lunate",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Lunate",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_rostrum",
+        "stub": "the_mankey_monkey",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "The Mankey Monkey",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "burning_buttress",
+        "stub": "the_ruchert_motion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "The Ruchert Motion",
+        "types": [
+            "sport"
+        ]
+    }
+}

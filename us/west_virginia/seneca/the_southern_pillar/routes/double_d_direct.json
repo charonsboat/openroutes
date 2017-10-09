@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "double_d_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Double D Direct",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central_bubba",
+        "stub": "final_jeopardy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Final Jeopardy",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "new_river_gorge",
+        "stub": "endless_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Endless Wall"
+    }
+}

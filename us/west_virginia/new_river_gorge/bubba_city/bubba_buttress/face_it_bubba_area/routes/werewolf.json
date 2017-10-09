@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "face_it_bubba_area",
+        "stub": "werewolf",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Werewolf",
+        "types": [
+            "unknown"
+        ]
+    }
+}

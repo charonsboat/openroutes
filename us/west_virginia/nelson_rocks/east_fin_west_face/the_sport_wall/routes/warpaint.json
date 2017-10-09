@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_sport_wall",
+        "stub": "warpaint",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Warpaint",
+        "types": [
+            "unknown"
+        ]
+    }
+}

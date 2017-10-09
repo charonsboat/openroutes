@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "narcissus_cave",
+        "stub": "smilin_jack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Smilin' Jack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

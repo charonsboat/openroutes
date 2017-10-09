@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "brass_monkey",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b r",
+        "name": "Brass Monkey",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "picnic_block",
+        "stub": "picnic_chimney",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "Picnic Chimney",
+        "types": [
+            "unknown"
+        ]
+    }
+}

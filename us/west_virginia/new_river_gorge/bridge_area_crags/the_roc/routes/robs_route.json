@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_roc",
+        "stub": "robs_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Rob's Route",
+        "types": [
+            "sport"
+        ]
+    }
+}

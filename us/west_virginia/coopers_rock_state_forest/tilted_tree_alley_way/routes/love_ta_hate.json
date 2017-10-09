@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "love_ta_hate",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v9",
+        "name": "Love Ta Hate",
+        "types": [
+            "boulder"
+        ]
+    }
+}

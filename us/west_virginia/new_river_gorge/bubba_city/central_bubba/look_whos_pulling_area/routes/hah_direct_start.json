@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "hah_direct_start",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Hah! Direct Start",
+        "types": [
+            "unknown"
+        ]
+    }
+}

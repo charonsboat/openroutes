@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "kauffman_cardon",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Kauffman-Cardon",
+        "types": [
+            "unknown"
+        ]
+    }
+}

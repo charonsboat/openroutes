@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_third_buttress",
+        "stub": "dragons_tooth",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Dragon's Tooth",
+        "types": [
+            "unknown"
+        ]
+    }
+}

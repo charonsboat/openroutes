@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_slabs",
+        "stub": "finger_lichen_good",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Finger Lichen Good",
+        "types": [
+            "unknown"
+        ]
+    }
+}

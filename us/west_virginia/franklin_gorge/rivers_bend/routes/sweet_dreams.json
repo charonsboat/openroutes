@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rivers_bend",
+        "stub": "sweet_dreams",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Sweet Dreams",
+        "types": [
+            "sport"
+        ]
+    }
+}

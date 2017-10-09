@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "keine_kraft_area",
+        "stub": "southern_xposure",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Southern Xposure",
+        "types": [
+            "sport"
+        ]
+    }
+}

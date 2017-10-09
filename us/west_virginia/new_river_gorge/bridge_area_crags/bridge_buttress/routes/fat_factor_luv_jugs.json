@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bridge_buttress",
+        "stub": "fat_factor_luv_jugs",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Fat Factor (Luv Jugs)",
+        "types": [
+            "sport"
+        ]
+    }
+}

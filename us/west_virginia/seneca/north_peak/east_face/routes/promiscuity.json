@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "promiscuity",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Promiscuity",
+        "types": [
+            "unknown"
+        ]
+    }
+}

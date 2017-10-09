@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "rock_city",
+        "stub": "roundhouse_boulder",
+        "type": "region"
+    },
+    "info": {
+        "name": "Roundhouse boulder"
+    }
+}

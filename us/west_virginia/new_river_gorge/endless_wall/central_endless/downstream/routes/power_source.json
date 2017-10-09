@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "power_source",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Power Source",
+        "types": [
+            "unknown"
+        ]
+    }
+}

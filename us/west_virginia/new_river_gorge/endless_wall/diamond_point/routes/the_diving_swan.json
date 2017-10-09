@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "the_diving_swan",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "The Diving Swan",
+        "types": [
+            "unknown"
+        ]
+    }
+}

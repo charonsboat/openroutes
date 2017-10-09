@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "simpsons_wall",
+        "stub": "lil_maggie",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Lil Maggie",
+        "types": [
+            "unknown"
+        ]
+    }
+}

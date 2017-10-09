@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "head_wall",
+        "stub": "vivre_lamour",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Vivre L'Amour",
+        "types": [
+            "unknown"
+        ]
+    }
+}

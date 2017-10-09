@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "thunder_buttress",
+        "stub": "mushrooms",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Mushrooms",
+        "types": [
+            "unknown"
+        ]
+    }
+}

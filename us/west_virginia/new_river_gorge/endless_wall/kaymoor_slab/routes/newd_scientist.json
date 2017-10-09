@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kaymoor_slab",
+        "stub": "newd_scientist",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Newd Scientist",
+        "types": [
+            "unknown"
+        ]
+    }
+}

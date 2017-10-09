@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "seventh_sign",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Seventh Sign",
+        "types": [
+            "unknown"
+        ]
+    }
+}

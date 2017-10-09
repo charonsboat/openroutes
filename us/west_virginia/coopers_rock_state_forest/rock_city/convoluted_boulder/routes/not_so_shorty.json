@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "convoluted_boulder",
+        "stub": "not_so_shorty",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Not So Shorty",
+        "types": [
+            "boulder"
+        ]
+    }
+}

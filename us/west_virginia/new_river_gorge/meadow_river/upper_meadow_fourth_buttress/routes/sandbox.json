@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_fourth_buttress",
+        "stub": "sandbox",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Sandbox",
+        "types": [
+            "unknown"
+        ]
+    }
+}

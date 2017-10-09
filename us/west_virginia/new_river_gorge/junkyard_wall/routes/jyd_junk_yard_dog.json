@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "jyd_junk_yard_dog",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "J.Y.D. / Junk Yard Dog",
+        "types": [
+            "mixed"
+        ]
+    }
+}

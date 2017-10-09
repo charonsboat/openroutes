@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "no_mas",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "No Mas",
+        "types": [
+            "unknown"
+        ]
+    }
+}

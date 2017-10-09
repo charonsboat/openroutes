@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "blocks_area",
+        "stub": "stay_tuned",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Stay Tuned",
+        "types": [
+            "unknown"
+        ]
+    }
+}

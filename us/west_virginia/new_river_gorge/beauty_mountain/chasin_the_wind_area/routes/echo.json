@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chasin_the_wind_area",
+        "stub": "echo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d r",
+        "name": "Echo",
+        "types": [
+            "unknown"
+        ]
+    }
+}

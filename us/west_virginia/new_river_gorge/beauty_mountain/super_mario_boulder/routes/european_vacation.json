@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "super_mario_boulder",
+        "stub": "european_vacation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "European Vacation",
+        "types": [
+            "unknown"
+        ]
+    }
+}

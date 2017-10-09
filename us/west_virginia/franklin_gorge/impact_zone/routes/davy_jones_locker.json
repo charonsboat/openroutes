@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "davy_jones_locker",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Davy Jones' Locker",
+        "types": [
+            "sport"
+        ]
+    }
+}

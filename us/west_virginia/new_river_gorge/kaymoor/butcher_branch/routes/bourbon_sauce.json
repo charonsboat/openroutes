@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "butcher_branch",
+        "stub": "bourbon_sauce",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Bourbon Sauce",
+        "types": [
+            "sport"
+        ]
+    }
+}

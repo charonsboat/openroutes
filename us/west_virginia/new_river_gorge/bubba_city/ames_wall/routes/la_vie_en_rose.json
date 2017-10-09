@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ames_wall",
+        "stub": "la_vie_en_rose",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "La Vie en Rose",
+        "types": [
+            "unknown"
+        ]
+    }
+}

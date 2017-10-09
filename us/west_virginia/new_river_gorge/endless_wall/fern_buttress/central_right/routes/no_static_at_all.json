@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central_right",
+        "stub": "no_static_at_all",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "No Static At All",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "conditioning_wall",
+        "stub": "hold_the_dog",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Hold The Dog",
+        "types": [
+            "sport"
+        ]
+    }
+}

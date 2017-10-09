@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chasin_the_wind_area",
+        "stub": "nazz_nazz",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Nazz, Nazz",
+        "types": [
+            "sport"
+        ]
+    }
+}

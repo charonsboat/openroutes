@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "euro_wall",
+        "stub": "princess_snowbird",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Princess Snowbird",
+        "types": [
+            "unknown"
+        ]
+    }
+}

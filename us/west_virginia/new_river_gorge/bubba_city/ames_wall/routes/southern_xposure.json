@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ames_wall",
+        "stub": "southern_xposure",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Southern Xposure",
+        "types": [
+            "unknown"
+        ]
+    }
+}

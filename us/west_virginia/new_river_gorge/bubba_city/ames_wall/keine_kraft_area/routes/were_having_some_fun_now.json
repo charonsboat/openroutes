@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "keine_kraft_area",
+        "stub": "were_having_some_fun_now",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "We're Having Some Fun Now",
+        "types": [
+            "unknown"
+        ]
+    }
+}

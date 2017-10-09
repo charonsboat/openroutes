@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ceiling_block",
+        "stub": "bastards_edge_aka_woodys_arete_sds",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Bastard's Edge aka Woody's Arete SDS",
+        "types": [
+            "boulder"
+        ]
+    }
+}

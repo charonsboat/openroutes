@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_big_blocks",
+        "stub": "super_alloy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Super Alloy",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "pedros_problem",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Pedro's Problem",
+        "types": [
+            "unknown"
+        ]
+    }
+}

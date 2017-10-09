@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fairly_tall_wall",
+        "stub": "cheesy_crackers",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Cheesy Crackers",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "clean_sweep",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Clean Sweep",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "who_knows",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Who Knows?",
+        "types": [
+            "trad"
+        ]
+    }
+}

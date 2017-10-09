@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "bozoo",
+        "stub": "white_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "White Wall"
+    }
+}

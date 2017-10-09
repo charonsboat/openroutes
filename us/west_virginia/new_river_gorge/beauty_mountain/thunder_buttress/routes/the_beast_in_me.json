@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "thunder_buttress",
+        "stub": "the_beast_in_me",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "The Beast In Me",
+        "types": [
+            "unknown"
+        ]
+    }
+}

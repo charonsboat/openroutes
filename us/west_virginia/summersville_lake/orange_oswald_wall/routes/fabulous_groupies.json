@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orange_oswald_wall",
+        "stub": "fabulous_groupies",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Fabulous Groupies",
+        "types": [
+            "sport"
+        ]
+    }
+}

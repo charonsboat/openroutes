@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "007_wall",
+        "stub": "diamonds_are_forever_continuation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Diamonds Are Forever Continuation",
+        "types": [
+            "unknown"
+        ]
+    }
+}

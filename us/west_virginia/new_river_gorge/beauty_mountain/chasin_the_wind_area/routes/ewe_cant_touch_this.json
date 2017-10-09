@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chasin_the_wind_area",
+        "stub": "ewe_cant_touch_this",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Ewe Can't Touch This",
+        "types": [
+            "sport"
+        ]
+    }
+}

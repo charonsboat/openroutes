@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bimbo_buttress",
+        "stub": "the_power_line",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "The Power Line",
+        "types": [
+            "unknown"
+        ]
+    }
+}

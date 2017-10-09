@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_fortress",
+        "stub": "amino_flacid",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Amino Flacid",
+        "types": [
+            "unknown"
+        ]
+    }
+}

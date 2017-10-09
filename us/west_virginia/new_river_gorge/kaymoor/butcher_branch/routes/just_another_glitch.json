@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "butcher_branch",
+        "stub": "just_another_glitch",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Just Another Glitch",
+        "types": [
+            "unknown"
+        ]
+    }
+}

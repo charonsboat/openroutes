@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "le_gourmet",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Le Gourmet",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "right_side",
+        "stub": "beginners_luck",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Beginner's Luck",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "keine_kraft_area",
+        "stub": "forgotten_but_not_lost",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Forgotten But Not Lost",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_ogre",
+        "stub": "this_one_is_for_vicki",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "This One Is For Vicki",
+        "types": [
+            "unknown"
+        ]
+    }
+}

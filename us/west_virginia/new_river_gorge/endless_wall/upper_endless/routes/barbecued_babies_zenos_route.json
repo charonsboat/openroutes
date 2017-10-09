@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "barbecued_babies_zenos_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Barbecued Babies (Zeno's Route)",
+        "types": [
+            "unknown"
+        ]
+    }
+}

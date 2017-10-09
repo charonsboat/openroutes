@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "increadible_overhanging_wall",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a r",
+        "name": "Increadible Overhanging Wall",
+        "types": [
+            "unknown"
+        ]
+    }
+}

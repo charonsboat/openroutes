@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cotton_top",
+        "stub": "psycho_wrangler",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Psycho Wrangler",
+        "types": [
+            "sport"
+        ]
+    }
+}

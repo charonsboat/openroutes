@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stone_gallows_wall",
+        "stub": "the_diamond",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "The Diamond",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mr_clean_face_corridor",
+        "stub": "black_bart",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Black Bart",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "the_bite",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9 x",
+        "name": "The Bite",
+        "types": [
+            "unknown"
+        ]
+    }
+}

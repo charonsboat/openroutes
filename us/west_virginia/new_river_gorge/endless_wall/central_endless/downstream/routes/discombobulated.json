@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "discombobulated",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Discombobulated",
+        "types": [
+            "sport"
+        ]
+    }
+}

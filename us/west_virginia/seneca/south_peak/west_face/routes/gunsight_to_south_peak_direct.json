@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "gunsight_to_south_peak_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Gunsight to South Peak Direct",
+        "types": [
+            "unknown"
+        ]
+    }
+}

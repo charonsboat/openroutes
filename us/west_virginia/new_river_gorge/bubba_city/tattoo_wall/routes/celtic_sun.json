@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tattoo_wall",
+        "stub": "celtic_sun",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Celtic Sun",
+        "types": [
+            "unknown"
+        ]
+    }
+}

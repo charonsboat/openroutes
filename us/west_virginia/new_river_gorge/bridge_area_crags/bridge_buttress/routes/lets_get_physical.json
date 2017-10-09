@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bridge_buttress",
+        "stub": "lets_get_physical",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Let's Get Physical",
+        "types": [
+            "trad"
+        ]
+    }
+}

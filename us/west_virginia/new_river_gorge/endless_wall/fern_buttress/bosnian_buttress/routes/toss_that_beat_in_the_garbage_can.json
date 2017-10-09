@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bosnian_buttress",
+        "stub": "toss_that_beat_in_the_garbage_can",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Toss That Beat In The Garbage Can",
+        "types": [
+            "unknown"
+        ]
+    }
+}

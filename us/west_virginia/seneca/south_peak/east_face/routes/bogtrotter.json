@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "bogtrotter",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9 x",
+        "name": "Bogtrotter",
+        "types": [
+            "unknown"
+        ]
+    }
+}

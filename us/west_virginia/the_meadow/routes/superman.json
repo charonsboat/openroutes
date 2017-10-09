@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_meadow",
+        "stub": "superman",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Superman",
+        "types": [
+            "unknown"
+        ]
+    }
+}

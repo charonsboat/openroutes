@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "morgantown",
+        "stub": "hole_in_the_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Hole in the Wall"
+    }
+}

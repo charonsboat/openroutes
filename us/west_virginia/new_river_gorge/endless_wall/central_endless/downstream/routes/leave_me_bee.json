@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "leave_me_bee",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Leave Me Bee",
+        "types": [
+            "unknown"
+        ]
+    }
+}

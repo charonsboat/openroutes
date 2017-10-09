@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "quinsana_plus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Quinsana Plus",
+        "types": [
+            "sport"
+        ]
+    }
+}

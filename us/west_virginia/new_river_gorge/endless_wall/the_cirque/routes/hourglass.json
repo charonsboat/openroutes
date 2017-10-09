@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_cirque",
+        "stub": "hourglass",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Hourglass",
+        "types": [
+            "sport"
+        ]
+    }
+}

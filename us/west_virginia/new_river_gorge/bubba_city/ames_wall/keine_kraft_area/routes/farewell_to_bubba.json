@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "keine_kraft_area",
+        "stub": "farewell_to_bubba",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Farewell To Bubba",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "irony",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Irony",
+        "types": [
+            "unknown"
+        ]
+    }
+}

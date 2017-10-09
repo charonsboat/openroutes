@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "haystack_block",
+        "stub": "rebolting_development",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Rebolting Development",
+        "types": [
+            "unknown"
+        ]
+    }
+}

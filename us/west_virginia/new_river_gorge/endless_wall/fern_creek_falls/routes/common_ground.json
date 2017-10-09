@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_creek_falls",
+        "stub": "common_ground",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Common Ground",
+        "types": [
+            "unknown"
+        ]
+    }
+}

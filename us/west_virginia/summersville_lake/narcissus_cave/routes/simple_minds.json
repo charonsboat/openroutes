@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "narcissus_cave",
+        "stub": "simple_minds",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Simple Minds",
+        "types": [
+            "unknown"
+        ]
+    }
+}

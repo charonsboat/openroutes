@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "the_frictional_heat_experiment",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "The Frictional Heat Experiment",
+        "types": [
+            "unknown"
+        ]
+    }
+}

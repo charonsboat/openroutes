@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "gonad_wall",
+        "stub": "fragile_egosystem",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Fragile Egosystem",
+        "types": [
+            "sport"
+        ]
+    }
+}

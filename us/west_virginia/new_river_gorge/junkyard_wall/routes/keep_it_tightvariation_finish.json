@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "keep_it_tightvariation_finish",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Keep It Tight...Variation Finish",
+        "types": [
+            "trad"
+        ]
+    }
+}

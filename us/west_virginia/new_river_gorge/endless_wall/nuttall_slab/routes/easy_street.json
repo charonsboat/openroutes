@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "nuttall_slab",
+        "stub": "easy_street",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Easy Street",
+        "types": [
+            "unknown"
+        ]
+    }
+}

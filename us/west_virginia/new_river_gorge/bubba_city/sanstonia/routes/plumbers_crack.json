@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sanstonia",
+        "stub": "plumbers_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Plumbers Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

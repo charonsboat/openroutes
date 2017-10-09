@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tendon_repair_block",
+        "stub": "the_mountaineer_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "The Mountaineer Route",
+        "types": [
+            "boulder"
+        ]
+    }
+}

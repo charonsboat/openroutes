@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "projected_futures",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Projected Futures",
+        "types": [
+            "unknown"
+        ]
+    }
+}

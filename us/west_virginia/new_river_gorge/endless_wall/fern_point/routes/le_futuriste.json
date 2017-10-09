@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "le_futuriste",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Le Futuriste",
+        "types": [
+            "sport"
+        ]
+    }
+}

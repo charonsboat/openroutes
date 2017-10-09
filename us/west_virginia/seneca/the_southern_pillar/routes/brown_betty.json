@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "brown_betty",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Brown Betty",
+        "types": [
+            "unknown"
+        ]
+    }
+}

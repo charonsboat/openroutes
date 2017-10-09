@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "old_timers_luck",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Old Timer's Luck",
+        "types": [
+            "unknown"
+        ]
+    }
+}

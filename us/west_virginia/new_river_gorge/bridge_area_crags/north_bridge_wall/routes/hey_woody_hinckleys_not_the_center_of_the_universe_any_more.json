@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "north_bridge_wall",
+        "stub": "hey_woody_hinckleys_not_the_center_of_the_universe_any_more",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Hey Woody, Hinckley's Not The Center Of The Universe Any More!",
+        "types": [
+            "unknown"
+        ]
+    }
+}

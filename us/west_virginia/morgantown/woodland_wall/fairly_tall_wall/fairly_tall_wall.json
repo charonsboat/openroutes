@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "woodland_wall",
+        "stub": "fairly_tall_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Fairly Tall Wall"
+    }
+}

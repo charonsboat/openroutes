@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_future_wall",
+        "stub": "lifers",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Lifers",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ambassador_buttress",
+        "stub": "wienie_roast",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Wienie Roast",
+        "types": [
+            "unknown"
+        ]
+    }
+}

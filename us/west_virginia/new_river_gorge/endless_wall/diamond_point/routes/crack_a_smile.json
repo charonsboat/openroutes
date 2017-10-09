@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "crack_a_smile",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Crack A Smile",
+        "types": [
+            "trad"
+        ]
+    }
+}

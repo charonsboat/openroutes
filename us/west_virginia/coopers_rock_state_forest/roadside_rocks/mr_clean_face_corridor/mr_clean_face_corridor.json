@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "roadside_rocks",
+        "stub": "mr_clean_face_corridor",
+        "type": "region"
+    },
+    "info": {
+        "name": "Mr. Clean Face Corridor"
+    }
+}

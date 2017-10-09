@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "seneca_daze",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Seneca Daze",
+        "types": [
+            "sport"
+        ]
+    }
+}

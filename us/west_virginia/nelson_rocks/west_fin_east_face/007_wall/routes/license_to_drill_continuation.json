@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "007_wall",
+        "stub": "license_to_drill_continuation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "License to Drill Continuation",
+        "types": [
+            "unknown"
+        ]
+    }
+}

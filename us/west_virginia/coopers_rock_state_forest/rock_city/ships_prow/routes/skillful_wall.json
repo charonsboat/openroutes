@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ships_prow",
+        "stub": "skillful_wall",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Skillful Wall",
+        "types": [
+            "unknown"
+        ]
+    }
+}

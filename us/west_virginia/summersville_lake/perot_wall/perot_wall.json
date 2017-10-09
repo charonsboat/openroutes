@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "summersville_lake",
+        "stub": "perot_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Perot Wall"
+    }
+}

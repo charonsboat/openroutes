@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "contact_zone",
+        "stub": "days_gone_by",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Days Gone By",
+        "types": [
+            "trad"
+        ]
+    }
+}

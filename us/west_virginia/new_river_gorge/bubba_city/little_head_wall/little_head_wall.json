@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "bubba_city",
+        "stub": "little_head_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Little Head Wall"
+    }
+}

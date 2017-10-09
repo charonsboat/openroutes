@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_life_area",
+        "stub": "jesus_wept",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Jesus Wept",
+        "types": [
+            "sport"
+        ]
+    }
+}

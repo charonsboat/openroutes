@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "never_cry_tuna",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Never Cry Tuna",
+        "types": [
+            "unknown"
+        ]
+    }
+}

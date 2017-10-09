@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "south_bridge_wall",
+        "stub": "cant_find_my_way_home",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Can't Find My Way Home",
+        "types": [
+            "unknown"
+        ]
+    }
+}

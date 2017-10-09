@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "butcher_block",
+        "stub": "acromion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Acromion",
+        "types": [
+            "boulder"
+        ]
+    }
+}

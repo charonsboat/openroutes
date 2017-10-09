@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "michelin_man_area",
+        "stub": "gone_with_the_bubba",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Gone With The Bubba",
+        "types": [
+            "unknown"
+        ]
+    }
+}

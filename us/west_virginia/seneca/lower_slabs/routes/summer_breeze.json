@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_slabs",
+        "stub": "summer_breeze",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Summer Breeze",
+        "types": [
+            "unknown"
+        ]
+    }
+}

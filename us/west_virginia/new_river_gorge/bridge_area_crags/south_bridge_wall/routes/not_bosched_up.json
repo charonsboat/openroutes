@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "south_bridge_wall",
+        "stub": "not_bosched_up",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Not Bosched Up",
+        "types": [
+            "unknown"
+        ]
+    }
+}

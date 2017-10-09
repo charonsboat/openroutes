@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_sport_wall",
+        "stub": "bitchen_squaw",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Bitchen Squaw",
+        "types": [
+            "unknown"
+        ]
+    }
+}

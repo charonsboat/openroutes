@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "entrance_boulders",
+        "stub": "dextrose",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Dextrose",
+        "types": [
+            "boulder"
+        ]
+    }
+}

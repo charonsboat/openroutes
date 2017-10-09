@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bovine_wall",
+        "stub": "crack_of_noon",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Crack of Noon",
+        "types": [
+            "unknown"
+        ]
+    }
+}

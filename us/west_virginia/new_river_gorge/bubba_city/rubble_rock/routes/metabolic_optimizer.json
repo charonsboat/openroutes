@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rubble_rock",
+        "stub": "metabolic_optimizer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Metabolic Optimizer",
+        "types": [
+            "unknown"
+        ]
+    }
+}

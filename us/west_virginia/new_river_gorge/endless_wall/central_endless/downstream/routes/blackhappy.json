@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "blackhappy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Blackhappy",
+        "types": [
+            "sport"
+        ]
+    }
+}

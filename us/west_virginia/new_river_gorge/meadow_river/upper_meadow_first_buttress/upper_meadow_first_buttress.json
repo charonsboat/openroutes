@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "meadow_river",
+        "stub": "upper_meadow_first_buttress",
+        "type": "region"
+    },
+    "info": {
+        "name": "Upper Meadow - First Buttress"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hemlock_grove",
+        "stub": "unknown_face",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "Unknown face",
+        "types": [
+            "unknown"
+        ]
+    }
+}

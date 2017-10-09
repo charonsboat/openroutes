@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dog_wall",
+        "stub": "hangdog",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Hangdog",
+        "types": [
+            "unknown"
+        ]
+    }
+}

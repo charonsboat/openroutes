@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "conns_west",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "Conn's West",
+        "types": [
+            "trad"
+        ]
+    }
+}

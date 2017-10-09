@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_slabs",
+        "stub": "seldom_seen",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Seldom Seen",
+        "types": [
+            "trad"
+        ]
+    }
+}

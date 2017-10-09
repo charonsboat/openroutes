@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "necro_wall",
+        "stub": "inject_the_venom",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Inject the Venom",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "burning_buttress",
+        "stub": "burning_calves_direct_finish",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Burning Calves Direct Finish",
+        "types": [
+            "unknown"
+        ]
+    }
+}

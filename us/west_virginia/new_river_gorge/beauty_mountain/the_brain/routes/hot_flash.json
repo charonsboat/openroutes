@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_brain",
+        "stub": "hot_flash",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Hot Flash",
+        "types": [
+            "trad"
+        ]
+    }
+}

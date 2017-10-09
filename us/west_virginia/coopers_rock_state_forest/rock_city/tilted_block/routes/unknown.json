@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_block",
+        "stub": "unknown",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Unknown",
+        "types": [
+            "boulder"
+        ]
+    }
+}

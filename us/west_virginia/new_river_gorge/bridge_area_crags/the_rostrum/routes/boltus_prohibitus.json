@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_rostrum",
+        "stub": "boltus_prohibitus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Boltus Prohibitus",
+        "types": [
+            "unknown"
+        ]
+    }
+}

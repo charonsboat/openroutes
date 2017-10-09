@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chasin_the_wind_area",
+        "stub": "quaking_flakes",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Quaking Flakes",
+        "types": [
+            "unknown"
+        ]
+    }
+}

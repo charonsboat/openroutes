@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tall_wall",
+        "stub": "hey_joe",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Hey Joe",
+        "types": [
+            "unknown"
+        ]
+    }
+}

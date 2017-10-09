@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "slipstream_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Slipstream Direct",
+        "types": [
+            "unknown"
+        ]
+    }
+}

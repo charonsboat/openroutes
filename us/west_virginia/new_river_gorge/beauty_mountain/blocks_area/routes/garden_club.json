@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "blocks_area",
+        "stub": "garden_club",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Garden Club",
+        "types": [
+            "sport"
+        ]
+    }
+}

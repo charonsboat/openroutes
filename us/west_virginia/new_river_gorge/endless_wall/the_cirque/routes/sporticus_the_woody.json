@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_cirque",
+        "stub": "sporticus_the_woody",
+        "type": "region"
+    },
+    "info": {
+        "grade": "project",
+        "name": "Sporticus (The Woody)",
+        "types": [
+            "unknown"
+        ]
+    }
+}

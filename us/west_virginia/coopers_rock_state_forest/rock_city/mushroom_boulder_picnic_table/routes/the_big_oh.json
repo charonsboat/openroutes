@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mushroom_boulder_picnic_table",
+        "stub": "the_big_oh",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "The Big Oh",
+        "types": [
+            "boulder"
+        ]
+    }
+}

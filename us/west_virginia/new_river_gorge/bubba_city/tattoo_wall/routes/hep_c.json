@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tattoo_wall",
+        "stub": "hep_c",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Hep-C",
+        "types": [
+            "unknown"
+        ]
+    }
+}

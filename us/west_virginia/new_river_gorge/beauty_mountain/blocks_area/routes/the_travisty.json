@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "blocks_area",
+        "stub": "the_travisty",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13d",
+        "name": "The Travisty",
+        "types": [
+            "sport"
+        ]
+    }
+}

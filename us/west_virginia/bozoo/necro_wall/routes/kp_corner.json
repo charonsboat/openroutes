@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "necro_wall",
+        "stub": "kp_corner",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "K.P. Corner",
+        "types": [
+            "unknown"
+        ]
+    }
+}

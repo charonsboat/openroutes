@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pirates_cove",
+        "stub": "another_name_for_pirate_treasure",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Another Name for Pirate Treasure",
+        "types": [
+            "sport"
+        ]
+    }
+}

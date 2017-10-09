@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "the_last_laugh",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "The Last Laugh",
+        "types": [
+            "sport"
+        ]
+    }
+}

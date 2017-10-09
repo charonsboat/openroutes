@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "keine_kraft_area",
+        "stub": "kama_futra",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Kama Futra",
+        "types": [
+            "sport"
+        ]
+    }
+}

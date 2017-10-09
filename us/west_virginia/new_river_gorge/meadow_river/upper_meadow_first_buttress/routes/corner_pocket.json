@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_first_buttress",
+        "stub": "corner_pocket",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Corner Pocket",
+        "types": [
+            "unknown"
+        ]
+    }
+}

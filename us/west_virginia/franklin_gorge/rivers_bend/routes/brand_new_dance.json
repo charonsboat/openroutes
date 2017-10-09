@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rivers_bend",
+        "stub": "brand_new_dance",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Brand New Dance",
+        "types": [
+            "sport"
+        ]
+    }
+}

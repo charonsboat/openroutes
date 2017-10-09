@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "arrested_mental_development",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Arrested Mental Development",
+        "types": [
+            "unknown"
+        ]
+    }
+}

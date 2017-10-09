@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ames_wall",
+        "stub": "vertigo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Vertigo",
+        "types": [
+            "unknown"
+        ]
+    }
+}

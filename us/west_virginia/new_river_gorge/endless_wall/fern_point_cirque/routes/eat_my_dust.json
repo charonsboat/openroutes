@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point_cirque",
+        "stub": "eat_my_dust",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Eat My Dust",
+        "types": [
+            "sport"
+        ]
+    }
+}

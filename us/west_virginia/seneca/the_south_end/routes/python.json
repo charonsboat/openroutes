@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "python",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9 r",
+        "name": "Python",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill_left",
+        "stub": "straight_outta_lockmont",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "straight outta lockmont",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bubba_buttress",
+        "stub": "delirium_tremors",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Delirium Tremors",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "west_fin_west_face",
+        "stub": "nelson_rockafella_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Nelson Rockafella Wall"
+    }
+}

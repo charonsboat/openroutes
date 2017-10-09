@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "caustic_block",
+        "stub": "corrosion_wall",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.2",
+        "name": "Corrosion Wall",
+        "types": [
+            "unknown"
+        ]
+    }
+}

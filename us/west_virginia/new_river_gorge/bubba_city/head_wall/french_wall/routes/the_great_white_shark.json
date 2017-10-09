@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "french_wall",
+        "stub": "the_great_white_shark",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "The Great White Shark",
+        "types": [
+            "sport"
+        ]
+    }
+}

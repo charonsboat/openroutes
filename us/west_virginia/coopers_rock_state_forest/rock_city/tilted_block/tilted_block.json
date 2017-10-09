@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "rock_city",
+        "stub": "tilted_block",
+        "type": "region"
+    },
+    "info": {
+        "name": "Tilted Block"
+    }
+}

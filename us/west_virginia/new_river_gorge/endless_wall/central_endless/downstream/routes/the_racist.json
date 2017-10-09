@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "the_racist",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "The Racist",
+        "types": [
+            "sport"
+        ]
+    }
+}

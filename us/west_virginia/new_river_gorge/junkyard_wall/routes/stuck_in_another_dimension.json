@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "stuck_in_another_dimension",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Stuck In Another Dimension",
+        "types": [
+            "trad"
+        ]
+    }
+}

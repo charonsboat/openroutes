@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "pilots_of_bekaa",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Pilots Of Bekaa",
+        "types": [
+            "unknown"
+        ]
+    }
+}

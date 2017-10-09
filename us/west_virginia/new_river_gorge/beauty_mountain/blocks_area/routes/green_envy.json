@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "blocks_area",
+        "stub": "green_envy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Green Envy",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "north_bridge_wall",
+        "stub": "share_the_faith",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Share The Faith",
+        "types": [
+            "unknown"
+        ]
+    }
+}

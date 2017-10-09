@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "hishiryo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Hishiryo",
+        "types": [
+            "unknown"
+        ]
+    }
+}

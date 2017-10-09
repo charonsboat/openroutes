@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kingfish",
+        "stub": "ct_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "C.T. Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

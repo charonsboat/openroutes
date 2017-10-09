@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ames_wall",
+        "stub": "czech_vacation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Czech Vacation",
+        "types": [
+            "unknown"
+        ]
+    }
+}

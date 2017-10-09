@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "narcissus_cave",
+        "stub": "project_1",
+        "type": "region"
+    },
+    "info": {
+        "grade": "project",
+        "name": "Project 1",
+        "types": [
+            "unknown"
+        ]
+    }
+}

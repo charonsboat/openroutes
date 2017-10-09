@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "entrance_exit_boulders",
+        "stub": "bizarro",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Bizarro",
+        "types": [
+            "boulder"
+        ]
+    }
+}

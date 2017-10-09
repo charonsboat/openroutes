@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "south_bridge_wall",
+        "stub": "ledge_lips",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Ledge Lips",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "electric_chair",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Electric Chair",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_pillar_south_face",
+        "stub": "mountain_dont",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Mountain Don't",
+        "types": [
+            "unknown"
+        ]
+    }
+}

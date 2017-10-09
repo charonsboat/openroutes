@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pillar_notch_area",
+        "stub": "solar_plexus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Solar Plexus",
+        "types": [
+            "unknown"
+        ]
+    }
+}

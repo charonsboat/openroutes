@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "beech_beeech_beeeech",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Beech, Beeech, Beeeech!",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_g_spot",
+        "stub": "g_man",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "G-Man",
+        "types": [
+            "unknown"
+        ]
+    }
+}

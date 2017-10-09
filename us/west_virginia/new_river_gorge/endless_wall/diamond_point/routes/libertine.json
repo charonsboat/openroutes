@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "libertine",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Libertine",
+        "types": [
+            "unknown"
+        ]
+    }
+}

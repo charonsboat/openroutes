@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "seven_eleven_wall",
+        "stub": "fuel_injector",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "Fuel Injector",
+        "types": [
+            "sport"
+        ]
+    }
+}

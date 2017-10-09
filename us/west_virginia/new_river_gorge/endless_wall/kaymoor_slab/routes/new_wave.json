@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kaymoor_slab",
+        "stub": "new_wave",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a r",
+        "name": "New Wave",
+        "types": [
+            "unknown"
+        ]
+    }
+}

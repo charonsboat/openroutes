@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "amphibian_block",
+        "stub": "newt",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Newt",
+        "types": [
+            "sport"
+        ]
+    }
+}

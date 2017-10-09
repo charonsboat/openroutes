@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "grand_finale",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Grand Finale",
+        "types": [
+            "unknown"
+        ]
+    }
+}

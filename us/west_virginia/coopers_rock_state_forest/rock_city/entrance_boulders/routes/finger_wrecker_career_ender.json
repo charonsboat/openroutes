@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "entrance_boulders",
+        "stub": "finger_wrecker_career_ender",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Finger Wrecker (Career Ender)",
+        "types": [
+            "boulder"
+        ]
+    }
+}

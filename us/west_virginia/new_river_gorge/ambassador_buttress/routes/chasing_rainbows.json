@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ambassador_buttress",
+        "stub": "chasing_rainbows",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Chasing Rainbows",
+        "types": [
+            "unknown"
+        ]
+    }
+}

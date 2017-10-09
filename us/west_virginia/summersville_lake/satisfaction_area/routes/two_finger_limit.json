@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "satisfaction_area",
+        "stub": "two_finger_limit",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Two-Finger Limit",
+        "types": [
+            "unknown"
+        ]
+    }
+}

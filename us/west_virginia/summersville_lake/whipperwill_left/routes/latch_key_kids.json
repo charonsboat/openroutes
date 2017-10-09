@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill_left",
+        "stub": "latch_key_kids",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Latch Key Kids",
+        "types": [
+            "sport"
+        ]
+    }
+}

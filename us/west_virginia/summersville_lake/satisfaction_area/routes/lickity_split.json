@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "satisfaction_area",
+        "stub": "lickity_split",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Lickity split",
+        "types": [
+            "unknown"
+        ]
+    }
+}

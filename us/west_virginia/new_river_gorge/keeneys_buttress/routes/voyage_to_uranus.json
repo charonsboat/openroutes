@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "keeneys_buttress",
+        "stub": "voyage_to_uranus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Voyage To Uranus",
+        "types": [
+            "unknown"
+        ]
+    }
+}

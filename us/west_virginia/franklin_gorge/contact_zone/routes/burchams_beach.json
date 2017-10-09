@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "contact_zone",
+        "stub": "burchams_beach",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Burcham's Beach",
+        "types": [
+            "unknown"
+        ]
+    }
+}

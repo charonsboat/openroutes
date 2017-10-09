@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_creek_falls",
+        "stub": "just_another_obscurity",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Just Another Obscurity",
+        "types": [
+            "unknown"
+        ]
+    }
+}

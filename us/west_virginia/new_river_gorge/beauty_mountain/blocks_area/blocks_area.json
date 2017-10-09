@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "beauty_mountain",
+        "stub": "blocks_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Blocks Area"
+    }
+}

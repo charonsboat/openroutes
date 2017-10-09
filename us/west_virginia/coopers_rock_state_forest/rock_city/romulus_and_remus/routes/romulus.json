@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "romulus_and_remus",
+        "stub": "romulus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Romulus",
+        "types": [
+            "unknown"
+        ]
+    }
+}

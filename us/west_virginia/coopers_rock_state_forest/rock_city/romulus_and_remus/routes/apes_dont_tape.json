@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "romulus_and_remus",
+        "stub": "apes_dont_tape",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Apes Don't Tape",
+        "types": [
+            "unknown"
+        ]
+    }
+}

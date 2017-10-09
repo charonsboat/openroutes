@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kingfish",
+        "stub": "king_of_swing_direct_finish",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "King Of Swing Direct Finish",
+        "types": [
+            "unknown"
+        ]
+    }
+}

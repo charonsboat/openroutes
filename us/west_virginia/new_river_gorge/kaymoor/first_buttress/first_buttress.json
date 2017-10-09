@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "kaymoor",
+        "stub": "first_buttress",
+        "type": "region"
+    },
+    "info": {
+        "name": "First Buttress"
+    }
+}

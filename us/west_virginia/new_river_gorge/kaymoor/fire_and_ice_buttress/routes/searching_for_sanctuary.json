@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fire_and_ice_buttress",
+        "stub": "searching_for_sanctuary",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Searching For Sanctuary",
+        "types": [
+            "unknown"
+        ]
+    }
+}

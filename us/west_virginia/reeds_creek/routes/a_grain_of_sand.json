@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "a_grain_of_sand",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "A Grain of Sand",
+        "types": [
+            "sport"
+        ]
+    }
+}

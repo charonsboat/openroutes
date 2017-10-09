@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "michelin_man_area",
+        "stub": "bubbalicious",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Bubbalicious",
+        "types": [
+            "unknown"
+        ]
+    }
+}

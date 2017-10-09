@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "jade",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a r",
+        "name": "Jade",
+        "types": [
+            "unknown"
+        ]
+    }
+}

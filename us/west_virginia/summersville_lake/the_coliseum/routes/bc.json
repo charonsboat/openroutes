@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_coliseum",
+        "stub": "bc",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13c",
+        "name": "B.C.",
+        "types": [
+            "unknown"
+        ]
+    }
+}

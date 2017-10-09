@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "oh_pooh",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.1",
+        "name": "Oh Pooh",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "finger_fiddle_of_fate_fff",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Finger Fiddle of Fate (FFF)",
+        "types": [
+            "boulder"
+        ]
+    }
+}

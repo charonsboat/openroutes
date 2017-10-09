@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_rostrum",
+        "stub": "penalty_for_early_withdrawal",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Penalty For Early Withdrawal",
+        "types": [
+            "sport"
+        ]
+    }
+}

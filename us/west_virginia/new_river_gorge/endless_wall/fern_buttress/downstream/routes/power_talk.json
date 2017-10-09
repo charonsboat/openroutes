@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "power_talk",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Power Talk",
+        "types": [
+            "sport"
+        ]
+    }
+}

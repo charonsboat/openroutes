@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "thunder_buttress",
+        "stub": "lsd",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "L.S.D.",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_future_wall",
+        "stub": "the_foundation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "The Foundation",
+        "types": [
+            "unknown"
+        ]
+    }
+}

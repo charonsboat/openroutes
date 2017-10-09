@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "jankowitz_kamn",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Jankowitz-Kamn",
+        "types": [
+            "unknown"
+        ]
+    }
+}

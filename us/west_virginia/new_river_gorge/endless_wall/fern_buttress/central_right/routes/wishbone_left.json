@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central_right",
+        "stub": "wishbone_left",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Wishbone Left",
+        "types": [
+            "trad"
+        ]
+    }
+}

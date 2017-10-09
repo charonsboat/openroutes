@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "drop_zone",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Drop Zone",
+        "types": [
+            "unknown"
+        ]
+    }
+}

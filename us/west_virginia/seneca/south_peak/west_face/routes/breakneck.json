@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "breakneck",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Breakneck",
+        "types": [
+            "unknown"
+        ]
+    }
+}

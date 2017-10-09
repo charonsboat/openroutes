@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "idiotsyncracies",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Idiotsyncracies",
+        "types": [
+            "unknown"
+        ]
+    }
+}

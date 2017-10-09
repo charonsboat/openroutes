@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "the_wave",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v7",
+        "name": "The Wave",
+        "types": [
+            "boulder"
+        ]
+    }
+}

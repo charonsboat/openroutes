@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "heffalump_trap",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "Heffalump Trap",
+        "types": [
+            "unknown"
+        ]
+    }
+}

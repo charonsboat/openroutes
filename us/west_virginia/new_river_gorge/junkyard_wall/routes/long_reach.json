@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "long_reach",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Long Reach",
+        "types": [
+            "trad"
+        ]
+    }
+}

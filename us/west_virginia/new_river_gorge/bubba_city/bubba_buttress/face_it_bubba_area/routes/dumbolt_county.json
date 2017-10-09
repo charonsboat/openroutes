@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "face_it_bubba_area",
+        "stub": "dumbolt_county",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Dumbolt County",
+        "types": [
+            "unknown"
+        ]
+    }
+}

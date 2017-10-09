@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_big_blocks",
+        "stub": "affinity_triangle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Affinity Triangle",
+        "types": [
+            "unknown"
+        ]
+    }
+}

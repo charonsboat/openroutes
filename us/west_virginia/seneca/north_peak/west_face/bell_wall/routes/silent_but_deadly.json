@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bell_wall",
+        "stub": "silent_but_deadly",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Silent But Deadly",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point_cirque",
+        "stub": "fist_fodder",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Fist Fodder",
+        "types": [
+            "unknown"
+        ]
+    }
+}

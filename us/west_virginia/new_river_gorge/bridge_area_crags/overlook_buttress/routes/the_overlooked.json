@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "overlook_buttress",
+        "stub": "the_overlooked",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12",
+        "name": "The Overlooked",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "super_mario_boulder",
+        "stub": "donkey_kong",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Donkey Kong",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "flight_time",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Flight Time",
+        "types": [
+            "unknown"
+        ]
+    }
+}

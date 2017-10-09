@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "new_river_gorge",
+        "stub": "meadow_river",
+        "type": "region"
+    },
+    "info": {
+        "name": "Meadow River"
+    }
+}

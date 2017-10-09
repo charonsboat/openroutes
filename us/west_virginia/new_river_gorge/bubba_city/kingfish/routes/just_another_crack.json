@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kingfish",
+        "stub": "just_another_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Just Another Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

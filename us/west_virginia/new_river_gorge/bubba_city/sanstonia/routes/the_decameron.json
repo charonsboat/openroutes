@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sanstonia",
+        "stub": "the_decameron",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "The Decameron",
+        "types": [
+            "sport"
+        ]
+    }
+}

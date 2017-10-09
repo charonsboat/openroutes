@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "clarkes_climb",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Clarke's Climb",
+        "types": [
+            "unknown"
+        ]
+    }
+}

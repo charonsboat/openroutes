@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stone_gallows_wall",
+        "stub": "the_jellyfish_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "The Jellyfish Route",
+        "types": [
+            "unknown"
+        ]
+    }
+}

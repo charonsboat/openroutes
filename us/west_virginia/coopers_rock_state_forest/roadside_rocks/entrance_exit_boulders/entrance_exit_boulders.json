@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "roadside_rocks",
+        "stub": "entrance_exit_boulders",
+        "type": "region"
+    },
+    "info": {
+        "name": "Entrance Exit Boulders"
+    }
+}

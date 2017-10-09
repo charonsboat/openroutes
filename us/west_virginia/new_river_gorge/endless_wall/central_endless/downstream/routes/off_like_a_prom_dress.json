@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "off_like_a_prom_dress",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Off Like A Prom Dress",
+        "types": [
+            "unknown"
+        ]
+    }
+}

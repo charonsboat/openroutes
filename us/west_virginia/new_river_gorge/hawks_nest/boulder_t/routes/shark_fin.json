@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "boulder_t",
+        "stub": "shark_fin",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Shark Fin",
+        "types": [
+            "boulder"
+        ]
+    }
+}

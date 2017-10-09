@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "haystack_block",
+        "stub": "standard_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.2 x",
+        "name": "Standard Route",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_life_area",
+        "stub": "hydroman",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Hydroman",
+        "types": [
+            "sport"
+        ]
+    }
+}

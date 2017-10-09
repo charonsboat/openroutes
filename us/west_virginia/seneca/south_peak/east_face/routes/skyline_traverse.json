@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "skyline_traverse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "Skyline Traverse",
+        "types": [
+            "unknown"
+        ]
+    }
+}

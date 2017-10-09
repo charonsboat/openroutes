@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "bubba_city",
+        "stub": "rubble_rock",
+        "type": "region"
+    },
+    "info": {
+        "name": "Rubble Rock"
+    }
+}

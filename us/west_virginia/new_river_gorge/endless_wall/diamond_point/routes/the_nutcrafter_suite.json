@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "the_nutcrafter_suite",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "The Nutcrafter Suite",
+        "types": [
+            "unknown"
+        ]
+    }
+}

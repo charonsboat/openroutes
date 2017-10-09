@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bond_wall",
+        "stub": "dr_no",
+        "type": "region"
+    },
+    "info": {
+        "grade": "project",
+        "name": "Dr. No",
+        "types": [
+            "unknown"
+        ]
+    }
+}

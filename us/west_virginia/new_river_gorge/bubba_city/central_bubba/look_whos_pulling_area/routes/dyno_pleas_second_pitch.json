@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "dyno_pleas_second_pitch",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Dyno Pleas - Second Pitch",
+        "types": [
+            "sport"
+        ]
+    }
+}

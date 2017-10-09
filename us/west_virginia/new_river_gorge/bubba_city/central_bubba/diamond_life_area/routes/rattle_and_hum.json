@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_life_area",
+        "stub": "rattle_and_hum",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Rattle And Hum",
+        "types": [
+            "sport"
+        ]
+    }
+}

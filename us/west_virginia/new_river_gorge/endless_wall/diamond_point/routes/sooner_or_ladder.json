@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "sooner_or_ladder",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Sooner Or Ladder",
+        "types": [
+            "unknown"
+        ]
+    }
+}

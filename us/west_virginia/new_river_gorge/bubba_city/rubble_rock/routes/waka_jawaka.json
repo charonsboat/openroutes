@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rubble_rock",
+        "stub": "waka_jawaka",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Waka Jawaka",
+        "types": [
+            "unknown"
+        ]
+    }
+}

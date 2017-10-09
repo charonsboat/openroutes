@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill",
+        "stub": "cowboy_in_the_dirt",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Cowboy in the Dirt",
+        "types": [
+            "sport"
+        ]
+    }
+}

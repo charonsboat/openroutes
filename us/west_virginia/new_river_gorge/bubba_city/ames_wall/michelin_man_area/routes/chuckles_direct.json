@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "michelin_man_area",
+        "stub": "chuckles_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Chuckles Direct",
+        "types": [
+            "sport"
+        ]
+    }
+}

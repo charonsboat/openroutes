@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "head_wall",
+        "stub": "lamour_est_tout",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "L'Amour est Tout",
+        "types": [
+            "unknown"
+        ]
+    }
+}

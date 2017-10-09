@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "seven_eleven_wall",
+        "stub": "fairtracer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Fairtracer",
+        "types": [
+            "sport"
+        ]
+    }
+}

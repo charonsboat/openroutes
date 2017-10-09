@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "keine_kraft_area",
+        "stub": "no_bubbas_allowed",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "No Bubbas Allowed",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "gonad_wall",
+        "stub": "wild_seed",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Wild Seed",
+        "types": [
+            "sport"
+        ]
+    }
+}

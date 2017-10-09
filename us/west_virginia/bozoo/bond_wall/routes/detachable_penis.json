@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bond_wall",
+        "stub": "detachable_penis",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Detachable Penis",
+        "types": [
+            "unknown"
+        ]
+    }
+}

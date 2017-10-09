@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "monolith_wall",
+        "stub": "the_monolith",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d c1",
+        "name": "The Monolith",
+        "types": [
+            "aid"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "roux",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "Roux",
+        "types": [
+            "unknown"
+        ]
+    }
+}

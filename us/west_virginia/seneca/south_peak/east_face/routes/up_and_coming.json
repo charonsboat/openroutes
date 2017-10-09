@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "up_and_coming",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Up and Coming",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "stink_bug",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Stink Bug",
+        "types": [
+            "sport"
+        ]
+    }
+}

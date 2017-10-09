@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "breach_birth",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Breach Birth",
+        "types": [
+            "unknown"
+        ]
+    }
+}

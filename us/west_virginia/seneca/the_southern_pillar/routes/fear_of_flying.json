@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "fear_of_flying",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Fear of Flying",
+        "types": [
+            "unknown"
+        ]
+    }
+}

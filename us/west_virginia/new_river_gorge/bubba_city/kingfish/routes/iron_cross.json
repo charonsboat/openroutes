@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kingfish",
+        "stub": "iron_cross",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Iron Cross",
+        "types": [
+            "unknown"
+        ]
+    }
+}

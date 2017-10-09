@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "coopers_rock_state_forest",
+        "stub": "tilted_tree_alley_way",
+        "type": "region"
+    },
+    "info": {
+        "name": "Tilted Tree Alley Way"
+    }
+}

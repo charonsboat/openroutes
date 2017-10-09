@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "wasp_stop",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Wasp Stop",
+        "types": [
+            "sport"
+        ]
+    }
+}

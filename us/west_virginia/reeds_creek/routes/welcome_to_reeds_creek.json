@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "welcome_to_reeds_creek",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Welcome to Reed's Creek",
+        "types": [
+            "sport"
+        ]
+    }
+}

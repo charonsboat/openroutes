@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "likme_area",
+        "stub": "rock_waves",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Rock Waves",
+        "types": [
+            "unknown"
+        ]
+    }
+}

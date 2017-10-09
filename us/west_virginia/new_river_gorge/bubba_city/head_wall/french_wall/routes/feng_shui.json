@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "french_wall",
+        "stub": "feng_shui",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Feng Shui",
+        "types": [
+            "sport"
+        ]
+    }
+}

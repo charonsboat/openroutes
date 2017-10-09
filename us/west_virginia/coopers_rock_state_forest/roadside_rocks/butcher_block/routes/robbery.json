@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "butcher_block",
+        "stub": "robbery",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Robbery",
+        "types": [
+            "boulder"
+        ]
+    }
+}

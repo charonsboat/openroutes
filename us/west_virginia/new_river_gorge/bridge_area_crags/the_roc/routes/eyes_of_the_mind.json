@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_roc",
+        "stub": "eyes_of_the_mind",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Eyes Of The Mind",
+        "types": [
+            "unknown"
+        ]
+    }
+}

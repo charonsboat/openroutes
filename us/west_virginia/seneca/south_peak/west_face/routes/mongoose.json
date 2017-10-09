@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "mongoose",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Mongoose",
+        "types": [
+            "unknown"
+        ]
+    }
+}

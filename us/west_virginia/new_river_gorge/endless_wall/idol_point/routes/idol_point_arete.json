@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "idol_point",
+        "stub": "idol_point_arete",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Idol Point Arete",
+        "types": [
+            "sport"
+        ]
+    }
+}

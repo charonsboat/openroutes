@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "the_raptilian",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "The Raptilian",
+        "types": [
+            "sport"
+        ]
+    }
+}

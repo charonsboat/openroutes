@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tattoo_wall",
+        "stub": "white_henna",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "White Henna",
+        "types": [
+            "unknown"
+        ]
+    }
+}

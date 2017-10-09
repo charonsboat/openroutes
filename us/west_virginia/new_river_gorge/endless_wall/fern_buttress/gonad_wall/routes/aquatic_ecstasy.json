@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "gonad_wall",
+        "stub": "aquatic_ecstasy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Aquatic Ecstasy",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "little_head_wall",
+        "stub": "stalking_the_wild_toad",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Stalking The Wild Toad",
+        "types": [
+            "unknown"
+        ]
+    }
+}

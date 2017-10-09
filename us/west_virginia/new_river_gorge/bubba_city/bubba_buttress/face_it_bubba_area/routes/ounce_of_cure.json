@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "face_it_bubba_area",
+        "stub": "ounce_of_cure",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Ounce of Cure",
+        "types": [
+            "unknown"
+        ]
+    }
+}

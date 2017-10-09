@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_pillar_south_face",
+        "stub": "dominion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Dominion",
+        "types": [
+            "unknown"
+        ]
+    }
+}

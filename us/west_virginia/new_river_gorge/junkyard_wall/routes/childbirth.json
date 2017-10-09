@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "childbirth",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Childbirth",
+        "types": [
+            "unknown"
+        ]
+    }
+}

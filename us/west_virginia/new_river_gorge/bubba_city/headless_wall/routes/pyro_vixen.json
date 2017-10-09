@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "headless_wall",
+        "stub": "pyro_vixen",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Pyro Vixen",
+        "types": [
+            "sport"
+        ]
+    }
+}

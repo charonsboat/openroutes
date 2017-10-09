@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "euro_wall",
+        "stub": "name_unknown",
+        "type": "region"
+    },
+    "info": {
+        "grade": "?",
+        "name": "Name Unknown",
+        "types": [
+            "unknown"
+        ]
+    }
+}

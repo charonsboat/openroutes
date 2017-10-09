@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "south_bridge_wall",
+        "stub": "min_arete",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Min-Arete",
+        "types": [
+            "unknown"
+        ]
+    }
+}

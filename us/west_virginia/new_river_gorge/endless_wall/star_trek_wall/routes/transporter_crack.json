@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "star_trek_wall",
+        "stub": "transporter_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Transporter Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

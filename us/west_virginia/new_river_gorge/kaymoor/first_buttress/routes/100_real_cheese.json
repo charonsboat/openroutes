@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "first_buttress",
+        "stub": "100_real_cheese",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "100% Real Cheese",
+        "types": [
+            "sport"
+        ]
+    }
+}

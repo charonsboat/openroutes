@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "overlook_buttress",
+        "stub": "tree_in_your_face",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Tree In Your Face",
+        "types": [
+            "unknown"
+        ]
+    }
+}

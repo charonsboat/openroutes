@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "fern_buttress",
+        "stub": "conditioning_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Conditioning Wall"
+    }
+}

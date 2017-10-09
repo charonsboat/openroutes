@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "new_speedway_boogie",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "New Speedway Boogie",
+        "types": [
+            "unknown"
+        ]
+    }
+}

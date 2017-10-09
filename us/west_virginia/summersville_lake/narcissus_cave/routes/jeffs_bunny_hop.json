@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "narcissus_cave",
+        "stub": "jeffs_bunny_hop",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Jeff's Bunny Hop",
+        "types": [
+            "sport"
+        ]
+    }
+}

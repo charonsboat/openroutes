@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mr_clean_face_corridor",
+        "stub": "mr_clean",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Mr. Clean",
+        "types": [
+            "unknown"
+        ]
+    }
+}

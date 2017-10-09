@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stone_gallows_wall",
+        "stub": "tentacle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Tentacle",
+        "types": [
+            "unknown"
+        ]
+    }
+}

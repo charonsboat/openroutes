@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "corrosion_block",
+        "stub": "george_washingtons_nose",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "George Washington's Nose",
+        "types": [
+            "boulder"
+        ]
+    }
+}

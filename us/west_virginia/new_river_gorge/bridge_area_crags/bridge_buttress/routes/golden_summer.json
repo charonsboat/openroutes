@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bridge_buttress",
+        "stub": "golden_summer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Golden Summer",
+        "types": [
+            "sport"
+        ]
+    }
+}

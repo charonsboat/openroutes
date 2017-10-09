@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "internal_dialogue",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Internal Dialogue",
+        "types": [
+            "sport"
+        ]
+    }
+}

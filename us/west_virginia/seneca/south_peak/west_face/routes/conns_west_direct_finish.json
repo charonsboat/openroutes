@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "conns_west_direct_finish",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Conn's West Direct Finish",
+        "types": [
+            "trad"
+        ]
+    }
+}

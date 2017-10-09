@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "almost_tall_wall",
+        "stub": "dangerous_passions",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Dangerous Passions",
+        "types": [
+            "unknown"
+        ]
+    }
+}

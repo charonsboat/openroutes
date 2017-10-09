@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bosnian_buttress",
+        "stub": "climb_max",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Climb-Max",
+        "types": [
+            "sport"
+        ]
+    }
+}

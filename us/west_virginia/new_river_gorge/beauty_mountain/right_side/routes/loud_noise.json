@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "right_side",
+        "stub": "loud_noise",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Loud Noise",
+        "types": [
+            "sport"
+        ]
+    }
+}

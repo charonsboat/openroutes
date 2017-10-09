@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_sport_wall",
+        "stub": "unnamed",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Unnamed",
+        "types": [
+            "unknown"
+        ]
+    }
+}

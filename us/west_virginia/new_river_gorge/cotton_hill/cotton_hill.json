@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "new_river_gorge",
+        "stub": "cotton_hill",
+        "type": "region"
+    },
+    "info": {
+        "name": "Cotton Hill"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_crescendo_wall",
+        "stub": "moderato",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Moderato",
+        "types": [
+            "unknown"
+        ]
+    }
+}

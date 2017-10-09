@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "quartz_inversion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Quartz Inversion",
+        "types": [
+            "unknown"
+        ]
+    }
+}

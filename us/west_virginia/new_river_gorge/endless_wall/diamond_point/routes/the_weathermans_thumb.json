@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "the_weathermans_thumb",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "The Weatherman's Thumb",
+        "types": [
+            "sport"
+        ]
+    }
+}

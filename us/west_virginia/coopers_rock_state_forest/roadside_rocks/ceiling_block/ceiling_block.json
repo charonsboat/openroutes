@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "roadside_rocks",
+        "stub": "ceiling_block",
+        "type": "region"
+    },
+    "info": {
+        "name": "Ceiling Block"
+    }
+}

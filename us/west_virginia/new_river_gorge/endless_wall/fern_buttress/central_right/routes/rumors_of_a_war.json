@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central_right",
+        "stub": "rumors_of_a_war",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Rumors Of A War",
+        "types": [
+            "sport"
+        ]
+    }
+}

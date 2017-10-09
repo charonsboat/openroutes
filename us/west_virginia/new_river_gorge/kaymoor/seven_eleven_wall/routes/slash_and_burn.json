@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "seven_eleven_wall",
+        "stub": "slash_and_burn",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Slash and Burn",
+        "types": [
+            "sport"
+        ]
+    }
+}

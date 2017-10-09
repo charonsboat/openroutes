@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_ogre",
+        "stub": "roadcutt_manor",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Roadcutt Manor",
+        "types": [
+            "sport"
+        ]
+    }
+}

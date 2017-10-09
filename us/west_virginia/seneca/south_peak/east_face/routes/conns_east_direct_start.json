@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "conns_east_direct_start",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Conn's East Direct Start",
+        "types": [
+            "trad"
+        ]
+    }
+}

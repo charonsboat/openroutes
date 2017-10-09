@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "question_mark",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "Question Mark",
+        "types": [
+            "unknown"
+        ]
+    }
+}

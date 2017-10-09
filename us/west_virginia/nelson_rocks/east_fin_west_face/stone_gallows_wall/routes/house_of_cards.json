@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stone_gallows_wall",
+        "stub": "house_of_cards",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "House of Cards",
+        "types": [
+            "unknown"
+        ]
+    }
+}

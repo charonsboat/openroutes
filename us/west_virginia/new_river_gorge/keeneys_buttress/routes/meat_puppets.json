@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "keeneys_buttress",
+        "stub": "meat_puppets",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Meat Puppets",
+        "types": [
+            "unknown"
+        ]
+    }
+}

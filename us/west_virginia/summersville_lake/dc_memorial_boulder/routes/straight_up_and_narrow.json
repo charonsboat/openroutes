@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dc_memorial_boulder",
+        "stub": "straight_up_and_narrow",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Straight Up and Narrow",
+        "types": [
+            "unknown"
+        ]
+    }
+}

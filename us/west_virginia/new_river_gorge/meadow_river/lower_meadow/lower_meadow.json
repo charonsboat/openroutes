@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "meadow_river",
+        "stub": "lower_meadow",
+        "type": "region"
+    },
+    "info": {
+        "name": "Lower Meadow"
+    }
+}

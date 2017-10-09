@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stellar_idea_area",
+        "stub": "perpetual_motion",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Perpetual Motion",
+        "types": [
+            "unknown"
+        ]
+    }
+}

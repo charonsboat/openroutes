@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "leave_it_to_jesus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Leave It To Jesus",
+        "types": [
+            "trad"
+        ]
+    }
+}

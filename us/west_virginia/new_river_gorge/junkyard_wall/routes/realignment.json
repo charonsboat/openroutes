@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "realignment",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Realignment",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_rostrum",
+        "stub": "rapid_view",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6 r",
+        "name": "Rapid View",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "head_wall",
+        "stub": "coughing_up_fleming",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Coughing Up Fleming",
+        "types": [
+            "unknown"
+        ]
+    }
+}

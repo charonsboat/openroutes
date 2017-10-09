@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "perserverence",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Perserverence",
+        "types": [
+            "unknown"
+        ]
+    }
+}

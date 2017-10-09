@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "worrells_thicket",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.0",
+        "name": "Worrell's Thicket",
+        "types": [
+            "unknown"
+        ]
+    }
+}

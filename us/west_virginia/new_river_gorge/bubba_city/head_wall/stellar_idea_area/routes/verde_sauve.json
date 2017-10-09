@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stellar_idea_area",
+        "stub": "verde_sauve",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Verde Sauve",
+        "types": [
+            "sport"
+        ]
+    }
+}

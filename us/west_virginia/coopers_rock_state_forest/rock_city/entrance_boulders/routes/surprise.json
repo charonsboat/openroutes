@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "entrance_boulders",
+        "stub": "surprise",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Surprise",
+        "types": [
+            "boulder"
+        ]
+    }
+}

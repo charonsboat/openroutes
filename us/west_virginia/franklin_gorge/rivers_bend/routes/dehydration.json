@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rivers_bend",
+        "stub": "dehydration",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "Dehydration",
+        "types": [
+            "sport"
+        ]
+    }
+}

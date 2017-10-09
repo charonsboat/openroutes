@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kingfish",
+        "stub": "king_of_swing",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "King Of Swing",
+        "types": [
+            "unknown"
+        ]
+    }
+}

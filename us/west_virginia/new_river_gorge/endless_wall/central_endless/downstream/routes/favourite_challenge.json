@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "favourite_challenge",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Favourite Challenge",
+        "types": [
+            "unknown"
+        ]
+    }
+}

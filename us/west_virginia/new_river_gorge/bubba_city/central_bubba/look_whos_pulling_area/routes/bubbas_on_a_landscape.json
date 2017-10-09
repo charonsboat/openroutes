@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "bubbas_on_a_landscape",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Bubbas On A Landscape",
+        "types": [
+            "sport"
+        ]
+    }
+}

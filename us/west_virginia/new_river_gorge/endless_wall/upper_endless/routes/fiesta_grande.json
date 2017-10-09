@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "fiesta_grande",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Fiesta Grande",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kaymoor_slab",
+        "stub": "slab_omeat",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Slab-O-Meat",
+        "types": [
+            "sport"
+        ]
+    }
+}

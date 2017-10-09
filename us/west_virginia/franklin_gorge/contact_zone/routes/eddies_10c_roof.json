@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "contact_zone",
+        "stub": "eddies_10c_roof",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Eddie's 10c Roof",
+        "types": [
+            "sport"
+        ]
+    }
+}

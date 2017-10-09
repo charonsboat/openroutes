@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "gonad_wall",
+        "stub": "arbor_day",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Arbor Day",
+        "types": [
+            "unknown"
+        ]
+    }
+}

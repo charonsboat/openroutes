@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "steppin_out",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Steppin' Out",
+        "types": [
+            "unknown"
+        ]
+    }
+}

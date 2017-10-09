@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "entrance_exit_boulders",
+        "stub": "helicopter",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "Helicopter",
+        "types": [
+            "boulder"
+        ]
+    }
+}

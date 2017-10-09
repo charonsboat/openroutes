@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill",
+        "stub": "wafer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Wafer",
+        "types": [
+            "unknown"
+        ]
+    }
+}

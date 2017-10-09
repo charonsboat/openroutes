@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "walls_of_points_upstream",
+        "stub": "stop_and_ill_shoot",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Stop And I'll Shoot",
+        "types": [
+            "sport"
+        ]
+    }
+}

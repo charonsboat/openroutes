@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "judge_not",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Judge Not",
+        "types": [
+            "unknown"
+        ]
+    }
+}

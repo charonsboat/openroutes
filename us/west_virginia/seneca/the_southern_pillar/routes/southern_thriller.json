@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "southern_thriller",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Southern Thriller",
+        "types": [
+            "unknown"
+        ]
+    }
+}

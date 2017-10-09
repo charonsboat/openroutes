@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "ayli_direct_finish",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d r",
+        "name": "A.Y.L.I. Direct Finish",
+        "types": [
+            "unknown"
+        ]
+    }
+}

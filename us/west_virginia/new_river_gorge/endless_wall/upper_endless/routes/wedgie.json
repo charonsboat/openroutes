@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "wedgie",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Wedgie",
+        "types": [
+            "unknown"
+        ]
+    }
+}

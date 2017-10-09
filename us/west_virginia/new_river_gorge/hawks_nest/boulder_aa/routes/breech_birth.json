@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "boulder_aa",
+        "stub": "breech_birth",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Breech Birth",
+        "types": [
+            "boulder"
+        ]
+    }
+}

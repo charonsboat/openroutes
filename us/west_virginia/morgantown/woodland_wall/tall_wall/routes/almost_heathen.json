@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tall_wall",
+        "stub": "almost_heathen",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Almost Heathen",
+        "types": [
+            "unknown"
+        ]
+    }
+}

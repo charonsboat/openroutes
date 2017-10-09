@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "suspended_sentence",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Suspended Sentence",
+        "types": [
+            "sport"
+        ]
+    }
+}

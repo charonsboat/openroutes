@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "crescendo_wall_area",
+        "stub": "lower_crescendo_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Lower Crescendo Wall"
+    }
+}

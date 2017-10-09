@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "slipstream",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Slipstream",
+        "types": [
+            "unknown"
+        ]
+    }
+}

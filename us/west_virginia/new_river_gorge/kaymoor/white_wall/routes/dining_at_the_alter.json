@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "white_wall",
+        "stub": "dining_at_the_alter",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Dining at the Alter",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "rhododenema",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Rhododenema",
+        "types": [
+            "trad"
+        ]
+    }
+}

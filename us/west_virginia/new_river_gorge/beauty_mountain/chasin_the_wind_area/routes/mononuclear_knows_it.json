@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chasin_the_wind_area",
+        "stub": "mononuclear_knows_it",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Mononuclear Knows It",
+        "types": [
+            "unknown"
+        ]
+    }
+}

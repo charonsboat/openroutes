@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "thilly_puddy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Thilly Puddy",
+        "types": [
+            "unknown"
+        ]
+    }
+}

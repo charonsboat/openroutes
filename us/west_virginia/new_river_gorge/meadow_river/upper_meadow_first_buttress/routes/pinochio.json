@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_first_buttress",
+        "stub": "pinochio",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12+",
+        "name": "Pinochio",
+        "types": [
+            "unknown"
+        ]
+    }
+}

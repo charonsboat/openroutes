@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "beauty_mountain",
+        "stub": "the_brain",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Brain"
+    }
+}

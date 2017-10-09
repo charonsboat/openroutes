@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beer_wall_to_be_merged",
+        "stub": "bubbaweiser",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Bubbaweiser",
+        "types": [
+            "sport"
+        ]
+    }
+}

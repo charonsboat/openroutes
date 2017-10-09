@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "scavenger",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13c",
+        "name": "Scavenger",
+        "types": [
+            "trad"
+        ]
+    }
+}

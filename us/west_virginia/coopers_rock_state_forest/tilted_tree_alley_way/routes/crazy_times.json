@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "crazy_times",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v7",
+        "name": "Crazy Times",
+        "types": [
+            "boulder"
+        ]
+    }
+}

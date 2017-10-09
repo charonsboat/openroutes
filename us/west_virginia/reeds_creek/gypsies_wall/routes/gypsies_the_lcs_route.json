@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "gypsies_wall",
+        "stub": "gypsies_the_lcs_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Gypsies / The LCS Route",
+        "types": [
+            "sport"
+        ]
+    }
+}

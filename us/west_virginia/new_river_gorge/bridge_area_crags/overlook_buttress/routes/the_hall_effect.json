@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "overlook_buttress",
+        "stub": "the_hall_effect",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "The Hall Effect",
+        "types": [
+            "unknown"
+        ]
+    }
+}

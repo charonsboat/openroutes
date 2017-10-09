@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "seven_eleven_wall",
+        "stub": "enigma",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Enigma",
+        "types": [
+            "unknown"
+        ]
+    }
+}

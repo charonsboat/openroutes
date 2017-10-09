@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "conditioning_wall",
+        "stub": "one_of_my_many_smells",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "One Of My Many Smells",
+        "types": [
+            "unknown"
+        ]
+    }
+}

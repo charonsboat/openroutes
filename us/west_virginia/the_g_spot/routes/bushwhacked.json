@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_g_spot",
+        "stub": "bushwhacked",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Bushwhacked",
+        "types": [
+            "unknown"
+        ]
+    }
+}

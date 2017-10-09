@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "rhododendron_corner",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Rhododendron Corner",
+        "types": [
+            "unknown"
+        ]
+    }
+}

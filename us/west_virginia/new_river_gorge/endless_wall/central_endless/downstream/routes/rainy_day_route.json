@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "rainy_day_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Rainy Day Route",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "more_studly_than_puddly",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "More Studly Than Puddly",
+        "types": [
+            "sport"
+        ]
+    }
+}

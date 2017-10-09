@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "parking_area_wall",
+        "stub": "limestoned",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Limestoned",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "endless_wall",
+        "stub": "the_mungolian_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Mungolian Wall"
+    }
+}

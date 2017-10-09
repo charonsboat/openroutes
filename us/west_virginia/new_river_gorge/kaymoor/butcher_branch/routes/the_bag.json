@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "butcher_branch",
+        "stub": "the_bag",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "The Bag",
+        "types": [
+            "unknown"
+        ]
+    }
+}

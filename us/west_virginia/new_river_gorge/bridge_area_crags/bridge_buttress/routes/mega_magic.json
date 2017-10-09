@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bridge_buttress",
+        "stub": "mega_magic",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Mega Magic",
+        "types": [
+            "sport"
+        ]
+    }
+}

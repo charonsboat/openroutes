@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "scrambled_leggs",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Scrambled Leggs",
+        "types": [
+            "unknown"
+        ]
+    }
+}

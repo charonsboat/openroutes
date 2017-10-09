@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central_bridge_wall",
+        "stub": "needful_things",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Needful Things",
+        "types": [
+            "sport"
+        ]
+    }
+}

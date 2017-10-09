@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "entrance_exit_boulders",
+        "stub": "warm_up_problems",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Warm Up Problems",
+        "types": [
+            "boulder"
+        ]
+    }
+}

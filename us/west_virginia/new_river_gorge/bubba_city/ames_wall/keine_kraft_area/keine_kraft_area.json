@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "ames_wall",
+        "stub": "keine_kraft_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Keine Kraft Area"
+    }
+}

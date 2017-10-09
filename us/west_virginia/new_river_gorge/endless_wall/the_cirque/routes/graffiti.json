@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_cirque",
+        "stub": "graffiti",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Graffiti",
+        "types": [
+            "unknown"
+        ]
+    }
+}

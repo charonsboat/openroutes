@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "as_you_lichen_it",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c r",
+        "name": "As You Lichen It",
+        "types": [
+            "unknown"
+        ]
+    }
+}

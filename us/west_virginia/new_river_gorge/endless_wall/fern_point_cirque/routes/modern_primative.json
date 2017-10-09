@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point_cirque",
+        "stub": "modern_primative",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Modern Primative",
+        "types": [
+            "sport"
+        ]
+    }
+}

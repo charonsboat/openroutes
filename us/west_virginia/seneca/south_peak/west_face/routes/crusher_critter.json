@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "crusher_critter",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Crusher Critter",
+        "types": [
+            "unknown"
+        ]
+    }
+}

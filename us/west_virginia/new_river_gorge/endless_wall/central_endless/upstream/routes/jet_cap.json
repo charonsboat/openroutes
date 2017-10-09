@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "jet_cap",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Jet Cap",
+        "types": [
+            "sport"
+        ]
+    }
+}

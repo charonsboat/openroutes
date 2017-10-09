@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "man_owar",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Man-O-War",
+        "types": [
+            "unknown"
+        ]
+    }
+}

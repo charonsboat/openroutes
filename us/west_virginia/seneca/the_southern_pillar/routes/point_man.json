@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "point_man",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Point Man",
+        "types": [
+            "unknown"
+        ]
+    }
+}

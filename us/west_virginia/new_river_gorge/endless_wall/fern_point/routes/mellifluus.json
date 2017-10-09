@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "mellifluus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Mellifluus",
+        "types": [
+            "unknown"
+        ]
+    }
+}

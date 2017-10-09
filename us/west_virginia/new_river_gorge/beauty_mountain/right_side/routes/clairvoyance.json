@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "right_side",
+        "stub": "clairvoyance",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Clairvoyance",
+        "types": [
+            "unknown"
+        ]
+    }
+}

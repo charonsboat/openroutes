@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bridge_buttress",
+        "stub": "hortons_tree",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Horton's Tree",
+        "types": [
+            "trad"
+        ]
+    }
+}

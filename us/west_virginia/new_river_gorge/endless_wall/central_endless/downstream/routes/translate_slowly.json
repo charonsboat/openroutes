@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "translate_slowly",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c r",
+        "name": "Translate Slowly",
+        "types": [
+            "unknown"
+        ]
+    }
+}

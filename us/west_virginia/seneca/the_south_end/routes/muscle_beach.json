@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "muscle_beach",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Muscle Beach",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_pinnacle",
+        "stub": "the_reverse_traverse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "The Reverse Traverse",
+        "types": [
+            "unknown"
+        ]
+    }
+}

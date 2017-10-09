@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "endless_wall",
+        "stub": "fern_creek_north_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Fern Creek North Wall"
+    }
+}

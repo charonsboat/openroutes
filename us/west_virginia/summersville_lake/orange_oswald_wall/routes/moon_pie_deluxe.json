@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orange_oswald_wall",
+        "stub": "moon_pie_deluxe",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Moon Pie Deluxe",
+        "types": [
+            "unknown"
+        ]
+    }
+}

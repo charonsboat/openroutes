@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "anns_revenge",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Ann's Revenge",
+        "types": [
+            "trad"
+        ]
+    }
+}

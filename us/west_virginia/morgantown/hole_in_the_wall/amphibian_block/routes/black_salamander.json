@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "amphibian_block",
+        "stub": "black_salamander",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Black Salamander",
+        "types": [
+            "sport"
+        ]
+    }
+}

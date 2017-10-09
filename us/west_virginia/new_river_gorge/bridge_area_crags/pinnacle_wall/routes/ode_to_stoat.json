@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pinnacle_wall",
+        "stub": "ode_to_stoat",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Ode To Stoat",
+        "types": [
+            "unknown"
+        ]
+    }
+}

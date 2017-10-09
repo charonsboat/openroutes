@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_rostrum",
+        "stub": "mortimer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Mortimer",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_sport_wall",
+        "stub": "chortle_head",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Chortle Head",
+        "types": [
+            "unknown"
+        ]
+    }
+}

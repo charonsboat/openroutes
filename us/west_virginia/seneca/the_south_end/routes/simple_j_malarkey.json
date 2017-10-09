@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "simple_j_malarkey",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Simple J. Malarkey",
+        "types": [
+            "unknown"
+        ]
+    }
+}

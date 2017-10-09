@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sanstonia",
+        "stub": "climb_free_or_die",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Climb Free or Die",
+        "types": [
+            "unknown"
+        ]
+    }
+}

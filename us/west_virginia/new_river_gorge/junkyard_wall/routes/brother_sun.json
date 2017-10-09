@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "brother_sun",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Brother Sun",
+        "types": [
+            "unknown"
+        ]
+    }
+}

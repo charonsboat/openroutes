@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "nitro",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Nitro",
+        "types": [
+            "unknown"
+        ]
+    }
+}

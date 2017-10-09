@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "conditioning_wall",
+        "stub": "the_udderling",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "The Udderling",
+        "types": [
+            "unknown"
+        ]
+    }
+}

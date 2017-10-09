@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "star_trek_wall",
+        "stub": "holey_trinity",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Holey Trinity",
+        "types": [
+            "unknown"
+        ]
+    }
+}

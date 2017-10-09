@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "necro_wall",
+        "stub": "tiers_of_blood",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Tiers of Blood",
+        "types": [
+            "unknown"
+        ]
+    }
+}

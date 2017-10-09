@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_big_blocks",
+        "stub": "another_green_world",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Another Green World",
+        "types": [
+            "unknown"
+        ]
+    }
+}

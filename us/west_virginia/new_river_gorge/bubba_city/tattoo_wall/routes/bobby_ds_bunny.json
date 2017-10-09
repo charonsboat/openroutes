@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tattoo_wall",
+        "stub": "bobby_ds_bunny",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Bobby D's Bunny",
+        "types": [
+            "sport"
+        ]
+    }
+}

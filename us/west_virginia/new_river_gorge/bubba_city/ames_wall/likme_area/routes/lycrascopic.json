@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "likme_area",
+        "stub": "lycrascopic",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Lycrascopic",
+        "types": [
+            "sport"
+        ]
+    }
+}

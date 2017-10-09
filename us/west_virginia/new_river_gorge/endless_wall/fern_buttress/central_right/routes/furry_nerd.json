@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central_right",
+        "stub": "furry_nerd",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c r",
+        "name": "Furry Nerd",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "necro_wall",
+        "stub": "cruella_de_vil",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Cruella de Vil",
+        "types": [
+            "unknown"
+        ]
+    }
+}

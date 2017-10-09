@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "white_wall",
+        "stub": "j_tree_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "J Tree Route",
+        "types": [
+            "unknown"
+        ]
+    }
+}

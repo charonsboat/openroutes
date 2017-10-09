@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "scotts_turf_builder",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Scott's Turf Builder",
+        "types": [
+            "trad"
+        ]
+    }
+}

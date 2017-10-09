@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "route_66",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b r",
+        "name": "Route 66",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "big_pocket_problem",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0+",
+        "name": "Big Pocket Problem",
+        "types": [
+            "boulder"
+        ]
+    }
+}

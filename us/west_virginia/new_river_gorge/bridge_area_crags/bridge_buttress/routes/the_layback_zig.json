@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bridge_buttress",
+        "stub": "the_layback_zig",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "The Layback (Zig)",
+        "types": [
+            "trad"
+        ]
+    }
+}

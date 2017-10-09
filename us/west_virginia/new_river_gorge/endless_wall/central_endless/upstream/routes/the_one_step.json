@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "the_one_step",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8 r",
+        "name": "The One Step",
+        "types": [
+            "unknown"
+        ]
+    }
+}

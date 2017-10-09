@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pinnacle_wall",
+        "stub": "jams_across_america",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Jams Across America",
+        "types": [
+            "unknown"
+        ]
+    }
+}

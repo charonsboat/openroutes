@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_meadow",
+        "stub": "cat_food",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Cat Food",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "boulder_bb",
+        "stub": "down_climb",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Down-Climb",
+        "types": [
+            "boulder"
+        ]
+    }
+}

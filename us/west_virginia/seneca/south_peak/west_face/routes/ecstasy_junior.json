@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "ecstasy_junior",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Ecstasy Junior",
+        "types": [
+            "trad"
+        ]
+    }
+}

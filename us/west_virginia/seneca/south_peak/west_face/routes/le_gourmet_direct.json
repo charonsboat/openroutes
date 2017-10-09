@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "le_gourmet_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Le Gourmet Direct",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_g_spot",
+        "stub": "choose_your_poison",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Choose Your Poison",
+        "types": [
+            "unknown"
+        ]
+    }
+}

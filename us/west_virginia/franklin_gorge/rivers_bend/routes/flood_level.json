@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rivers_bend",
+        "stub": "flood_level",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Flood Level",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "crack_of_dawn",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Crack of Dawn",
+        "types": [
+            "trad"
+        ]
+    }
+}

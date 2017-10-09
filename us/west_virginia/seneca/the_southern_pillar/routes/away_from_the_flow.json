@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "away_from_the_flow",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Away From the Flow",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "super_mario_boulder",
+        "stub": "leap_of_faith",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13c",
+        "name": "Leap of Faith",
+        "types": [
+            "unknown"
+        ]
+    }
+}

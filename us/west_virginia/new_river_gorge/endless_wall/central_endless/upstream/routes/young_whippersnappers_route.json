@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "young_whippersnappers_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b x",
+        "name": "Young Whippersnapper's Route",
+        "types": [
+            "unknown"
+        ]
+    }
+}

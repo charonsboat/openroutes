@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "insertum_outcome",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Insertum Outcome",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "fun_with_jello",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Fun With Jello",
+        "types": [
+            "unknown"
+        ]
+    }
+}

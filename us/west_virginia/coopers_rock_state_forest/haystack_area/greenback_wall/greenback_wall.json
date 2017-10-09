@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "haystack_area",
+        "stub": "greenback_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Greenback Wall"
+    }
+}

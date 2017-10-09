@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "motorcycle_rocks",
+        "stub": "corner_pocket",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Corner Pocket",
+        "types": [
+            "boulder"
+        ]
+    }
+}

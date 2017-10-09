@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "first_buttress",
+        "stub": "the_haulage",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "The Haulage",
+        "types": [
+            "sport"
+        ]
+    }
+}

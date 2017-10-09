@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_cirque",
+        "stub": "finders_keepers",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Finders Keepers",
+        "types": [
+            "sport"
+        ]
+    }
+}

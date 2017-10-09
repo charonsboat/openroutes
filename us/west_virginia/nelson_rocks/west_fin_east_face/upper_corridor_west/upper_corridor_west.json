@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "west_fin_east_face",
+        "stub": "upper_corridor_west",
+        "type": "region"
+    },
+    "info": {
+        "name": "Upper Corridor West"
+    }
+}

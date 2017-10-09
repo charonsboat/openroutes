@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "kingfish",
+        "stub": "goodbye_mr_lizzard",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Goodbye Mr. Lizzard",
+        "types": [
+            "unknown"
+        ]
+    }
+}

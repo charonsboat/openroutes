@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "stop_the_presses",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Stop The Presses",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "six_dollars",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Six Dollars",
+        "types": [
+            "unknown"
+        ]
+    }
+}

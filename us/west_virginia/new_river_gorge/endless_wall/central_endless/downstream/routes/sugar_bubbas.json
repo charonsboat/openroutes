@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "sugar_bubbas",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Sugar Bubbas",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "long_wall",
+        "stub": "jesus_is_my_license_plate",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Jesus is my License Plate",
+        "types": [
+            "unknown"
+        ]
+    }
+}

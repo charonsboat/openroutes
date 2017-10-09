@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "rock_rash",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Rock Rash",
+        "types": [
+            "trad"
+        ]
+    }
+}

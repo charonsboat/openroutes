@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "south_peak",
+        "stub": "east_face",
+        "type": "region"
+    },
+    "info": {
+        "name": "East Face"
+    }
+}

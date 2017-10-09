@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "stealth_n_magic",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Stealth' N Magic",
+        "types": [
+            "sport"
+        ]
+    }
+}

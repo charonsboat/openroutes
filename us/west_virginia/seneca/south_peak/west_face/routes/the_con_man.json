@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "the_con_man",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "The Con Man",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_meadow",
+        "stub": "the_greatest_show_on_earth",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12",
+        "name": "The Greatest Show on Earth",
+        "types": [
+            "trad"
+        ]
+    }
+}

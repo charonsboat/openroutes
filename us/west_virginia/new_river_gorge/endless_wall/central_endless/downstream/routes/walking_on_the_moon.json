@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "walking_on_the_moon",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Walking On The Moon",
+        "types": [
+            "unknown"
+        ]
+    }
+}

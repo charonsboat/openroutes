@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "changeling_direct_finish",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b r",
+        "name": "Changeling Direct Finish",
+        "types": [
+            "unknown"
+        ]
+    }
+}

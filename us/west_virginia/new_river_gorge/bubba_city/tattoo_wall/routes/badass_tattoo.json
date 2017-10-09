@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tattoo_wall",
+        "stub": "badass_tattoo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Badass Tattoo",
+        "types": [
+            "unknown"
+        ]
+    }
+}

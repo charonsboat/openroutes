@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "fat_back",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Fat Back",
+        "types": [
+            "sport"
+        ]
+    }
+}

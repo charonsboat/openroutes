@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "the_zee_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "The Zee Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

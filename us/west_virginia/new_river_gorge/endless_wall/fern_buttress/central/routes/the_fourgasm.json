@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central",
+        "stub": "the_fourgasm",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "The Fourgasm",
+        "types": [
+            "unknown"
+        ]
+    }
+}

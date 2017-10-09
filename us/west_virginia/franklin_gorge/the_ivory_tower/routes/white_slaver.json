@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_ivory_tower",
+        "stub": "white_slaver",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "White Slaver",
+        "types": [
+            "sport"
+        ]
+    }
+}

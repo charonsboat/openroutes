@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_ogre",
+        "stub": "the_best_little_road_cut_out_of_texas",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "The Best Little Road Cut Out Of Texas",
+        "types": [
+            "sport"
+        ]
+    }
+}

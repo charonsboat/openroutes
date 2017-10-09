@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "mr_fantasy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Mr. Fantasy",
+        "types": [
+            "unknown"
+        ]
+    }
+}

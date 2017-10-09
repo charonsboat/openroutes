@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "touch_and_go",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Touch and Go",
+        "types": [
+            "mixed"
+        ]
+    }
+}

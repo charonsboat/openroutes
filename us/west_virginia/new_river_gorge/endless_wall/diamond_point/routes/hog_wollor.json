@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "hog_wollor",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Hog Wollor",
+        "types": [
+            "unknown"
+        ]
+    }
+}

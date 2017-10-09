@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "french_wall",
+        "stub": "masterpiece_theatre",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Masterpiece Theatre",
+        "types": [
+            "sport"
+        ]
+    }
+}

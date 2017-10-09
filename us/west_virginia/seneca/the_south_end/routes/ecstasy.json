@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "ecstasy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Ecstasy",
+        "types": [
+            "unknown"
+        ]
+    }
+}

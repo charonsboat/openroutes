@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunset_wall_jimi_cliff",
+        "stub": "the_icon_aka_central_face_climb",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "The Icon (aka Central Face Climb)",
+        "types": [
+            "unknown"
+        ]
+    }
+}

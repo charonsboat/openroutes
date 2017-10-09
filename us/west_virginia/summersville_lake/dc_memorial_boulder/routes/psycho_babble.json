@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dc_memorial_boulder",
+        "stub": "psycho_babble",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Psycho Babble",
+        "types": [
+            "unknown"
+        ]
+    }
+}

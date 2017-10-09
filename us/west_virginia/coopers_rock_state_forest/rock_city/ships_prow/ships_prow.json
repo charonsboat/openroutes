@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "rock_city",
+        "stub": "ships_prow",
+        "type": "region"
+    },
+    "info": {
+        "name": "Ship's Prow"
+    }
+}

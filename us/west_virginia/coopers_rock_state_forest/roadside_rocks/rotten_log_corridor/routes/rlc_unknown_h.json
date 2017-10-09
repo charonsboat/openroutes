@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rotten_log_corridor",
+        "stub": "rlc_unknown_h",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11",
+        "name": "RLC Unknown H",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "garbage_wall_intestinal_wall",
+        "stub": "mo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "MO",
+        "types": [
+            "unknown"
+        ]
+    }
+}

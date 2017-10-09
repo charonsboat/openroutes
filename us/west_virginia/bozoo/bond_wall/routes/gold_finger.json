@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bond_wall",
+        "stub": "gold_finger",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Gold Finger",
+        "types": [
+            "unknown"
+        ]
+    }
+}

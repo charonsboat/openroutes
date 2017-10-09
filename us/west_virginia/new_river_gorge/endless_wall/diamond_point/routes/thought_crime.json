@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "thought_crime",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Thought Crime",
+        "types": [
+            "trad"
+        ]
+    }
+}

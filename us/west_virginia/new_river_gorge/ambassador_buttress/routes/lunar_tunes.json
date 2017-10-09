@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ambassador_buttress",
+        "stub": "lunar_tunes",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Lunar Tunes",
+        "types": [
+            "unknown"
+        ]
+    }
+}

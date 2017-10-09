@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central",
+        "stub": "bolt_rookies",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Bolt Rookies",
+        "types": [
+            "unknown"
+        ]
+    }
+}

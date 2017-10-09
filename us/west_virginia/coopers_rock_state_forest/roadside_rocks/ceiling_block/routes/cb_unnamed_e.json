@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ceiling_block",
+        "stub": "cb_unnamed_e",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11-",
+        "name": "CB Unnamed E",
+        "types": [
+            "unknown"
+        ]
+    }
+}

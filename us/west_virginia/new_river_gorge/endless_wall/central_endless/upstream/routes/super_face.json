@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "super_face",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Super Face",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bubba_buttress",
+        "stub": "near_beer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Near Beer",
+        "types": [
+            "sport"
+        ]
+    }
+}

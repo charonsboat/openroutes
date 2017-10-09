@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "the_weight",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "The Weight",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "fish_out_of_water",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Fish Out Of Water",
+        "types": [
+            "unknown"
+        ]
+    }
+}

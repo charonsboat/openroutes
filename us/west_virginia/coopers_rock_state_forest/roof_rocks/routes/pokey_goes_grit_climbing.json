@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roof_rocks",
+        "stub": "pokey_goes_grit_climbing",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Pokey Goes Grit Climbing",
+        "types": [
+            "unknown"
+        ]
+    }
+}

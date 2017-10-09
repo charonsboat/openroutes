@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "face_it_bubba_area",
+        "stub": "leave_it_to_bubba",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Leave It To Bubba",
+        "types": [
+            "unknown"
+        ]
+    }
+}

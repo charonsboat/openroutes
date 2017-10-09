@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ambassador_buttress",
+        "stub": "nookie_monster",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Nookie Monster",
+        "types": [
+            "unknown"
+        ]
+    }
+}

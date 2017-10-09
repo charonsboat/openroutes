@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fairly_tall_wall",
+        "stub": "illusions_of_ecstasy",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Illusions of Ecstasy",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_southern_pillar",
+        "stub": "right_tope",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Right Tope",
+        "types": [
+            "unknown"
+        ]
+    }
+}

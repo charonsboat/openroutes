@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "cockfight",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Cockfight",
+        "types": [
+            "mixed"
+        ]
+    }
+}

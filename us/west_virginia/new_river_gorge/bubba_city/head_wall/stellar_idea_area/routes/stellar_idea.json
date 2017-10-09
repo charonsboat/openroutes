@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stellar_idea_area",
+        "stub": "stellar_idea",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Stellar Idea",
+        "types": [
+            "sport"
+        ]
+    }
+}

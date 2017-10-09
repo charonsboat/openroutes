@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point_cirque",
+        "stub": "timberline",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Timberline",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "central_bubba",
+        "stub": "diamond_life_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Diamond Life Area"
+    }
+}

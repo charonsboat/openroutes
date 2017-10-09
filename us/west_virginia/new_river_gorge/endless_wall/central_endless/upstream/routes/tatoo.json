@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "tatoo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Tatoo",
+        "types": [
+            "sport"
+        ]
+    }
+}

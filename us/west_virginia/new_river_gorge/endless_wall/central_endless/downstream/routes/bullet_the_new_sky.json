@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "bullet_the_new_sky",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Bullet The New Sky",
+        "types": [
+            "sport"
+        ]
+    }
+}

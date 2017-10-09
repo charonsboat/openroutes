@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill_left",
+        "stub": "logos",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "logos",
+        "types": [
+            "sport"
+        ]
+    }
+}

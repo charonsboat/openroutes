@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pinnacle_wall",
+        "stub": "mr_peanut_head",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Mr. Peanut Head",
+        "types": [
+            "unknown"
+        ]
+    }
+}

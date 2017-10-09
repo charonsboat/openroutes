@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ambassador_buttress",
+        "stub": "auld_lang_syne",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b r",
+        "name": "Auld Lang Syne",
+        "types": [
+            "unknown"
+        ]
+    }
+}

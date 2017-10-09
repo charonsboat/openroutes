@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "right_side",
+        "stub": "lets_make_a_deal",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Let's Make A Deal",
+        "types": [
+            "sport"
+        ]
+    }
+}

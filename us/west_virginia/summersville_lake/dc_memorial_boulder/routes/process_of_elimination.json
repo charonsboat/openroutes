@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dc_memorial_boulder",
+        "stub": "process_of_elimination",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Process of Elimination",
+        "types": [
+            "unknown"
+        ]
+    }
+}

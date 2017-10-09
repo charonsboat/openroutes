@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "the_ribbon",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "The Ribbon",
+        "types": [
+            "unknown"
+        ]
+    }
+}

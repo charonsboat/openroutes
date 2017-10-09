@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "burn_escape",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "Burn Escape",
+        "types": [
+            "unknown"
+        ]
+    }
+}

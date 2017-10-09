@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "wasted_woute",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Wasted Woute",
+        "types": [
+            "unknown"
+        ]
+    }
+}

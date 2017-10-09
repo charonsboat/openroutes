@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "dracula",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Dracula",
+        "types": [
+            "unknown"
+        ]
+    }
+}

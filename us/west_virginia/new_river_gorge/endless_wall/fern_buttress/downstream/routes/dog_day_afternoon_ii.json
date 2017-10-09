@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "dog_day_afternoon_ii",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Dog Day Afternoon Ii",
+        "types": [
+            "sport"
+        ]
+    }
+}

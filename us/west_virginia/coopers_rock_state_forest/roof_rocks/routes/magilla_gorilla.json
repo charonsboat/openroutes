@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roof_rocks",
+        "stub": "magilla_gorilla",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Magilla Gorilla",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "burning_buttress",
+        "stub": "hallelujah_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Hallelujah Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_slabs",
+        "stub": "tips",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a r",
+        "name": "Tips",
+        "types": [
+            "unknown"
+        ]
+    }
+}

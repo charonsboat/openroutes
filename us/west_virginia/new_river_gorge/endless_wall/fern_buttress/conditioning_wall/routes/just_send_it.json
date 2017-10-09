@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "conditioning_wall",
+        "stub": "just_send_it",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "Just Send It",
+        "types": [
+            "sport"
+        ]
+    }
+}

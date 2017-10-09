@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sanstonia",
+        "stub": "mrs_fields_follies",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Mrs Fields Follies",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "likme_area",
+        "stub": "darwins_dangle",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Darwin's Dangle",
+        "types": [
+            "sport"
+        ]
+    }
+}

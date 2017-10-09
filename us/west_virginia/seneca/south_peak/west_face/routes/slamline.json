@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "slamline",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Slamline",
+        "types": [
+            "unknown"
+        ]
+    }
+}

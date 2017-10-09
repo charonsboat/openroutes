@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "picnic_block",
+        "stub": "sweet_sixteen",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "Sweet Sixteen",
+        "types": [
+            "unknown"
+        ]
+    }
+}

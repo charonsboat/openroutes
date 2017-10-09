@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bovine_wall",
+        "stub": "lover_burger",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Lover Burger",
+        "types": [
+            "unknown"
+        ]
+    }
+}

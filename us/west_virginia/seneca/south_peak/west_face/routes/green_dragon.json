@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "green_dragon",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a r",
+        "name": "Green Dragon",
+        "types": [
+            "unknown"
+        ]
+    }
+}

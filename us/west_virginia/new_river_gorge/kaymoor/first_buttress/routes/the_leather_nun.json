@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "first_buttress",
+        "stub": "the_leather_nun",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a a0",
+        "name": "The Leather Nun",
+        "types": [
+            "sport"
+        ]
+    }
+}

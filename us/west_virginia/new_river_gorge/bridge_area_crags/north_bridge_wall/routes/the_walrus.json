@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "north_bridge_wall",
+        "stub": "the_walrus",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "The Walrus",
+        "types": [
+            "unknown"
+        ]
+    }
+}

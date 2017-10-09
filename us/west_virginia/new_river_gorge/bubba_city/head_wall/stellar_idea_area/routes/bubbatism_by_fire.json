@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stellar_idea_area",
+        "stub": "bubbatism_by_fire",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a r",
+        "name": "Bubbatism By Fire",
+        "types": [
+            "unknown"
+        ]
+    }
+}

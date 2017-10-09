@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "test_of_endurance",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Test of endurance",
+        "types": [
+            "boulder"
+        ]
+    }
+}

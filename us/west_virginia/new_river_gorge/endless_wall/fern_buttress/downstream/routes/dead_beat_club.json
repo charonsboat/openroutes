@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "dead_beat_club",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Dead Beat Club",
+        "types": [
+            "unknown"
+        ]
+    }
+}

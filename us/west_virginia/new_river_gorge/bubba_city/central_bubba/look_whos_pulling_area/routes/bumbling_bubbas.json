@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "bumbling_bubbas",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Bumbling Bubbas",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pirates_cove",
+        "stub": "the_good_the_bad_the_boltless",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "The Good, The Bad, The Boltless",
+        "types": [
+            "trad"
+        ]
+    }
+}

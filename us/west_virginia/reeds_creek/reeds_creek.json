@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "west_virginia",
+        "stub": "reeds_creek",
+        "type": "region"
+    },
+    "info": {
+        "name": "Reed's Creek"
+    }
+}

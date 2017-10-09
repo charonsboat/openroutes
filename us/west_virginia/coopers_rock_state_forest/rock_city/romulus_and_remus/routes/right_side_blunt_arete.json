@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "romulus_and_remus",
+        "stub": "right_side_blunt_arete",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "Right Side Blunt Arete",
+        "types": [
+            "unknown"
+        ]
+    }
+}

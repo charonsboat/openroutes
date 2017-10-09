@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "likme_area",
+        "stub": "exobubba",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Exobubba",
+        "types": [
+            "sport"
+        ]
+    }
+}

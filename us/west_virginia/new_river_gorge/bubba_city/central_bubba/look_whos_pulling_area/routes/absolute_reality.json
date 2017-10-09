@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "look_whos_pulling_area",
+        "stub": "absolute_reality",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Absolute Reality",
+        "types": [
+            "sport"
+        ]
+    }
+}

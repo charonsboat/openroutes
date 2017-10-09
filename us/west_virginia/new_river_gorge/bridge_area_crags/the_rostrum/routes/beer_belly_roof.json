@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_rostrum",
+        "stub": "beer_belly_roof",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Beer Belly Roof",
+        "types": [
+            "unknown"
+        ]
+    }
+}

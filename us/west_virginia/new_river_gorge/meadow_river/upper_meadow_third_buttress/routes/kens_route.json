@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_third_buttress",
+        "stub": "kens_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Ken's Route",
+        "types": [
+            "unknown"
+        ]
+    }
+}

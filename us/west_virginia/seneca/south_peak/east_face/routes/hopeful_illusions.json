@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "hopeful_illusions",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Hopeful Illusions",
+        "types": [
+            "unknown"
+        ]
+    }
+}

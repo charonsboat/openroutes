@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_slabs",
+        "stub": "autumn_fire",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Autumn Fire",
+        "types": [
+            "unknown"
+        ]
+    }
+}

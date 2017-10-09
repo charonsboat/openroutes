@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "blocks_area",
+        "stub": "aye_aye_captain",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Aye, Aye Captain",
+        "types": [
+            "unknown"
+        ]
+    }
+}

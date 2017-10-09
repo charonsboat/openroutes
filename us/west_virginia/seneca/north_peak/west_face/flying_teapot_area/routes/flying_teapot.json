@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "flying_teapot_area",
+        "stub": "flying_teapot",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Flying Teapot",
+        "types": [
+            "unknown"
+        ]
+    }
+}

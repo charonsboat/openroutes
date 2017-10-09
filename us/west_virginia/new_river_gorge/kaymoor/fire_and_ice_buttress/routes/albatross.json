@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fire_and_ice_buttress",
+        "stub": "albatross",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "Albatross",
+        "types": [
+            "sport"
+        ]
+    }
+}

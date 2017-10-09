@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_second_buttress",
+        "stub": "one_banana",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "One Banana",
+        "types": [
+            "sport"
+        ]
+    }
+}

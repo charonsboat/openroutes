@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_cirque",
+        "stub": "dolores_clairborne_project",
+        "type": "region"
+    },
+    "info": {
+        "grade": "project",
+        "name": "Dolores Clairborne (Project)",
+        "types": [
+            "unknown"
+        ]
+    }
+}

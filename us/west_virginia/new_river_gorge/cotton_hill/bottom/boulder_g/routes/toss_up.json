@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "boulder_g",
+        "stub": "toss_up",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Toss Up",
+        "types": [
+            "boulder"
+        ]
+    }
+}

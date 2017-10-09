@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_cirque",
+        "stub": "belly_up",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Belly Up",
+        "types": [
+            "unknown"
+        ]
+    }
+}

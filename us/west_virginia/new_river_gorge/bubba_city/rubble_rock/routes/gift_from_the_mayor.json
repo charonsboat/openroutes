@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rubble_rock",
+        "stub": "gift_from_the_mayor",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Gift From The Mayor",
+        "types": [
+            "unknown"
+        ]
+    }
+}

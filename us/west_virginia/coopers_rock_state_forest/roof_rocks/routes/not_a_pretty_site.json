@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roof_rocks",
+        "stub": "not_a_pretty_site",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11+",
+        "name": "Not a Pretty Site",
+        "types": [
+            "unknown"
+        ]
+    }
+}

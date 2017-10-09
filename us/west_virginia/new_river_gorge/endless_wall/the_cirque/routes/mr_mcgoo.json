@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_cirque",
+        "stub": "mr_mcgoo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Mr. McGoo",
+        "types": [
+            "unknown"
+        ]
+    }
+}

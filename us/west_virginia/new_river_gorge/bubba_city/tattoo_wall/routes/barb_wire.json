@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tattoo_wall",
+        "stub": "barb_wire",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Barb Wire",
+        "types": [
+            "unknown"
+        ]
+    }
+}

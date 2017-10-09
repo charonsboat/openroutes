@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "nuttall_slab",
+        "stub": "rats_alley",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Rat's Alley",
+        "types": [
+            "unknown"
+        ]
+    }
+}

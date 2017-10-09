@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "progresso",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Progresso",
+        "types": [
+            "unknown"
+        ]
+    }
+}

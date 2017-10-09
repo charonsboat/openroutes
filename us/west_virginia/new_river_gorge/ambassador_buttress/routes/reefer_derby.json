@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ambassador_buttress",
+        "stub": "reefer_derby",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Reefer Derby",
+        "types": [
+            "unknown"
+        ]
+    }
+}

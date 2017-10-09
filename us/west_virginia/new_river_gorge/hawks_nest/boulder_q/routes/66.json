@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "boulder_q",
+        "stub": "66",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "#66",
+        "types": [
+            "boulder"
+        ]
+    }
+}

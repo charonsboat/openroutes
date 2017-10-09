@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "haystack_block",
+        "stub": "standard_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Standard Direct",
+        "types": [
+            "unknown"
+        ]
+    }
+}

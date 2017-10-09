@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_roc",
+        "stub": "blackberry_blossom",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Blackberry Blossom",
+        "types": [
+            "unknown"
+        ]
+    }
+}

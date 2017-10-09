@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dog_wall",
+        "stub": "a_dog_always_returns_to_its_vomit",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c r",
+        "name": "A Dog Always Returns To Its Vomit",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "face_it_bubba_area",
+        "stub": "truth_or_contra_expenses",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Truth Or Contra-Expenses",
+        "types": [
+            "sport"
+        ]
+    }
+}

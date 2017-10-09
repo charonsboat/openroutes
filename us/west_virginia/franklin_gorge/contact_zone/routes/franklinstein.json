@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "contact_zone",
+        "stub": "franklinstein",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Franklinstein",
+        "types": [
+            "sport"
+        ]
+    }
+}

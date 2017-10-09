@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "likme_area",
+        "stub": "boschtardized",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Boschtardized",
+        "types": [
+            "sport"
+        ]
+    }
+}

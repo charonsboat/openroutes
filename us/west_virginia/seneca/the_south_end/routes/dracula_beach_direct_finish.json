@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "dracula_beach_direct_finish",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Dracula Beach Direct Finish",
+        "types": [
+            "unknown"
+        ]
+    }
+}

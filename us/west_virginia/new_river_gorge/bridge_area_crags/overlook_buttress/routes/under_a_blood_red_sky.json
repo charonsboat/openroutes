@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "overlook_buttress",
+        "stub": "under_a_blood_red_sky",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Under A Blood Red Sky",
+        "types": [
+            "unknown"
+        ]
+    }
+}

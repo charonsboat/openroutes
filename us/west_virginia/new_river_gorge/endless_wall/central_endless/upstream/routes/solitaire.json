@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "solitaire",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Solitaire",
+        "types": [
+            "unknown"
+        ]
+    }
+}

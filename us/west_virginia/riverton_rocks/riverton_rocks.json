@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "west_virginia",
+        "stub": "riverton_rocks",
+        "type": "region"
+    },
+    "info": {
+        "name": "Riverton Rocks"
+    }
+}

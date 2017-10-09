@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "little_purple_flowers",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Little Purple Flowers",
+        "types": [
+            "sport"
+        ]
+    }
+}

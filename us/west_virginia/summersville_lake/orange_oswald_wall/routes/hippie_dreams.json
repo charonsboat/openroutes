@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orange_oswald_wall",
+        "stub": "hippie_dreams",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Hippie Dreams",
+        "types": [
+            "sport"
+        ]
+    }
+}

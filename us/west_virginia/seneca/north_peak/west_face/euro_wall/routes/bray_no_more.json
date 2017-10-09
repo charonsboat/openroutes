@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "euro_wall",
+        "stub": "bray_no_more",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Bray No More",
+        "types": [
+            "unknown"
+        ]
+    }
+}

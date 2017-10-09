@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_future_wall",
+        "stub": "oz",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Oz",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "early_retirement",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Early Retirement",
+        "types": [
+            "sport"
+        ]
+    }
+}

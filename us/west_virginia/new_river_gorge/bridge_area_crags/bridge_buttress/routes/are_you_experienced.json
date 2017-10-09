@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bridge_buttress",
+        "stub": "are_you_experienced",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Are You Experienced?",
+        "types": [
+            "trad"
+        ]
+    }
+}

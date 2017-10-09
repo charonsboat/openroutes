@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "contact_zone",
+        "stub": "sticks_stones",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Sticks & Stones",
+        "types": [
+            "sport"
+        ]
+    }
+}

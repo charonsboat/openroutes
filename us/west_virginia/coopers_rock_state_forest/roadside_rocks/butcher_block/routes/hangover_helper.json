@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "butcher_block",
+        "stub": "hangover_helper",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "hangover helper",
+        "types": [
+            "boulder"
+        ]
+    }
+}

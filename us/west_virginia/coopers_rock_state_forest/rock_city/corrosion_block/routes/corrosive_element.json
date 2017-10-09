@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "corrosion_block",
+        "stub": "corrosive_element",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Corrosive Element",
+        "types": [
+            "boulder"
+        ]
+    }
+}

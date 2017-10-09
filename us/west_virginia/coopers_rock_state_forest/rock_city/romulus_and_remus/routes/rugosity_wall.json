@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "romulus_and_remus",
+        "stub": "rugosity_wall",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Rugosity Wall",
+        "types": [
+            "unknown"
+        ]
+    }
+}

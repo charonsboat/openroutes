@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "valley_view",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9 r",
+        "name": "Valley View",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rivers_bend",
+        "stub": "sanitary_fish_market",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Sanitary Fish Market",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "contact_zone",
+        "stub": "hello",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Hello",
+        "types": [
+            "unknown"
+        ]
+    }
+}

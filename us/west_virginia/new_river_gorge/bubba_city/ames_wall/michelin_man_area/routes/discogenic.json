@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "michelin_man_area",
+        "stub": "discogenic",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Discogenic",
+        "types": [
+            "sport"
+        ]
+    }
+}

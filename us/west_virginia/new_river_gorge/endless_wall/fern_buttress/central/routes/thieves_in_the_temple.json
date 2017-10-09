@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central",
+        "stub": "thieves_in_the_temple",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Thieves In The Temple",
+        "types": [
+            "sport"
+        ]
+    }
+}

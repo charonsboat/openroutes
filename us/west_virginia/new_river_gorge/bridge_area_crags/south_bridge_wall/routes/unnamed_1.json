@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "south_bridge_wall",
+        "stub": "unnamed_1",
+        "type": "region"
+    },
+    "info": {
+        "grade": "s",
+        "name": "Unnamed 1",
+        "types": [
+            "unknown"
+        ]
+    }
+}

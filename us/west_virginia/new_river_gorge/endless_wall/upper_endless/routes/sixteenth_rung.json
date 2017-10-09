@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_endless",
+        "stub": "sixteenth_rung",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Sixteenth Rung",
+        "types": [
+            "sport"
+        ]
+    }
+}

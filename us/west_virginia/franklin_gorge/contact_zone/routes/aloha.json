@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "contact_zone",
+        "stub": "aloha",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Aloha",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "rainy_day_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Rainy Day Route",
+        "types": [
+            "unknown"
+        ]
+    }
+}

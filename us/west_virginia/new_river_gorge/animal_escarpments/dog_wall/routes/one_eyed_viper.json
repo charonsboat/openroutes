@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dog_wall",
+        "stub": "one_eyed_viper",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "One-Eyed Viper",
+        "types": [
+            "unknown"
+        ]
+    }
+}

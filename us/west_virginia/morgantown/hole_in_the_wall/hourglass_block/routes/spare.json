@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hourglass_block",
+        "stub": "spare",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Spare",
+        "types": [
+            "top rope"
+        ]
+    }
+}

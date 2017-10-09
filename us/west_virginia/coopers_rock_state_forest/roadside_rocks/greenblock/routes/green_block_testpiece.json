@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "greenblock",
+        "stub": "green_block_testpiece",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Green Block Testpiece",
+        "types": [
+            "boulder"
+        ]
+    }
+}

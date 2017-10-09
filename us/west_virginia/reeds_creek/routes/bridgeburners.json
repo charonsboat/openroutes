@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "bridgeburners",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Bridgeburners",
+        "types": [
+            "sport"
+        ]
+    }
+}

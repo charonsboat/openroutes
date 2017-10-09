@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "franklin_gorge",
+        "stub": "impact_zone",
+        "type": "region"
+    },
+    "info": {
+        "name": "Impact Zone"
+    }
+}

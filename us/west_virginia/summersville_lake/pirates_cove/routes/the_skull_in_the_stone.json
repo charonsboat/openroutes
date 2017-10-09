@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pirates_cove",
+        "stub": "the_skull_in_the_stone",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "The Skull in the Stone",
+        "types": [
+            "sport"
+        ]
+    }
+}

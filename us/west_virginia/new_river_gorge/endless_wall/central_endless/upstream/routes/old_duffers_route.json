@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "old_duffers_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Old Duffer's Route",
+        "types": [
+            "unknown"
+        ]
+    }
+}

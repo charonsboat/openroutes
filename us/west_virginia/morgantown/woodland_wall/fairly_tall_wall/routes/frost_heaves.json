@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fairly_tall_wall",
+        "stub": "frost_heaves",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Frost Heaves",
+        "types": [
+            "unknown"
+        ]
+    }
+}

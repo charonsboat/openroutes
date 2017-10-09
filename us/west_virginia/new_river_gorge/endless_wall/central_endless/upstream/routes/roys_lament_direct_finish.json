@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "roys_lament_direct_finish",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Roy's Lament Direct Finish",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ambassador_buttress",
+        "stub": "new_veau_reach",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "New-Veau Reach",
+        "types": [
+            "unknown"
+        ]
+    }
+}

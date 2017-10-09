@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_roc",
+        "stub": "reunification",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Reunification",
+        "types": [
+            "unknown"
+        ]
+    }
+}

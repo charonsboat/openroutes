@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "bozoo",
+        "stub": "bovine_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Bovine Wall"
+    }
+}

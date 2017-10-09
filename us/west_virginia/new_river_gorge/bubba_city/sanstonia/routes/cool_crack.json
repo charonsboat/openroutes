@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sanstonia",
+        "stub": "cool_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Cool Crack",
+        "types": [
+            "trad"
+        ]
+    }
+}

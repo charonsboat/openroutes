@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "by_the_way",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "By The Way",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "entrance_exit_boulders",
+        "stub": "kaleidoscope",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Kaleidoscope",
+        "types": [
+            "boulder"
+        ]
+    }
+}

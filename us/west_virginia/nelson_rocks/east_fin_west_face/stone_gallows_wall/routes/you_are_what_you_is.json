@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stone_gallows_wall",
+        "stub": "you_are_what_you_is",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11",
+        "name": "You Are What You Is",
+        "types": [
+            "unknown"
+        ]
+    }
+}

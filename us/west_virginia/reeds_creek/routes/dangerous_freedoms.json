@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reeds_creek",
+        "stub": "dangerous_freedoms",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10-",
+        "name": "Dangerous Freedoms",
+        "types": [
+            "sport"
+        ]
+    }
+}

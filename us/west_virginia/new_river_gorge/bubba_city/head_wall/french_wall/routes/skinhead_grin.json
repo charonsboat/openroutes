@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "french_wall",
+        "stub": "skinhead_grin",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Skinhead Grin",
+        "types": [
+            "sport"
+        ]
+    }
+}

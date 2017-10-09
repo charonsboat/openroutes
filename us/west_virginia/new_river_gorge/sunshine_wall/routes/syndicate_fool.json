@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunshine_wall",
+        "stub": "syndicate_fool",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Syndicate Fool",
+        "types": [
+            "sport"
+        ]
+    }
+}

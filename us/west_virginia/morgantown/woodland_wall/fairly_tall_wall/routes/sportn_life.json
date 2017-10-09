@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fairly_tall_wall",
+        "stub": "sportn_life",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Sport'n Life",
+        "types": [
+            "unknown"
+        ]
+    }
+}

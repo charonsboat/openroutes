@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_big_blocks",
+        "stub": "friends_in_high_places",
+        "type": "region"
+    },
+    "info": {
+        "grade": "",
+        "name": "Friends In High Places",
+        "types": [
+            "unknown"
+        ]
+    }
+}

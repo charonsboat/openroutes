@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "new_yosemite_climbing_under_the_influence",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "New Yosemite / Climbing Under the Influence",
+        "types": [
+            "trad"
+        ]
+    }
+}

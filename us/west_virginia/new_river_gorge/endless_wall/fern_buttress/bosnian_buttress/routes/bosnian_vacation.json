@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bosnian_buttress",
+        "stub": "bosnian_vacation",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Bosnian Vacation",
+        "types": [
+            "sport"
+        ]
+    }
+}

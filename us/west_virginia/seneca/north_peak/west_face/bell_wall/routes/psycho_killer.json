@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bell_wall",
+        "stub": "psycho_killer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Psycho Killer",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "rock_city",
+        "stub": "apollos_block",
+        "type": "region"
+    },
+    "info": {
+        "name": "Apollo's Block"
+    }
+}

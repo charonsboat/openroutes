@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_meadow_second_buttress",
+        "stub": "minotaur",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Minotaur",
+        "types": [
+            "unknown"
+        ]
+    }
+}

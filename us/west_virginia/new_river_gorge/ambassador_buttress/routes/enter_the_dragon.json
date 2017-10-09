@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ambassador_buttress",
+        "stub": "enter_the_dragon",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Enter The Dragon",
+        "types": [
+            "unknown"
+        ]
+    }
+}

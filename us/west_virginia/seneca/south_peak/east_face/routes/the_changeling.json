@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "the_changeling",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "The Changeling",
+        "types": [
+            "unknown"
+        ]
+    }
+}

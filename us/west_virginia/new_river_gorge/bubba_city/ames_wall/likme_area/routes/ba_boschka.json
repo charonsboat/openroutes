@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "likme_area",
+        "stub": "ba_boschka",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Ba Boschka",
+        "types": [
+            "sport"
+        ]
+    }
+}

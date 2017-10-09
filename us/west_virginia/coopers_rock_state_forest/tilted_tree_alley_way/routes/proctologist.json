@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "proctologist",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Proctologist",
+        "types": [
+            "unknown"
+        ]
+    }
+}

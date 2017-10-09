@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "unnamed_1",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Unnamed 1",
+        "types": [
+            "sport"
+        ]
+    }
+}

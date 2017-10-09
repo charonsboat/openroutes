@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunshine_wall",
+        "stub": "rich_mixture",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Rich Mixture",
+        "types": [
+            "sport"
+        ]
+    }
+}

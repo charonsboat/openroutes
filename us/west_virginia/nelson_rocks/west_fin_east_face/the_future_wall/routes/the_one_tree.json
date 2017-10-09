@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_future_wall",
+        "stub": "the_one_tree",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "The One Tree",
+        "types": [
+            "unknown"
+        ]
+    }
+}

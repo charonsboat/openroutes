@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "parking_area_wall",
+        "stub": "route_of_all_evil",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Route of All Evil",
+        "types": [
+            "sport"
+        ]
+    }
+}

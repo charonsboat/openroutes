@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "butcher_branch",
+        "stub": "mo_betta_holds",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Mo' Betta' Holds",
+        "types": [
+            "sport"
+        ]
+    }
+}

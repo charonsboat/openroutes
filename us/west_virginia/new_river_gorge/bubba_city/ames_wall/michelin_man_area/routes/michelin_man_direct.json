@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "michelin_man_area",
+        "stub": "michelin_man_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Michelin Man Direct",
+        "types": [
+            "sport"
+        ]
+    }
+}

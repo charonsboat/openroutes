@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "seven_eleven_wall",
+        "stub": "scenic_adult",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Scenic Adult",
+        "types": [
+            "sport"
+        ]
+    }
+}

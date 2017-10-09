@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_cirque",
+        "stub": "proper_soul",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.14a",
+        "name": "Proper Soul",
+        "types": [
+            "unknown"
+        ]
+    }
+}

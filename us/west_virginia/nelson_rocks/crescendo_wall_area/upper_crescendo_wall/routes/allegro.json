@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_crescendo_wall",
+        "stub": "allegro",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c r",
+        "name": "Allegro",
+        "types": [
+            "unknown"
+        ]
+    }
+}

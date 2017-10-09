@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orchard_wall",
+        "stub": "triple_treat",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Triple Treat",
+        "types": [
+            "trad"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "the_dark_side",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "The Dark Side",
+        "types": [
+            "sport"
+        ]
+    }
+}

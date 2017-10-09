@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_brain",
+        "stub": "its_a_fine_line",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "It's A Fine Line",
+        "types": [
+            "sport"
+        ]
+    }
+}

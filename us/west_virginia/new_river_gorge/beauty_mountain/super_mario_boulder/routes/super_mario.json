@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "super_mario_boulder",
+        "stub": "super_mario",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Super Mario",
+        "types": [
+            "unknown"
+        ]
+    }
+}

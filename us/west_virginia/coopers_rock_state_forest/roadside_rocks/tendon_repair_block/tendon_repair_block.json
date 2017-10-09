@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "roadside_rocks",
+        "stub": "tendon_repair_block",
+        "type": "region"
+    },
+    "info": {
+        "name": "Tendon Repair Block"
+    }
+}

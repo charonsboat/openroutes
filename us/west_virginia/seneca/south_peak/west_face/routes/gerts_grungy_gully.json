@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "gerts_grungy_gully",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.0",
+        "name": "Gert's Grungy Gully",
+        "types": [
+            "unknown"
+        ]
+    }
+}

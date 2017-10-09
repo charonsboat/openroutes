@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "nightwings",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Nightwings",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "nuttall_slab",
+        "stub": "pocket_pool",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Pocket Pool",
+        "types": [
+            "unknown"
+        ]
+    }
+}

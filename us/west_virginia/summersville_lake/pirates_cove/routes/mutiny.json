@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pirates_cove",
+        "stub": "mutiny",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Mutiny",
+        "types": [
+            "sport"
+        ]
+    }
+}

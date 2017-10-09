@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "positron",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Positron",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "maximum_leader",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Maximum Leader",
+        "types": [
+            "unknown"
+        ]
+    }
+}

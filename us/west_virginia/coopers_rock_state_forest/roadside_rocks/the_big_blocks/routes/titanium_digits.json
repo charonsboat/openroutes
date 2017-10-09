@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_big_blocks",
+        "stub": "titanium_digits",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Titanium Digits",
+        "types": [
+            "unknown"
+        ]
+    }
+}

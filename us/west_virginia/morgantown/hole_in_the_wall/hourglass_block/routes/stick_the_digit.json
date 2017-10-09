@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hourglass_block",
+        "stub": "stick_the_digit",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Stick the Digit",
+        "types": [
+            "sport"
+        ]
+    }
+}

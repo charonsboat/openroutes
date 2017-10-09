@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upper_kaymoor",
+        "stub": "clocks_on",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Clock's On",
+        "types": [
+            "sport"
+        ]
+    }
+}

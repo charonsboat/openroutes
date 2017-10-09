@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "bee_sting_corner",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Bee Sting Corner",
+        "types": [
+            "unknown"
+        ]
+    }
+}

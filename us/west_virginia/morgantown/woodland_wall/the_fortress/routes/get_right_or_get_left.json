@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_fortress",
+        "stub": "get_right_or_get_left",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Get Right or Get Left",
+        "types": [
+            "unknown"
+        ]
+    }
+}

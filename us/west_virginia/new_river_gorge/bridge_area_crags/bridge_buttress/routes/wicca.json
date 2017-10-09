@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bridge_buttress",
+        "stub": "wicca",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Wicca",
+        "types": [
+            "sport"
+        ]
+    }
+}

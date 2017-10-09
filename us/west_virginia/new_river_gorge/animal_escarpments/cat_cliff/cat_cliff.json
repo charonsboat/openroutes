@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "animal_escarpments",
+        "stub": "cat_cliff",
+        "type": "region"
+    },
+    "info": {
+        "name": "Cat Cliff"
+    }
+}

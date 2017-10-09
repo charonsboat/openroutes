@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_block",
+        "stub": "tomb_raider",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Tomb Raider",
+        "types": [
+            "boulder"
+        ]
+    }
+}

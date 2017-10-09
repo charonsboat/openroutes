@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "endless_wall",
+        "stub": "kaymoor_slab",
+        "type": "region"
+    },
+    "info": {
+        "name": "Kaymoor Slab"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stone_gallows_wall",
+        "stub": "ufb_aka_ufbl_un_freaking_believably_loose",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "UFB (aka UFBL Un-Freaking Believably Loose)",
+        "types": [
+            "unknown"
+        ]
+    }
+}

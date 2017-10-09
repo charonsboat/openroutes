@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "entrance_exit_boulders",
+        "stub": "thwang",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Thwang",
+        "types": [
+            "boulder"
+        ]
+    }
+}

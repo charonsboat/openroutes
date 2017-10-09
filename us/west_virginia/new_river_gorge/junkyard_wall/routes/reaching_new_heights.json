@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "reaching_new_heights",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Reaching New Heights",
+        "types": [
+            "trad"
+        ]
+    }
+}

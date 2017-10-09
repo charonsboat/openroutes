@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "pirates_cove",
+        "stub": "indian_summer",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Indian Summer",
+        "types": [
+            "unknown"
+        ]
+    }
+}

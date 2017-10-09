@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "star_trek_wall",
+        "stub": "crack_of_the_klingons",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Crack Of The Klingons",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "butcher_block",
+        "stub": "knob_problem",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "knob problem",
+        "types": [
+            "boulder"
+        ]
+    }
+}

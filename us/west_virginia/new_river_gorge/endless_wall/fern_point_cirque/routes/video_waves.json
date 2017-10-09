@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point_cirque",
+        "stub": "video_waves",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Video Waves",
+        "types": [
+            "unknown"
+        ]
+    }
+}

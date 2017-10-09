@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "gonad_wall",
+        "stub": "fly_girls",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Fly Girls",
+        "types": [
+            "sport"
+        ]
+    }
+}

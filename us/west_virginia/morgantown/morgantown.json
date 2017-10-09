@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "west_virginia",
+        "stub": "morgantown",
+        "type": "region"
+    },
+    "info": {
+        "name": "Morgantown"
+    }
+}

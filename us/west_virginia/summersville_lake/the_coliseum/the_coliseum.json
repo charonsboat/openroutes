@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "summersville_lake",
+        "stub": "the_coliseum",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Coliseum"
+    }
+}

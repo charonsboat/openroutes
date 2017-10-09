@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "new_river_gorge",
+        "stub": "animal_escarpments",
+        "type": "region"
+    },
+    "info": {
+        "name": "Animal Escarpments"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "raging_waters",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Raging Waters",
+        "types": [
+            "trad"
+        ]
+    }
+}

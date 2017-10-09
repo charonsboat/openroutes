@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "whip_it",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Whip It",
+        "types": [
+            "sport"
+        ]
+    }
+}

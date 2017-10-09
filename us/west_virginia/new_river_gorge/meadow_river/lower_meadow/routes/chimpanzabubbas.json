@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_meadow",
+        "stub": "chimpanzabubbas",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Chimpanzabubbas",
+        "types": [
+            "mixed"
+        ]
+    }
+}

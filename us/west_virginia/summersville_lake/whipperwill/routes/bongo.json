@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill",
+        "stub": "bongo",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Bongo",
+        "types": [
+            "sport"
+        ]
+    }
+}

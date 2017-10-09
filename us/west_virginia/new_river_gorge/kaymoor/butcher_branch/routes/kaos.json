@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "butcher_branch",
+        "stub": "kaos",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Kaos",
+        "types": [
+            "sport"
+        ]
+    }
+}

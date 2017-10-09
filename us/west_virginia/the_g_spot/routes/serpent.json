@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_g_spot",
+        "stub": "serpent",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Serpent",
+        "types": [
+            "unknown"
+        ]
+    }
+}

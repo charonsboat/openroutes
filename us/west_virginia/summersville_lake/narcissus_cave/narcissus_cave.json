@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "summersville_lake",
+        "stub": "narcissus_cave",
+        "type": "region"
+    },
+    "info": {
+        "name": "Narcissus Cave"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point_cirque",
+        "stub": "reeds_ladder",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Reed's Ladder",
+        "types": [
+            "unknown"
+        ]
+    }
+}

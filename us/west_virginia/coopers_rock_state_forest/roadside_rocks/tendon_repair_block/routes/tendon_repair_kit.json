@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tendon_repair_block",
+        "stub": "tendon_repair_kit",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Tendon Repair Kit",
+        "types": [
+            "boulder"
+        ]
+    }
+}

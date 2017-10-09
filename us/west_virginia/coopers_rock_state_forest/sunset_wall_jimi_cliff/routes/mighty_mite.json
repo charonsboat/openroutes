@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunset_wall_jimi_cliff",
+        "stub": "mighty_mite",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10-",
+        "name": "Mighty Mite",
+        "types": [
+            "unknown"
+        ]
+    }
+}

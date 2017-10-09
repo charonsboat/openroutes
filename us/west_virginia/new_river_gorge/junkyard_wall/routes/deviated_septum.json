@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "junkyard_wall",
+        "stub": "deviated_septum",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Deviated Septum",
+        "types": [
+            "trad"
+        ]
+    }
+}

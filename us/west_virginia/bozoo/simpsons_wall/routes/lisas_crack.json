@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "simpsons_wall",
+        "stub": "lisas_crack",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Lisa's Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

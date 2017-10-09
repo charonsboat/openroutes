@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_point",
+        "stub": "stroke_victim",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Stroke Victim",
+        "types": [
+            "trad"
+        ]
+    }
+}

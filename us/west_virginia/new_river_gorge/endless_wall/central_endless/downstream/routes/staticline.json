@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "staticline",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Staticline",
+        "types": [
+            "unknown"
+        ]
+    }
+}

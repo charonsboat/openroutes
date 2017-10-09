@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_brain",
+        "stub": "heller_route",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Heller Route",
+        "types": [
+            "sport"
+        ]
+    }
+}

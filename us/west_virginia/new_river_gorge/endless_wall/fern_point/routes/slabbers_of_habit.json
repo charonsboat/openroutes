@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "slabbers_of_habit",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Slabbers Of Habit",
+        "types": [
+            "unknown"
+        ]
+    }
+}

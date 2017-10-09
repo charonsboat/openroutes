@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunset_wall_jimi_cliff",
+        "stub": "copenhagen",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Copenhagen",
+        "types": [
+            "unknown"
+        ]
+    }
+}

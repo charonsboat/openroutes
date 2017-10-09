@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dog_wall",
+        "stub": "doggy_style",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c r",
+        "name": "Doggy Style",
+        "types": [
+            "unknown"
+        ]
+    }
+}

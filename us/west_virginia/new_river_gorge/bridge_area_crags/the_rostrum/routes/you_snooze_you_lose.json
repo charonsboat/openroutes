@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_rostrum",
+        "stub": "you_snooze_you_lose",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d x",
+        "name": "You Snooze, You Lose",
+        "types": [
+            "unknown"
+        ]
+    }
+}

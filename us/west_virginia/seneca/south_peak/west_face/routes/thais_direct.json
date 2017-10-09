@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "thais_direct",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Thais Direct",
+        "types": [
+            "unknown"
+        ]
+    }
+}

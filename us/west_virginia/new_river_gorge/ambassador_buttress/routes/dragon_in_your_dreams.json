@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ambassador_buttress",
+        "stub": "dragon_in_your_dreams",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Dragon In Your Dreams",
+        "types": [
+            "unknown"
+        ]
+    }
+}

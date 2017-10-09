@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ships_prow",
+        "stub": "ships_traverse",
+        "type": "region"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "Ship's Traverse",
+        "types": [
+            "boulder"
+        ]
+    }
+}

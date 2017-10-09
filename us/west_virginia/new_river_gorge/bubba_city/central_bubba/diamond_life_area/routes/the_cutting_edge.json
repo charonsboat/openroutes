@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "diamond_life_area",
+        "stub": "the_cutting_edge",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "The Cutting Edge",
+        "types": [
+            "sport"
+        ]
+    }
+}

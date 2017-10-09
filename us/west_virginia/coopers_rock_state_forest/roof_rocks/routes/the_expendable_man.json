@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "roof_rocks",
+        "stub": "the_expendable_man",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "The Expendable Man",
+        "types": [
+            "unknown"
+        ]
+    }
+}

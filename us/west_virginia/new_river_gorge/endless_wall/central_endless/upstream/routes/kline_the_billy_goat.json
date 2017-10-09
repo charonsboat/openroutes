@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "kline_the_billy_goat",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Kline The Billy Goat",
+        "types": [
+            "unknown"
+        ]
+    }
+}

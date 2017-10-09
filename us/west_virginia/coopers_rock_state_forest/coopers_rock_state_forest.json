@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "west_virginia",
+        "stub": "coopers_rock_state_forest",
+        "type": "region"
+    },
+    "info": {
+        "name": "Coopers Rock State Forest"
+    }
+}

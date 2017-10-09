@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "keine_kraft_area",
+        "stub": "let_them_eat_pancakes",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Let Them Eat Pancakes",
+        "types": [
+            "sport"
+        ]
+    }
+}

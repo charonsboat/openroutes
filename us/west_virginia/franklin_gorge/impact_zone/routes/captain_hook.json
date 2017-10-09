@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "impact_zone",
+        "stub": "captain_hook",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Captain Hook",
+        "types": [
+            "sport"
+        ]
+    }
+}

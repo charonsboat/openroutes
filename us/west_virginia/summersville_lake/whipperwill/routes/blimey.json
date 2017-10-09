@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whipperwill",
+        "stub": "blimey",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Blimey",
+        "types": [
+            "unknown"
+        ]
+    }
+}

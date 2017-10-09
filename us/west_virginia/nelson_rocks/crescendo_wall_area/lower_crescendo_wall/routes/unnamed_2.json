@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "lower_crescendo_wall",
+        "stub": "unnamed_2",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Unnamed 2",
+        "types": [
+            "unknown"
+        ]
+    }
+}

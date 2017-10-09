@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point",
+        "stub": "new_age_equippers",
+        "type": "region"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "New Age Equippers",
+        "types": [
+            "sport"
+        ]
+    }
+}
