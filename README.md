@@ -1,6 +1,6 @@
 # openroutes
 
-A public dataset of climbing routes around the world.
+A public dataset of rock climbing routes around the world.
 
 ## Contributing
 
