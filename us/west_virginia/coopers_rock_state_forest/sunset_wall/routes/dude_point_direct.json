@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunset_wall",
+        "stub": "dude_point_direct",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Dude Point Direct",
+        "types": [
+            "unknown"
+        ]
+    }
+}

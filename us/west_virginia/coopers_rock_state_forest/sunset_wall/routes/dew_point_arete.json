@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunset_wall",
+        "stub": "dew_point_arete",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Dew Point Arete",
+        "types": [
+            "unknown"
+        ]
+    }
+}

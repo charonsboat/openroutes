@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunset_wall",
+        "stub": "into_the_sunset",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Into the Sunset",
+        "types": [
+            "unknown"
+        ]
+    }
+}

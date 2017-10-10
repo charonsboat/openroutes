@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mushroom_boulder",
+        "stub": "mushrooms",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Mushrooms",
+        "types": [
+            "boulder"
+        ]
+    }
+}

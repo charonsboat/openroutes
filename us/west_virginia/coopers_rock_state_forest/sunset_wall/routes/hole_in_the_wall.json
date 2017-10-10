@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunset_wall",
+        "stub": "hole_in_the_wall",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10+",
+        "name": "Hole In The Wall",
+        "types": [
+            "unknown"
+        ]
+    }
+}

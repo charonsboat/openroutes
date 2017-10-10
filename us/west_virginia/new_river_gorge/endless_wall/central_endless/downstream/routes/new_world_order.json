@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "downstream",
+        "stub": "new_world_order",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "New World Order",
+        "types": [
+            "sport"
+        ]
+    }
+}

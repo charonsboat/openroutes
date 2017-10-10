@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mushroom_boulder",
+        "stub": "unnamed_roof_var",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "Unnamed Roof Var.",
+        "types": [
+            "boulder"
+        ]
+    }
+}

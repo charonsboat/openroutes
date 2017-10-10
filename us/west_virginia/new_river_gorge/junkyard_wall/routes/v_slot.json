@@ -1,14 +1,14 @@
 {
     "meta": {
-        "region": "pirates_cove",
-        "stub": "unnamed_59",
+        "region": "junkyard_wall",
+        "stub": "v_slot",
         "type": "route"
     },
     "info": {
         "grade": "5.9",
-        "name": "Unnamed 5.9*",
+        "name": "V-Slot",
         "types": [
-            "unknown"
+            "trad"
         ]
     }
 }

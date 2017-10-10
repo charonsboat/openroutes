@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "the_gram_delusion",
+        "type": "route"
+    },
+    "info": {
+        "grade": "project",
+        "name": "The Gram Delusion",
+        "types": [
+            "unknown"
+        ]
+    }
+}

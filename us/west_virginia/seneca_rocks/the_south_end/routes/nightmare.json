@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_south_end",
+        "stub": "nightmare",
+        "type": "route"
+    },
+    "info": {
+        "grade": "",
+        "name": "Nightmare",
+        "types": [
+            "unknown"
+        ]
+    }
+}

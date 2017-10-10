@@ -1,12 +1,12 @@
 {
     "meta": {
-        "region": "pirates_cove",
-        "stub": "unnamed_59",
+        "region": "sunset_wall",
+        "stub": "stop_n_go",
         "type": "route"
     },
     "info": {
         "grade": "5.9",
-        "name": "Unnamed 5.9*",
+        "name": "Stop N' Go",
         "types": [
             "unknown"
         ]

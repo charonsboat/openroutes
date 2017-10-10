@@ -1,14 +1,14 @@
 {
     "meta": {
-        "region": "tall_wall",
-        "stub": "almost_heaven",
+        "region": "gonad_wall",
+        "stub": "sportin_fool",
         "type": "route"
     },
     "info": {
         "grade": "5.11d",
-        "name": "Almost Heave'n",
+        "name": "Sportin' Fool",
         "types": [
-            "unknown"
+            "sport"
         ]
     }
 }

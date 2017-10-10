@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunset_wall",
+        "stub": "triangle_roof",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Triangle Roof",
+        "types": [
+            "unknown"
+        ]
+    }
+}

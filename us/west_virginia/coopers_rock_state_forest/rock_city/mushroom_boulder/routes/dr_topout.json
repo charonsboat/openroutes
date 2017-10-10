@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mushroom_boulder",
+        "stub": "dr_topout",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Dr. Topout",
+        "types": [
+            "boulder"
+        ]
+    }
+}

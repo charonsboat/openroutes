@@ -1,14 +1,14 @@
 {
     "meta": {
-        "region": "pirates_cove",
-        "stub": "unnamed_510a",
+        "region": "contact_zone",
+        "stub": "route_deleted",
         "type": "route"
     },
     "info": {
         "grade": "5.10a",
-        "name": "Unnamed 5.10a*",
+        "name": "route deleted",
         "types": [
-            "trad"
+            "unknown"
         ]
     }
 }

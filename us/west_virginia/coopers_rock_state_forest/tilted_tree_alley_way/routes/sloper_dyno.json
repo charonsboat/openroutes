@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilted_tree_alley_way",
+        "stub": "sloper_dyno",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v6",
+        "name": "Sloper Dyno",
+        "types": [
+            "boulder"
+        ]
+    }
+}

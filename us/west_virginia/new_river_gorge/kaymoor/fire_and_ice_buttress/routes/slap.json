@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fire_and_ice_buttress",
+        "stub": "slap",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "S.L.A.P.",
+        "types": [
+            "sport"
+        ]
+    }
+}

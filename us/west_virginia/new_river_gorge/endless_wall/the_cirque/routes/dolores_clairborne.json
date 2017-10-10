@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_cirque",
+        "stub": "dolores_clairborne",
+        "type": "route"
+    },
+    "info": {
+        "grade": "project",
+        "name": "Dolores Clairborne",
+        "types": [
+            "unknown"
+        ]
+    }
+}

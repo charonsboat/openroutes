@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "entrance_boulders",
+        "stub": "finger_wrecker",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Finger Wrecker",
+        "types": [
+            "boulder"
+        ]
+    }
+}

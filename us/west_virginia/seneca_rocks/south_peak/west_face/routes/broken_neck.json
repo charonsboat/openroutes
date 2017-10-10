@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "broken_neck",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10b r",
+        "name": "Broken Neck",
+        "types": [
+            "unknown"
+        ]
+    }
+}

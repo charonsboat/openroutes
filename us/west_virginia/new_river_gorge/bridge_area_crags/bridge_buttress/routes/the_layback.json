@@ -1,14 +1,14 @@
 {
     "meta": {
-        "region": "pirates_cove",
-        "stub": "unnamed_59",
+        "region": "bridge_buttress",
+        "stub": "the_layback",
         "type": "route"
     },
     "info": {
         "grade": "5.9",
-        "name": "Unnamed 5.9*",
+        "name": "The Layback",
         "types": [
-            "unknown"
+            "trad"
         ]
     }
 }

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beer_wall",
+        "stub": "micro_brew",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Micro Brew",
+        "types": [
+            "sport"
+        ]
+    }
+}

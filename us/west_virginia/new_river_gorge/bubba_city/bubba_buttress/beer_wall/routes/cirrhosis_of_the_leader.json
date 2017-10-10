@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beer_wall",
+        "stub": "cirrhosis_of_the_leader",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Cirrhosis of the Leader",
+        "types": [
+            "sport"
+        ]
+    }
+}

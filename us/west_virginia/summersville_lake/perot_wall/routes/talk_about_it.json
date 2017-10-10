@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "perot_wall",
+        "stub": "talk_about_it",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Talk About It",
+        "types": [
+            "unknown"
+        ]
+    }
+}

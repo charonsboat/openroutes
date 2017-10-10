@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "garbage_wall",
+        "stub": "shit_can",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Shit Can",
+        "types": [
+            "unknown"
+        ]
+    }
+}

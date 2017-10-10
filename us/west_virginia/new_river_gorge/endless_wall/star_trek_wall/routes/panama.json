@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "star_trek_wall",
+        "stub": "panama",
+        "type": "route"
+    },
+    "info": {
+        "grade": "project",
+        "name": "Panama",
+        "types": [
+            "unknown"
+        ]
+    }
+}

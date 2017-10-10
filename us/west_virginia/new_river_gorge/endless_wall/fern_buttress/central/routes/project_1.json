@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central",
+        "stub": "project_1",
+        "type": "route"
+    },
+    "info": {
+        "grade": "project",
+        "name": "Project 1",
+        "types": [
+            "unknown"
+        ]
+    }
+}

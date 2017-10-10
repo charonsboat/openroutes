@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stone_gallows_wall",
+        "stub": "ufb",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "UFB",
+        "types": [
+            "unknown"
+        ]
+    }
+}

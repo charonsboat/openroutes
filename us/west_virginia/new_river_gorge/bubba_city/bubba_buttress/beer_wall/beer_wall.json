@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "bubba_buttress",
+        "stub": "beer_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Beer Wall"
+    }
+}

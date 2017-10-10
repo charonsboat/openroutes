@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mushroom_boulder",
+        "stub": "the_golden_path",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "The Golden Path",
+        "types": [
+            "boulder"
+        ]
+    }
+}

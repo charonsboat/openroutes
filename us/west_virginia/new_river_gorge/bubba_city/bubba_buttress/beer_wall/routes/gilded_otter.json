@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beer_wall",
+        "stub": "gilded_otter",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Gilded Otter",
+        "types": [
+            "sport"
+        ]
+    }
+}

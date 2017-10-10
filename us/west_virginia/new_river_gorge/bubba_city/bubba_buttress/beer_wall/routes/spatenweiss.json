@@ -1,14 +1,14 @@
 {
     "meta": {
-        "region": "tall_wall",
-        "stub": "almost_heaven",
+        "region": "beer_wall",
+        "stub": "spatenweiss",
         "type": "route"
     },
     "info": {
         "grade": "5.11d",
-        "name": "Almost Heave'n",
+        "name": "Spatenweiss",
         "types": [
-            "unknown"
+            "sport"
         ]
     }
 }

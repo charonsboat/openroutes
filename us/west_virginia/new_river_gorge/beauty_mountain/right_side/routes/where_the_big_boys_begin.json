@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "right_side",
+        "stub": "where_the_big_boys_begin",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Where The Big Boys Begin",
+        "types": [
+            "unknown"
+        ]
+    }
+}

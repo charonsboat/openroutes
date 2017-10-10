@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "project_5",
+        "type": "route"
+    },
+    "info": {
+        "grade": "project",
+        "name": "Project 5",
+        "types": [
+            "unknown"
+        ]
+    }
+}

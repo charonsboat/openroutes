@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "beauty_mountain",
+        "stub": "garbage_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Garbage Wall"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beer_wall",
+        "stub": "st_pauli_girl",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "St. Pauli Girl",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mushroom_boulder",
+        "stub": "humpy",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Humpy",
+        "types": [
+            "boulder"
+        ]
+    }
+}

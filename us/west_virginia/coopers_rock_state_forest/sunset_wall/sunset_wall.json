@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "coopers_rock_state_forest",
+        "stub": "sunset_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Sunset Wall"
+    }
+}

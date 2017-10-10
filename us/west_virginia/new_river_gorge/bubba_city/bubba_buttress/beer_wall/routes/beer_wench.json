@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beer_wall",
+        "stub": "beer_wench",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Beer Wench",
+        "types": [
+            "sport"
+        ]
+    }
+}

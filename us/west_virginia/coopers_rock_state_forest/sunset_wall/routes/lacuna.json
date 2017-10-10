@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunset_wall",
+        "stub": "lacuna",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Lacuna",
+        "types": [
+            "unknown"
+        ]
+    }
+}

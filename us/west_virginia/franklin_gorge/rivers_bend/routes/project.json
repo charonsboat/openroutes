@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rivers_bend",
+        "stub": "project",
+        "type": "route"
+    },
+    "info": {
+        "grade": "",
+        "name": "Project",
+        "types": [
+            "unknown"
+        ]
+    }
+}

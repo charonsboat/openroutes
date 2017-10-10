@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "garbage_wall",
+        "stub": "pop_top_heaven",
+        "type": "route"
+    },
+    "info": {
+        "grade": "project",
+        "name": "Pop Top Heaven",
+        "types": [
+            "unknown"
+        ]
+    }
+}

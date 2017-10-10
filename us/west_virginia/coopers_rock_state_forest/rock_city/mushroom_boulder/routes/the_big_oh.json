@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mushroom_boulder",
+        "stub": "the_big_oh",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "The Big Oh",
+        "types": [
+            "boulder"
+        ]
+    }
+}

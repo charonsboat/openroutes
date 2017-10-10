@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "entrance_exit_boulders",
+        "stub": "warm_up_boulder_arete",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Warm-up Boulder Arete",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "rock_city",
+        "stub": "mushroom_boulder",
+        "type": "region"
+    },
+    "info": {
+        "name": "Mushroom Boulder"
+    }
+}

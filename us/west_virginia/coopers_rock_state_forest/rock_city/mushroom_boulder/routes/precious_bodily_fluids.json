@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mushroom_boulder",
+        "stub": "precious_bodily_fluids",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Precious Bodily Fluids",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beer_wall",
+        "stub": "bubbaweiser",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Bubbaweiser",
+        "types": [
+            "sport"
+        ]
+    }
+}

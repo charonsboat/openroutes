@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "garbage_wall",
+        "stub": "dueling_banjos",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Dueling Banjos",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,12 +1,12 @@
 {
     "meta": {
-        "region": "tall_wall",
-        "stub": "almost_heaven",
+        "region": "garbage_wall",
+        "stub": "wonder_woman",
         "type": "route"
     },
     "info": {
         "grade": "5.11d",
-        "name": "Almost Heave'n",
+        "name": "Wonder Woman",
         "types": [
             "unknown"
         ]

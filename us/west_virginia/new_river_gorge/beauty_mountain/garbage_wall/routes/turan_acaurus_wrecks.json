@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "garbage_wall",
+        "stub": "turan_acaurus_wrecks",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Turan-Acaurus Wrecks",
+        "types": [
+            "unknown"
+        ]
+    }
+}

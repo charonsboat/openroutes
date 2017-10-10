@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_mungolian_wall",
+        "stub": "blue_angel",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Blue Angel",
+        "types": [
+            "sport"
+        ]
+    }
+}

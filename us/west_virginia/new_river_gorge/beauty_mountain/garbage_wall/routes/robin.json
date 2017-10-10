@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "garbage_wall",
+        "stub": "robin",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Robin",
+        "types": [
+            "unknown"
+        ]
+    }
+}

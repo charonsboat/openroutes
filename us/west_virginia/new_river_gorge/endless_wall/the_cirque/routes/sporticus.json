@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_cirque",
+        "stub": "sporticus",
+        "type": "route"
+    },
+    "info": {
+        "grade": "project",
+        "name": "Sporticus",
+        "types": [
+            "unknown"
+        ]
+    }
+}

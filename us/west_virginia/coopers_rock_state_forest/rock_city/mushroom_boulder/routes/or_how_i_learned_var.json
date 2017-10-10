@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mushroom_boulder",
+        "stub": "or_how_i_learned_var",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "or How i Learned... Var.",
+        "types": [
+            "boulder"
+        ]
+    }
+}

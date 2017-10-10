@@ -1,12 +1,12 @@
 {
     "meta": {
-        "region": "pirates_cove",
-        "stub": "unnamed_59",
+        "region": "garbage_wall",
+        "stub": "batman",
         "type": "route"
     },
     "info": {
         "grade": "5.9",
-        "name": "Unnamed 5.9*",
+        "name": "Batman",
         "types": [
             "unknown"
         ]

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mushroom_boulder",
+        "stub": "do_the_evolution",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "Do the Evolution",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "007_wall",
+        "stub": "mr_bigglesworth",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Mr. Bigglesworth",
+        "types": [
+            "unknown"
+        ]
+    }
+}

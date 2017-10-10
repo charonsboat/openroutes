@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "central",
+        "stub": "the_brawn_wall_direct_start",
+        "type": "route"
+    },
+    "info": {
+        "grade": "project",
+        "name": "The Brawn Wall Direct Start",
+        "types": [
+            "unknown"
+        ]
+    }
+}

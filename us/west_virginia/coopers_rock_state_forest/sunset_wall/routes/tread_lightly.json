@@ -1,12 +1,12 @@
 {
     "meta": {
-        "region": "tall_wall",
-        "stub": "almost_heaven",
+        "region": "sunset_wall",
+        "stub": "tread_lightly",
         "type": "route"
     },
     "info": {
         "grade": "5.11d",
-        "name": "Almost Heave'n",
+        "name": "Tread Lightly",
         "types": [
             "unknown"
         ]

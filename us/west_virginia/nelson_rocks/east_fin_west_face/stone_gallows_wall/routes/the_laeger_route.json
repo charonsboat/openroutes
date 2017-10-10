@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "stone_gallows_wall",
+        "stub": "the_laeger_route",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "The Laeger Route",
+        "types": [
+            "unknown"
+        ]
+    }
+}

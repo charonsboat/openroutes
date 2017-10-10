@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beer_wall",
+        "stub": "near_beer",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Near Beer",
+        "types": [
+            "sport"
+        ]
+    }
+}

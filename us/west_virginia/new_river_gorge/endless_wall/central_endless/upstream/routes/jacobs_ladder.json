@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream",
+        "stub": "jacobs_ladder",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Jacob's Ladder",
+        "types": [
+            "trad"
+        ]
+    }
+}

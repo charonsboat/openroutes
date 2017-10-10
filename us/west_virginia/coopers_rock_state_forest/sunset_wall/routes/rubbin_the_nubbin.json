@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunset_wall",
+        "stub": "rubbin_the_nubbin",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Rubbin' the Nubbin'",
+        "types": [
+            "unknown"
+        ]
+    }
+}

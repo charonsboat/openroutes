@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beer_wall",
+        "stub": "eating_bimbo_pie",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Eating Bimbo Pie",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "fern_point_cirque",
+        "stub": "the_sweetest_tabbo",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.13b",
+        "name": "The Sweetest Tabbo",
+        "types": [
+            "sport"
+        ]
+    }
+}
