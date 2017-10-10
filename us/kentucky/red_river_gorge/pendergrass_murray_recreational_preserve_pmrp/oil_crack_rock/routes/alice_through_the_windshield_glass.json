@@ -1,12 +1,12 @@
 {
     "meta": {
         "region": "oil_crack_rock",
-        "stub": "alice_through_the_windshield_glass_alice",
+        "stub": "alice_through_the_windshield_glass",
         "type": "route"
     },
     "info": {
         "grade": "5.12c",
-        "name": "Alice Through the Windshield Glass (Alice)",
+        "name": "Alice Through the Windshield Glass",
         "types": [
             "sport"
         ]

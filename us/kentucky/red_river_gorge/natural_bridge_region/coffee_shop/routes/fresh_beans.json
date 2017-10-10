@@ -1,12 +1,12 @@
 {
     "meta": {
         "region": "coffee_shop",
-        "stub": "fresh_beans_sit",
+        "stub": "fresh_beans",
         "type": "route"
     },
     "info": {
-        "grade": "v8",
-        "name": "Fresh Beans (Sit)",
+        "grade": "v4",
+        "name": "Fresh Beans",
         "types": [
             "boulder"
         ]

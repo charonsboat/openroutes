@@ -1,12 +1,12 @@
 {
     "meta": {
         "region": "the_sanctuary",
-        "stub": "triple_sec_aka_50_bucks",
+        "stub": "triple_sec",
         "type": "route"
     },
     "info": {
         "grade": "5.12d",
-        "name": "Triple Sec (aka 50 bucks)",
+        "name": "Triple Sec",
         "types": [
             "sport"
         ]

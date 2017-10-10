@@ -1,12 +1,12 @@
 {
     "meta": {
         "region": "the_boneyard",
-        "stub": "three_toed_sloth_open_project",
+        "stub": "jeffs_boneyard_project",
         "type": "route"
     },
     "info": {
-        "grade": "",
-        "name": "Three Toed Sloth (Open Project)",
+        "grade": "5.12a",
+        "name": "Jeff's Boneyard Project",
         "types": [
             "sport"
         ]

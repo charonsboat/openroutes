@@ -6,9 +6,9 @@
     },
     "info": {
         "grade": "5.5",
-        "name": "the turret",
+        "name": "The Turret",
         "types": [
-            "unknown"
+            "trad"
         ]
     }
 }

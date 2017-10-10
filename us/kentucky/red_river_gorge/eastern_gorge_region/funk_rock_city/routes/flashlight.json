@@ -1,12 +1,12 @@
 {
     "meta": {
         "region": "funk_rock_city",
-        "stub": "flashlight_closed",
+        "stub": "flashlight",
         "type": "route"
     },
     "info": {
         "grade": "5.12c",
-        "name": "Flashlight (closed)",
+        "name": "Flashlight",
         "types": [
             "sport"
         ]

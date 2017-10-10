@@ -1,12 +1,12 @@
 {
     "meta": {
         "region": "tectonic_wall",
-        "stub": "cottonmouth_aka_boom_slang",
+        "stub": "cottonmouth",
         "type": "route"
     },
     "info": {
         "grade": "5.12b",
-        "name": "Cottonmouth (Aka Boom-Slang)",
+        "name": "Cottonmouth",
         "types": [
             "sport"
         ]

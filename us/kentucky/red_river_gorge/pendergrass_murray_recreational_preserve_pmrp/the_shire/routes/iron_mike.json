@@ -1,12 +1,12 @@
 {
     "meta": {
         "region": "the_shire",
-        "stub": "iron_mike_project",
+        "stub": "iron_mike",
         "type": "route"
     },
     "info": {
         "grade": "5.13+",
-        "name": "Iron Mike (Project)",
+        "name": "Iron Mike",
         "types": [
             "sport"
         ]

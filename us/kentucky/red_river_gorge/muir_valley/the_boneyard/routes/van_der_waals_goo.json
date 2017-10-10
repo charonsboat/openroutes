@@ -1,12 +1,12 @@
 {
     "meta": {
         "region": "the_boneyard",
-        "stub": "van_der_waals_goo_open_project",
+        "stub": "van_der_waals_goo",
         "type": "route"
     },
     "info": {
         "grade": "",
-        "name": "Van Der Waals Goo (Open Project)",
+        "name": "Van Der Waals Goo",
         "types": [
             "sport"
         ]
