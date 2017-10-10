@@ -1,12 +1,12 @@
 {
     "meta": {
-        "region": "blackhandrock_with_owner_permission",
-        "stub": "nose_route",
+        "region": "clifton_gorge",
+        "stub": "small_corner",
         "type": "route"
     },
     "info": {
         "grade": "5.5",
-        "name": "nose route",
+        "name": "Small Corner",
         "types": [
             "unknown"
         ]

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "blackhandrock",
+        "stub": "tunnel_route",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "tunnel route",
+        "types": [
+            "unknown"
+        ]
+    }
+}

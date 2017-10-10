@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "clifton_gorge",
+        "stub": "roof",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12",
+        "name": "Roof",
+        "types": [
+            "unknown"
+        ]
+    }
+}

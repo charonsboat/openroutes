@@ -1,10 +1,10 @@
 {
     "meta": {
         "parent": "ohio",
-        "stub": "springfield_gorge_closed",
+        "stub": "clifton_gorge",
         "type": "region"
     },
     "info": {
-        "name": "Springfield Gorge (closed)"
+        "name": "Clifton Gorge"
     }
 }

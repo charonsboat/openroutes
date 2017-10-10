@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "blackhandrock",
+        "stub": "blackhand_west",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "blackhand west",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,12 +1,12 @@
 {
     "meta": {
-        "region": "hocking_state_forest",
-        "stub": "cornerbuddas_head",
+        "region": "blackhandrock",
+        "stub": "need_tape",
         "type": "route"
     },
     "info": {
         "grade": "5.8",
-        "name": "corner(buddas head)",
+        "name": "need tape",
         "types": [
             "unknown"
         ]

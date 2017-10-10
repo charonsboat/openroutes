@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "ohio",
+        "stub": "blackhandrock",
+        "type": "region"
+    },
+    "info": {
+        "name": "blackhandrock"
+    }
+}

@@ -1,12 +1,12 @@
 {
     "meta": {
-        "region": "blackhandrock_with_owner_permission",
-        "stub": "need_tape",
+        "region": "hocking_state_forest",
+        "stub": "corner",
         "type": "route"
     },
     "info": {
         "grade": "5.8",
-        "name": "need tape",
+        "name": "corner",
         "types": [
             "unknown"
         ]

@@ -1,12 +1,12 @@
 {
     "meta": {
         "region": "upstream",
-        "stub": "blood_gnome_stand_start",
+        "stub": "blood_gnome",
         "type": "route"
     },
     "info": {
-        "grade": "v5",
-        "name": "Blood Gnome (stand start)",
+        "grade": "v7",
+        "name": "Blood Gnome",
         "types": [
             "boulder"
         ]

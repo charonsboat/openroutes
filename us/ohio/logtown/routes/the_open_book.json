@@ -1,12 +1,12 @@
 {
     "meta": {
         "region": "logtown",
-        "stub": "the_open_book_aka_state_of_the_artless",
+        "stub": "the_open_book",
         "type": "route"
     },
     "info": {
         "grade": "5.10d r",
-        "name": "The Open Book (aka State of the Artless)",
+        "name": "The Open Book",
         "types": [
             "unknown"
         ]

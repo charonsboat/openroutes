@@ -1,12 +1,12 @@
 {
     "meta": {
-        "region": "clifton_gorge_closed",
-        "stub": "roof",
+        "region": "clifton_gorge",
+        "stub": "dihedral",
         "type": "route"
     },
     "info": {
-        "grade": "5.12",
-        "name": "Roof",
+        "grade": "5.11",
+        "name": "Dihedral",
         "types": [
             "unknown"
         ]
