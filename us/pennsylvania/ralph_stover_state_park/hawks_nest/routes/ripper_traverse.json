@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hawks_nest",
+        "stub": "ripper_traverse",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Ripper Traverse",
+        "types": [
+            "boulder"
+        ]
+    }
+}

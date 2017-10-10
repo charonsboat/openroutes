@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_practice_face",
+        "stub": "the_end_climb",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "The End Climb",
+        "types": [
+            "unknown"
+        ]
+    }
+}

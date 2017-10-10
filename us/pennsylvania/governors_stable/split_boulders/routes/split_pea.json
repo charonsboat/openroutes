@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "split_boulders",
+        "stub": "split_pea",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Split Pea",
+        "types": [
+            "boulder"
+        ]
+    }
+}

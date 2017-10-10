@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tarzan_son_of_foops_area",
+        "stub": "bobs_lob",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0+",
+        "name": "Bob's Lob",
+        "types": [
+            "boulder"
+        ]
+    }
+}

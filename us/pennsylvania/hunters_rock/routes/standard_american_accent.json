@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hunters_rock",
+        "stub": "standard_american_accent",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v7",
+        "name": "Standard American Accent",
+        "types": [
+            "boulder"
+        ]
+    }
+}

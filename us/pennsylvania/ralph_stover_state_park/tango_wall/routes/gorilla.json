@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tango_wall",
+        "stub": "gorilla",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Gorilla",
+        "types": [
+            "unknown"
+        ]
+    }
+}

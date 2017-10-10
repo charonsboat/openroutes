@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "entrance_block",
+        "stub": "in_the_thick_of_it",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "In the thick of it",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "mt_gretna",
+        "stub": "emerald_city",
+        "type": "region"
+    },
+    "info": {
+        "name": "Emerald City"
+    }
+}

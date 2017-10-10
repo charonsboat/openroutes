@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coleflesh_area",
+        "stub": "scrapple",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Scrapple",
+        "types": [
+            "boulder"
+        ]
+    }
+}

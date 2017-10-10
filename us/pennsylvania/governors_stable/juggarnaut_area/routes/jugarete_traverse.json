@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "juggarnaut_area",
+        "stub": "jugarete_traverse",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v8",
+        "name": "Jugarete Traverse",
+        "types": [
+            "boulder"
+        ]
+    }
+}

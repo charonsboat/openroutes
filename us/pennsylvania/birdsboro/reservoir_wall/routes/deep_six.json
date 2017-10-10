@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reservoir_wall",
+        "stub": "deep_six",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Deep Six",
+        "types": [
+            "unknown"
+        ]
+    }
+}

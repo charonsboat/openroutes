@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "kelly_drive_boulder",
+        "type": "region"
+    },
+    "info": {
+        "name": "Kelly Drive Boulder"
+    }
+}

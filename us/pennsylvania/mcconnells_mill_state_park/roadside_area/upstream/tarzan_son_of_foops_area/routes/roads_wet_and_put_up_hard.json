@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tarzan_son_of_foops_area",
+        "stub": "roads_wet_and_put_up_hard",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Roads Wet and Put Up Hard",
+        "types": [
+            "unknown"
+        ]
+    }
+}

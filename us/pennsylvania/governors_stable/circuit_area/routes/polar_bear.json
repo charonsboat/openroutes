@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "circuit_area",
+        "stub": "polar_bear",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Polar Bear",
+        "types": [
+            "boulder"
+        ]
+    }
+}

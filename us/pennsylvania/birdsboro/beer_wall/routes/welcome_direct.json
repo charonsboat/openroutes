@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beer_wall",
+        "stub": "welcome_direct",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Welcome Direct",
+        "types": [
+            "sport"
+        ]
+    }
+}

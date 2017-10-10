@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "casino_boulder",
+        "stub": "playing_with_a_full_deck",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Playing with a Full Deck",
+        "types": [
+            "unknown"
+        ]
+    }
+}

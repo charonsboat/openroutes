@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "birthday_boulder",
+        "stub": "sweet_dreams",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0+ r",
+        "name": "Sweet Dreams",
+        "types": [
+            "boulder"
+        ]
+    }
+}

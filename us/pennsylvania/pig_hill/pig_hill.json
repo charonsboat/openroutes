@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "pig_hill",
+        "type": "region"
+    },
+    "info": {
+        "name": "Pig Hill"
+    }
+}

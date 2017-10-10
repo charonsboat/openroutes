@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "birdsboro",
+        "stub": "lebowski_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Lebowski Wall"
+    }
+}

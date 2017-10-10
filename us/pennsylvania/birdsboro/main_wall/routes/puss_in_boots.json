@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "puss_in_boots",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Puss in Boots",
+        "types": [
+            "sport"
+        ]
+    }
+}

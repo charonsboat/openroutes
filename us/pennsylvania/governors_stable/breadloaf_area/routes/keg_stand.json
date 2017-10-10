@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "breadloaf_area",
+        "stub": "keg_stand",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Keg Stand",
+        "types": [
+            "boulder"
+        ]
+    }
+}

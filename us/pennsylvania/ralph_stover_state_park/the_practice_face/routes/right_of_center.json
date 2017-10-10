@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_practice_face",
+        "stub": "right_of_center",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Right of Center",
+        "types": [
+            "unknown"
+        ]
+    }
+}

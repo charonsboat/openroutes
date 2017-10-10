@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_library",
+        "stub": "war_and_peace",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "War and Peace",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hydroman_sector",
+        "stub": "past_vines_to_2_bolts",
+        "type": "route"
+    },
+    "info": {
+        "grade": "",
+        "name": "past vines to 2 bolts",
+        "types": [
+            "sport"
+        ]
+    }
+}

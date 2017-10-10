@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reservoir_wall",
+        "stub": "myas_climb",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Mya's Climb",
+        "types": [
+            "sport"
+        ]
+    }
+}

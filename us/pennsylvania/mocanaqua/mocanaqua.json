@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "mocanaqua",
+        "type": "region"
+    },
+    "info": {
+        "name": "Mocanaqua"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_caves",
+        "stub": "high_jinx",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0+",
+        "name": "High Jinx",
+        "types": [
+            "boulder"
+        ]
+    }
+}

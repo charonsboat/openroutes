@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "birthday_boulder",
+        "stub": "feeling_my_edge_link_to_cutting_edge",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "Feeling My Edge: Link to Cutting Edge",
+        "types": [
+            "boulder"
+        ]
+    }
+}

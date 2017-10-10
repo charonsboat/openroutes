@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "great_buttress",
+        "stub": "deans_list",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Dean's List",
+        "types": [
+            "unknown"
+        ]
+    }
+}

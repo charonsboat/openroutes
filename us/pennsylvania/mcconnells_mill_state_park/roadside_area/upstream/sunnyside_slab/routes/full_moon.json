@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunnyside_slab",
+        "stub": "full_moon",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Full Moon",
+        "types": [
+            "unknown"
+        ]
+    }
+}

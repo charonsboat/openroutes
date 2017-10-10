@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "prenuptial_taste_test",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Prenuptial Taste Test",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_blackboard",
+        "stub": "litmus_test",
+        "type": "route"
+    },
+    "info": {
+        "grade": "project",
+        "name": "Litmus Test",
+        "types": [
+            "unknown"
+        ]
+    }
+}

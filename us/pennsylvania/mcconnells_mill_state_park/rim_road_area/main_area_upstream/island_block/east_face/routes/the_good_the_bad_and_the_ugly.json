@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "the_good_the_bad_and_the_ugly",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "The Good, The Bad, and The Ugly",
+        "types": [
+            "unknown"
+        ]
+    }
+}

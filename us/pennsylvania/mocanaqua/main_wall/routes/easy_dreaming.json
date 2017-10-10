@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "easy_dreaming",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Easy Dreaming",
+        "types": [
+            "unknown"
+        ]
+    }
+}

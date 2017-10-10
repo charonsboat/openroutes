@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beer_wall",
+        "stub": "gran_maharaja",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Gran Maharaja",
+        "types": [
+            "sport"
+        ]
+    }
+}

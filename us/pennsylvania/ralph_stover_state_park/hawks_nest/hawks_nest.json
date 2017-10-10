@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "ralph_stover_state_park",
+        "stub": "hawks_nest",
+        "type": "region"
+    },
+    "info": {
+        "name": "Hawk's Nest"
+    }
+}

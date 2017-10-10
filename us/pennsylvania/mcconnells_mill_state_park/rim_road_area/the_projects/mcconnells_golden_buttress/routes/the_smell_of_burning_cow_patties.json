@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mcconnells_golden_buttress",
+        "stub": "the_smell_of_burning_cow_patties",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "The Smell of Burning Cow Patties",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "shamoo_area",
+        "stub": "decepticon",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Decepticon",
+        "types": [
+            "boulder"
+        ]
+    }
+}

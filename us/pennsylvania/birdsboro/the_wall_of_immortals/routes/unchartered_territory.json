@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_wall_of_immortals",
+        "stub": "unchartered_territory",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.13",
+        "name": "Unchartered Territory",
+        "types": [
+            "unknown"
+        ]
+    }
+}

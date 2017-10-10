@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "mt_gretna",
+        "type": "region"
+    },
+    "info": {
+        "name": "Mt. Gretna"
+    }
+}

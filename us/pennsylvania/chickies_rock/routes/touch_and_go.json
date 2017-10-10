@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chickies_rock",
+        "stub": "touch_and_go",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Touch and Go",
+        "types": [
+            "unknown"
+        ]
+    }
+}

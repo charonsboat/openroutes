@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "transfusion",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Transfusion",
+        "types": [
+            "sport"
+        ]
+    }
+}

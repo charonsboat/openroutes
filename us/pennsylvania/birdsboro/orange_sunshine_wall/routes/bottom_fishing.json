@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orange_sunshine_wall",
+        "stub": "bottom_fishing",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Bottom Fishing",
+        "types": [
+            "sport"
+        ]
+    }
+}

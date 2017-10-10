@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hydroman_sector",
+        "stub": "body_drama",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Body Drama",
+        "types": [
+            "sport"
+        ]
+    }
+}

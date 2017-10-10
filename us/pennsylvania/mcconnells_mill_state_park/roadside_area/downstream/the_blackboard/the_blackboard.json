@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "downstream",
+        "stub": "the_blackboard",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Blackboard"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chickies_rock",
+        "stub": "snow_flake",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Snow Flake",
+        "types": [
+            "unknown"
+        ]
+    }
+}

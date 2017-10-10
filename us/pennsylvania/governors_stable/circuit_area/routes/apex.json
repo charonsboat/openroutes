@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "circuit_area",
+        "stub": "apex",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Apex",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "safe_harbor",
+        "stub": "super_slab_sector",
+        "type": "region"
+    },
+    "info": {
+        "name": "Super Slab Sector"
+    }
+}

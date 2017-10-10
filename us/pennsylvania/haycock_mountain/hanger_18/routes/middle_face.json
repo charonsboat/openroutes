@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hanger_18",
+        "stub": "middle_face",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Middle Face",
+        "types": [
+            "boulder"
+        ]
+    }
+}

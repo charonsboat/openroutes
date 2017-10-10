@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "bellefonte_quarry",
+        "type": "region"
+    },
+    "info": {
+        "name": "Bellefonte Quarry"
+    }
+}

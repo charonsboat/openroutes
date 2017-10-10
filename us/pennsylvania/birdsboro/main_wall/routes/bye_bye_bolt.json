@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "bye_bye_bolt",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Bye Bye Bolt",
+        "types": [
+            "sport"
+        ]
+    }
+}

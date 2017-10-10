@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "caves_trail",
+        "stub": "little_fluffy_clouds",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "Little Fluffy Clouds",
+        "types": [
+            "boulder"
+        ]
+    }
+}

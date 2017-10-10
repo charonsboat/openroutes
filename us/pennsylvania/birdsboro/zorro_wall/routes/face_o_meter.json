@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "zorro_wall",
+        "stub": "face_o_meter",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Face O Meter",
+        "types": [
+            "sport"
+        ]
+    }
+}

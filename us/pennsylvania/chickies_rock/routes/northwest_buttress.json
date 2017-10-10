@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chickies_rock",
+        "stub": "northwest_buttress",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Northwest Buttress",
+        "types": [
+            "unknown"
+        ]
+    }
+}

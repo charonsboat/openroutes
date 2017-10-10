@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "white_rocks",
+        "stub": "white_rocks_pond_bank",
+        "type": "region"
+    },
+    "info": {
+        "name": "White Rocks/Pond Bank"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "island_block",
+        "stub": "north_face",
+        "type": "region"
+    },
+    "info": {
+        "name": "North Face"
+    }
+}

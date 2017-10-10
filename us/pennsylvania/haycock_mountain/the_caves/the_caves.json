@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "haycock_mountain",
+        "stub": "the_caves",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Caves"
+    }
+}

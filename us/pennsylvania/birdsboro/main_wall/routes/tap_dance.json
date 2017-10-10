@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "tap_dance",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Tap Dance",
+        "types": [
+            "sport"
+        ]
+    }
+}

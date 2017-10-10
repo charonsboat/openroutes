@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "rim_road_area",
+        "stub": "main_area_upstream",
+        "type": "region"
+    },
+    "info": {
+        "name": "Main Area Upstream"
+    }
+}

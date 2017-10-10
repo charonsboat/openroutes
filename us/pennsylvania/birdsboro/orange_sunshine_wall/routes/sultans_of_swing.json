@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orange_sunshine_wall",
+        "stub": "sultans_of_swing",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Sultans of Swing",
+        "types": [
+            "sport"
+        ]
+    }
+}

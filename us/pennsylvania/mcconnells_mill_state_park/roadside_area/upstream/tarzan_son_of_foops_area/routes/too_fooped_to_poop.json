@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tarzan_son_of_foops_area",
+        "stub": "too_fooped_to_poop",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0+",
+        "name": "Too Fooped to Poop",
+        "types": [
+            "boulder"
+        ]
+    }
+}

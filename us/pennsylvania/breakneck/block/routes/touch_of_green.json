@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "block",
+        "stub": "touch_of_green",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Touch of Green",
+        "types": [
+            "sport"
+        ]
+    }
+}

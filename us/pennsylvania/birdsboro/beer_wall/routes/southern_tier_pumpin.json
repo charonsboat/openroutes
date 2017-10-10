@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beer_wall",
+        "stub": "southern_tier_pumpin",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Southern Tier Pumpin",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "safe_harbor",
+        "stub": "autumn_arch_sector",
+        "type": "region"
+    },
+    "info": {
+        "name": "Autumn Arch Sector"
+    }
+}

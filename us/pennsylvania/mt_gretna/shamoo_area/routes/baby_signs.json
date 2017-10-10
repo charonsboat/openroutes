@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "shamoo_area",
+        "stub": "baby_signs",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Baby Signs",
+        "types": [
+            "boulder"
+        ]
+    }
+}

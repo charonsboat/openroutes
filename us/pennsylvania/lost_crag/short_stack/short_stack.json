@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "lost_crag",
+        "stub": "short_stack",
+        "type": "region"
+    },
+    "info": {
+        "name": "Short Stack"
+    }
+}

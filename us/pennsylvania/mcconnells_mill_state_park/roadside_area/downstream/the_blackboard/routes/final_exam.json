@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_blackboard",
+        "stub": "final_exam",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4 r",
+        "name": "Final Exam",
+        "types": [
+            "boulder"
+        ]
+    }
+}

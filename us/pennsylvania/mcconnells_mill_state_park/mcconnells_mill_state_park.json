@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "mcconnells_mill_state_park",
+        "type": "region"
+    },
+    "info": {
+        "name": "McConnells Mill State Park"
+    }
+}

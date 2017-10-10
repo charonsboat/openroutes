@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "shamoo_area",
+        "stub": "sneaker_crack",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Sneaker Crack",
+        "types": [
+            "boulder"
+        ]
+    }
+}

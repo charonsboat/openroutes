@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beautiful_loser",
+        "stub": "games_without_frontiers",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Games Without Frontiers",
+        "types": [
+            "unknown"
+        ]
+    }
+}

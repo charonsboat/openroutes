@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "us",
+        "stub": "pennsylvania",
+        "type": "region"
+    },
+    "info": {
+        "name": "Pennsylvania"
+    }
+}

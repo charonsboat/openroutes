@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_practice_face",
+        "stub": "triple_overhang_variant",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Triple Overhang Variant",
+        "types": [
+            "unknown"
+        ]
+    }
+}

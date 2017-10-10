@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coleflesh_area",
+        "stub": "body_snap",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Body Snap",
+        "types": [
+            "boulder"
+        ]
+    }
+}

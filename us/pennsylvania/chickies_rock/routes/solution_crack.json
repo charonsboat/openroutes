@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chickies_rock",
+        "stub": "solution_crack",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Solution Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "birthday_boulder",
+        "stub": "feeling_my_edge",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Feeling My Edge",
+        "types": [
+            "boulder"
+        ]
+    }
+}

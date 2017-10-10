@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "traverse_of_the_swine_area",
+        "stub": "porkys_place",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0+",
+        "name": "Porky's Place",
+        "types": [
+            "boulder"
+        ]
+    }
+}

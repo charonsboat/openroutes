@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chickies_rock",
+        "stub": "sunshine_crack",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Sunshine Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

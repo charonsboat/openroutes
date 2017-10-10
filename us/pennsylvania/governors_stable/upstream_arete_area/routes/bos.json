@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream_arete_area",
+        "stub": "bos",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v9",
+        "name": "Bos",
+        "types": [
+            "boulder"
+        ]
+    }
+}

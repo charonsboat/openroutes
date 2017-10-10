@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "governors_stable",
+        "stub": "split_boulders",
+        "type": "region"
+    },
+    "info": {
+        "name": "Split Boulders"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rappel_rock",
+        "stub": "rotc_route",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "R.O.T.C. Route",
+        "types": [
+            "unknown"
+        ]
+    }
+}

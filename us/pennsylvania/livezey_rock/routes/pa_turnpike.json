@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "livezey_rock",
+        "stub": "pa_turnpike",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "PA turnpike",
+        "types": [
+            "unknown"
+        ]
+    }
+}

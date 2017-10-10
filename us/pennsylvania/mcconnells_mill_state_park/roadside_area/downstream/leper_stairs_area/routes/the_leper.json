@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "leper_stairs_area",
+        "stub": "the_leper",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "The Leper",
+        "types": [
+            "boulder"
+        ]
+    }
+}

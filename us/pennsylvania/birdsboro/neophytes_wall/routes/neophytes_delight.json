@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "neophytes_wall",
+        "stub": "neophytes_delight",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Neophyte's Delight",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "shamoo_area",
+        "stub": "slice",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Slice",
+        "types": [
+            "boulder"
+        ]
+    }
+}

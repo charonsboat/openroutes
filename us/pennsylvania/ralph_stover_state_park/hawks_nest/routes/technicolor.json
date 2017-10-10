@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hawks_nest",
+        "stub": "technicolor",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Technicolor",
+        "types": [
+            "unknown"
+        ]
+    }
+}

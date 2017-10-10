@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "birdsboro",
+        "stub": "ground_up_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Ground Up Wall"
+    }
+}

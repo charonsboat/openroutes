@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_library",
+        "stub": "nose_drops",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12",
+        "name": "Nose Drops",
+        "types": [
+            "unknown"
+        ]
+    }
+}

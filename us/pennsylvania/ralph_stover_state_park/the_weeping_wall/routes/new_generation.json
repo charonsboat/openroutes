@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_weeping_wall",
+        "stub": "new_generation",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "New Generation",
+        "types": [
+            "unknown"
+        ]
+    }
+}

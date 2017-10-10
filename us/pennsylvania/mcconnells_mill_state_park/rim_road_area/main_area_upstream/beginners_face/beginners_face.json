@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "main_area_upstream",
+        "stub": "beginners_face",
+        "type": "region"
+    },
+    "info": {
+        "name": "Beginners' Face"
+    }
+}

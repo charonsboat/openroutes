@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "north_face",
+        "stub": "ethereal_material",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Ethereal Material",
+        "types": [
+            "unknown"
+        ]
+    }
+}

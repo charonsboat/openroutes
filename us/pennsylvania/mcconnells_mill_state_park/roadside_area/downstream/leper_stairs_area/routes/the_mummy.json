@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "leper_stairs_area",
+        "stub": "the_mummy",
+        "type": "route"
+    },
+    "info": {
+        "grade": "project",
+        "name": "The Mummy",
+        "types": [
+            "unknown"
+        ]
+    }
+}

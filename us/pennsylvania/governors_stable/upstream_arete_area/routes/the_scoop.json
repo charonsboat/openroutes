@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream_arete_area",
+        "stub": "the_scoop",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "The Scoop",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "breadloaf_area",
+        "stub": "pop_n_fresh",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Pop 'N Fresh",
+        "types": [
+            "boulder"
+        ]
+    }
+}

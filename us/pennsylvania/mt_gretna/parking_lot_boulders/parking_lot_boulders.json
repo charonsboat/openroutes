@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "mt_gretna",
+        "stub": "parking_lot_boulders",
+        "type": "region"
+    },
+    "info": {
+        "name": "Parking Lot Boulders"
+    }
+}

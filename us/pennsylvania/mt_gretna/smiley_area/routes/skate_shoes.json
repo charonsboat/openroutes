@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "smiley_area",
+        "stub": "skate_shoes",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Skate Shoes",
+        "types": [
+            "boulder"
+        ]
+    }
+}

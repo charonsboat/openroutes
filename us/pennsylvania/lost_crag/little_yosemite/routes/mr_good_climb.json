@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "little_yosemite",
+        "stub": "mr_good_climb",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Mr.  Good Climb",
+        "types": [
+            "unknown"
+        ]
+    }
+}

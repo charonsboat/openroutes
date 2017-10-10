@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_wall",
+        "stub": "precarious",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Precarious",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "rimrock_overlook",
+        "stub": "see_mcconnels_mills",
+        "type": "region"
+    },
+    "info": {
+        "name": "See McConnel's Mills"
+    }
+}

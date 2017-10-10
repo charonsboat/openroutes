@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "smiley_area",
+        "stub": "light_your_mind",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Light Your Mind",
+        "types": [
+            "boulder"
+        ]
+    }
+}

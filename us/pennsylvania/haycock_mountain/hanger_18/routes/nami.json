@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hanger_18",
+        "stub": "nami",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Nami",
+        "types": [
+            "boulder"
+        ]
+    }
+}

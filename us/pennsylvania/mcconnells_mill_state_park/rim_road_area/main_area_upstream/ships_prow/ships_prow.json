@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "main_area_upstream",
+        "stub": "ships_prow",
+        "type": "region"
+    },
+    "info": {
+        "name": "Ship's Prow"
+    }
+}

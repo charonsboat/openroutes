@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "chickies_rock",
+        "type": "region"
+    },
+    "info": {
+        "name": "Chickies Rock"
+    }
+}

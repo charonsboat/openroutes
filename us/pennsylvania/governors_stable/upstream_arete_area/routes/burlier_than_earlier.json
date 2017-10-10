@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream_arete_area",
+        "stub": "burlier_than_earlier",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Burlier than Earlier",
+        "types": [
+            "boulder"
+        ]
+    }
+}

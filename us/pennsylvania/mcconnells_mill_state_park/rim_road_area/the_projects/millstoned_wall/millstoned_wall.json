@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "the_projects",
+        "stub": "millstoned_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Millstoned Wall"
+    }
+}

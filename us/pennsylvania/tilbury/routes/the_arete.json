@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tilbury",
+        "stub": "the_arete",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "The Arete",
+        "types": [
+            "unknown"
+        ]
+    }
+}

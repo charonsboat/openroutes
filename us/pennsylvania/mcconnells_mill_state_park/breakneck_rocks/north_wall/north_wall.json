@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "breakneck_rocks",
+        "stub": "north_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "North Wall"
+    }
+}

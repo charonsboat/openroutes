@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "leper_stairs_area",
+        "stub": "the_one_minute_workout_wall",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0 to v2",
+        "name": "The One Minute Workout Wall",
+        "types": [
+            "boulder"
+        ]
+    }
+}

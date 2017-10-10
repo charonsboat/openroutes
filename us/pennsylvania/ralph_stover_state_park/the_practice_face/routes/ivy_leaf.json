@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_practice_face",
+        "stub": "ivy_leaf",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.4 pg",
+        "name": "Ivy Leaf",
+        "types": [
+            "sport"
+        ]
+    }
+}

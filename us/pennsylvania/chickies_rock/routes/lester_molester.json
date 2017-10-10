@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chickies_rock",
+        "stub": "lester_molester",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Lester Molester",
+        "types": [
+            "unknown"
+        ]
+    }
+}

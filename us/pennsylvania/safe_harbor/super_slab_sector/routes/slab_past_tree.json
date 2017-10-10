@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "super_slab_sector",
+        "stub": "slab_past_tree",
+        "type": "route"
+    },
+    "info": {
+        "grade": "",
+        "name": "slab past tree",
+        "types": [
+            "sport"
+        ]
+    }
+}

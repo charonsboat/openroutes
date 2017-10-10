@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "smiley_area",
+        "stub": "hero",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Hero",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "governors_stable",
+        "stub": "dish_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Dish Area"
+    }
+}

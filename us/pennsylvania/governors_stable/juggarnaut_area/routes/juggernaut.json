@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "juggarnaut_area",
+        "stub": "juggernaut",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "Juggernaut",
+        "types": [
+            "boulder"
+        ]
+    }
+}

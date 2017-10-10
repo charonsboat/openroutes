@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "birdsboro",
+        "stub": "neophytes_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Neophyte's Wall"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orange_sunshine_wall",
+        "stub": "dirty_thing",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Dirty Thing",
+        "types": [
+            "sport"
+        ]
+    }
+}

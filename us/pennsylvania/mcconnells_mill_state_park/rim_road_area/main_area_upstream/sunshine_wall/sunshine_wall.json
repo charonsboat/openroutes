@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "main_area_upstream",
+        "stub": "sunshine_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Sunshine Wall"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "smiley_area",
+        "stub": "smiley_face",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Smiley Face",
+        "types": [
+            "boulder"
+        ]
+    }
+}

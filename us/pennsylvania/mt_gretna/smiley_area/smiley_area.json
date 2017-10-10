@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "mt_gretna",
+        "stub": "smiley_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Smiley Area"
+    }
+}

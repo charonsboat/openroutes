@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "circuit_area",
+        "stub": "slopey_circ",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "Slopey Circ",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "rigging_route",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Rigging Route",
+        "types": [
+            "unknown"
+        ]
+    }
+}

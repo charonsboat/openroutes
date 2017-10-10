@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "smiley_area",
+        "stub": "paula",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "Paula",
+        "types": [
+            "boulder"
+        ]
+    }
+}

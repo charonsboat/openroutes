@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "house_rocks",
+        "type": "region"
+    },
+    "info": {
+        "name": "House Rocks"
+    }
+}

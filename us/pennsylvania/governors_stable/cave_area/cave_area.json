@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "governors_stable",
+        "stub": "cave_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Cave Area"
+    }
+}

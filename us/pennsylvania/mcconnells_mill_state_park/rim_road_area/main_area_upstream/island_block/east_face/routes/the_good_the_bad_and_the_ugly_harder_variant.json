@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "the_good_the_bad_and_the_ugly_harder_variant",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "The Good, The Bad, and The Ugly, Harder Variant",
+        "types": [
+            "unknown"
+        ]
+    }
+}

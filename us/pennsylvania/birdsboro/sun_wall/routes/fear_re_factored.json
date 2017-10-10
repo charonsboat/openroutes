@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sun_wall",
+        "stub": "fear_re_factored",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Fear Re-Factored",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "lehigh_gorge",
+        "type": "region"
+    },
+    "info": {
+        "name": "Lehigh Gorge"
+    }
+}

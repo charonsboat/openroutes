@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream_arete_area",
+        "stub": "balarete",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Balarete",
+        "types": [
+            "boulder"
+        ]
+    }
+}

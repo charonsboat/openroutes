@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "juggarnaut_area",
+        "stub": "cobra",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "Cobra",
+        "types": [
+            "boulder"
+        ]
+    }
+}

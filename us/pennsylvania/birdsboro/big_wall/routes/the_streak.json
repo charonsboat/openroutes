@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "big_wall",
+        "stub": "the_streak",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "The Streak",
+        "types": [
+            "sport"
+        ]
+    }
+}

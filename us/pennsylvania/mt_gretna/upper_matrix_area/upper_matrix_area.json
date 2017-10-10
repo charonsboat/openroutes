@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "mt_gretna",
+        "stub": "upper_matrix_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Upper Matrix Area"
+    }
+}

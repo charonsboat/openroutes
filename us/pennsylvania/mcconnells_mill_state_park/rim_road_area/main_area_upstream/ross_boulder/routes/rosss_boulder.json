@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ross_boulder",
+        "stub": "rosss_boulder",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0+",
+        "name": "Ross's Boulder",
+        "types": [
+            "boulder"
+        ]
+    }
+}

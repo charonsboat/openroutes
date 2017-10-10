@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "haycock_mountain",
+        "stub": "glass_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Glass Wall"
+    }
+}

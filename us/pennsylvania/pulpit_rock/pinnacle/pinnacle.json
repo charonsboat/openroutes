@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pulpit_rock",
+        "stub": "pinnacle",
+        "type": "region"
+    },
+    "info": {
+        "name": "Pinnacle"
+    }
+}

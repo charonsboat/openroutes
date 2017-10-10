@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "glass_wall",
+        "stub": "the_fin",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "The Fin",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tarzan_son_of_foops_area",
+        "stub": "hack_hard",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Hack Hard",
+        "types": [
+            "boulder"
+        ]
+    }
+}

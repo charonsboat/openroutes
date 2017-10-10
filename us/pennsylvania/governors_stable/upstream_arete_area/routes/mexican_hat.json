@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream_arete_area",
+        "stub": "mexican_hat",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Mexican Hat",
+        "types": [
+            "boulder"
+        ]
+    }
+}

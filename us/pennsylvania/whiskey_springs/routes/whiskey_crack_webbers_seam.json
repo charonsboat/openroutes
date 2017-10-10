@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whiskey_springs",
+        "stub": "whiskey_crack_webbers_seam",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Whiskey Crack/ Webber's Seam",
+        "types": [
+            "boulder"
+        ]
+    }
+}

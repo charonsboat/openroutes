@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "island_block",
+        "stub": "east_face",
+        "type": "region"
+    },
+    "info": {
+        "name": "East Face"
+    }
+}

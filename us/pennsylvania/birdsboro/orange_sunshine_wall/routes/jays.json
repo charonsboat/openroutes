@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orange_sunshine_wall",
+        "stub": "jays",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Jay's",
+        "types": [
+            "sport"
+        ]
+    }
+}

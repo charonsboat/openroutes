@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hanger_18",
+        "stub": "over_the_falls",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v9",
+        "name": "Over the Falls",
+        "types": [
+            "boulder"
+        ]
+    }
+}

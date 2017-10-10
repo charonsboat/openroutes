@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_eurochoss_wall",
+        "stub": "blame_it_on_rico",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Blame It on Rico",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hydroman_sector",
+        "stub": "dirty_streak_face",
+        "type": "route"
+    },
+    "info": {
+        "grade": "",
+        "name": "dirty, streak face",
+        "types": [
+            "sport"
+        ]
+    }
+}

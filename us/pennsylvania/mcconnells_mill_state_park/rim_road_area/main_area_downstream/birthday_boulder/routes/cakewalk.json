@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "birthday_boulder",
+        "stub": "cakewalk",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0+ r",
+        "name": "Cakewalk",
+        "types": [
+            "boulder"
+        ]
+    }
+}

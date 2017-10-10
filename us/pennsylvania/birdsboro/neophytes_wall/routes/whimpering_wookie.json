@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "neophytes_wall",
+        "stub": "whimpering_wookie",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Whimpering Wookie",
+        "types": [
+            "sport"
+        ]
+    }
+}

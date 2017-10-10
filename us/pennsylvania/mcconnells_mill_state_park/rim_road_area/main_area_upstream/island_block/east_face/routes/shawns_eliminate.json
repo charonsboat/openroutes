@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "shawns_eliminate",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "Shawn's Eliminate",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "lost_crag",
+        "stub": "the_corridors",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Corridors"
+    }
+}

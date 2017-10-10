@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "millstoned_wall",
+        "stub": "true_grits",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "True Grits",
+        "types": [
+            "unknown"
+        ]
+    }
+}

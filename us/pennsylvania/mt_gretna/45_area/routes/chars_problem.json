@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "45_area",
+        "stub": "chars_problem",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v10",
+        "name": "Char's Problem",
+        "types": [
+            "boulder"
+        ]
+    }
+}

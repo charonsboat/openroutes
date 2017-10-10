@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "birdsboro",
+        "stub": "west_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "West Wall"
+    }
+}

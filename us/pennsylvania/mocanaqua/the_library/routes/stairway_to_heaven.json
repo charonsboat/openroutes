@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_library",
+        "stub": "stairway_to_heaven",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Stairway to Heaven",
+        "types": [
+            "unknown"
+        ]
+    }
+}

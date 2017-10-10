@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mid_wall",
+        "stub": "9_if_by_left",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "9 If by Left",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "smiley_area",
+        "stub": "nose_picker",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Nose Picker",
+        "types": [
+            "boulder"
+        ]
+    }
+}

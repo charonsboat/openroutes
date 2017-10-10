@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tarzan_son_of_foops_area",
+        "stub": "up_shit_crick",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0 r",
+        "name": "Up Shit Crick",
+        "types": [
+            "boulder"
+        ]
+    }
+}

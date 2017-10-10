@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tarzan_son_of_foops_area",
+        "stub": "short_mans_problem",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Short Man's Problem",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chickies_rock",
+        "stub": "zag",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Zag",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "white_rocks",
+        "stub": "the_wanderer",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9 x",
+        "name": "The Wanderer",
+        "types": [
+            "unknown"
+        ]
+    }
+}

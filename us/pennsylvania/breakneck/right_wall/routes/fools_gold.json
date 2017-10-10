@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "right_wall",
+        "stub": "fools_gold",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Fool's Gold",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rappel_rock",
+        "stub": "hanging_in_space",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Hanging in Space",
+        "types": [
+            "unknown"
+        ]
+    }
+}

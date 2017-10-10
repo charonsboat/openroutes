@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "caves_trail",
+        "stub": "mo_mangos",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v7",
+        "name": "Mo Mangos",
+        "types": [
+            "boulder"
+        ]
+    }
+}

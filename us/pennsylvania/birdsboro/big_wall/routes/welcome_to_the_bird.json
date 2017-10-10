@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "big_wall",
+        "stub": "welcome_to_the_bird",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Welcome to the Bird",
+        "types": [
+            "sport"
+        ]
+    }
+}

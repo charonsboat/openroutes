@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "main_area_upstream",
+        "stub": "casino_boulder",
+        "type": "region"
+    },
+    "info": {
+        "name": "Casino Boulder"
+    }
+}

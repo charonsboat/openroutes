@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "mt_gretna",
+        "stub": "highball_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Highball Area"
+    }
+}

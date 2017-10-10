@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "traverse_of_the_swine_area",
+        "stub": "traverse_of_the_swine",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Traverse of the Swine",
+        "types": [
+            "boulder"
+        ]
+    }
+}

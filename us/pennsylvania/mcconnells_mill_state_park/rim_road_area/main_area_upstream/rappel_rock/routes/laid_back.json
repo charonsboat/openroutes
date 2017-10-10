@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rappel_rock",
+        "stub": "laid_back",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Laid Back",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chickies_rock",
+        "stub": "witchs_brew_direct",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "Witch's Brew Direct",
+        "types": [
+            "unknown"
+        ]
+    }
+}

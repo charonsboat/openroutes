@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "white_rocks",
+        "stub": "jims_throne",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.4 g",
+        "name": "Jim's Throne",
+        "types": [
+            "unknown"
+        ]
+    }
+}

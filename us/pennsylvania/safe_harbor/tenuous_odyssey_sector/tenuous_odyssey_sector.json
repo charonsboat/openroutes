@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "safe_harbor",
+        "stub": "tenuous_odyssey_sector",
+        "type": "region"
+    },
+    "info": {
+        "name": "Tenuous Odyssey Sector"
+    }
+}

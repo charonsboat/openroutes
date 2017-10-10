@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chain_reaction_buttress",
+        "stub": "chain_reaction",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Chain Reaction",
+        "types": [
+            "unknown"
+        ]
+    }
+}

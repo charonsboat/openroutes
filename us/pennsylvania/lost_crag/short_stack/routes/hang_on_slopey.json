@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "short_stack",
+        "stub": "hang_on_slopey",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Hang on Slopey",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "pizza",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Pizza",
+        "types": [
+            "unknown"
+        ]
+    }
+}

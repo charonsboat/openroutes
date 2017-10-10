@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "birdsboro",
+        "stub": "sun_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Sun Wall"
+    }
+}

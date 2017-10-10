@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hunters_rock",
+        "stub": "clocklock",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Clocklock",
+        "types": [
+            "boulder"
+        ]
+    }
+}

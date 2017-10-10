@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "zorro_wall",
+        "stub": "zorro_corner_son_of_zorro",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Zorro Corner / Son of Zorro",
+        "types": [
+            "sport"
+        ]
+    }
+}

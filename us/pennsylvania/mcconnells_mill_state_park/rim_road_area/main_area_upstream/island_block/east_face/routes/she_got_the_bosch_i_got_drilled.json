@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "she_got_the_bosch_i_got_drilled",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "She Got the Bosch, I Got Drilled",
+        "types": [
+            "unknown"
+        ]
+    }
+}

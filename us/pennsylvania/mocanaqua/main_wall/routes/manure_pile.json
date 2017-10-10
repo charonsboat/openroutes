@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "manure_pile",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Manure Pile",
+        "types": [
+            "unknown"
+        ]
+    }
+}

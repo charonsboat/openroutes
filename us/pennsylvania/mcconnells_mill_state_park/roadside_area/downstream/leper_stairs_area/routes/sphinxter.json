@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "leper_stairs_area",
+        "stub": "sphinxter",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Sphinxter",
+        "types": [
+            "boulder"
+        ]
+    }
+}

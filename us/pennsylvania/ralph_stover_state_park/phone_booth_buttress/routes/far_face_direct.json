@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "phone_booth_buttress",
+        "stub": "far_face_direct",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Far Face Direct",
+        "types": [
+            "unknown"
+        ]
+    }
+}

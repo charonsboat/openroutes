@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream_arete_area",
+        "stub": "karmic_power",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v6",
+        "name": "Karmic Power",
+        "types": [
+            "boulder"
+        ]
+    }
+}

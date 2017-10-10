@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tarzan_son_of_foops_area",
+        "stub": "squal_like_a_pig",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Squal Like a Pig",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "breadloaf_area",
+        "stub": "pennicilin",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Pennicilin",
+        "types": [
+            "boulder"
+        ]
+    }
+}

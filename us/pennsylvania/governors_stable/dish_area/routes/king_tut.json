@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dish_area",
+        "stub": "king_tut",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "King Tut",
+        "types": [
+            "boulder"
+        ]
+    }
+}

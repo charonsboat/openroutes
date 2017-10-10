@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chickies_rock",
+        "stub": "steppin_out",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Steppin' Out",
+        "types": [
+            "unknown"
+        ]
+    }
+}

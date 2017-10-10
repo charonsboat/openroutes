@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "haycock_mountain",
+        "stub": "hobo",
+        "type": "region"
+    },
+    "info": {
+        "name": "Hobo"
+    }
+}

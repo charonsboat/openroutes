@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "main_area_downstream",
+        "stub": "five_fingers_block",
+        "type": "region"
+    },
+    "info": {
+        "name": "Five Fingers Block"
+    }
+}

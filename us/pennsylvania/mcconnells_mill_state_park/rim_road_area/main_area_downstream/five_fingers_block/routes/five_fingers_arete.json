@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "five_fingers_block",
+        "stub": "five_fingers_arete",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Five Fingers Arete",
+        "types": [
+            "unknown"
+        ]
+    }
+}

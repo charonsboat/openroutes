@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "circuit_area",
+        "stub": "45_sit_traverse",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v9",
+        "name": "45 Sit Traverse",
+        "types": [
+            "boulder"
+        ]
+    }
+}

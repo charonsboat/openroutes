@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "blue_ridge_run_rocks",
+        "type": "region"
+    },
+    "info": {
+        "name": "Blue Ridge Run Rocks"
+    }
+}

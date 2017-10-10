@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "45_area",
+        "stub": "fabulous",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Fabulous",
+        "types": [
+            "boulder"
+        ]
+    }
+}

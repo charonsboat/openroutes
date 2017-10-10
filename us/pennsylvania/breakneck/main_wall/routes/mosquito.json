@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "mosquito",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Mosquito",
+        "types": [
+            "sport"
+        ]
+    }
+}

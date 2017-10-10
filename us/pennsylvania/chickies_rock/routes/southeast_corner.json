@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chickies_rock",
+        "stub": "southeast_corner",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.2",
+        "name": "Southeast Corner",
+        "types": [
+            "unknown"
+        ]
+    }
+}

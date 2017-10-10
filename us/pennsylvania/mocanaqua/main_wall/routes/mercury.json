@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "mercury",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12",
+        "name": "Mercury",
+        "types": [
+            "sport"
+        ]
+    }
+}

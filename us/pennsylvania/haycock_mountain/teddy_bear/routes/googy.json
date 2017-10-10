@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "teddy_bear",
+        "stub": "googy",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "Googy",
+        "types": [
+            "boulder"
+        ]
+    }
+}

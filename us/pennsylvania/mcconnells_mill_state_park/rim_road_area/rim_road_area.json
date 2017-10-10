@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "mcconnells_mill_state_park",
+        "stub": "rim_road_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Rim Road Area"
+    }
+}

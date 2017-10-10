@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "arocknophobia",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Arocknophobia",
+        "types": [
+            "sport"
+        ]
+    }
+}

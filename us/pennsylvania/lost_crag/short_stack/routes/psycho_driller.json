@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "short_stack",
+        "stub": "psycho_driller",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Psycho Driller",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "breadloaf_area",
+        "stub": "party_hardy",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v9",
+        "name": "Party Hardy",
+        "types": [
+            "boulder"
+        ]
+    }
+}

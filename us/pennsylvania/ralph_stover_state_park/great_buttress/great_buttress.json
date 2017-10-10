@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "ralph_stover_state_park",
+        "stub": "great_buttress",
+        "type": "region"
+    },
+    "info": {
+        "name": "Great Buttress"
+    }
+}

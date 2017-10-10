@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "45_area",
+        "stub": "underdog",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Underdog",
+        "types": [
+            "boulder"
+        ]
+    }
+}

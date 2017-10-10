@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "short_stack",
+        "stub": "rinse_and_whine",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Rinse and Whine",
+        "types": [
+            "unknown"
+        ]
+    }
+}

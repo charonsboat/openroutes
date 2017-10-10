@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sun_wall",
+        "stub": "will_it_stay_or_will_it_go",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Will It Stay or Will It Go",
+        "types": [
+            "sport"
+        ]
+    }
+}

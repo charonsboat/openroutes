@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "caves_trail",
+        "stub": "bokow",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v7",
+        "name": "Bokow",
+        "types": [
+            "boulder"
+        ]
+    }
+}

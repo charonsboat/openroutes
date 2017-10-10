@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sun_wall",
+        "stub": "pennsyltucky",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Pennsyltucky",
+        "types": [
+            "unknown"
+        ]
+    }
+}

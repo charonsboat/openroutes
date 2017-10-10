@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "sob",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "S.O.B",
+        "types": [
+            "unknown"
+        ]
+    }
+}

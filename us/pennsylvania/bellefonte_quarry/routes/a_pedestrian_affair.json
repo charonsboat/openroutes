@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bellefonte_quarry",
+        "stub": "a_pedestrian_affair",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.11+",
+        "name": "A Pedestrian Affair",
+        "types": [
+            "unknown"
+        ]
+    }
+}

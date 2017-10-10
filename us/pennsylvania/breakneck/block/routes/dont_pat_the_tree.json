@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "block",
+        "stub": "dont_pat_the_tree",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Don't Pat the Tree",
+        "types": [
+            "sport"
+        ]
+    }
+}

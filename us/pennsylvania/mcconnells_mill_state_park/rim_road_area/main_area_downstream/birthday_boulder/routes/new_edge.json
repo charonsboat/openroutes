@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "birthday_boulder",
+        "stub": "new_edge",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "New Edge",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "obnoxious_partner_buttress",
+        "stub": "dead_tree",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Dead Tree",
+        "types": [
+            "unknown"
+        ]
+    }
+}

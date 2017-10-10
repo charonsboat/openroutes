@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chickies_rock",
+        "stub": "space_ace",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Space Ace",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "livezey_rock",
+        "stub": "standard",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Standard",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orange_sunshine_wall",
+        "stub": "gym_dandy",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "Gym Dandy",
+        "types": [
+            "sport"
+        ]
+    }
+}

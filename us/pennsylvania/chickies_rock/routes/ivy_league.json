@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chickies_rock",
+        "stub": "ivy_league",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Ivy League",
+        "types": [
+            "unknown"
+        ]
+    }
+}

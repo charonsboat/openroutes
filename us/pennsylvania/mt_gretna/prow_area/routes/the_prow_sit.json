@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "prow_area",
+        "stub": "the_prow_sit",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v9",
+        "name": "The Prow Sit",
+        "types": [
+            "boulder"
+        ]
+    }
+}

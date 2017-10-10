@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "mt_gretna",
+        "stub": "beautiful_day_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Beautiful Day Area"
+    }
+}

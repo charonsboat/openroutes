@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "traverse_of_the_swine_area",
+        "stub": "slick_swilly",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4 r",
+        "name": "Slick Swilly",
+        "types": [
+            "boulder"
+        ]
+    }
+}

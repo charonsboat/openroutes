@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "neophytes_wall",
+        "stub": "triple_boots_blithering_brisket",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Triple Boots Blithering Brisket",
+        "types": [
+            "sport"
+        ]
+    }
+}

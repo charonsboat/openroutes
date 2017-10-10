@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "brutal_block",
+        "stub": "vini_vidi_vici",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Vini Vidi Vici",
+        "types": [
+            "unknown"
+        ]
+    }
+}

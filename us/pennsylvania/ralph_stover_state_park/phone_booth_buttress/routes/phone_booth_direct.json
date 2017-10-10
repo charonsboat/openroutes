@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "phone_booth_buttress",
+        "stub": "phone_booth_direct",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Phone Booth Direct",
+        "types": [
+            "unknown"
+        ]
+    }
+}

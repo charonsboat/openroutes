@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "ashleys_crack",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Ashley's Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coleflesh_area",
+        "stub": "oh_shit",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Oh Shit",
+        "types": [
+            "boulder"
+        ]
+    }
+}

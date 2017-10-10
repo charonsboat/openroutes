@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reservoir_wall",
+        "stub": "loch_ness",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Loch Ness",
+        "types": [
+            "unknown"
+        ]
+    }
+}

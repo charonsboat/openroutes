@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sun_wall",
+        "stub": "the_virgin_suicides",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "The Virgin Suicides",
+        "types": [
+            "sport"
+        ]
+    }
+}

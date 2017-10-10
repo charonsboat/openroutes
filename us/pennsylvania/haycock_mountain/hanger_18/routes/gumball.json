@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hanger_18",
+        "stub": "gumball",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Gumball",
+        "types": [
+            "boulder"
+        ]
+    }
+}

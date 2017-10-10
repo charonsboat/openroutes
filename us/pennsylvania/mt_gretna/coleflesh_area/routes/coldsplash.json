@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coleflesh_area",
+        "stub": "coldsplash",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Coldsplash",
+        "types": [
+            "boulder"
+        ]
+    }
+}

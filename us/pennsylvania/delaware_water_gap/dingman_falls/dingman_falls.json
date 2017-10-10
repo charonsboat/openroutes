@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "delaware_water_gap",
+        "stub": "dingman_falls",
+        "type": "region"
+    },
+    "info": {
+        "name": "Dingman Falls"
+    }
+}

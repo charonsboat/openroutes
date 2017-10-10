@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "breadloaf_area",
+        "stub": "kneadin_it",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Kneadin' It",
+        "types": [
+            "boulder"
+        ]
+    }
+}

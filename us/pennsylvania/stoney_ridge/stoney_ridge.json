@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "stoney_ridge",
+        "type": "region"
+    },
+    "info": {
+        "name": "Stoney Ridge"
+    }
+}

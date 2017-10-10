@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ground_up_wall",
+        "stub": "battling_t_rex",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Battling T-Rex",
+        "types": [
+            "sport"
+        ]
+    }
+}

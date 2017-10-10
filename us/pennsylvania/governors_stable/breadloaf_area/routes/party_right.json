@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "breadloaf_area",
+        "stub": "party_right",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Party Right",
+        "types": [
+            "boulder"
+        ]
+    }
+}

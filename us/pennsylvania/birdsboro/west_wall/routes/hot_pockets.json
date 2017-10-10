@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_wall",
+        "stub": "hot_pockets",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Hot Pockets",
+        "types": [
+            "sport"
+        ]
+    }
+}

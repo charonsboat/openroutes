@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "north_face",
+        "stub": "wet_dreams",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Wet Dreams",
+        "types": [
+            "unknown"
+        ]
+    }
+}

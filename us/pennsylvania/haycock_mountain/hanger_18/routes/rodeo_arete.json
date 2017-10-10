@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hanger_18",
+        "stub": "rodeo_arete",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Rodeo Arete",
+        "types": [
+            "boulder"
+        ]
+    }
+}

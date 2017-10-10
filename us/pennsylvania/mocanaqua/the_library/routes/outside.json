@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_library",
+        "stub": "outside",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Outside",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "snake_bit",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Snake Bit",
+        "types": [
+            "boulder"
+        ]
+    }
+}

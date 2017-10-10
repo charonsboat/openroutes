@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "stardust",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Stardust",
+        "types": [
+            "sport"
+        ]
+    }
+}

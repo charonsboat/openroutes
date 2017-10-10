@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hawks_nest",
+        "stub": "crack_magic",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Crack Magic",
+        "types": [
+            "top rope"
+        ]
+    }
+}

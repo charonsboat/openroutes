@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "unnamed_1",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "Unnamed 1",
+        "types": [
+            "boulder"
+        ]
+    }
+}

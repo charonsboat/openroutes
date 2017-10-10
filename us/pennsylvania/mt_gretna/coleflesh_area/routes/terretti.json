@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coleflesh_area",
+        "stub": "terretti",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Terretti",
+        "types": [
+            "boulder"
+        ]
+    }
+}

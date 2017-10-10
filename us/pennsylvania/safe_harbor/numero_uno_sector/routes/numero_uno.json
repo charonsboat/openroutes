@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "numero_uno_sector",
+        "stub": "numero_uno",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Numero Uno",
+        "types": [
+            "sport"
+        ]
+    }
+}

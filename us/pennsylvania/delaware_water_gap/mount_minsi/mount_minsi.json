@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "delaware_water_gap",
+        "stub": "mount_minsi",
+        "type": "region"
+    },
+    "info": {
+        "name": "Mount Minsi"
+    }
+}

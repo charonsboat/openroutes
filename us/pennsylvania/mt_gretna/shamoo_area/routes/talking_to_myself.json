@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "shamoo_area",
+        "stub": "talking_to_myself",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Talking to Myself",
+        "types": [
+            "boulder"
+        ]
+    }
+}

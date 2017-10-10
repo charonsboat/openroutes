@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "prow_area",
+        "stub": "the_islander",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v8",
+        "name": "The Islander",
+        "types": [
+            "boulder"
+        ]
+    }
+}

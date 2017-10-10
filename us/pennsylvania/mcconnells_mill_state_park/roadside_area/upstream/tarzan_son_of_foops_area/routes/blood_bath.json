@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tarzan_son_of_foops_area",
+        "stub": "blood_bath",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Blood Bath",
+        "types": [
+            "boulder"
+        ]
+    }
+}

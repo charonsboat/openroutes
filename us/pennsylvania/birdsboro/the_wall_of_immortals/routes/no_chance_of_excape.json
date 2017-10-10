@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_wall_of_immortals",
+        "stub": "no_chance_of_excape",
+        "type": "route"
+    },
+    "info": {
+        "grade": "",
+        "name": "No Chance of Excape",
+        "types": [
+            "unknown"
+        ]
+    }
+}

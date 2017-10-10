@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dish_area",
+        "stub": "egg_left",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Egg Left",
+        "types": [
+            "boulder"
+        ]
+    }
+}

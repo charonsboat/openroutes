@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "wheres_my_spot",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4 r",
+        "name": "Where's My Spot!",
+        "types": [
+            "boulder"
+        ]
+    }
+}

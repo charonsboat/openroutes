@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orange_sunshine_wall",
+        "stub": "orange_sunshine",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Orange Sunshine",
+        "types": [
+            "sport"
+        ]
+    }
+}

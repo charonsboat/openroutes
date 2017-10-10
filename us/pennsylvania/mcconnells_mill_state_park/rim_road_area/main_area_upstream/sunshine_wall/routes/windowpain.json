@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunshine_wall",
+        "stub": "windowpain",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Windowpain",
+        "types": [
+            "boulder"
+        ]
+    }
+}

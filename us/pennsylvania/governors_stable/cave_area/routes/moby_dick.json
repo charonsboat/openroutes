@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cave_area",
+        "stub": "moby_dick",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "Moby Dick",
+        "types": [
+            "boulder"
+        ]
+    }
+}

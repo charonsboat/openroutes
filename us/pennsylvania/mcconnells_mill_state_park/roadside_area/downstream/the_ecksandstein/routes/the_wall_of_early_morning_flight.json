@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_ecksandstein",
+        "stub": "the_wall_of_early_morning_flight",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v2 to v4",
+        "name": "The Wall of Early Morning Flight",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "split_boulders",
+        "stub": "split_right",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Split Right",
+        "types": [
+            "boulder"
+        ]
+    }
+}

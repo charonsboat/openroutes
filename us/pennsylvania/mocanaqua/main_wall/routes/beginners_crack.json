@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "beginners_crack",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Beginners Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "white_rocks",
+        "type": "region"
+    },
+    "info": {
+        "name": "White Rocks"
+    }
+}

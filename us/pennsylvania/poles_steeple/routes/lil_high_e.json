@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "poles_steeple",
+        "stub": "lil_high_e",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Lil' High E",
+        "types": [
+            "unknown"
+        ]
+    }
+}

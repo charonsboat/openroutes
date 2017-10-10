@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "smiley_area",
+        "stub": "personality_slab",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Personality Slab",
+        "types": [
+            "boulder"
+        ]
+    }
+}

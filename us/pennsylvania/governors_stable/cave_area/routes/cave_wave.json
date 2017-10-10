@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cave_area",
+        "stub": "cave_wave",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v6",
+        "name": "Cave Wave",
+        "types": [
+            "boulder"
+        ]
+    }
+}

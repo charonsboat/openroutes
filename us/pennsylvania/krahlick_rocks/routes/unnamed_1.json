@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "krahlick_rocks",
+        "stub": "unnamed_1",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Unnamed 1",
+        "types": [
+            "unknown"
+        ]
+    }
+}

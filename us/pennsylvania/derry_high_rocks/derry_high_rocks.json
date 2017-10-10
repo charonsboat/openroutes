@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "derry_high_rocks",
+        "type": "region"
+    },
+    "info": {
+        "name": "Derry High Rocks"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "the_sixth_element",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "The Sixth Element",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_wall_of_immortals",
+        "stub": "early_bird_special",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.13",
+        "name": "Early Bird Special",
+        "types": [
+            "unknown"
+        ]
+    }
+}

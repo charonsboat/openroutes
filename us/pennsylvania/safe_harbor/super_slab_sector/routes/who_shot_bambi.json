@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "super_slab_sector",
+        "stub": "who_shot_bambi",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Who Shot Bambi",
+        "types": [
+            "sport"
+        ]
+    }
+}

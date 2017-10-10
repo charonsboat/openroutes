@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beginners_face",
+        "stub": "sink_or_swim_traverse",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Sink or Swim Traverse",
+        "types": [
+            "boulder"
+        ]
+    }
+}

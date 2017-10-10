@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_caves",
+        "stub": "pele",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v8",
+        "name": "Pele",
+        "types": [
+            "boulder"
+        ]
+    }
+}

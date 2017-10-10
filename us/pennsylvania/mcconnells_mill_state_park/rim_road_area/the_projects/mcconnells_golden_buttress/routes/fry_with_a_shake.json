@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mcconnells_golden_buttress",
+        "stub": "fry_with_a_shake",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Fry With a Shake",
+        "types": [
+            "unknown"
+        ]
+    }
+}

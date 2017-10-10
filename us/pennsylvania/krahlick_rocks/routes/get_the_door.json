@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "krahlick_rocks",
+        "stub": "get_the_door",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Get the Door",
+        "types": [
+            "unknown"
+        ]
+    }
+}

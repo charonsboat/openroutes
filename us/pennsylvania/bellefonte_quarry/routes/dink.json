@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bellefonte_quarry",
+        "stub": "dink",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Dink",
+        "types": [
+            "unknown"
+        ]
+    }
+}

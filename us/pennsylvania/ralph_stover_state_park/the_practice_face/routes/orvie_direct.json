@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_practice_face",
+        "stub": "orvie_direct",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Orvie Direct",
+        "types": [
+            "unknown"
+        ]
+    }
+}

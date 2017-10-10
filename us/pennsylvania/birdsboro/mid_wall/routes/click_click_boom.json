@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "mid_wall",
+        "stub": "click_click_boom",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Click, Click, Boom",
+        "types": [
+            "sport"
+        ]
+    }
+}

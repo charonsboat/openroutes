@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "the_projects",
+        "stub": "mcconnells_golden_buttress",
+        "type": "region"
+    },
+    "info": {
+        "name": "McConnells Golden Buttress"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "toprock",
+        "stub": "iron_lion",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v7",
+        "name": "Iron Lion",
+        "types": [
+            "boulder"
+        ]
+    }
+}

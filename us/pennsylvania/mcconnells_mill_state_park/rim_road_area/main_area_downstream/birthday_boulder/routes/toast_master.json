@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "birthday_boulder",
+        "stub": "toast_master",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "Toast Master",
+        "types": [
+            "boulder"
+        ]
+    }
+}

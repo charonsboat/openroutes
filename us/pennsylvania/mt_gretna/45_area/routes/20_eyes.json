@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "45_area",
+        "stub": "20_eyes",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "20 Eyes",
+        "types": [
+            "boulder"
+        ]
+    }
+}

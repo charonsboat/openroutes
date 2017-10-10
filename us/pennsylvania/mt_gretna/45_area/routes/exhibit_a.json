@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "45_area",
+        "stub": "exhibit_a",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v9",
+        "name": "Exhibit A",
+        "types": [
+            "boulder"
+        ]
+    }
+}

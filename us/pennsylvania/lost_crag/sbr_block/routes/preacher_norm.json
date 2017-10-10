@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sbr_block",
+        "stub": "preacher_norm",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Preacher Norm",
+        "types": [
+            "sport"
+        ]
+    }
+}

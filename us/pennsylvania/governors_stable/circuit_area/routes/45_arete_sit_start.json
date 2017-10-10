@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "circuit_area",
+        "stub": "45_arete_sit_start",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v9",
+        "name": "45 Arete - Sit Start",
+        "types": [
+            "boulder"
+        ]
+    }
+}

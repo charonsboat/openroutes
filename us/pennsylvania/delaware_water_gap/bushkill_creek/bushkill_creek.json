@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "delaware_water_gap",
+        "stub": "bushkill_creek",
+        "type": "region"
+    },
+    "info": {
+        "name": "Bushkill Creek"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sun_wall",
+        "stub": "slabtastic",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Slabtastic",
+        "types": [
+            "unknown"
+        ]
+    }
+}

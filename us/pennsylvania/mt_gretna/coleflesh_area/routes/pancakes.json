@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coleflesh_area",
+        "stub": "pancakes",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Pancakes",
+        "types": [
+            "boulder"
+        ]
+    }
+}

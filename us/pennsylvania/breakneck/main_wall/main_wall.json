@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "breakneck",
+        "stub": "main_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Main Wall"
+    }
+}

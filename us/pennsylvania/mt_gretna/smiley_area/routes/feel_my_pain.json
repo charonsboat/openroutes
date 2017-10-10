@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "smiley_area",
+        "stub": "feel_my_pain",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Feel My Pain",
+        "types": [
+            "boulder"
+        ]
+    }
+}

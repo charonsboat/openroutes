@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "white_rocks",
+        "stub": "hangulation",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8 x",
+        "name": "Hangulation",
+        "types": [
+            "unknown"
+        ]
+    }
+}

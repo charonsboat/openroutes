@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "teddy_bear",
+        "stub": "teddy_bear_crack",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Teddy Bear Crack",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "membrane",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12c",
+        "name": "Membrane",
+        "types": [
+            "sport"
+        ]
+    }
+}

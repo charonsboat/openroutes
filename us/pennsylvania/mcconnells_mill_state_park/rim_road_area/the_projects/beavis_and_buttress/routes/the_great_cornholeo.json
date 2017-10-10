@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beavis_and_buttress",
+        "stub": "the_great_cornholeo",
+        "type": "route"
+    },
+    "info": {
+        "grade": "project",
+        "name": "The Great Cornholeo",
+        "types": [
+            "unknown"
+        ]
+    }
+}

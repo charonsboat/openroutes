@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "caves_trail",
+        "stub": "y2j",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v7",
+        "name": "Y2J",
+        "types": [
+            "boulder"
+        ]
+    }
+}

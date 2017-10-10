@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "breadloaf_area",
+        "stub": "yeast",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "Yeast",
+        "types": [
+            "boulder"
+        ]
+    }
+}

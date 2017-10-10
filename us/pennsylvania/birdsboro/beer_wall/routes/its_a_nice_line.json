@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beer_wall",
+        "stub": "its_a_nice_line",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "It's a Nice Line",
+        "types": [
+            "sport"
+        ]
+    }
+}

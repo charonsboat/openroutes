@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dish_area",
+        "stub": "no_bedlum",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v9",
+        "name": "No bedlum",
+        "types": [
+            "boulder"
+        ]
+    }
+}

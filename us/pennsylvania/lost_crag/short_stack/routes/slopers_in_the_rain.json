@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "short_stack",
+        "stub": "slopers_in_the_rain",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Slopers in the Rain",
+        "types": [
+            "unknown"
+        ]
+    }
+}

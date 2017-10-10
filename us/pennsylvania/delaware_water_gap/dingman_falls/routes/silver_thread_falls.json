@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dingman_falls",
+        "stub": "silver_thread_falls",
+        "type": "route"
+    },
+    "info": {
+        "grade": "wi2",
+        "name": "Silver Thread Falls",
+        "types": [
+            "ice"
+        ]
+    }
+}

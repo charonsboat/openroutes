@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tango_wall",
+        "stub": "tango",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8 pg",
+        "name": "Tango",
+        "types": [
+            "unknown"
+        ]
+    }
+}

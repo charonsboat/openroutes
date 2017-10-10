@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "mocanaqua",
+        "stub": "paradise",
+        "type": "region"
+    },
+    "info": {
+        "name": "Paradise"
+    }
+}

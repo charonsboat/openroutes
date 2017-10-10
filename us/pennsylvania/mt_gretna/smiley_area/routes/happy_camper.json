@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "smiley_area",
+        "stub": "happy_camper",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v6",
+        "name": "Happy Camper",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "paradise",
+        "stub": "i_beam",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "I Beam",
+        "types": [
+            "top rope"
+        ]
+    }
+}

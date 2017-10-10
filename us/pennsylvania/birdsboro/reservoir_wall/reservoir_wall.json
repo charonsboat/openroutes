@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "birdsboro",
+        "stub": "reservoir_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Reservoir Wall"
+    }
+}

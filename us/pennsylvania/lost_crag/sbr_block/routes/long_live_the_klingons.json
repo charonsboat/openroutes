@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sbr_block",
+        "stub": "long_live_the_klingons",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Long Live the Klingons",
+        "types": [
+            "sport"
+        ]
+    }
+}

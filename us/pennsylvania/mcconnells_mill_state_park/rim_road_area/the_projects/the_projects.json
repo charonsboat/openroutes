@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "rim_road_area",
+        "stub": "the_projects",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Projects"
+    }
+}

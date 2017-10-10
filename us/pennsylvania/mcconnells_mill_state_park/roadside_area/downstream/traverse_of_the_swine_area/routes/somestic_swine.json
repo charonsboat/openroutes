@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "traverse_of_the_swine_area",
+        "stub": "somestic_swine",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0+",
+        "name": "Somestic Swine",
+        "types": [
+            "boulder"
+        ]
+    }
+}

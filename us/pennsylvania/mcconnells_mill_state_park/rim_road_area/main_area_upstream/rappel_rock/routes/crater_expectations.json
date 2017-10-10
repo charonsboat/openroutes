@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "rappel_rock",
+        "stub": "crater_expectations",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Crater Expectations",
+        "types": [
+            "unknown"
+        ]
+    }
+}

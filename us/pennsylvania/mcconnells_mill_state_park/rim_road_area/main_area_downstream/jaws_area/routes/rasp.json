@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "jaws_area",
+        "stub": "rasp",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Rasp",
+        "types": [
+            "boulder"
+        ]
+    }
+}

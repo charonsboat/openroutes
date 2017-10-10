@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ships_prow",
+        "stub": "mini_ovest",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.11d r",
+        "name": "Mini Ovest",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sbr_block",
+        "stub": "tip_tap_var",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Tip & Tap Var.",
+        "types": [
+            "unknown"
+        ]
+    }
+}

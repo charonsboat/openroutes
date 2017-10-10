@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "american_spurtsman",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "American Spurtsman",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "main_area_downstream",
+        "stub": "jaws_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Jaws Area"
+    }
+}

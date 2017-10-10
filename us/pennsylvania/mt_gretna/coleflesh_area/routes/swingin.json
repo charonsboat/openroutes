@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coleflesh_area",
+        "stub": "swingin",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Swingin",
+        "types": [
+            "boulder"
+        ]
+    }
+}

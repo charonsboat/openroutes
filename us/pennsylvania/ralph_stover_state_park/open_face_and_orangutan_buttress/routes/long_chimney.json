@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "open_face_and_orangutan_buttress",
+        "stub": "long_chimney",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.3",
+        "name": "Long Chimney",
+        "types": [
+            "unknown"
+        ]
+    }
+}

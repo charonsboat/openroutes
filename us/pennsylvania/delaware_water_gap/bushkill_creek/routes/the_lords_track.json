@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bushkill_creek",
+        "stub": "the_lords_track",
+        "type": "route"
+    },
+    "info": {
+        "grade": "wi5",
+        "name": "The Lord's Track",
+        "types": [
+            "ice"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "super_slab_sector",
+        "stub": "pro_bono",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Pro Bono",
+        "types": [
+            "sport"
+        ]
+    }
+}

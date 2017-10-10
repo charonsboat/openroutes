@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sun_wall",
+        "stub": "virgin_fear_crossing",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Virgin/Fear Crossing",
+        "types": [
+            "unknown"
+        ]
+    }
+}

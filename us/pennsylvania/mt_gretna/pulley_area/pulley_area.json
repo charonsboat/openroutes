@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "mt_gretna",
+        "stub": "pulley_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Pulley Area"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "ralph_stover_state_park",
+        "stub": "the_neolithic_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Neolithic Wall"
+    }
+}

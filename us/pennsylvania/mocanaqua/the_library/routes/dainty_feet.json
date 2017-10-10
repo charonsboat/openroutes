@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_library",
+        "stub": "dainty_feet",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Dainty Feet",
+        "types": [
+            "unknown"
+        ]
+    }
+}

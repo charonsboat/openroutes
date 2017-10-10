@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "governors_stable",
+        "type": "region"
+    },
+    "info": {
+        "name": "Governor's Stable"
+    }
+}

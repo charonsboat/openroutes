@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bellefonte_quarry",
+        "stub": "white_line_fever",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "White Line Fever",
+        "types": [
+            "unknown"
+        ]
+    }
+}

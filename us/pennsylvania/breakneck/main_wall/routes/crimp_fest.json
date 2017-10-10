@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "crimp_fest",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "crimp fest",
+        "types": [
+            "sport"
+        ]
+    }
+}

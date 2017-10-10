@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dish_area",
+        "stub": "cs_problem",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "C's Problem",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coleflesh_area",
+        "stub": "homefries",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Homefries",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beer_wall",
+        "stub": "im_lichen_it",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "I'm Lichen It",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "traverse_of_the_swine_area",
+        "stub": "this_little_piggy",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "This Little Piggy",
+        "types": [
+            "boulder"
+        ]
+    }
+}

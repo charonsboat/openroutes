@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "shamoo_area",
+        "stub": "help_meat",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Help Meat",
+        "types": [
+            "boulder"
+        ]
+    }
+}

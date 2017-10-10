@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cave_area",
+        "stub": "mushroom_crack",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Mushroom Crack",
+        "types": [
+            "boulder"
+        ]
+    }
+}

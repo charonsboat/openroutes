@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "bulge_block",
+        "stub": "puckered_green",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Puckered Green",
+        "types": [
+            "unknown"
+        ]
+    }
+}

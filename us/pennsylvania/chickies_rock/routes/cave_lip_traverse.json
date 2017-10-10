@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chickies_rock",
+        "stub": "cave_lip_traverse",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Cave Lip Traverse",
+        "types": [
+            "unknown"
+        ]
+    }
+}

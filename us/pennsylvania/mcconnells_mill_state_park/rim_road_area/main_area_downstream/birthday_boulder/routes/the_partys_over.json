@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "birthday_boulder",
+        "stub": "the_partys_over",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "The Party's Over",
+        "types": [
+            "boulder"
+        ]
+    }
+}

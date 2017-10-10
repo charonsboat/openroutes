@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "haycock_mountain",
+        "stub": "teddy_bear",
+        "type": "region"
+    },
+    "info": {
+        "name": "Teddy Bear"
+    }
+}

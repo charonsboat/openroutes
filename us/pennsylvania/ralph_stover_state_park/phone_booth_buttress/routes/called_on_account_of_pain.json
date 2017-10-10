@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "phone_booth_buttress",
+        "stub": "called_on_account_of_pain",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Called on Account of Pain",
+        "types": [
+            "unknown"
+        ]
+    }
+}

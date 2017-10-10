@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beer_wall",
+        "stub": "blind_faith",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Blind Faith",
+        "types": [
+            "sport"
+        ]
+    }
+}

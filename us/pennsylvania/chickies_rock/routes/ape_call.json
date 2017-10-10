@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chickies_rock",
+        "stub": "ape_call",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Ape Call",
+        "types": [
+            "unknown"
+        ]
+    }
+}

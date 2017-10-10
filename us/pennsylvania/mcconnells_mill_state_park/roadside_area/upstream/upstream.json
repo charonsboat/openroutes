@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "roadside_area",
+        "stub": "upstream",
+        "type": "region"
+    },
+    "info": {
+        "name": "Upstream"
+    }
+}

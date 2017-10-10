@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "sex_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Sex wall"
+    }
+}

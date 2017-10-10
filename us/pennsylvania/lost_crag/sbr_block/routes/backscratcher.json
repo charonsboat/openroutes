@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sbr_block",
+        "stub": "backscratcher",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Backscratcher",
+        "types": [
+            "unknown"
+        ]
+    }
+}

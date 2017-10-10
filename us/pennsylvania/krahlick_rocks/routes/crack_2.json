@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "krahlick_rocks",
+        "stub": "crack_2",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Crack 2",
+        "types": [
+            "unknown"
+        ]
+    }
+}

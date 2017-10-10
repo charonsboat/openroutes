@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "white_rocks",
+        "stub": "corner_route",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.3 g",
+        "name": "Corner Route",
+        "types": [
+            "unknown"
+        ]
+    }
+}

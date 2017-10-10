@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_corridors",
+        "stub": "the_thinker",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.11c",
+        "name": "The Thinker",
+        "types": [
+            "unknown"
+        ]
+    }
+}

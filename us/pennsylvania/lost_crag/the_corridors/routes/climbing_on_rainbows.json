@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_corridors",
+        "stub": "climbing_on_rainbows",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Climbing on Rainbows",
+        "types": [
+            "unknown"
+        ]
+    }
+}

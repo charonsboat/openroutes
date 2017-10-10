@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cave_area",
+        "stub": "herr_left",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "Herr Left",
+        "types": [
+            "boulder"
+        ]
+    }
+}

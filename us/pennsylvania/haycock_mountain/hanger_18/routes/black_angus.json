@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hanger_18",
+        "stub": "black_angus",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v8",
+        "name": "Black Angus",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cave_area",
+        "stub": "mobys_mantle",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Moby's Mantle",
+        "types": [
+            "boulder"
+        ]
+    }
+}

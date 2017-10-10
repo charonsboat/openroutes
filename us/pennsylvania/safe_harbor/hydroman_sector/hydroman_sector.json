@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "safe_harbor",
+        "stub": "hydroman_sector",
+        "type": "region"
+    },
+    "info": {
+        "name": "Hydroman Sector"
+    }
+}

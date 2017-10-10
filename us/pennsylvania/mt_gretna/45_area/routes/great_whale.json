@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "45_area",
+        "stub": "great_whale",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v6",
+        "name": "Great Whale",
+        "types": [
+            "boulder"
+        ]
+    }
+}

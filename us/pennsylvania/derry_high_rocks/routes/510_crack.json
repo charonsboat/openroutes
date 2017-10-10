@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "derry_high_rocks",
+        "stub": "510_crack",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "5.10 Crack",
+        "types": [
+            "unknown"
+        ]
+    }
+}

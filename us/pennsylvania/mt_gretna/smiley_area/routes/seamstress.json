@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "smiley_area",
+        "stub": "seamstress",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Seamstress",
+        "types": [
+            "boulder"
+        ]
+    }
+}

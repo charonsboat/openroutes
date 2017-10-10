@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "smiley_area",
+        "stub": "left_bookend",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Left Bookend",
+        "types": [
+            "boulder"
+        ]
+    }
+}

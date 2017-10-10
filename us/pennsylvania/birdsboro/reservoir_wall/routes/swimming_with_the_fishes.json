@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reservoir_wall",
+        "stub": "swimming_with_the_fishes",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Swimming with the Fishes",
+        "types": [
+            "unknown"
+        ]
+    }
+}

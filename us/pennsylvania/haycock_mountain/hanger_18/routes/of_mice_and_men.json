@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hanger_18",
+        "stub": "of_mice_and_men",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v7",
+        "name": "Of Mice and Men",
+        "types": [
+            "boulder"
+        ]
+    }
+}

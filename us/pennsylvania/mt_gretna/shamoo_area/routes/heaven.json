@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "shamoo_area",
+        "stub": "heaven",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v8",
+        "name": "Heaven",
+        "types": [
+            "boulder"
+        ]
+    }
+}

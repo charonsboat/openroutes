@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dish_area",
+        "stub": "casablanca",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Casablanca",
+        "types": [
+            "boulder"
+        ]
+    }
+}

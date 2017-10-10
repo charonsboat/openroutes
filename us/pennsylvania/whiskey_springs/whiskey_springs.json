@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "whiskey_springs",
+        "type": "region"
+    },
+    "info": {
+        "name": "Whiskey Springs"
+    }
+}

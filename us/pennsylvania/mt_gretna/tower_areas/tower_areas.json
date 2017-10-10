@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "mt_gretna",
+        "stub": "tower_areas",
+        "type": "region"
+    },
+    "info": {
+        "name": "Tower Areas"
+    }
+}

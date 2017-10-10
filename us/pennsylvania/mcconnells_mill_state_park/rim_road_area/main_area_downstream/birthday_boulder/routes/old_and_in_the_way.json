@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "birthday_boulder",
+        "stub": "old_and_in_the_way",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Old and in the Way",
+        "types": [
+            "boulder"
+        ]
+    }
+}

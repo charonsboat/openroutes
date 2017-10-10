@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hydroman_sector",
+        "stub": "there_goes_the_hood",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "There goes the Hood",
+        "types": [
+            "sport"
+        ]
+    }
+}

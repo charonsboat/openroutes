@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "traverse_of_the_swine_area",
+        "stub": "welcome_to_the_swill",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Welcome to the Swill",
+        "types": [
+            "boulder"
+        ]
+    }
+}

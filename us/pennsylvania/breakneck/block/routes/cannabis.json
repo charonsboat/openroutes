@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "block",
+        "stub": "cannabis",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Cannabis",
+        "types": [
+            "sport"
+        ]
+    }
+}

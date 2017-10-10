@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sun_wall",
+        "stub": "bulge_aria",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Bulge Aria",
+        "types": [
+            "unknown"
+        ]
+    }
+}

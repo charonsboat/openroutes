@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "orange_sunshine_wall",
+        "stub": "bottom_feeder",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Bottom Feeder",
+        "types": [
+            "sport"
+        ]
+    }
+}

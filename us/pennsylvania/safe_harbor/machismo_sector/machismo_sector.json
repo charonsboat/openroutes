@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "safe_harbor",
+        "stub": "machismo_sector",
+        "type": "region"
+    },
+    "info": {
+        "name": "Machismo Sector"
+    }
+}

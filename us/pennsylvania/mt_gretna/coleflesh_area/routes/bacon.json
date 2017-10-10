@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coleflesh_area",
+        "stub": "bacon",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Bacon",
+        "types": [
+            "boulder"
+        ]
+    }
+}

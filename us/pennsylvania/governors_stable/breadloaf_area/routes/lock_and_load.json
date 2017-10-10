@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "breadloaf_area",
+        "stub": "lock_and_load",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v10",
+        "name": "Lock and Load",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tarzan_son_of_foops_area",
+        "stub": "short_but_stiff",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0 to v3",
+        "name": "Short but Stiff",
+        "types": [
+            "boulder"
+        ]
+    }
+}

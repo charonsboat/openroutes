@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hanger_18",
+        "stub": "bubble_jugs",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0+",
+        "name": "Bubble Jugs",
+        "types": [
+            "boulder"
+        ]
+    }
+}

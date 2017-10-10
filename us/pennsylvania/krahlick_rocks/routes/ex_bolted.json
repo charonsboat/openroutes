@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "krahlick_rocks",
+        "stub": "ex_bolted",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Ex Bolted",
+        "types": [
+            "unknown"
+        ]
+    }
+}

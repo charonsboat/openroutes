@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "neophytes_wall",
+        "stub": "connors_climb",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.2",
+        "name": "Connor's Climb",
+        "types": [
+            "sport"
+        ]
+    }
+}

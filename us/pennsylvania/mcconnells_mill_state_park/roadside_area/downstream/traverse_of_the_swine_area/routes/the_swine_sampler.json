@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "traverse_of_the_swine_area",
+        "stub": "the_swine_sampler",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "The Swine Sampler",
+        "types": [
+            "boulder"
+        ]
+    }
+}

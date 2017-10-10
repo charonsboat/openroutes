@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "paradise",
+        "stub": "hickory",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Hickory",
+        "types": [
+            "unknown"
+        ]
+    }
+}

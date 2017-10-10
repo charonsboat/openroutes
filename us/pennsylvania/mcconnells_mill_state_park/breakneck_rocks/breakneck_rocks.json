@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "mcconnells_mill_state_park",
+        "stub": "breakneck_rocks",
+        "type": "region"
+    },
+    "info": {
+        "name": "Breakneck Rocks"
+    }
+}

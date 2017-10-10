@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ross_boulder",
+        "stub": "long_traverse",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Long Traverse",
+        "types": [
+            "boulder"
+        ]
+    }
+}

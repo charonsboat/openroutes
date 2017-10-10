@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tarzan_son_of_foops_area",
+        "stub": "primo_teen_miss",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Primo Teen Miss",
+        "types": [
+            "boulder"
+        ]
+    }
+}

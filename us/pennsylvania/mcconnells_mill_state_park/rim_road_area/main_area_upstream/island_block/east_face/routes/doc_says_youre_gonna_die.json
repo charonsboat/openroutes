@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "doc_says_youre_gonna_die",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0+",
+        "name": "Doc Says You're Gonna Die",
+        "types": [
+            "boulder"
+        ]
+    }
+}

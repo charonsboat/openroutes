@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "main_area_upstream",
+        "stub": "island_block",
+        "type": "region"
+    },
+    "info": {
+        "name": "Island Block"
+    }
+}

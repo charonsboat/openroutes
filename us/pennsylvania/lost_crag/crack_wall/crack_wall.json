@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "lost_crag",
+        "stub": "crack_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Crack Wall"
+    }
+}

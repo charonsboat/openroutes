@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "shaffer_rock",
+        "type": "region"
+    },
+    "info": {
+        "name": "Shaffer Rock"
+    }
+}

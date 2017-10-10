@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "lost_crag",
+        "stub": "cave_world",
+        "type": "region"
+    },
+    "info": {
+        "name": "Cave World"
+    }
+}

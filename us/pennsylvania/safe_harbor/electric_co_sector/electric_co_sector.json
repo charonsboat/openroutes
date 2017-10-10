@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "safe_harbor",
+        "stub": "electric_co_sector",
+        "type": "region"
+    },
+    "info": {
+        "name": "Electric Co. Sector"
+    }
+}

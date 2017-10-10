@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "millstoned_wall",
+        "stub": "nose_to_the_grindstone",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Nose to the Grindstone",
+        "types": [
+            "unknown"
+        ]
+    }
+}

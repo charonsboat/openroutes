@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "short_stack",
+        "stub": "evil_edge",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Evil Edge",
+        "types": [
+            "sport"
+        ]
+    }
+}

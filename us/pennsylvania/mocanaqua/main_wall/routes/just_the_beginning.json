@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "just_the_beginning",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Just the Beginning",
+        "types": [
+            "unknown"
+        ]
+    }
+}

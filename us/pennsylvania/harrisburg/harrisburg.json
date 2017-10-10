@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "harrisburg",
+        "type": "region"
+    },
+    "info": {
+        "name": "Harrisburg"
+    }
+}

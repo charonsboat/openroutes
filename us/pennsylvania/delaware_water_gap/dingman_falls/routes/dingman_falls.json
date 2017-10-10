@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dingman_falls",
+        "stub": "dingman_falls",
+        "type": "route"
+    },
+    "info": {
+        "grade": "wi3",
+        "name": "Dingman Falls",
+        "types": [
+            "ice"
+        ]
+    }
+}

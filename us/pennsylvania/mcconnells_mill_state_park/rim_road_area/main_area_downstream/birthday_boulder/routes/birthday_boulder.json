@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "birthday_boulder",
+        "stub": "birthday_boulder",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "Birthday Boulder",
+        "types": [
+            "boulder"
+        ]
+    }
+}

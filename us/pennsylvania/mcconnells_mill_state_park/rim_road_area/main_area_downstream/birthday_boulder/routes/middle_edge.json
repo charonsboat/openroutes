@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "birthday_boulder",
+        "stub": "middle_edge",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Middle Edge",
+        "types": [
+            "boulder"
+        ]
+    }
+}

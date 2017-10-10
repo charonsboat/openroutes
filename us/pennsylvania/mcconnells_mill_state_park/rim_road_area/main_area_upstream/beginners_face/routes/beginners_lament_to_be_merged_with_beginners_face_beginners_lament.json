@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beginners_face",
+        "stub": "beginners_lament_to_be_merged_with_beginners_face_beginners_lament",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Beginners Lament - to be merged with Beginners Face / Beginners Lament",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sun_wall",
+        "stub": "like_a_slabby_virgin",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Like a Slabby Virgin",
+        "types": [
+            "unknown"
+        ]
+    }
+}

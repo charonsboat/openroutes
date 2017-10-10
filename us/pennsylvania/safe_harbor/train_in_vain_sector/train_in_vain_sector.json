@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "safe_harbor",
+        "stub": "train_in_vain_sector",
+        "type": "region"
+    },
+    "info": {
+        "name": "Train in Vain Sector"
+    }
+}

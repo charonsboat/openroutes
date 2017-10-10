@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunshine_wall",
+        "stub": "green_microdots",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Green Microdots",
+        "types": [
+            "unknown"
+        ]
+    }
+}

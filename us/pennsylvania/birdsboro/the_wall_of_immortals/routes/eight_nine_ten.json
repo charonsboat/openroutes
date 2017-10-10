@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_wall_of_immortals",
+        "stub": "eight_nine_ten",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Eight, Nine, Ten",
+        "types": [
+            "unknown"
+        ]
+    }
+}

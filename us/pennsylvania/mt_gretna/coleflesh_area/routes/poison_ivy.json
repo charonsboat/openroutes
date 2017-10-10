@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coleflesh_area",
+        "stub": "poison_ivy",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Poison Ivy",
+        "types": [
+            "boulder"
+        ]
+    }
+}

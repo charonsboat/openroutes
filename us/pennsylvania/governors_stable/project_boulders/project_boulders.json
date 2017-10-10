@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "governors_stable",
+        "stub": "project_boulders",
+        "type": "region"
+    },
+    "info": {
+        "name": "Project Boulders"
+    }
+}

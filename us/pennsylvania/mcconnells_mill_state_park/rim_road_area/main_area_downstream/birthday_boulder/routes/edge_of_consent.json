@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "birthday_boulder",
+        "stub": "edge_of_consent",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Edge of Consent",
+        "types": [
+            "boulder"
+        ]
+    }
+}

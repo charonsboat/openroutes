@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hawks_nest",
+        "stub": "welcome_to_stover",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Welcome to Stover",
+        "types": [
+            "unknown"
+        ]
+    }
+}

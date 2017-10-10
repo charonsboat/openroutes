@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_wall_of_immortals",
+        "stub": "blankety_blank",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Blankety Blank",
+        "types": [
+            "unknown"
+        ]
+    }
+}

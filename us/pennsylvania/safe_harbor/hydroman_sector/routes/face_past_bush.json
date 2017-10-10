@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hydroman_sector",
+        "stub": "face_past_bush",
+        "type": "route"
+    },
+    "info": {
+        "grade": "",
+        "name": "face past bush",
+        "types": [
+            "sport"
+        ]
+    }
+}

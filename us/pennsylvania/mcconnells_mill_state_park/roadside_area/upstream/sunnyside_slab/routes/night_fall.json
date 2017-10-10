@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunnyside_slab",
+        "stub": "night_fall",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0+ r",
+        "name": "Night Fall",
+        "types": [
+            "boulder"
+        ]
+    }
+}

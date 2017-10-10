@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "birdsboro",
+        "stub": "orange_sunshine_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Orange Sunshine Wall"
+    }
+}

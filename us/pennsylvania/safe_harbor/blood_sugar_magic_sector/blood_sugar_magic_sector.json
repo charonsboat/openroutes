@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "safe_harbor",
+        "stub": "blood_sugar_magic_sector",
+        "type": "region"
+    },
+    "info": {
+        "name": "Blood Sugar Magic Sector"
+    }
+}

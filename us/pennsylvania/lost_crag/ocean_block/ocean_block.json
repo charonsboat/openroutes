@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "lost_crag",
+        "stub": "ocean_block",
+        "type": "region"
+    },
+    "info": {
+        "name": "Ocean Block"
+    }
+}

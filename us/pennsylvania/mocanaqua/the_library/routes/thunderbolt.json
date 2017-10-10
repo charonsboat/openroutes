@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_library",
+        "stub": "thunderbolt",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Thunderbolt",
+        "types": [
+            "sport"
+        ]
+    }
+}

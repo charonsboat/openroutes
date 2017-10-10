@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "wonder_world",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Wonder World",
+        "types": [
+            "boulder"
+        ]
+    }
+}

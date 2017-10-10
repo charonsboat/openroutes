@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sun_wall",
+        "stub": "there_will_be_blood",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "There Will Be Blood",
+        "types": [
+            "unknown"
+        ]
+    }
+}

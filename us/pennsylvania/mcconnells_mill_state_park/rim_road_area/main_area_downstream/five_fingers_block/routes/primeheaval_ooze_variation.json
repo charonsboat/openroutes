@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "five_fingers_block",
+        "stub": "primeheaval_ooze_variation",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Primeheaval Ooze Variation",
+        "types": [
+            "unknown"
+        ]
+    }
+}

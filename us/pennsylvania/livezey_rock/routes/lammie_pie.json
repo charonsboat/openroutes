@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "livezey_rock",
+        "stub": "lammie_pie",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Lammie Pie",
+        "types": [
+            "unknown"
+        ]
+    }
+}

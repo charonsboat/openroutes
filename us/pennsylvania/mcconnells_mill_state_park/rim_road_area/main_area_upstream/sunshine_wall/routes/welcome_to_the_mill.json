@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sunshine_wall",
+        "stub": "welcome_to_the_mill",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12b",
+        "name": "Welcome to The Mill",
+        "types": [
+            "unknown"
+        ]
+    }
+}

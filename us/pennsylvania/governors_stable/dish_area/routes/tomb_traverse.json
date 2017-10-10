@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dish_area",
+        "stub": "tomb_traverse",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Tomb Traverse",
+        "types": [
+            "boulder"
+        ]
+    }
+}

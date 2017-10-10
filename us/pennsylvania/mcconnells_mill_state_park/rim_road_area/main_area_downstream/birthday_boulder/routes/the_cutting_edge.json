@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "birthday_boulder",
+        "stub": "the_cutting_edge",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4 r",
+        "name": "The Cutting Edge",
+        "types": [
+            "boulder"
+        ]
+    }
+}

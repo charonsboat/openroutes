@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "eclipse",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Eclipse",
+        "types": [
+            "sport"
+        ]
+    }
+}

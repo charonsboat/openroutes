@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "downstream",
+        "stub": "traverse_of_the_swine_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Traverse of the Swine Area"
+    }
+}

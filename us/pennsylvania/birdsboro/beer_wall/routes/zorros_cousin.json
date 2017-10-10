@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beer_wall",
+        "stub": "zorros_cousin",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Zorro's Cousin",
+        "types": [
+            "sport"
+        ]
+    }
+}

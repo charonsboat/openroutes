@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "shamoo_area",
+        "stub": "the_box",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v8",
+        "name": "The Box",
+        "types": [
+            "boulder"
+        ]
+    }
+}

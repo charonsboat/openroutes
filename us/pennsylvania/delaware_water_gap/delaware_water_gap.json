@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "delaware_water_gap",
+        "type": "region"
+    },
+    "info": {
+        "name": "Delaware Water Gap"
+    }
+}

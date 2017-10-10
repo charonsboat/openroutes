@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "paradise",
+        "stub": "eye_brow",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Eye Brow",
+        "types": [
+            "unknown"
+        ]
+    }
+}

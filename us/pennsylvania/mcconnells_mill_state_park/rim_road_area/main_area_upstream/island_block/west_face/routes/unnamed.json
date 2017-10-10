@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "west_face",
+        "stub": "unnamed",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Unnamed",
+        "types": [
+            "unknown"
+        ]
+    }
+}

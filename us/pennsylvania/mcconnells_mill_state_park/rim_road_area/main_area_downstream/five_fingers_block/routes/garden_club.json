@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "five_fingers_block",
+        "stub": "garden_club",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Garden Club",
+        "types": [
+            "unknown"
+        ]
+    }
+}

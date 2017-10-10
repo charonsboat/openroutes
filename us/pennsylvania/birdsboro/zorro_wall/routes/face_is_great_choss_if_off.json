@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "zorro_wall",
+        "stub": "face_is_great_choss_if_off",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Face is Great - Choss if Off",
+        "types": [
+            "sport"
+        ]
+    }
+}

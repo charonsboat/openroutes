@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "open_face_and_orangutan_buttress",
+        "stub": "open_face",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Open Face",
+        "types": [
+            "unknown"
+        ]
+    }
+}

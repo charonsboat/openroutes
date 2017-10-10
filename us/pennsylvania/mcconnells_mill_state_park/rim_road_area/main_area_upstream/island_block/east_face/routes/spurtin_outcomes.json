@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "spurtin_outcomes",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Spurtin Outcomes",
+        "types": [
+            "boulder"
+        ]
+    }
+}

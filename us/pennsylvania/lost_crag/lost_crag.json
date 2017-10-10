@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "lost_crag",
+        "type": "region"
+    },
+    "info": {
+        "name": "Lost Crag"
+    }
+}

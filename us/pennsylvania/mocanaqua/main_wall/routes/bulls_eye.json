@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "bulls_eye",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Bull's Eye",
+        "types": [
+            "unknown"
+        ]
+    }
+}

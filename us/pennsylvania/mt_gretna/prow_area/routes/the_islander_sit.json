@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "prow_area",
+        "stub": "the_islander_sit",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v10",
+        "name": "The Islander sit",
+        "types": [
+            "boulder"
+        ]
+    }
+}

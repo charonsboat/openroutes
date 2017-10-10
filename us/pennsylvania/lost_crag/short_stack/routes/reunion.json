@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "short_stack",
+        "stub": "reunion",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Reunion",
+        "types": [
+            "unknown"
+        ]
+    }
+}

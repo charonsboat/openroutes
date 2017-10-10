@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "snip_block",
+        "stub": "snip_snip_snip",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.11b",
+        "name": "Snip, Snip, Snip",
+        "types": [
+            "unknown"
+        ]
+    }
+}

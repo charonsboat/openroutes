@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "phone_booth_buttress",
+        "stub": "called_on_account_of_pain_direct_start",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Called on Account of Pain Direct Start",
+        "types": [
+            "unknown"
+        ]
+    }
+}

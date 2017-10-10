@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "paradise",
+        "stub": "trio",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Trio",
+        "types": [
+            "unknown"
+        ]
+    }
+}

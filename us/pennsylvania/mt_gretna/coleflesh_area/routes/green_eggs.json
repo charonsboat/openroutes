@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coleflesh_area",
+        "stub": "green_eggs",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Green Eggs",
+        "types": [
+            "boulder"
+        ]
+    }
+}

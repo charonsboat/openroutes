@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "caves_trail",
+        "stub": "three_star",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Three Star",
+        "types": [
+            "boulder"
+        ]
+    }
+}

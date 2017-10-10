@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ross_boulder",
+        "stub": "rosss_boulder_sit_start",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Ross's Boulder Sit Start",
+        "types": [
+            "boulder"
+        ]
+    }
+}

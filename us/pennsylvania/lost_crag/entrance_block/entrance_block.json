@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "lost_crag",
+        "stub": "entrance_block",
+        "type": "region"
+    },
+    "info": {
+        "name": "Entrance Block"
+    }
+}

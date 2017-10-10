@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beautiful_loser",
+        "stub": "la_dolce_vita",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "La Dolce Vita",
+        "types": [
+            "unknown"
+        ]
+    }
+}

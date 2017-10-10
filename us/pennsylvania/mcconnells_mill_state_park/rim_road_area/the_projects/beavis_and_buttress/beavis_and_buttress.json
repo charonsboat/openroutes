@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "the_projects",
+        "stub": "beavis_and_buttress",
+        "type": "region"
+    },
+    "info": {
+        "name": "Beavis and Buttress"
+    }
+}

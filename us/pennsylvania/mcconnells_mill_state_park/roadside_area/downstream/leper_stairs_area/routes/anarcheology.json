@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "leper_stairs_area",
+        "stub": "anarcheology",
+        "type": "route"
+    },
+    "info": {
+        "grade": "project",
+        "name": "Anarcheology",
+        "types": [
+            "unknown"
+        ]
+    }
+}

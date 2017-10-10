@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hawks_nest",
+        "stub": "marty_broke_it",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v7",
+        "name": "Marty Broke It",
+        "types": [
+            "boulder"
+        ]
+    }
+}

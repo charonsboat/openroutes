@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reservoir_wall",
+        "stub": "ians_climb",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Ian's Climb",
+        "types": [
+            "sport"
+        ]
+    }
+}

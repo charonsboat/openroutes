@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "livezey_rock",
+        "stub": "the_backbreaker",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v5",
+        "name": "The Backbreaker",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "the_projects",
+        "stub": "the_eurochoss_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "The EuroChoss Wall"
+    }
+}

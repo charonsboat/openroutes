@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "governors_stable",
+        "stub": "circuit_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Circuit Area"
+    }
+}

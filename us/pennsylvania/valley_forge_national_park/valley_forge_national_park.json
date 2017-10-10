@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "valley_forge_national_park",
+        "type": "region"
+    },
+    "info": {
+        "name": "Valley Forge National Park"
+    }
+}

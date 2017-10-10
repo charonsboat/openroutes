@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "poles_steeple",
+        "stub": "crack_ii_lil_shockleys",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Crack II / Lil' Shockley's",
+        "types": [
+            "unknown"
+        ]
+    }
+}

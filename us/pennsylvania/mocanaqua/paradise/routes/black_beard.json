@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "paradise",
+        "stub": "black_beard",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8",
+        "name": "Black Beard",
+        "types": [
+            "unknown"
+        ]
+    }
+}

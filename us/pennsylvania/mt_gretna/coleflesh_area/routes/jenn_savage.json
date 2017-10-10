@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coleflesh_area",
+        "stub": "jenn_savage",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Jenn Savage",
+        "types": [
+            "boulder"
+        ]
+    }
+}

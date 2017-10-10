@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "five_fingers_block",
+        "stub": "five_fingers_face_hard_route",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.11",
+        "name": "Five Fingers Face, Hard Route",
+        "types": [
+            "unknown"
+        ]
+    }
+}

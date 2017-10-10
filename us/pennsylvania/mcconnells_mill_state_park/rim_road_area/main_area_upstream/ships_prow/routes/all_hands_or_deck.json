@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ships_prow",
+        "stub": "all_hands_or_deck",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "All Hands or Deck",
+        "types": [
+            "unknown"
+        ]
+    }
+}

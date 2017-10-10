@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hanger_18",
+        "stub": "sloper_arete",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Sloper Arete",
+        "types": [
+            "boulder"
+        ]
+    }
+}

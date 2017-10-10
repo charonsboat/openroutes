@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "circuit_area",
+        "stub": "45_sit",
+        "type": "route"
+    },
+    "info": {
+        "grade": "{uk} v9",
+        "name": "45 Sit",
+        "types": [
+            "boulder"
+        ]
+    }
+}

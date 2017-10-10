@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "big_wall",
+        "stub": "the_space_between",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "The Space Between",
+        "types": [
+            "sport"
+        ]
+    }
+}

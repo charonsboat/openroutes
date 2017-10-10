@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "45_area",
+        "stub": "ping",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Ping",
+        "types": [
+            "boulder"
+        ]
+    }
+}

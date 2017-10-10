@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "ralph_stover_state_park",
+        "stub": "tango_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Tango Wall"
+    }
+}

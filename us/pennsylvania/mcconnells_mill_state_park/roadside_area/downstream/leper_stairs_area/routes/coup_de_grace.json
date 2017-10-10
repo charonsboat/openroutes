@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "leper_stairs_area",
+        "stub": "coup_de_grace",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Coup de Grace",
+        "types": [
+            "unknown"
+        ]
+    }
+}

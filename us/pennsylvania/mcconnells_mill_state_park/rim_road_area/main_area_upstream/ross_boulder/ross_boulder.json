@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "main_area_upstream",
+        "stub": "ross_boulder",
+        "type": "region"
+    },
+    "info": {
+        "name": "Ross Boulder"
+    }
+}

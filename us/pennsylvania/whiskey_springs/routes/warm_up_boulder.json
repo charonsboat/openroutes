@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "whiskey_springs",
+        "stub": "warm_up_boulder",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "warm up boulder",
+        "types": [
+            "boulder"
+        ]
+    }
+}

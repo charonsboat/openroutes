@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "krahlick_rocks",
+        "stub": "the_kitchen_part_b",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "The Kitchen - Part B",
+        "types": [
+            "unknown"
+        ]
+    }
+}

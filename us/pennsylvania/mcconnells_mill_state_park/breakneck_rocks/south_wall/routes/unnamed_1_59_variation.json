@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "south_wall",
+        "stub": "unnamed_1_59_variation",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Unnamed 1, 5.9 Variation",
+        "types": [
+            "unknown"
+        ]
+    }
+}

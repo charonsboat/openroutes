@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "smiley_area",
+        "stub": "smiley_slab",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Smiley Slab",
+        "types": [
+            "boulder"
+        ]
+    }
+}

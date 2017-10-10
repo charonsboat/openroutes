@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "white_rocks",
+        "stub": "north_face_overhang",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8 r",
+        "name": "North Face Overhang",
+        "types": [
+            "unknown"
+        ]
+    }
+}

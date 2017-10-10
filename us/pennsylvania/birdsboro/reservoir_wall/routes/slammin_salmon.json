@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "reservoir_wall",
+        "stub": "slammin_salmon",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Slammin' Salmon",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "big_wall",
+        "stub": "groovin",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.11d",
+        "name": "Groovin'",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "monkey_girl",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Monkey Girl",
+        "types": [
+            "sport"
+        ]
+    }
+}

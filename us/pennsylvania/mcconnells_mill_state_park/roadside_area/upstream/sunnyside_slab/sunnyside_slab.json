@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "upstream",
+        "stub": "sunnyside_slab",
+        "type": "region"
+    },
+    "info": {
+        "name": "Sunnyside Slab"
+    }
+}

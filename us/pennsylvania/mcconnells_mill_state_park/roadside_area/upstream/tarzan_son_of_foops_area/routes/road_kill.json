@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tarzan_son_of_foops_area",
+        "stub": "road_kill",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Road Kill",
+        "types": [
+            "boulder"
+        ]
+    }
+}

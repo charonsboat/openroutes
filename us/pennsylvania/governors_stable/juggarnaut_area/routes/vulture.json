@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "juggarnaut_area",
+        "stub": "vulture",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v8",
+        "name": "Vulture",
+        "types": [
+            "boulder"
+        ]
+    }
+}

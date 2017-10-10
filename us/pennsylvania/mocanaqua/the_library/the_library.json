@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "mocanaqua",
+        "stub": "the_library",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Library"
+    }
+}

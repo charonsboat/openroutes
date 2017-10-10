@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "birdsboro",
+        "stub": "the_wall_of_immortals",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Wall of Immortals"
+    }
+}

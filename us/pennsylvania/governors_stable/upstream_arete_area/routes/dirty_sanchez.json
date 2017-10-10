@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream_arete_area",
+        "stub": "dirty_sanchez",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "Dirty Sanchez",
+        "types": [
+            "boulder"
+        ]
+    }
+}

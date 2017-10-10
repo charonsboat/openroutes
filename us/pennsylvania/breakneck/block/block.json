@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "breakneck",
+        "stub": "block",
+        "type": "region"
+    },
+    "info": {
+        "name": "Block"
+    }
+}

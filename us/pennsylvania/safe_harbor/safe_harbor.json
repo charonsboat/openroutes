@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "safe_harbor",
+        "type": "region"
+    },
+    "info": {
+        "name": "Safe Harbor"
+    }
+}

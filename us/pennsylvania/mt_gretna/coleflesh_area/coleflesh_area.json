@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "mt_gretna",
+        "stub": "coleflesh_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Coleflesh Area"
+    }
+}

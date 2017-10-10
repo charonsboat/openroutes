@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "millstoned_wall",
+        "stub": "the_daily_grind",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "The Daily Grind",
+        "types": [
+            "unknown"
+        ]
+    }
+}

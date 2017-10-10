@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "split_boulders",
+        "stub": "split_arete",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Split Arete",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "mt_gretna",
+        "stub": "shamoo_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Shamoo Area"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "downstream",
+        "stub": "leper_stairs_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Leper/Stairs Area"
+    }
+}

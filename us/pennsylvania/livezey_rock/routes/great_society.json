@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "livezey_rock",
+        "stub": "great_society",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Great Society",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beer_wall",
+        "stub": "vienna_lager",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Vienna Lager",
+        "types": [
+            "sport"
+        ]
+    }
+}

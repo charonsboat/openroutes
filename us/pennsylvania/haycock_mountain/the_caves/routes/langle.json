@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_caves",
+        "stub": "langle",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v2",
+        "name": "L'Angle",
+        "types": [
+            "boulder"
+        ]
+    }
+}

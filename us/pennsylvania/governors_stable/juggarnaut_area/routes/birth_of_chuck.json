@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "juggarnaut_area",
+        "stub": "birth_of_chuck",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Birth of Chuck",
+        "types": [
+            "boulder"
+        ]
+    }
+}

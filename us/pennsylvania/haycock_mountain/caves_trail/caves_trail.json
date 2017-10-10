@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "haycock_mountain",
+        "stub": "caves_trail",
+        "type": "region"
+    },
+    "info": {
+        "name": "Caves trail"
+    }
+}

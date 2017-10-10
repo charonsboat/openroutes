@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "upstream_arete_area",
+        "stub": "glass_menagerie",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Glass Menagerie",
+        "types": [
+            "boulder"
+        ]
+    }
+}

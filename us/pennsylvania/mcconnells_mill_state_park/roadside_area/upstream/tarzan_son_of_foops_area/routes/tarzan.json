@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tarzan_son_of_foops_area",
+        "stub": "tarzan",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Tarzan",
+        "types": [
+            "unknown"
+        ]
+    }
+}

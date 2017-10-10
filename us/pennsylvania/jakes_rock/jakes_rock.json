@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "jakes_rock",
+        "type": "region"
+    },
+    "info": {
+        "name": "Jake's Rock"
+    }
+}

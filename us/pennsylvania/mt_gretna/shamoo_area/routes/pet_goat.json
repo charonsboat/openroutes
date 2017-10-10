@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "shamoo_area",
+        "stub": "pet_goat",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Pet Goat",
+        "types": [
+            "boulder"
+        ]
+    }
+}

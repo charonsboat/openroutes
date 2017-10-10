@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "main_area_upstream",
+        "stub": "rappel_rock",
+        "type": "region"
+    },
+    "info": {
+        "name": "Rappel Rock"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "iodine",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.11",
+        "name": "Iodine",
+        "types": [
+            "unknown"
+        ]
+    }
+}

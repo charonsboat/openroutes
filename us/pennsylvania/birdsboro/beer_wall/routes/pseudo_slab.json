@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beer_wall",
+        "stub": "pseudo_slab",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Pseudo Slab",
+        "types": [
+            "sport"
+        ]
+    }
+}

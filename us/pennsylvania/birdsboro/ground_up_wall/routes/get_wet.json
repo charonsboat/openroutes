@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ground_up_wall",
+        "stub": "get_wet",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Get Wet",
+        "types": [
+            "sport"
+        ]
+    }
+}

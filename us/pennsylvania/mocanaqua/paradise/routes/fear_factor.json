@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "paradise",
+        "stub": "fear_factor",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Fear Factor",
+        "types": [
+            "unknown"
+        ]
+    }
+}

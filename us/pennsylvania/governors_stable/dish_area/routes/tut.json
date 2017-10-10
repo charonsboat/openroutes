@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "dish_area",
+        "stub": "tut",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Tut",
+        "types": [
+            "boulder"
+        ]
+    }
+}

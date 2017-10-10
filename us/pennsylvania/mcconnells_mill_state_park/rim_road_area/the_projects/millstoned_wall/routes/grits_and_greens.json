@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "millstoned_wall",
+        "stub": "grits_and_greens",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Grits and Greens",
+        "types": [
+            "unknown"
+        ]
+    }
+}

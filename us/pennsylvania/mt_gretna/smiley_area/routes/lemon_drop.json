@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "smiley_area",
+        "stub": "lemon_drop",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Lemon Drop",
+        "types": [
+            "boulder"
+        ]
+    }
+}

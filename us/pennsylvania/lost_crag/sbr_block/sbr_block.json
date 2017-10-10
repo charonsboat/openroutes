@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "lost_crag",
+        "stub": "sbr_block",
+        "type": "region"
+    },
+    "info": {
+        "name": "S.B.R. Block"
+    }
+}

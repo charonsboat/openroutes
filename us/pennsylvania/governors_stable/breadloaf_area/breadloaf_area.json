@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "governors_stable",
+        "stub": "breadloaf_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Breadloaf Area"
+    }
+}

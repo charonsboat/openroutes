@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "neophytes_wall",
+        "stub": "triple_s",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Triple S",
+        "types": [
+            "sport"
+        ]
+    }
+}

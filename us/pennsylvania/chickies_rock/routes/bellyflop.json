@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chickies_rock",
+        "stub": "bellyflop",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "Bellyflop",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "smiley_area",
+        "stub": "multiple_personalities",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v6",
+        "name": "Multiple Personalities",
+        "types": [
+            "boulder"
+        ]
+    }
+}

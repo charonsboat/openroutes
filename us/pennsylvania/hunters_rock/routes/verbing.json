@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hunters_rock",
+        "stub": "verbing",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Verbing",
+        "types": [
+            "boulder"
+        ]
+    }
+}

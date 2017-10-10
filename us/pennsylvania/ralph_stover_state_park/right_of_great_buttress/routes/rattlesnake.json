@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "right_of_great_buttress",
+        "stub": "rattlesnake",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Rattlesnake",
+        "types": [
+            "unknown"
+        ]
+    }
+}

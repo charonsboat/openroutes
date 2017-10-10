@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "45_area",
+        "stub": "teen_spirit",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Teen Spirit",
+        "types": [
+            "boulder"
+        ]
+    }
+}

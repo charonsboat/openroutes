@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "45_area",
+        "stub": "pong",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Pong",
+        "types": [
+            "boulder"
+        ]
+    }
+}

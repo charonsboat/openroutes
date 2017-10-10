@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "super_slab_sector",
+        "stub": "super_slab",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Super Slab",
+        "types": [
+            "sport"
+        ]
+    }
+}

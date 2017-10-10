@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sun_wall",
+        "stub": "ghetto_palm",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Ghetto Palm",
+        "types": [
+            "unknown"
+        ]
+    }
+}

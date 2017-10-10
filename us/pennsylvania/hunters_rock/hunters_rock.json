@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "hunters_rock",
+        "type": "region"
+    },
+    "info": {
+        "name": "Hunters Rock"
+    }
+}

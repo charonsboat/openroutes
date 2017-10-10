@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "smiley_area",
+        "stub": "tonys_roof",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v10",
+        "name": "Tony's Roof",
+        "types": [
+            "boulder"
+        ]
+    }
+}

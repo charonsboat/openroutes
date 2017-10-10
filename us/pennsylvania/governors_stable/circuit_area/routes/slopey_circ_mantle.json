@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "circuit_area",
+        "stub": "slopey_circ_mantle",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Slopey Circ Mantle",
+        "types": [
+            "boulder"
+        ]
+    }
+}

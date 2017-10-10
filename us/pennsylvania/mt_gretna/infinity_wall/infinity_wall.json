@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "mt_gretna",
+        "stub": "infinity_wall",
+        "type": "region"
+    },
+    "info": {
+        "name": "Infinity Wall"
+    }
+}

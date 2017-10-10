@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "paradise",
+        "stub": "rambo",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10+",
+        "name": "Rambo",
+        "types": [
+            "unknown"
+        ]
+    }
+}

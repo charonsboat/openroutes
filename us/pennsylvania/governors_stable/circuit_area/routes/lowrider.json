@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "circuit_area",
+        "stub": "lowrider",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Lowrider",
+        "types": [
+            "boulder"
+        ]
+    }
+}

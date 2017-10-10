@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beer_wall",
+        "stub": "evil_twin",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "Evil Twin",
+        "types": [
+            "sport"
+        ]
+    }
+}

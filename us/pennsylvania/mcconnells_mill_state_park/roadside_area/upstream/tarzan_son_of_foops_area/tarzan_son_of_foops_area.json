@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "upstream",
+        "stub": "tarzan_son_of_foops_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Tarzan/Son of Foops Area"
+    }
+}

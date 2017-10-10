@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_caves",
+        "stub": "yosemite_crack",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v10",
+        "name": "Yosemite Crack",
+        "types": [
+            "boulder"
+        ]
+    }
+}

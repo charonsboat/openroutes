@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "birthday_boulder",
+        "stub": "jail_bait",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0-",
+        "name": "Jail Bait",
+        "types": [
+            "boulder"
+        ]
+    }
+}

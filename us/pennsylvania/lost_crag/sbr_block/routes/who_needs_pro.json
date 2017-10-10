@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sbr_block",
+        "stub": "who_needs_pro",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.4",
+        "name": "Who Needs Pro",
+        "types": [
+            "unknown"
+        ]
+    }
+}

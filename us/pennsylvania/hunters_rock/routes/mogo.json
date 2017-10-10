@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hunters_rock",
+        "stub": "mogo",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0+",
+        "name": "Mogo",
+        "types": [
+            "boulder"
+        ]
+    }
+}

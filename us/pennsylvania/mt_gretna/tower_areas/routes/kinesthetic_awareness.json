@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tower_areas",
+        "stub": "kinesthetic_awareness",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v11",
+        "name": "Kinesthetic Awareness",
+        "types": [
+            "boulder"
+        ]
+    }
+}

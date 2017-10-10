@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hawks_nest",
+        "stub": "up",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Up",
+        "types": [
+            "boulder"
+        ]
+    }
+}

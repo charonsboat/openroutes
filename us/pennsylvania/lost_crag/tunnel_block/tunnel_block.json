@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "lost_crag",
+        "stub": "tunnel_block",
+        "type": "region"
+    },
+    "info": {
+        "name": "Tunnel Block"
+    }
+}

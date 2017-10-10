@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "cave_area",
+        "stub": "shitake_left",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Shitake Left",
+        "types": [
+            "boulder"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hydroman_sector",
+        "stub": "mental_as_anything",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Mental as Anything",
+        "types": [
+            "sport"
+        ]
+    }
+}

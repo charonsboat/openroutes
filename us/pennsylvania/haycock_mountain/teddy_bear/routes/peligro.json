@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "teddy_bear",
+        "stub": "peligro",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v10",
+        "name": "Peligro",
+        "types": [
+            "boulder"
+        ]
+    }
+}

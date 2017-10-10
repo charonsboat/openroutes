@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "brutal_block",
+        "stub": "face_up_to_it",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Face up to it",
+        "types": [
+            "unknown"
+        ]
+    }
+}

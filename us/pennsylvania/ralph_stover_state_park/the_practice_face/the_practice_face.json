@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "ralph_stover_state_park",
+        "stub": "the_practice_face",
+        "type": "region"
+    },
+    "info": {
+        "name": "The Practice Face"
+    }
+}

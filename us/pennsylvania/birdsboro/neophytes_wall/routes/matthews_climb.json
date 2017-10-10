@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "neophytes_wall",
+        "stub": "matthews_climb",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Matthew's Climb",
+        "types": [
+            "sport"
+        ]
+    }
+}

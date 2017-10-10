@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "ships_prow",
+        "stub": "you_name_it",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.5",
+        "name": "You Name It",
+        "types": [
+            "unknown"
+        ]
+    }
+}

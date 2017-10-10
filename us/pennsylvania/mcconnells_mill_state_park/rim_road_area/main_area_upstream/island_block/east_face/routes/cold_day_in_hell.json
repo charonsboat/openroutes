@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "cold_day_in_hell",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Cold Day In Hell",
+        "types": [
+            "boulder"
+        ]
+    }
+}

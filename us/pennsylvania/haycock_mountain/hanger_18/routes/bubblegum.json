@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "hanger_18",
+        "stub": "bubblegum",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Bubblegum",
+        "types": [
+            "boulder"
+        ]
+    }
+}

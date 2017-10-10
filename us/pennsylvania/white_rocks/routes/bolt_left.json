@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "white_rocks",
+        "stub": "bolt_left",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Bolt Left",
+        "types": [
+            "unknown"
+        ]
+    }
+}

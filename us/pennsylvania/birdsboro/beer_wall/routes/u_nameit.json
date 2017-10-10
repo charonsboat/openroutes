@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beer_wall",
+        "stub": "u_nameit",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "U-Name-It",
+        "types": [
+            "sport"
+        ]
+    }
+}

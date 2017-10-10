@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "smiley_area",
+        "stub": "head_noise",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Head Noise",
+        "types": [
+            "boulder"
+        ]
+    }
+}

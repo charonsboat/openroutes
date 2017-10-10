@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chickies_rock",
+        "stub": "the_notch",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "The Notch",
+        "types": [
+            "unknown"
+        ]
+    }
+}

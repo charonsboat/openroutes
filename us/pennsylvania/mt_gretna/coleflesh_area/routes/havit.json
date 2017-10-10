@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "coleflesh_area",
+        "stub": "havit",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Havit",
+        "types": [
+            "boulder"
+        ]
+    }
+}

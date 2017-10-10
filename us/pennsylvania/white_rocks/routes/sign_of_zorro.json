@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "white_rocks",
+        "stub": "sign_of_zorro",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.5 r",
+        "name": "Sign of Zorro",
+        "types": [
+            "unknown"
+        ]
+    }
+}

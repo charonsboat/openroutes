@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "safe_harbor",
+        "stub": "numero_uno_sector",
+        "type": "region"
+    },
+    "info": {
+        "name": "Numero Uno Sector"
+    }
+}

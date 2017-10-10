@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chickies_rock",
+        "stub": "for_madmen_only",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "For Madmen Only",
+        "types": [
+            "unknown"
+        ]
+    }
+}

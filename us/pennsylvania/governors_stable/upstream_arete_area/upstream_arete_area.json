@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "governors_stable",
+        "stub": "upstream_arete_area",
+        "type": "region"
+    },
+    "info": {
+        "name": "Upstream Arete Area"
+    }
+}

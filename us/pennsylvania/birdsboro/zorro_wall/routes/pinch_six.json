@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "zorro_wall",
+        "stub": "pinch_six",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.6",
+        "name": "Pinch Six",
+        "types": [
+            "sport"
+        ]
+    }
+}

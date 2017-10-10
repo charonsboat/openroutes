@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "haycock_mountain",
+        "type": "region"
+    },
+    "info": {
+        "name": "Haycock Mountain"
+    }
+}

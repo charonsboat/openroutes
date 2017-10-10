@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "ralph_stover_state_park",
+        "stub": "open_face_and_orangutan_buttress",
+        "type": "region"
+    },
+    "info": {
+        "name": "Open Face and Orangutan Buttress"
+    }
+}

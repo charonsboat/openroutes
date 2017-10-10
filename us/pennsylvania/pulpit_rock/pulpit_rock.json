@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "pulpit_rock",
+        "type": "region"
+    },
+    "info": {
+        "name": "Pulpit Rock"
+    }
+}

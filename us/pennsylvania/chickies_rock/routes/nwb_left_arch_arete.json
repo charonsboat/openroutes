@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "chickies_rock",
+        "stub": "nwb_left_arch_arete",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10",
+        "name": "NW.B. Left Arch Arete",
+        "types": [
+            "unknown"
+        ]
+    }
+}

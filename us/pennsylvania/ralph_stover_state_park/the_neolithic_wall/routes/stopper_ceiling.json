@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_neolithic_wall",
+        "stub": "stopper_ceiling",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10d",
+        "name": "Stopper Ceiling",
+        "types": [
+            "unknown"
+        ]
+    }
+}

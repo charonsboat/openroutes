@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "birdsboro",
+        "type": "region"
+    },
+    "info": {
+        "name": "Birdsboro"
+    }
+}

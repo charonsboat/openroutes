@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "shamoo_area",
+        "stub": "no_employment",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "No Employment",
+        "types": [
+            "boulder"
+        ]
+    }
+}

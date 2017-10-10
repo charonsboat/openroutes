@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "breakneck",
+        "type": "region"
+    },
+    "info": {
+        "name": "Breakneck"
+    }
+}

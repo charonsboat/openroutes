@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beer_wall",
+        "stub": "welcome_to_safe_harbor",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Welcome to Safe Harbor",
+        "types": [
+            "sport"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_eurochoss_wall",
+        "stub": "way_of_the_carpenter",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12d",
+        "name": "Way of the Carpenter",
+        "types": [
+            "unknown"
+        ]
+    }
+}

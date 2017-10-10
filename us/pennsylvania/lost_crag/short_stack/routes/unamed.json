@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "short_stack",
+        "stub": "unamed",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Unamed",
+        "types": [
+            "unknown"
+        ]
+    }
+}

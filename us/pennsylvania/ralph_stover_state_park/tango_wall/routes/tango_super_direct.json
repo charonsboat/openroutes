@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tango_wall",
+        "stub": "tango_super_direct",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10a r",
+        "name": "Tango Super Direct",
+        "types": [
+            "unknown"
+        ]
+    }
+}

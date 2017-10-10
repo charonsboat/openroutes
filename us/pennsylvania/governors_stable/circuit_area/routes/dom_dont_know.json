@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "circuit_area",
+        "stub": "dom_dont_know",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Dom Don't Know",
+        "types": [
+            "boulder"
+        ]
+    }
+}

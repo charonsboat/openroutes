@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "big_wall",
+        "stub": "flippin_the_bird",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.13a",
+        "name": "Flippin' the Bird",
+        "types": [
+            "sport"
+        ]
+    }
+}

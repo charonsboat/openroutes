@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "brutal_block",
+        "stub": "urban_orangutan",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.9",
+        "name": "Urban Orangutan",
+        "types": [
+            "unknown"
+        ]
+    }
+}

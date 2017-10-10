@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_library",
+        "stub": "the_revolutionary",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "The Revolutionary",
+        "types": [
+            "sport"
+        ]
+    }
+}

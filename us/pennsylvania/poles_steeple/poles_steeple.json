@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "poles_steeple",
+        "type": "region"
+    },
+    "info": {
+        "name": "Pole's Steeple"
+    }
+}

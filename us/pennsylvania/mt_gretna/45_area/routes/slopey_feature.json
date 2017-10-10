@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "45_area",
+        "stub": "slopey_feature",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v1",
+        "name": "Slopey Feature",
+        "types": [
+            "boulder"
+        ]
+    }
+}

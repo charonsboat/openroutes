@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "right_wall",
+        "stub": "nemosis",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.7",
+        "name": "Nemosis",
+        "types": [
+            "sport"
+        ]
+    }
+}

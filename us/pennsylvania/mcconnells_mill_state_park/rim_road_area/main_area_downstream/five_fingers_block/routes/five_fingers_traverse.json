@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "five_fingers_block",
+        "stub": "five_fingers_traverse",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v3",
+        "name": "Five Fingers Traverse",
+        "types": [
+            "boulder"
+        ]
+    }
+}

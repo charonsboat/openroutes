@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beavis_and_buttress",
+        "stub": "kick_me_in_the_jimmies",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.12a",
+        "name": "Kick Me In The Jimmies",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "east_face",
+        "stub": "le_menestral_crimps",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Le Menestral Crimps",
+        "types": [
+            "boulder"
+        ]
+    }
+}

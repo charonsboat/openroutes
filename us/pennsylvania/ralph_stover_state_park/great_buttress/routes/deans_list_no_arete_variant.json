@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "great_buttress",
+        "stub": "deans_list_no_arete_variant",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.11a",
+        "name": "Dean's List No Arete Variant",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "pennsylvania",
+        "stub": "rimrock_overlook",
+        "type": "region"
+    },
+    "info": {
+        "name": "Rimrock Overlook"
+    }
+}

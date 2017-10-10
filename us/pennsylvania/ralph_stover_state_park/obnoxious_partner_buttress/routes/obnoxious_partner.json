@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "obnoxious_partner_buttress",
+        "stub": "obnoxious_partner",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.8 pg",
+        "name": "Obnoxious Partner",
+        "types": [
+            "unknown"
+        ]
+    }
+}

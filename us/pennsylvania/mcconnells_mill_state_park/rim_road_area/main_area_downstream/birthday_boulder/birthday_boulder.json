@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "parent": "main_area_downstream",
+        "stub": "birthday_boulder",
+        "type": "region"
+    },
+    "info": {
+        "name": "Birthday Boulder"
+    }
+}

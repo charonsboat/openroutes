@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "sbr_block",
+        "stub": "hang_on_st_christopher",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10c",
+        "name": "Hang on St. Christopher",
+        "types": [
+            "unknown"
+        ]
+    }
+}

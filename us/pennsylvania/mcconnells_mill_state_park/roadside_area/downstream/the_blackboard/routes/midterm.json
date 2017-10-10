@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "the_blackboard",
+        "stub": "midterm",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4 r",
+        "name": "Midterm",
+        "types": [
+            "boulder"
+        ]
+    }
+}

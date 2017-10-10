@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "shamoo_area",
+        "stub": "quit_your_day_job",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v4",
+        "name": "Quit Your Day Job",
+        "types": [
+            "boulder"
+        ]
+    }
+}

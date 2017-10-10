@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "main_wall",
+        "stub": "hitch_hiker",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10+",
+        "name": "Hitch Hiker",
+        "types": [
+            "unknown"
+        ]
+    }
+}

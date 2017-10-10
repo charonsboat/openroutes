@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "beginners_face",
+        "stub": "squids_in_bondage",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10a",
+        "name": "Squids in Bondage",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "north_wall",
+        "stub": "unnamed_4",
+        "type": "route"
+    },
+    "info": {
+        "grade": "5.10b",
+        "name": "Unnamed 4",
+        "types": [
+            "unknown"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "region": "tarzan_son_of_foops_area",
+        "stub": "keiths_arete",
+        "type": "route"
+    },
+    "info": {
+        "grade": "v0",
+        "name": "Keith's Arete",
+        "types": [
+            "boulder"
+        ]
+    }
+}
